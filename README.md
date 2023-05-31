@@ -3,8 +3,11 @@ This is an automation tool designed for matching terms within local XML files.
 Our website: https://www.reconnect-recollect.com/   
 
 * The following is a preliminary visualization of the matched terms frequency results:   
-* 
+   
+* term occurrences across the 3 repos:   
 ![term occurrences across the 3 repos](https://github.com/jiaqili0803/ReConnect-ReCollect_Automation/assets/40383000/a9a57934-cac5-4514-8d3c-349698f5e667)
+   
+* highest occurrences of terms:
 ![highest occurrences of terms](https://github.com/jiaqili0803/ReConnect-ReCollect_Automation/assets/40383000/5b225dbc-ea27-40e6-b693-84bd35d34070)
 
 * 
