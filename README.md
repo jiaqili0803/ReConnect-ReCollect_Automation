@@ -4,11 +4,14 @@ Our website: https://www.reconnect-recollect.com/
 
 * The following is a preliminary visualization of the matched terms frequency results:   
    
-* term occurrences across the 3 repos:   
-![term occurrences across the 3 repos](https://github.com/jiaqili0803/ReConnect-ReCollect_Automation/assets/40383000/a9a57934-cac5-4514-8d3c-349698f5e667)
+* stacked bar chart for term occurrences across the 3 repos:   
+![stacked bar chart for term occurrences across the 3 repos](https://github.com/jiaqili0803/ReConnect-ReCollect_Automation/assets/40383000/a9a57934-cac5-4514-8d3c-349698f5e667)
+![stacked bar chart for term occurrences across the 3 repos2](https://github.com/jiaqili0803/ReConnect-ReCollect_Automation/assets/40383000/5b225dbc-ea27-40e6-b693-84bd35d34070)
    
-* highest occurrences of terms:
-![highest occurrences of terms](https://github.com/jiaqili0803/ReConnect-ReCollect_Automation/assets/40383000/5b225dbc-ea27-40e6-b693-84bd35d34070)
+* a chart show what EAD elements had highest occurrences of terms:
+![bently](https://github.com/jiaqili0803/ReConnect-ReCollect_Automation/assets/40383000/e0c2b806-9048-4077-990b-52ab63d35de0)
+![clement](https://github.com/jiaqili0803/ReConnect-ReCollect_Automation/assets/40383000/db5d61fc-a4f1-4b8f-94b4-ff0b90a4fb25)
+![scrc](https://github.com/jiaqili0803/ReConnect-ReCollect_Automation/assets/40383000/5cccd7f8-5915-4e25-b602-05accb85d646)
 
 * 
 ![term_frequency_Bentley](https://user-images.githubusercontent.com/40383000/224378764-4e8404f1-f420-466c-b2e1-a317245a7d23.png)
