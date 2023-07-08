@@ -1,19 +1,51 @@
-# ReConnect-ReCollect_Automation
-This is an automation tool designed for matching terms within local XML files.       
-Our website: https://www.reconnect-recollect.com/   
+# :sparkles: ReConnect-ReCollect XML Parsing and Term Matching Automation Tool :sparkles:
 
-* The following is a preliminary visualization of the matched terms frequency results:   
-   
-* stacked bar chart for term occurrences across the 3 repos:   
-![stacked bar chart for term occurrences across the 3 repos](https://github.com/jiaqili0803/ReConnect-ReCollect_Automation/assets/40383000/a9a57934-cac5-4514-8d3c-349698f5e667)
-![stacked bar chart for term occurrences across the 3 repos2](https://github.com/jiaqili0803/ReConnect-ReCollect_Automation/assets/40383000/5b225dbc-ea27-40e6-b693-84bd35d34070)
-   
-* a chart show what EAD elements had highest occurrences of terms:
-![bently](https://github.com/jiaqili0803/ReConnect-ReCollect_Automation/assets/40383000/e0c2b806-9048-4077-990b-52ab63d35de0)
-![clement](https://github.com/jiaqili0803/ReConnect-ReCollect_Automation/assets/40383000/db5d61fc-a4f1-4b8f-94b4-ff0b90a4fb25)
-![scrc](https://github.com/jiaqili0803/ReConnect-ReCollect_Automation/assets/40383000/5cccd7f8-5915-4e25-b602-05accb85d646)
+### Project Website :computer:
+Visit us at [Reconnect Recollect](https://www.reconnect-recollect.com/).
 
-* 
-![term_frequency_Bentley](https://user-images.githubusercontent.com/40383000/224378764-4e8404f1-f420-466c-b2e1-a317245a7d23.png)
-![term_frequency_Clements](https://user-images.githubusercontent.com/40383000/224378766-f89b8bd9-018e-4d32-8dc9-42442a136b4b.png)
-![term_frequency_SCRC](https://user-images.githubusercontent.com/40383000/224378767-e76c7bc2-44c5-451b-95c5-f05af4571f78.png)
+### Overview
+This repository houses an automation tool designed for parsing local XML files and matching terms within the parsed content. Our tool assists in auditing XML files, extracting valuable insights, and visualizing trends. It is especially useful for researchers dealing with large sets of XML data.
+
+### Key Features
+Our tool offers the following key features:
+
+1. **XML File Parsing**: It can parse multiple XML files into dataframes, exporting the parsed data into CSV format. The parsed information includes:
+   
+   * Filename
+   * EAD ID
+   * Title
+   * Abstract
+   * Language
+   * Scope Content
+   * Control Access
+   * Subjects
+   * Genre Forms
+   * Geo Names
+   * Person Names
+   * Corporate Names
+   * Family Names
+   * Respective Sources for Each
+   * Biography History
+   * Custodian History
+
+2. **Term Matching**: Our tool can match predefined terms (including potentially harmful terms) within the parsed data, exporting these matches into another CSV file. The matched results include:
+   * EAD ID
+   * Source Filename
+   * Title
+   * Term
+   * Matched Times
+   * Matched From
+   * Matched Paragraph
+
+3. **Data Visualization**: The tool also provides visualizations for the frequency of matched terms, elements with the highest term occurrences, term frequencies across subsections, and source frequencies.
+
+### Repository Contents
+
+This GitHub repository contains:
+* **Automation_tool_(v_07.08.2023).ipynb**: This is the main automation tool. You can download and modify it to apply to your XML files. Note: GitHub might not render Plotly visualizations. To view the full script with all visualizations, see the HTML version.
+* **Automation_tool_(v_07.08.2023).html**: This HTML version of the tool includes all visualizations.
+* **parsed_dfs**: This folder contains all dataframes parsed from the sample XML files.
+* **matched_results**: This folder contains all matching results based on our predefined harmful term list.
+* **terms_all.txt; terms_contexual.txt; terms_main.txt**: These files contain different versions of the harmful term list we defined.
+
+:heart: If you have any further questions, encounter issues, or need additional assistance, please don't hesitate to raise an issue in this repository. Your feedback and suggestions for improvements are always appreciated.
