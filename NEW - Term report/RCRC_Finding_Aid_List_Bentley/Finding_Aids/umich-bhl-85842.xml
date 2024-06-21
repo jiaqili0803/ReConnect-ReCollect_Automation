@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>umich-bhl-85842</eadid><filedesc><titlestmt><titleproper>Finding aid for Eleanor M. Bumgardner papers, 1919-1967</titleproper><author>Finding aid created by Michigan Historical Collections staff</author></titlestmt><publicationstmt><publisher>Bentley Historical Library</publisher><p><date>2007</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-10-07 12:20:53 -0400</date>.</creation><langusage>The finding aid is written in <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc><revisiondesc><change><date>2015-06-03</date><item>Separated volumes for use with Aeon.</item></change><change><date>2007-11-15</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change><change><date>2016-11-21</date><item>Updated Conditions Governing Use Note</item></change></revisiondesc></eadheader><frontmatter><titlepage><publisher>Bentley Historical Library <lb/>University of Michigan</publisher><titleproper>Finding aid for Eleanor M. Bumgardner papers, 1919-1967</titleproper><author>Finding aid created by Michigan Historical Collections staff</author></titlepage></frontmatter><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Bentley Historical Library</corpname>
+      <extptr actuate="onload" href="bhladd" show="embed"/>
+    </repository>
+    <unittitle>Eleanor M. Bumgardner papers</unittitle>
+    <origination label="creator">
+      <persname source="lcnaf">Bumgardner, Eleanor M. (Eleanor Margaret)</persname>
+    </origination>
+    <unitid type="call number">85842 Aa 2; AC</unitid>
+    <physdesc>
+      <extent>8 linear feet</extent>
+    </physdesc>
+    <physdesc>
+      <extent>9 oversize volumes</extent>
+    </physdesc>
+    <unitdate normal="1919/1967" type="inclusive">1919-1967</unitdate>
+    <langmaterial id="aspace_887311fc268ee4cb6da584d6b74abc15">The material is in <language encodinganalog="041" langcode="eng">English</language></langmaterial>
+    <abstract id="aspace_1bcb1b73367a26fc4b3f9529a88b1b37">Personal secretary to Frank Murphy. Correspondence, newspaper clippings, and printed miscellanea concerning the life and career of Frank Murphy; also scrapbooks, and photographs.</abstract>
+  </did>
+  <descgrp type="admin">
+    <acqinfo><p>The collection was donated by Eleanor Bumgardner (donor no. <num encodinganalog="541$e" type="donor">3418</num>). Additional materials were received from Eugene Gressman (donor no. <num encodinganalog="541$e" type="donor">1088</num>).</p></acqinfo>
+    <accruals><p>No further additions to the papers are expected.</p></accruals>
+    <accessrestrict><p>The collection is open to research.</p></accessrestrict>
+    <userestrict><p>Copyright is held by the Regents of the University of Michigan but the collection may contain third-party materials for which copyright is not held. Patrons are responsible for determining the appropriate use or reuse of materials.</p></userestrict>
+    <prefercite><p>[item], folder, box, Eleanor M. Bumgardner papers, Bentley Historical Library, University of Michigan</p></prefercite>
+  </descgrp>
+  <bioghist><p>Eleanor M. "Lady" Bumgardner, a Detroit native, worked as private secretary for Frank Murphy from 1933 until his death in 1949. She was thus associated with Murphy while he held the position of governor-general and high commissioner of the Philippines, governor of Michigan, U.S. attorney general, and Supreme Court justice. After Murphy's death, Bumgardner remained with the Supreme Court as an executive secretary until her retirement in 1961. In 1966, she married Frank S. Wright.</p><p> During her residence in Washington, Bumgardner was active in social activities in the city. She has been the legal guardian of a number of wards from various countries. Bumgardner was an avid doll collector and a close friend of Jeanne Dixon.</p></bioghist>
+  <scopecontent><p>The Bumgardner papers consist of two major series. The first is made up of Frank Murphy papers, including correspondence prior to July 1949, speeches of Murphy, and clippings and biographical materials. The second series pertains primarily to Bumgardner's activities and includes correspondence after July 1949, a topical file of clippings maintained by Bumgardner, miscellaneous books, clippings, and scrapbooks. There are also several files of photographs, portraits and informal photos, of Frank Murphy and Eleanor Bumgardner.</p></scopecontent>
+  <controlaccess>
+    <p>
+      <extptr actuate="onload" href="accnote" show="embed"/>
+    </p>
+    <geogname source="lcsh">Philippines -- History -- 1898-1946.</geogname>
+    <geogname source="lcsh">United States -- Politics and government -- 1929-1933.</geogname>
+    <geogname source="lcsh">United States -- Politics and government -- 1933-1945.</geogname>
+    <geogname source="local">Michigan -- Politics and government -- 1929-1938.</geogname>
+    <geogname source="local">Michigan -- Politics and government -- 1939-1945.</geogname>
+    <geogname source="lcsh">Michigan -- Politics and government -- 1837-1950.</geogname>
+    <genreform source="aat">Photographs.</genreform>
+    <genreform source="aat">Scrapbooks.</genreform>
+    <persname source="lcnaf">Bumgardner, Eleanor M. (Eleanor Margaret)</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86025928" source="lcnaf">Murphy, Frank, 1890-1949.</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79006848" source="lcnaf">United States. Supreme Court.</corpname>
+    <persname source="lcnaf">Bumgardner, Eleanor M. (Eleanor Margaret)</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86025928" source="lcnaf">Murphy, Frank, 1890-1949.</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- Students -- Social life and customs -- 1901-1910.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- Students -- Social life and customs -- 1911-1920.</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79056509" role="ctb" source="lcnaf">Black, Hugo LaFayette, 1886-1971.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50042822" role="ctb" source="lcnaf">Bowers, Claude Gernade, 1879-1958.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2007125178" role="ctb" source="lcnaf">Brown, Prentiss M. (Prentiss Marsh), 1889-1973.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79026987" role="ctb" source="lcnaf">Darrow, Clarence, 1857-1938.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79021469" role="ctb" source="lcnaf">Dewey, Thomas E. (Thomas Edmund), 1902-1971.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79041741" role="ctb" source="lcnaf">Douglas, William O. (William Orville), 1898-1980.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79066408" role="ctb" source="lcnaf">Eisenhower, Dwight D. (Dwight David), 1890-1969.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n88117828" role="ctb" source="lcnaf">Ford, Edsel, 1893-1943.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79055385" role="ctb" source="lcnaf">Ford, Henry, 1863-1947.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n81037309" role="ctb" source="lcnaf">Ford, Henry, 1917-1987.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50025733" role="ctb" source="lcnaf">Frankfurter, Felix, 1882-1965.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n91085097" role="ctb" source="lcnaf">Garner, John Nance, 1868-1967.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n80109846" role="ctb" source="lcnaf">Gressman, Eugene, 1917-2010.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79126863" role="ctb" source="lcnaf">Kennedy, Joseph P. (Joseph Patrick), 1888-1969.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n80019504" role="ctb" source="lcnaf">Lippmann, Walter, 1889-1974.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79109883" role="ctb" source="lcnaf">Marshall, George C. (George Catlett), 1880-1959.</persname>
+    <persname role="ctb" source="lcnaf">Murphy, George, 1897-1961.</persname>
+    <persname role="ctb" source="lcnaf">Osborn, Chase S. (Chase Salmon), 1860-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n92118551" role="ctb" source="lcnaf">Osborn, Stellanova, 1894-1988.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79022932" role="ctb" source="lcnaf">Roosevelt, Franklin D. (Franklin Delano), 1882-1945.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50011364" role="ctb" source="lcnaf">Stimson, Henry L. (Henry Lewis), 1867-1950.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86114718" role="ctb" source="lcnaf">Stone, Harlan Fiske, 1872-1946.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n80002425" role="ctb" source="lcnaf">Wallace, Henry Agard, 1888-1965.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n80084463" role="ctb" source="lcnaf">Williams, G. Mennen, 1911-1988.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85235197" role="ctb" source="lcnaf">Davies, Joseph Edward.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79064938" role="ctb" source="lcnaf">Dempsey, Jack, 1895-1983.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79046644" role="ctb" source="lcnaf">Dreiser, Theodore, 1871-1945.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79135041" role="ctb" source="lcnaf">Farley, James A. (James Aloysius), 1888-1976.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86012032" role="ctb" source="lcnaf">Hull, Cordell, 1871-1955.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50031972" role="ctb" source="lcnaf">Ickes, Harold L. (Harold LeClair), 1874-1952.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79055297" role="ctb" source="lcnaf">Kennedy, John F. (John Fitzgerald), 1917-1963.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50041744" role="ctb" source="lcnaf">La Guardia, Fiorello H. (Fiorello Henry), 1882-1947.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50049279" role="ctb" source="lcnaf">Lewis, John Llewellyn, 1880-1969.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79054196" role="ctb" source="lcnaf">MacArthur, Douglas, 1880-1964.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n81018659" role="ctb" source="lcnaf">Mayer, Louis B. (Louis Burt), 1885-1957.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79018666" role="ctb" source="lcnaf">Patton, George S. (George Smith), 1885-1945.</persname>
+    <persname role="ctb" source="lcnaf">Quezon, Manuel Luis, 1878-1944.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79144645" role="ctb" source="lcnaf">Roosevelt, Eleanor, 1884-1962.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50010563" role="ctb" source="lcnaf">Stone, Irving, 1903-1989 -- Clarence Darrow for the defense.</persname>
+  </controlaccess>
+  <dsc type="combined"><c01 id="aspace_07686bb10cb1f486e782aec43b15e3c3" level="series"><did><unittitle>Frank Murphy papers</unittitle></did><c02 id="aspace_c6ce02c401bd9b6c64ac5bca6cb1ed54" level="subseries"><did><unittitle>Correspondence</unittitle></did><c03 id="aspace_621bbe5350f2acbf538c1e98a41dcfa7" level="file"><did><unitdate type="inclusive">Undated</unitdate><container label="Box" type="box">1</container></did></c03><c03 id="aspace_503fe3fdfef81019b527a4519c9cafa3" level="file"><did><physdesc><extent>31 folders</extent></physdesc><unitdate normal="1908/1908" type="inclusive">1908</unitdate><unitdate normal="1930/1945-06" type="inclusive">1930-June 1945</unitdate><container label="Box" type="box">1</container></did></c03><c03 id="aspace_b5ab9d667b7024d6ebb5ed5078d0414d" level="file"><did><unittitle>July 1945-July 13-1949</unittitle><physdesc><extent>19 folders</extent></physdesc><container label="Box" type="box">2</container></did></c03></c02><c02 id="aspace_0860036e6d8b93d75e60f3fe4b3edbcc" level="subseries"><did><unittitle>Miscellaneous</unittitle></did><c03 id="aspace_790e544636ec1486443b8eba661c39f1" level="file"><did><unittitle>Supreme Court memos and notes</unittitle><unitdate type="inclusive">undated</unitdate><container label="Box" type="box">2</container></did></c03><c03 id="aspace_fa5a9255ddc252cbeb0be3360d3ca31f" level="file"><did><unittitle>Bibliographies of Frank Murphy's speeches</unittitle><unitdate normal="1933/1934" type="inclusive">1933-1934</unitdate><unitdate normal="1949/1949" type="inclusive">1949</unitdate><container label="Box" type="box">2</container></did></c03><c03 id="aspace_1adda03a43444158b9b3487503ecc37b" level="file"><did><unittitle>Speeches</unittitle></did><c04 id="aspace_a268059d378c073189e6f3f2106128cc" level="file"><did><unitdate type="inclusive">Undated</unitdate><unitdate normal="1922/1932" type="inclusive">1922-1932</unitdate><container label="Box" type="box">2</container></did></c04><c04 id="aspace_744e121aabb4d45ed80b0740c52ce9b1" level="file"><did><unitdate normal="1933/1935" type="inclusive">1933-1935</unitdate><container label="Box" type="box">2</container></did></c04><c04 id="aspace_add4d6ad42a2c34757c82781ea76bf1f" level="file"><did><unitdate normal="1937/1939" type="inclusive">1937-1939</unitdate><container label="Box" type="box">2</container></did></c04><c04 id="aspace_7e454485e095393b1383824f44afba42" level="file"><did><unitdate normal="1940/1944" type="inclusive">1940-1944</unitdate><container label="Box" type="box">2</container></did></c04><c04 id="aspace_98dbd905cd1e38f0206f10952e4be164" level="file"><did><unitdate normal="1945/1948" type="inclusive">1945-1948</unitdate><container label="Box" type="box">2</container></did></c04></c03><c03 id="aspace_0ae7922140343e0edd7a36838ce003e5" level="file"><did><unittitle>Biographical material</unittitle><physdesc><extent>4 folders</extent></physdesc><container label="Box" type="box">2</container></did></c03><c03 id="aspace_9870b53913bee6823a06126cf7b9fc38" level="file"><did><unittitle>Papers concerning Murphy's career</unittitle></did><c04 id="aspace_598ce3bb4cdf3f612af31beecd2f59f7" level="file"><did><unitdate normal="1917/1930" type="inclusive">1917-1930</unitdate><container label="Box" type="box">2</container></did></c04><c04 id="aspace_72b06681c1c8b19658f3c7bc30d2136e" level="file"><did><unittitle>Mayor of Detroit</unittitle><container label="Box" type="box">2</container></did></c04><c04 id="aspace_f397f0df6ea65908790b8095e3119467" level="file"><did><unittitle>Philippines</unittitle><container label="Box" type="box">2</container></did><odd><p>(folder 1 of 5)</p></odd></c04><c04 id="aspace_c0d3f5ad945086f70646aaad522b111a" level="file"><did><unittitle>Philippines</unittitle><container label="Box" type="box">3</container></did><odd><p>(folders 2-5)</p></odd></c04><c04 id="aspace_44d804f91c9cbca51eb4436395b5a22f" level="file"><did><unittitle>Governor of Michigan</unittitle><physdesc><extent>2 folders</extent></physdesc><container label="Box" type="box">3</container></did></c04><c04 id="aspace_1602b934268e87216c48a75b07fef641" level="file"><did><unittitle>Attorney General</unittitle><container label="Box" type="box">3</container></did></c04><c04 id="aspace_6b28d60ec43c3745aec49b5a1a9668af" level="file"><did><unittitle>Supreme Court</unittitle><physdesc><extent>2 folders</extent></physdesc><container label="Box" type="box">3</container></did></c04></c03><c03 id="aspace_4b5daa1d3ff9347a13f3ffd3ceddfb24" level="file"><did><unittitle>Papers concerning Murphy and religion.</unittitle><unitdate type="inclusive">undated</unitdate><unitdate normal="1937/1943" type="inclusive">1937-1943</unitdate><container label="Box" type="box">3</container></did></c03><c03 id="aspace_ecfed8e79834e421dc37669cfa6503d6" level="file"><did><unittitle>Papers concerning Murphy's death</unittitle><unitdate normal="1949/1949" type="inclusive">1949</unitdate><container label="Box" type="box">3</container></did></c03><c03 id="aspace_81d5c30f25e3a7718bbc7c21fb387b57" level="file"><did><unittitle>"Frank Murphy as Government Administrator" by Edward Kemp</unittitle><container label="Box" type="box">3</container></did></c03><c03 id="aspace_18b08c19042876b3dd417580b6c40047" level="file"><did><unittitle>Eleanor Bumgardner's notes on Murphy</unittitle><physdesc><extent>3 folders</extent></physdesc><container label="Box" type="box">3</container></did></c03><c03 id="aspace_1a6f494f02e1d98d6df91276b1cef6aa" level="file"><did><unittitle>Genealogical material</unittitle><container label="Box" type="box">3</container></did></c03><c03 id="aspace_ab73796fbb5d2e3bd571f090981dae61" level="file"><did><unittitle>Income Tax records</unittitle></did><c04 id="aspace_b3ae9530ffaaa86d853f727b2daa2cdf" level="file"><did><unitdate normal="1937/1943" type="inclusive">1937-1943</unitdate><container label="Box" type="box">3</container></did></c04><c04 id="aspace_29b87b7eb31e986bd6109c29b07ae159" level="file"><did><unitdate normal="1944/1946" type="inclusive">1944-1946</unitdate><container label="Box" type="box">3</container></did></c04><c04 id="aspace_0b2c381b4244261026178a5d24f687c3" level="file"><did><unitdate normal="1947/1949" type="inclusive">1947-1949</unitdate><container label="Box" type="box">3</container></did></c04></c03><c03 id="aspace_9ed17585ef8f832e6d19da90f1600dba" level="file"><did><unittitle>Memorial service</unittitle><unitdate normal="1951-03-06/1951-03-06" type="inclusive">March 6, 1951</unitdate><container label="Box" type="box">3</container></did></c03><c03 id="aspace_1a6283cab3ab84e845bbf516c3fdcd16" level="file"><did><unittitle>Miscellaneous</unittitle><physdesc><extent>2 folders</extent></physdesc><container label="Box" type="box">3</container></did></c03></c02></c01><c01 id="aspace_c42265c417c087083f26852ca72d8c18" level="series"><did><unittitle>Correspondence (Eleanor Bumgardner Wright)</unittitle></did><c02 id="aspace_7d8283e3c416ffae68401ce53e68c985" level="file"><did><physdesc><extent>4 folders</extent></physdesc><unitdate type="inclusive">Undated</unitdate><unitdate normal="1949-07-19/1949-12" type="inclusive">July 19, 1949-December 1949</unitdate><container label="Box" type="box">3</container></did></c02><c02 id="aspace_7ae40944180db52bf7b952a76658954a" level="file"><did><physdesc><extent>36 folders</extent></physdesc><unitdate normal="1950/1964" type="inclusive">1950-1964</unitdate><container label="Box" type="box">4</container></did></c02><c02 id="aspace_1778cf363b90da0330ffd9f82143e497" level="file"><did><unitdate normal="1965/1965" type="inclusive">1965</unitdate><container label="Box" type="box">5</container></did></c02><c02 id="aspace_3d2431c8a70d82668b10e88d36fba9a2" level="file"><did><unitdate normal="1966/1966" type="inclusive">1966</unitdate><container label="Box" type="box">5</container></did></c02><c02 id="aspace_0eb0dd583205ec1af0edbcef9e75faaa" level="file"><did><unitdate normal="1967/1977" type="inclusive">1967-1977</unitdate><container label="Box" type="box">5</container></did></c02></c01><c01 id="aspace_aa1897269979607eb6de2b20901bbfb5" level="series"><did><unittitle>Other Bumgardner materials</unittitle></did><c02 id="aspace_c96937009712c71a42734876ece83c32" level="file"><did><unittitle>Diary, concerning trip abroad with Frank Murphy</unittitle><unitdate normal="1946/1946" type="inclusive">1946</unitdate><container label="Box" type="box">5</container></did></c02><c02 id="aspace_396df62fc629375a6ca873aa9c1d9431" level="file"><did><unittitle>Papers concerning personal affairs</unittitle><unitdate normal="1964/1967" type="inclusive">1964-1967</unitdate><container label="Box" type="box">5</container></did></c02><c02 id="aspace_3234da44eefde5b1a5a2dfa983903cfe" level="file"><did><unittitle>Papers concerning gifts to various libraries of Murphy papers and memorabilia</unittitle><unitdate normal="1961/1961" type="inclusive">1961</unitdate><container label="Box" type="box">5</container></did></c02><c02 id="aspace_f33852b569e6b3d619d0033f21cee5d7" level="file"><did><unittitle>Acceptances</unittitle><unitdate normal="1962-05-12/1962-05-12" type="inclusive">May 12, 1962</unitdate><container label="Box" type="box">5</container></did></c02></c01><c01 id="aspace_36e9f70c4775a68e2c4fc461c5d05378" level="series"><did><unittitle>Topical file</unittitle></did><c02 id="aspace_4201efa4375874a0971edb481f907adc" level="file"><did><unittitle>Benitez, Helena</unittitle><container label="Box" type="box">5</container></did></c02><c02 id="aspace_982919ccbb03d244f4b0798af93346d2" level="file"><did><unittitle>Black, Hugo</unittitle><container label="Box" type="box">5</container></did></c02><c02 id="aspace_4ba950780b282fae6d6227b759e40065" level="file"><did><unittitle>Buhl, Stasia</unittitle><container label="Box" type="box">5</container></did></c02><c02 id="aspace_08c8693525d236fb8e5fcc2e8947be7f" level="file"><did><unittitle>Bullitt, William C.</unittitle><container label="Box" type="box">5</container></did></c02><c02 id="aspace_bbdca102d36da20463977cc58e8c0af4" level="file"><did><unittitle>Burton, Harold H.</unittitle><container label="Box" type="box">5</container></did></c02><c02 id="aspace_538c42e956ff3f96a7a129abb0fd69dd" level="file"><did><unittitle>Clark, Tom. C.</unittitle><container label="Box" type="box">5</container></did></c02><c02 id="aspace_c77d813038a2e09b088d92c360ba1801" level="file"><did><unittitle>Cromwell, James</unittitle><container label="Box" type="box">5</container></did></c02><c02 id="aspace_d373e0c66f5a0fd9d51adeac001a203a" level="file"><did><unittitle>Davies, Joseph</unittitle><container label="Box" type="box">5</container></did></c02><c02 id="aspace_0ca9b1f5ce93e39fd85d13d167dc7e57" level="file"><did><unittitle>Douglas, William 0.</unittitle><container label="Box" type="box">5</container></did></c02><c02 id="aspace_e303a0d2a28d6e12363aab67c4038d00" level="file"><did><unittitle>Dow, Joy</unittitle><container label="Box" type="box">5</container></did></c02><c02 id="aspace_a9b4899b44407306aaa32181947366d1" level="file"><did><unittitle>Downey, Morton</unittitle><container label="Box" type="box">5</container></did></c02><c02 id="aspace_68dffc0efba9884070db538f8da79f81" level="file"><did><unittitle>Dragonette, Jessica</unittitle><container label="Box" type="box">5</container></did></c02><c02 id="aspace_00ce358c9a5578d7c634f39299afd4ea" level="file"><did><unittitle>Frankfurter, Felix</unittitle><physdesc><extent>2 folders</extent></physdesc><container label="Box" type="box">5</container></did></c02><c02 id="aspace_1a6ea35a37c9ce2dbe46b917c38d390a" level="file"><did><unittitle>Gizycka, Felicia</unittitle><container label="Box" type="box">5</container></did></c02><c02 id="aspace_8129cf5994abfd619ef6f135f979b58d" level="file"><did><unittitle>Gonzalez, Mrs. Gonzalo</unittitle><container label="Box" type="box">5</container></did></c02><c02 id="aspace_aa59f04b4025a6ef0a35a38ccfc19d01" level="file"><did><unittitle>Gressman, Eugene</unittitle><container label="Box" type="box">5</container></did></c02><c02 id="aspace_89b8d67a4dbd503a5b24b37f411fe4c7" level="file"><did><unittitle>Habsburg, Otto</unittitle><container label="Box" type="box">5</container></did></c02><c02 id="aspace_a93f88e1c5348a25a687ed87b87e32b9" level="file"><did><unittitle>Harding, Ann</unittitle><container label="Box" type="box">5</container></did></c02><c02 id="aspace_c5f4efbbdd28d5b0f84fbc8faaf983c7" level="file"><did><unittitle>Hildegarde</unittitle><physdesc><extent>2 folders</extent></physdesc><container label="Box" type="box">5</container></did></c02><c02 id="aspace_e6e77d32ecba142451de2ff196c180bf" level="file"><did><unittitle>Holmes, Oliver Wendell</unittitle><container label="Box" type="box">5</container></did></c02><c02 id="aspace_3208f41dc9426e18c9058bfcc1c19090" level="file"><did><unittitle>Hoover, J. Edgar</unittitle><container label="Box" type="box">5</container></did></c02><c02 id="aspace_741e1f6805c54b9c918c2cca01f4ca6c" level="file"><did><unittitle>Hughes, Charles E.</unittitle><container label="Box" type="box">5</container></did></c02><c02 id="aspace_f84e8687f5603d84cf5cb162cc94315a" level="file"><did><unittitle>Jackson, Robert</unittitle><container label="Box" type="box">5</container></did></c02><c02 id="aspace_1d57d9ac5b7595aedfcc08726960d6d6" level="file"><did><unittitle>Joachim, Sister Ann</unittitle><container label="Box" type="box">5</container></did></c02><c02 id="aspace_45a12def01a3eb111188a7e0f161feea" level="file"><did><unittitle>Kemp, Edward G.</unittitle><container label="Box" type="box">5</container></did><odd><p>(folder No. 1)</p></odd></c02><c02 id="aspace_e02cddbdbfb07308df7f7fd3dd6425b8" level="file"><did><unittitle>Kemp, Edward G.</unittitle><container label="Box" type="box">6</container></did><odd><p>(folders Nos. 2-4)</p></odd></c02><c02 id="aspace_3d1ad3d1aa35282f0d9434ba39a571b9" level="file"><did><unittitle>MacArthur, Douglas</unittitle><container label="Box" type="box">6</container></did></c02><c02 id="aspace_34de0e250c40d16a4f68adf795c032e6" level="file"><did><unittitle>McLean, Evelyn W.</unittitle><container label="Box" type="box">6</container></did></c02><c02 id="aspace_8f4d4f996403b427af1c50d53fe0fbee" level="file"><did><unittitle>Malcañan</unittitle><container label="Box" type="box">6</container></did></c02><c02 id="aspace_643eca83cd155719a364ef6fcbb5d3f2" level="file"><did><unittitle>Malcolm, George A.</unittitle><container label="Box" type="box">6</container></did></c02><c02 id="aspace_b176539a7144f6234e5b41ee32c10917" level="file"><did><unittitle>Michigan</unittitle><container label="Box" type="box">6</container></did></c02><c02 id="aspace_263598c29138a011dd3912d86e58100e" level="file"><did><unittitle>Minton, Sherman</unittitle><container label="Box" type="box">6</container></did></c02><c02 id="aspace_7eb23ff966a80db4be128af133896b54" level="file"><did><unittitle>Murphy, George</unittitle><container label="Box" type="box">6</container></did></c02><c02 id="aspace_eedf4caf2fde1122b8ac465caece681a" level="file"><did><unittitle>Osborn, Chase and Stella</unittitle><physdesc><extent>2 folders</extent></physdesc><container label="Box" type="box">6</container></did></c02><c02 id="aspace_58d1f737bfe0cef9bf60bb8a9b44faaf" level="file"><did><unittitle>Osmena, Sergio</unittitle><container label="Box" type="box">6</container></did></c02><c02 id="aspace_cb9556fcc34ec97dd192a73f48750d2f" level="file"><did><unittitle>Peterson, Frank</unittitle><container label="Box" type="box">6</container></did></c02><c02 id="aspace_72a00aaba257874b3baa8359d0566edf" level="file"><did><unittitle>Philippines</unittitle><physdesc><extent>6 folders</extent></physdesc><container label="Box" type="box">6</container></did></c02><c02 id="aspace_26164aebc63cba4937b80f8ad06a5645" level="file"><did><unittitle>Quezon family</unittitle><container label="Box" type="box">7</container></did></c02><c02 id="aspace_e483aef6e4af91cb2b9286529bef613d" level="file"><did><unittitle>Reynolds, Robert</unittitle><container label="Box" type="box">7</container></did></c02><c02 id="aspace_ecd4bd6c6ed85ec6dab2c2d4e73b09a8" level="file"><did><unittitle>Romulo, Carlos P.</unittitle><container label="Box" type="box">7</container></did></c02><c02 id="aspace_d4528d5a14c80cfc7d0a944e8b00acc6" level="file"><did><unittitle>Roosevelt, Eleanor</unittitle><physdesc><extent>2 folders</extent></physdesc><container label="Box" type="box">7</container></did></c02><c02 id="aspace_5da86e1428cf3ba5c9e10b08a5d01e31" level="file"><did><unittitle>Roosevelt, Theodore</unittitle><container label="Box" type="box">7</container></did></c02><c02 id="aspace_5085c2f1a98d12573d469d4b023304e5" level="file"><did><unittitle>Rubinoff, Dave</unittitle><container label="Box" type="box">7</container></did></c02><c02 id="aspace_1cbef22bed87fb27371ef8bcb7e633a3" level="file"><did><unittitle>Rutledge, Wiley</unittitle><container label="Box" type="box">7</container></did></c02><c02 id="aspace_20d1f17ddaae36387baaad7129af15c1" level="file"><did><unittitle>Shriver, Eunice</unittitle><container label="Box" type="box">7</container></did></c02><c02 id="aspace_5055f98b97e527f2f58de8451722a40b" level="file"><did><unittitle>Spencer, Caroline L.</unittitle><container label="Box" type="box">7</container></did></c02><c02 id="aspace_d1ff91c13aaca587ebe061871641bd68" level="file"><did><unittitle>Stover, Ruby</unittitle><container label="Box" type="box">7</container></did></c02><c02 id="aspace_cdcb5d007aa9c4ba24ec251e66fc20e9" level="file"><did><unittitle>U.S. Supreme Court</unittitle><physdesc><extent>5 folders</extent></physdesc><container label="Box" type="box">7</container></did></c02><c02 id="aspace_fce1b614fe895c67a57757a1afd03c03" level="file"><did><unittitle>Vanderbilt, Neil</unittitle><container label="Box" type="box">7</container></did></c02><c02 id="aspace_eeb5bdf6c59bf538c24ae1f6cf0a3d4c" level="file"><did><unittitle>Villanova Law School</unittitle><container label="Box" type="box">7</container></did></c02><c02 id="aspace_b315335fcd8deae374d99b24a708ab4f" level="file"><did><unittitle>Williams, G. Mennen</unittitle><physdesc><extent>3 folders</extent></physdesc><container label="Box" type="box">7</container></did></c02></c01><c01 id="aspace_f55dc8072b2a82178a7a8f2920825e01" level="series"><did><unittitle>Miscellaneous</unittitle></did><c02 id="aspace_935462cbb78d76a7fac9fd72e205fc6a" level="file"><did><unittitle>Clippings concerning Bumgardner</unittitle><container label="Box" type="box">8</container></did></c02><c02 id="aspace_3784c7b17f7893b8f22c2b1e9915aee9" level="file"><did><unittitle>Miscellaneous speeches</unittitle><container label="Box" type="box">8</container></did></c02><c02 id="aspace_ffdb9c1d1e387ae9acda56d32049cd06" level="file"><did><unittitle>Miscellaneous</unittitle><physdesc><extent>5 folders</extent></physdesc><container label="Box" type="box">8</container></did></c02><c02 id="aspace_de96a149dcd69b09c82d3fdb95ace559" level="file"><did><unittitle>Memorial Books and other volumes</unittitle><unitdate normal="1941/1957" type="inclusive">1941-1957</unitdate><container label="Box" type="box">8</container></did><c03 id="aspace_74909cb311fc520bd0383e3367ac69c8" level="file"><did><unittitle>Memorial to Louis D. Brandeis</unittitle><unitdate normal="1942/1942" type="inclusive">1942</unitdate><container label="Box" type="box">8</container></did></c03><c03 id="aspace_4589d9783a5cf23d642028e0ceda028b" level="file"><did><unittitle>Memorial to Wiley B. Rutledge</unittitle><unitdate normal="1951/1951" type="inclusive">1951</unitdate><container label="Box" type="box">8</container></did></c03><c03 id="aspace_d3217b5116b027a828200fa038795ba7" level="file"><did><unittitle>Memorial to Robert H. Jackson</unittitle><unitdate normal="1955/1955" type="inclusive">1955</unitdate><container label="Box" type="box">8</container></did></c03><c03 id="aspace_06fce6049de5ecadb51fb98ff62ee501" level="file"><did><unittitle>Memorial to Charles E. Hughes</unittitle><unitdate normal="1950/1950" type="inclusive">1950</unitdate><container label="Box" type="box">8</container></did></c03><c03 id="aspace_60ff4051595a17a666ceb09e7da2a4b1" level="file"><did><unittitle>Memorial to Frederick M. Vinson</unittitle><unitdate normal="1954/1954" type="inclusive">1954</unitdate><container label="Box" type="box">8</container></did></c03><c03 id="aspace_7c88841253d17753439d11f857135506" level="file"><did><unittitle>Memorial to Felix Frankfurter</unittitle><unitdate normal="1965/1965" type="inclusive">1965</unitdate><container label="Box" type="box">8</container></did></c03><c03 id="aspace_fc529f2b559141c2d034d55819516734" level="file"><did><unittitle>Memorial to Harlan F. Stone</unittitle><unitdate normal="1947/1947" type="inclusive">1947</unitdate><container label="Box" type="box">8</container></did></c03><c03 id="aspace_13e24443d61b1f8ca220aaedcaaa70e7" level="file"><did><unittitle>Addresses of Franklin D. Roosevelt, July 19, 1940-January 20, 1941</unittitle><unitdate normal="1941/1941" type="inclusive">1941</unitdate><container label="Box" type="box">8</container></did><odd><p>(autographed by Roosevelt)</p></odd></c03><c03 id="aspace_868301959473e9ebf6f36278031e075d" level="file"><did><unittitle>"Hi Sweetie,"</unittitle><unitdate normal="1980/1980" type="inclusive">1980</unitdate><container label="Box" type="box">8</container></did></c03></c02></c01><c01 id="aspace_65a5c891cb5474507652207d99fe2d26" level="series"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did><c02 id="aspace_b18dccea29241d548a94af1dba8c332b" level="file"><did><unittitle>Eleanor Bumgardner</unittitle></did><c03 id="aspace_549993f2bb27d9a2bef007ecced5b0cb" level="file"><did><unittitle>Portraits</unittitle><container label="Box" type="box">8</container></did></c03><c03 id="aspace_4dd63fb4b5e320e5dd217a7714224502" level="file"><did><unittitle>Portraits of friends and associates</unittitle><container label="Box" type="box">8</container></did></c03><c03 id="aspace_6659baec939bf3acc57d49c15cd80300" level="file"><did><unittitle>Miscellaneous</unittitle><container label="Box" type="box">8</container></did></c03></c02><c02 id="aspace_20ce4260d8533b55e6141ec4bdc0262b" level="file"><did><unittitle>Frank Murphy</unittitle></did><c03 id="aspace_b5ea8d1902589290ff03be981879c925" level="file"><did><unittitle>Early photos to</unittitle><unitdate certainty="approximate" normal="1920/1920" type="inclusive">circa 1920</unitdate><container label="Box" type="box">8</container></did></c03><c03 id="aspace_1d48b5469030f7dcb9f757149bc1e99b" level="file"><did><unittitle>Photos</unittitle><unitdate certainty="approximate" normal="1920/1929" type="inclusive">1920s</unitdate><container label="Box" type="box">8</container></did></c03><c03 id="aspace_7fb26c4e8be0a2c4ef5561c23f2ccea7" level="file"><did><unittitle>Photos</unittitle><unitdate certainty="approximate" normal="1930/1949" type="inclusive">1930s-1940s</unitdate><container label="Box" type="box">8</container></did></c03><c03 id="aspace_c47c3cf91b14237d4b4c72a13ba1c076" level="file"><did><unittitle>Funeral</unittitle><container label="Box" type="box">8</container></did></c03></c02><c02 id="aspace_ced525592536a2dd3730b95974531f55" level="file"><did><unittitle>Portraits of friends and associates</unittitle><container label="Box" type="box">8</container></did></c02></c01><c01 id="aspace_2a0f321eae67f3e2cc519f5070a76512" level="series"><did><unittitle><genreform normal="Scrapbooks">Scrapbooks</genreform></unittitle></did><c02 id="aspace_210f08d8483661e21838ab4b92f813f5" level="file"><did><unittitle>Scrapbook concerning European trip</unittitle><unitdate normal="1927/1927" type="inclusive">1927</unitdate><container label="Box" type="box">8</container></did></c02><c02 id="aspace_8ff125ecfbd4050b567b17b5220ea4fb" level="file"><did><unittitle>Scrapbook concerning personal affairs and Frank Murphy</unittitle><unitdate certainty="approximate" normal="1919/1936" type="inclusive">circa 1919-1936</unitdate><container label="Oversize Volume" type="volume">1</container></did></c02><c02 id="aspace_a2aa88aff5a2b3d8b372a9b1d259fc4a" level="file"><did><unittitle>Scrapbook concerning Frank Murphy</unittitle><unitdate normal="1934/1943" type="inclusive">1934-1943</unitdate><container label="Oversize Volume" type="volume">2</container></did></c02><c02 id="aspace_b0945d2d710dd9a97f2bdbc24d38c0ba" level="file"><did><unittitle>Scrapbook of Christmas cards</unittitle><unitdate normal="1935/1935" type="inclusive">1935</unitdate><container label="Oversize Volume" type="volume">3</container></did></c02><c02 id="aspace_2d17325e5172fe1e2d0576219d347981" level="file"><did><unittitle>Scrapbook concerning Frank Murphy</unittitle><unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate><container label="Oversize Volume" type="volume">4</container></did></c02><c02 id="aspace_fdf1c52ddc5e05cd8a8608b0f54ac60e" level="file"><did><unittitle>Scrapbook largely concerning Frank Murphy</unittitle><unitdate normal="1948/1948" type="inclusive">1948</unitdate><container label="Oversize Volume" type="volume">5</container></did></c02><c02 id="aspace_581ea3d392a64df986a8703ad90f1d96" level="file"><did><unittitle>Scrapbook concerning a trip to Europe and the Far East</unittitle><unitdate normal="1957/1957" type="inclusive">1957</unitdate><container label="Oversize Volume" type="volume">6</container></did><odd><p>(unbound)</p></odd></c02><c02 id="aspace_f94470453beda46a6624c1e75a234474" level="file"><did><unittitle>Miscellaneous personal scrapbooks</unittitle><container label="Oversize Volume" type="volume">7</container></did></c02><c02 id="aspace_3146ee847b0ef5cec1aa591bc0ef15d5" level="file"><did><unittitle>Miscellaneous personal scrapbooks</unittitle><container label="Oversize Volume" type="volume">8</container></did><odd><p>(continued)</p></odd></c02><c02 id="aspace_ff8d074cb458d92b985624d379ba52b7" level="file"><did><unittitle>Miscellaneous personal scrapbooks</unittitle><container label="Oversize Volume" type="volume">9</container></did><odd><p>(continued)</p></odd></c02></c01></dsc>
+  <descgrp type="add">
+    <index id="aspace_b4529dab1e9fe4c21f876d52defd0b42">
+      <head>Selective Index to Correspondents</head>
+      <indexentry>
+        <persname>Black, Hugo Lafayette, 1886-1971.</persname>
+        <ref>
+          <list type="simple">
+            <item>Undated, Aug. 25, 1937, Mar. 7, 1944, June 23, 1947, June 27, 1949</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bowers, Claude Gernade, 1879-1958.</persname>
+        <ref>
+          <list type="simple">
+            <item>July 23, 1935, Dec. 9, 1935, Jan.24, 1936, Nov. 5, 1936, Nov. 4, 1937, Dec. 14, 1937, Jan. 26, 1936, May 10, 1938, Jan. 4, 1939, Feb. 28, 1940, Mar. 7, 1945, Mar. 13, 1945</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Brown, Prentiss Marsh, 1889-1973.</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 10, 1938, Jan. 19, 1939, Jan. 18, 1941, May 21, 1942, June 10, 1942, Nov. 13, 1942, Jan. 11, 1943, Jan. 8, 1944, Apr. 12, 1944, May 1, 1944</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Darrow, Clarence, 1857-1938.</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 20, 1933, May 5, 1933, Aug. 5, 1935, Oct. 9, 1935, Oct. 16, 1935, Mar. 29, 1937, Apr. 3, 1937</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Davies, Joseph Edward.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 3, 1938</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Dempsey, Jack, 1895-1983.</persname>
+        <ref>
+          <list type="simple">
+            <item>July 15, 1939</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Dewey, Thomas E. (Thomas Edmund), 1902-1971.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 21, 1938, Jan. 2, 1939, Jan. 19, 1945, Nov. 9, 1945, July 12, 1948</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Douglas, William O. (William Orville), 1898-1980.</persname>
+        <ref>
+          <list type="simple">
+            <item>Correspondence throughout</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Dreiser, Theodore, 1871-1945.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 17, 1940</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Eisenhower, Dwight D. (Dwight David), 1890-1969.</persname>
+        <ref>
+          <list type="simple">
+            <item>June 21, 1948, July 5, 1948</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Farley, James A. (James Aloysius), 1888-1976.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 18, 1937, Feb. 27, 1940, Mar. 8, 1947, July 3, 1958 [to E.B.]</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ford, Edsel, 1893-1943.</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 22, 1933, July 11, 1933, May 9, 1934, June 28, 1934</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ford, Henry, 1863-1947.</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 1, 1938, Dec. 2, 1938</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ford, Henry, 1917-1987.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 2, 1944, May 31, 1944, June 9, 1944, Apr. 8, 1947</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Frankfurter, Felix, 1882-1965.</persname>
+        <ref>
+          <list type="simple">
+            <item>Undated, Feb. 12, 1937, July 1, 1937, Nov. 10, 1938, Nov. 23, 1936, Aug. 1939, Nov. 15, 1939, Nov. 18, 1939, Apr. 12, 1941, June 2, 1941, Jan. 26, 1942, Dec. 12, 1944, May 7, 1945, Mar. 8, 1946, Nov. 3, 1946, Nov. 6, 1946, Dec. 27, 1948, Jan. 30, 1949, Apr. 22, 1949, June 4, 1949</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Garner, John Nance, 1868-1967.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 20, 1939, Nov. 22, 1940</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Gressman, Eugene, 1917-</persname>
+        <ref>
+          <list type="simple">
+            <item>Correspondence throughout</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hull, Cordell, 1871-1955.</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 10, 1938, Jan. 4, 1940</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ickes, Harold L. (Harold LeClair), 1874-1952.</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 3, 1939, Nov. 17, 1939, Mar. 18, 1940, Feb. 23, 1946</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Kennedy, John F. (John Fitzgerald), 1917-1963.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 29, 1947</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Kennedy, Joseph P. (Joseph Patrick), 1888-1969.</persname>
+        <ref>
+          <list type="simple">
+            <item>July 15, 1935, Sept. 4, 1935, Mar. 25, 1938, Feb. 10, 1939, Mar. 17, 1939, Mar. 20, 1939, Apr. 5, 1939, Apr. 17, 1939, May 10, 1939, Jan. 7, 1940, Jan. 8, 1945, Jan. 3, 1946, Apr. 8, 1947, June 14, 1948, Mar. 23, 1961 [to E.B.]</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>La Guardia, Fiorello H. (Fiorello Henry), 1882-1947.</persname>
+        <ref>
+          <list type="simple">
+            <item>June 5, 1942, Jan. 7, 1943</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Lewis, John Llewellyn, 1880-1969.</persname>
+        <ref>
+          <list type="simple">
+            <item>Undated [to E.B.]</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Lippmann, Walter, 1889-1974.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 8,1940,Jan. 16,1940,Jan. 23,1942</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>MacArthur, Douglas, 1880-1964.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 5,1935,Feb. 7,1945</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Marshall, George C. (George Catlett), 1880-1959.</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 15, 1942, Apr. 20, 1942, Apr. 25, 1942, May 18, 1942, June 10, 1942, July 15, 1942, May 10, 1943, May 26, 1944</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Mayer, Louis B. (Louis Burt), 1885-1957.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 12, 1937, Sept. 8, 1944</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Murphy, George, 1897-1961.</persname>
+        <ref>
+          <list type="simple">
+            <item>Correspondence throughout</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Osborn, Chase S. (Chase Salmon), b. 1860</persname>
+        <ref>
+          <list type="simple">
+            <item>Correspondence throughout</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Osborn, Stellanova, 1894-1988</persname>
+        <ref>
+          <list type="simple">
+            <item>Correspondence throughout</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Patton, George S. (George Smith), 1885-1945.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 3, 1945</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Quezon, Manuel Luis, 1878-1944.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 12, 1944</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Roosevelt, Eleanor, 1884-1962.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 9, 1940, Apr. 19, 1945, July 28, 1958 [to E.B.]</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Roosevelt, Franklin D. (Franklin Delano), 1882-1945.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 16, 1935, Dec. 23, 1935, Nov. 21, 1936, Dec. 28, 1937, Oct. 5, 1938, Nov. 11, 1938, Nov. 29, 1938, Dec. 2, 1938, Jan. 18, 1939, Apr. 4, 1939, Dec. 9, 1939, Dec. 25, 1939, May 14, 1940, May 15, 1940, June 10, 1940, July 8, 1940, Nov. 22, 1941, Dec. 16, 1941, Dec. 17, 1941, Mar. 16, 1944, Nov. 20, 1944, Dec. 7, 1944, Dec. 15, 1944, Nov. 6, 1945</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Stimson, Henry Lewis, 1867-1950.</persname>
+        <ref>
+          <list type="simple">
+            <item>July 10, 1942, Aug. 8, 1942</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Stone, Harlan Fiske, 1872-1946.</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 30, 1943, Nov. 1, 1943, Mar. 2, 1945</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Stone, Irving, 1903-1989--Clarence Darrow for the defense.</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 8, 1940, Nov. 9, 1940</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wallace, Henry Agard, 1888-1965.</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 11, 1936, Apr. 8, 1946</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Williams, G. Mennen, 1911-</persname>
+        <ref>
+          <list type="simple">
+            <item>Correspondence throughout</item>
+          </list>
+        </ref>
+      </indexentry>
+    </index>
+  </descgrp>
+</archdesc>
+</ead>

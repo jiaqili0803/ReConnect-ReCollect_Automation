@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>umich-bhl-2014031</eadid><filedesc><titlestmt><titleproper>Finding aid for Ethnic and Cultural Communities of Michigan Web Archive, 2010-2014</titleproper><author>Finding aid created by Maria Smith, February 2014</author></titlestmt><publicationstmt><publisher>Bentley Historical Library</publisher><p><date>2014</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-10-07 12:21:47 -0400</date>.</creation><langusage>The finding aid is written in <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc><revisiondesc><change><date>2014-03-19</date><item>DAO hrefs corrected to resolver bbaluefs 201431-w-1 to 2014-w-58.</item></change><change><date>2014-03-17</date><item>Original encoding from Word 2007 file using Word macros and Xmetal.</item></change><change><date>2016-11-21</date><item>Updated Conditions Governing Use Note</item></change></revisiondesc></eadheader><frontmatter><titlepage><publisher>Bentley Historical Library <lb/>University of Michigan</publisher><titleproper>Finding aid for Ethnic and Cultural Communities of Michigan Web Archive, 2010-2014</titleproper><author>Finding aid created by Maria Smith, February 2014</author></titlepage></frontmatter><archdesc level="recordgrp">
+  <did>
+    <repository>
+      <corpname>Bentley Historical Library</corpname>
+      <extptr actuate="onload" href="bhladd" show="embed"/>
+    </repository>
+    <unittitle>Ethnic and Cultural Communities of Michigan Web Archive</unittitle>
+    <origination label="creator">
+      <corpname source="lcnaf">Bentley Historical Library (collector)</corpname>
+    </origination>
+    <unitid type="call number">2014025 Aa 3 [2014031]</unitid>
+    <physdesc>
+      <extent>57 archived websites (online; multiple captures)</extent>
+    </physdesc>
+    <unitdate normal="2010/2014" type="inclusive">2010-2014</unitdate>
+    <langmaterial id="aspace_5de51d58f4b731f6d3e54c15c32ed0dd">The majority of content is in <language encodinganalog="041" langcode="eng">English</language> with some in <language encodinganalog="041" langcode="eng">Arabic</language> <language encodinganalog="041" langcode="eng">German</language> <language encodinganalog="041" langcode="eng">Russian</language> <language encodinganalog="041" langcode="eng">Spanish</language> and other languages.</langmaterial>
+    <abstract id="aspace_84482c80a35540fa73b3105594bef524">Web collection of websites created by various ethnic and cultural communities of the State of Michigan, archived by the Bentley Historical Library using the California Digital Library Web Archiving Service crawler from 2010-2015 and the Archive-It web archiving service beginning in 2015.</abstract>
+  </did>
+  <descgrp type="admin">
+    <acqinfo><p>Websites gathered from 2010-2015 using the California Digital Library Web Archiving Service web crawler and using the Archive-It web archiving service beginning in 2015.</p></acqinfo>
+    <accruals><p>Periodic additions to the records are expected.</p></accruals>
+    <accessrestrict><p>The collection is open to research.</p></accessrestrict>
+    <userestrict><p>Content owners have not transferred any applicable copyright to the Regents of the University of Michigan. Patrons are responsible for determining the appropriate use or reuse of materials.</p></userestrict>
+    <prefercite><p>[Name of website], Ethnic and Cultural Communities of Michigan Web Archive, Bentley Historical Library, University of Michigan. https://archive-it.org/organizations/934</p></prefercite>
+  </descgrp>
+  <bioghist><p>Michigan's ethnic and cultural communities are among Bentley Historical Library's most important topical collections priorities. The topic's priority is based on the Bentley Library's mission as established by the University of Michigan Board of Regents to document "the state, its institutions, and its social, economic, and intellectual development," the historical collecting patterns of the library, and overall collection development priorities in all formats. The process of setting collecting priorities is described by Christine Weideman's "A New Map for Field Work: Impact of Collections Analysis on the Bentley Historical Library" (<title render="italic">American Archivist</title>, Winter 1991, Vol. 54 Issue 1, pp. 54-60.) and Judith E. Endelman's "Looking Backward to Plan for the Future: Collection Analysis for Manuscript Repositories." (<title render="italic">American Archivist</title>, Summer 1987, Vol. 50 Issue 3, pp. 340-355.)</p><p> In selecting web content for permanent preservation, the Bentley Historical Library seeks:</p>  <list type="ordered">
+    <item>Websites of organizations or individuals whose archives the Library is committed to preserve.</item>
+    <item>Website that fill gaps in existing collections.</item>
+    <item>Websites with unique content that documents the work and/or thought process of a person or organization.</item>
+    <item>Websites that periodically incorporate new content or feature regular updates.</item>
+    <item>Websites with content that is not likely to be duplicated in an individual or organization's paper records.</item>
+  </list>
+<p>As of 2013, the Bentley Library will concentrate efforts on documenting the transformation of Michigan's ethnic communities with a focus on Arab American, African American, Asian American, and Latino communities, focusing on socio-economic conditions, economic and cultural revival, political and civic activities, and religion. In addition to these priorities, the MHC remains open to the consideration of material with great research potential in any area of Michigan's ethnically diverse history.</p><p> To learn more about the Bentley Historical Library's Web Archives visit http://bentley.umich.edu/dchome/index.php.</p></bioghist>
+  <scopecontent><p>The Web Archive of Michigan's Ethnic and Cultural Communities collection contains archived websites created by various ethnic and cultural communities of the State of Michigan. The websites have been archived by the Bentley Historical Library, using the California Digital Library Web Archiving Service crawler from 2010-2015 and the Archive-It web archiving service beginning in 2015. Access to all websites archived by the Bentley Historical Library is available at: https://archive-it.org/organizations/934.</p><p> Web Archives include websites of African American, Arab American, Native American, Asian American and other ethnic communities and organizations who call the state of Michigan home. The collection is especially strong in documenting African American, Arab American, and Native American communities, business, religious, cultural and civil rights organizations, as well as distinguished individuals who belong to these communities.</p><p> The year that appears next to the website title in the contents list indicates the date that the website was first archived. Archived versions of the site from later dates may also be available.</p></scopecontent>
+  <controlaccess>
+    <p>
+      <extptr actuate="onload" href="accnote" show="embed"/>
+    </p>
+    <subject source="lcsh">African American churches -- Michigan -- Detroit.</subject>
+    <subject source="lcsh">African American churches -- Michigan -- Southfield.</subject>
+    <subject source="lcsh">African American Episcopalians -- Michigan -- Detroit.</subject>
+    <subject source="lcsh">African American judges -- Elections -- Michigan.</subject>
+    <subject source="lcsh">African American men -- Michigan -- Detroit.</subject>
+    <subject source="lcsh">African American Muslims -- Michigan.</subject>
+    <subject source="lcsh">African American public worship -- Michigan -- Detroit.</subject>
+    <subject source="lcsh">African American women -- Michigan.</subject>
+    <subject source="lcsh">African American women lawyers -- Michigan.</subject>
+    <subject source="lcsh">African American youth -- Michigan -- Detroit.</subject>
+    <subject source="lcsh">African Americans -- Michigan -- Detroit.</subject>
+    <subject source="lcsh">African Americans -- Michigan -- Washtenaw County -- History.</subject>
+    <subject source="lcsh">African Americans -- Museums -- Michigan -- Washtenaw County.</subject>
+    <subject source="lcsh">African Americans -- Religious life -- Michigan -- Detroit.</subject>
+    <subject source="lcsh">African Americans -- Religious life -- Michigan -- Southfield.</subject>
+    <subject source="lcsh">Arab American business enterprises -- Michigan.</subject>
+    <subject source="lcsh">Arab Americans -- Civil rights -- Michigan.</subject>
+    <subject source="lcsh">Arab Americans -- Civil rights -- United States.</subject>
+    <subject source="lcsh">Arab Americans -- Michigan.</subject>
+    <subject source="lcsh">Arab Americans -- Michigan -- Dearborn.</subject>
+    <subject source="lcsh">Arab Americans -- Michigan -- Detroit.</subject>
+    <subject source="lcsh">Arab Americans -- Michigan -- Detroit -- Periodicals.</subject>
+    <subject source="lcsh">Arab Americans -- Michigan -- Livonia.</subject>
+    <subject source="lcsh">Arab Americans -- Periodicals.</subject>
+    <subject source="lcsh">Arab Americans -- United States.</subject>
+    <subject source="lcsh">Arab Americans -- United States -- History.</subject>
+    <subject source="lcsh">Asian Americans -- Michigan.</subject>
+    <subject source="lcsh">Baptists -- Michigan -- Detroit.</subject>
+    <subject source="lcsh">Boards of trade -- Michigan.</subject>
+    <subject source="lcsh">Businesspeople -- Michigan.</subject>
+    <subject source="lcsh">Chaldean Catholics -- Michigan -- Detroit.</subject>
+    <subject source="lcsh">Charities -- Michigan -- Detroit.</subject>
+    <subject source="lcsh">Chinese Americans -- Michigan -- Detroit.</subject>
+    <subject source="lcsh">Chinese Americans -- Societies, etc. -- Michigan -- Detroit.</subject>
+    <subject source="lcsh">Chippewa Indians.</subject>
+    <subject source="lcsh">Chippewa Tribe.</subject>
+    <subject source="lcsh">Christianity and other religions -- Islam.</subject>
+    <subject source="local">Commerce and industry.</subject>
+    <subject source="lcsh">Communities -- Michigan.</subject>
+    <subject source="lcsh">Community centers -- Michigan.</subject>
+    <subject source="lcsh">Druze women -- Michigan.</subject>
+    <subject source="lcsh">Druzes -- United States.</subject>
+    <subject source="lcsh">East Indian Americans -- Michigan.</subject>
+    <subject source="lcsh">East Indian Americans -- United States.</subject>
+    <subject source="lcsh">Education -- Michigan -- Detroit.</subject>
+    <subject source="lcsh">Environmental justice -- Michigan.</subject>
+    <subject source="local">Ethnic communities.</subject>
+    <subject source="lcsh">Ethnic relations -- Michigan.</subject>
+    <subject source="lcsh">Filipino Americans -- Michigan.</subject>
+    <subject source="lcsh">Fisheries -- Great Lakes (North America)</subject>
+    <subject source="lcsh">Fishery law and legislation -- Michigan.</subject>
+    <subject source="lcsh">Fishery management -- Michigan.</subject>
+    <subject source="lcsh">Fishery management -- Great Lakes (North America)</subject>
+    <subject source="lcsh">German Americans -- Michigan -- Newspapers.</subject>
+    <subject source="lcsh">German Americans -- United States -- Newspapers.</subject>
+    <subject source="lcsh">Germans -- Michigan -- Newspapers.</subject>
+    <subject source="lcsh">Germans -- United States.</subject>
+    <subject source="lcsh">Hispanic Americans -- Michigan -- Periodicals.</subject>
+    <subject source="lcsh">Hispanic Americans -- United States -- Periodicals.</subject>
+    <subject source="lcsh">Housing policy -- Michigan -- Religious aspects.</subject>
+    <subject source="lcsh">Hurley, George W. African-American churches -- Michigan -- Detroit.</subject>
+    <subject source="lcsh">Immigrants -- Health and hygiene -- Florida.</subject>
+    <subject source="lcsh">Immigrants -- Health and hygiene -- Michigan.</subject>
+    <subject source="lcsh">Immigrants -- Health and hygiene -- Ohio.</subject>
+    <subject source="lcsh">Immigrants -- Health and hygiene -- Texas.</subject>
+    <subject source="lcsh">Immigrants -- Health and hygiene -- United States.</subject>
+    <subject source="lcsh">Immigrants -- Michigan.</subject>
+    <subject source="lcsh">Indians of North America -- Great Lakes (North America)</subject>
+    <subject source="lcsh">Indians of North America -- Michigan.</subject>
+    <subject source="lcsh">Indians of North America -- Periodicals.</subject>
+    <subject source="lcsh">Iraqis -- Michigan -- Detroit.</subject>
+    <subject source="lcsh">Islam -- Michigan.</subject>
+    <subject source="lcsh">Islamic education -- Michigan.</subject>
+    <subject source="lcsh">Islamophobia -- Michigan.</subject>
+    <subject source="lcsh">Islamophobia -- United States.</subject>
+    <subject source="lcsh">Italian Americans -- Michigan -- Lansing.</subject>
+    <subject source="lcsh">Lebanese Americans -- Michigan.</subject>
+    <subject source="lcsh">Lebanese Americans -- Michigan -- Detroit.</subject>
+    <subject source="lcsh">Lebanese Americans -- Social life and customs -- Michigan -- Detroit.</subject>
+    <subject source="lcsh">Minorities -- Civil rights -- Michigan.</subject>
+    <subject source="lcsh">Minorities -- Civil rights -- United States.</subject>
+    <subject source="lcsh">Minorities -- Michigan.</subject>
+    <subject source="lcsh">Monasteries -- Michigan -- Harper Woods.</subject>
+    <subject source="lcsh">Mosques -- Michigan.</subject>
+    <subject source="lcsh">Mosques as community centers -- Michigan.</subject>
+    <subject source="lcsh">Muslims -- Civil rights -- Michigan.</subject>
+    <subject source="lcsh">Muslims -- Civil rights -- United States.</subject>
+    <subject source="lcsh">Muslims -- India.</subject>
+    <subject source="lcsh">Muslims -- Michigan.</subject>
+    <subject source="lcsh">Muslims -- Michigan -- Periodicals.</subject>
+    <subject source="lcsh">Muslims -- Religious life -- Michigan.</subject>
+    <subject source="lcsh">Ojibwa Indians -- Michigan.</subject>
+    <subject source="lcsh">Ojibwa Indians -- Michigan -- Fishing -- Law and legislation.</subject>
+    <subject source="lcsh">Ojibwa Indians -- Michigan -- Legal status, laws, etc.</subject>
+    <subject source="lcsh">Ojibwa Indians -- Michigan -- Treaties.</subject>
+    <subject source="lcsh">Orientalism -- United States.</subject>
+    <subject source="lcsh">Orthodox Eastern monasteries -- Michigan -- Harper Woods.</subject>
+    <subject source="lcsh">Ottawa Indians -- Michigan -- Fishing -- Law and legislation.</subject>
+    <subject source="lcsh">Ottawa Indians -- Michigan -- Legal status, laws, etc.</subject>
+    <subject source="lcsh">Ottawa Indians -- Michigan -- Treaties.</subject>
+    <subject source="lcsh">Pacific Islander Americans -- Michigan.</subject>
+    <subject source="lcsh">Palestinian Americans -- Michigan.</subject>
+    <subject source="lcsh">Polish Americans -- Michigan -- Detroit.</subject>
+    <subject source="local">Politics and public policy.</subject>
+    <subject source="lcsh">Popular music -- United States.</subject>
+    <subject source="lcsh">Potawatomi Indians -- Great Lakes Region (North America)</subject>
+    <subject source="lcsh">Potawatomi Indians -- Middle West.</subject>
+    <subject source="lcsh">Race relations -- Economic aspects -- Michigan -- Detroit.</subject>
+    <subject source="lcsh">Racism -- United States.</subject>
+    <subject source="local">Religion.</subject>
+    <subject source="lcsh">Russian Americans -- Michigan.</subject>
+    <subject source="lcsh">Russian Americans -- Michigan -- Directories.</subject>
+    <subject source="lcsh">Russkaia pravoslavnaia tserkov' zagranitsei­.</subject>
+    <subject source="lcsh">Sermons, American. -- Michigan -- Detroit.</subject>
+    <subject source="local">Social justice.</subject>
+    <subject source="lcsh">Stereotypes (Social psychology) -- United States.</subject>
+    <subject source="lcsh">Taiwanese Americans -- Michigan.</subject>
+    <subject source="lcsh">Taiwanese Americans -- Societies, etc. -- Michigan.</subject>
+    <subject source="lcsh">Transportation and state -- Michigan -- Religious aspects.</subject>
+    <subject source="lcsh">Women -- Charities.</subject>
+    <subject source="local">Women in Michigan.</subject>
+    <subject source="lcsh">Yemeni Americans -- Michigan.</subject>
+    <subject source="lcsh">Yemeni Americans -- United States.</subject>
+    <subject source="lcsh">Youth -- Michigan -- Detroit.</subject>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n79022219" source="lcsh">Ann Arbor (Mich.)</geogname>
+    <geogname source="lcsh">Battle Creek (Mich.)</geogname>
+    <geogname source="lcsh">Bay Mills Indian Community, Michigan.</geogname>
+    <geogname source="lcsh">Bay Mills (Mich.)</geogname>
+    <geogname source="lcsh">Chippewa Tribe.</geogname>
+    <geogname source="lcsh">Dearborn (Mich.)</geogname>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n79045539" source="lcsh">Detroit (Mich.)</geogname>
+    <geogname source="lcsh">Detroit (Mich.) -- Economic conditions.</geogname>
+    <geogname source="lcsh">Detroit (Mich.) -- Race relations.</geogname>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n82166396" source="lcsh">Flint (Mich.)</geogname>
+    <geogname source="lcsh">Florida.</geogname>
+    <geogname source="lcsh">Fulton (Mich.)</geogname>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n79133151" source="lcsh">Grand Rapids (Mich.)</geogname>
+    <geogname source="lcsh">Grand Traverse Band of Ottawa and Chippewa Indians, Michigan.</geogname>
+    <geogname source="lcsh">Grand Traverse (Mich.)</geogname>
+    <geogname source="lcsh">Great Lakes (North America)</geogname>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n83187817" source="lcsh">Harbor Springs (Mich.)</geogname>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n82062802" source="lcsh">Harper Woods (Mich.)</geogname>
+    <geogname source="lcsh">India.</geogname>
+    <geogname source="lcsh">Israel.</geogname>
+    <geogname source="lcsh">Jackson (Mich.)</geogname>
+    <geogname source="lcsh">Kalamazoo (Mich.)</geogname>
+    <geogname source="lcsh">Keweenaw Bay (Mich. : Bay)</geogname>
+    <geogname source="lcsh">Lansing (Mich.)</geogname>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n82268584" source="lcsh">Livonia (Mich.)</geogname>
+    <geogname source="lcsh">Manistee (Mich.)</geogname>
+    <geogname source="lcsh">Michigan. District Court (36th district) -- Elections.</geogname>
+    <geogname source="lcsh">Middle West.</geogname>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n85155116" source="lcsh">Mount Pleasant (Mich.)</geogname>
+    <geogname source="lcsh">Muskegon (Mich.)</geogname>
+    <geogname source="lcsh">Oakland County (Mich.) -- Newspapers.</geogname>
+    <geogname source="lcsh">Ohio.</geogname>
+    <geogname source="lcsh">Palestine.</geogname>
+    <geogname source="lcsh">Pokagon Band of Potawatomi Indians, Michigan and Indiana.</geogname>
+    <geogname source="lcsh">Rām Allāh.</geogname>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n88229650" source="lcsh">Ramlah (Israel)</geogname>
+    <geogname source="lcsh">Saginaw Chippewa Indian Tribe of Michigan.</geogname>
+    <geogname source="lcsh">Saginaw (Mich.)</geogname>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n81003784" source="lcsh">Sault Sainte Marie (Mich.)</geogname>
+    <geogname source="lcsh">Sault Ste. Marie Tribe of Chippewa Indians of Michigan.</geogname>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n79088997" source="lcsh">Southfield (Mich.)</geogname>
+    <geogname source="lcsh">Texas.</geogname>
+    <geogname source="lcsh">Troy (Mich.) -- Newspapers.</geogname>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n85149947" source="lcsh">Wyoming (Mich.)</geogname>
+    <genreform source="aat">Blogs.</genreform>
+    <persname source="lcnaf">Begg, Victor.</persname>
+    <persname source="lcnaf">Bledsoe Ford, Deborah Geraldine.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2012023195" source="lcnaf">Brown, Al, 1947-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50047626" source="lcnaf">Muhammad, Warith Deen, 1933-2008.</persname>
+    <corpname source="lcnaf">100 Black Men of Greater Detroit.</corpname>
+    <corpname rules="dacs" source="local">African American Cultural and Historical Museum of Washtenaw County.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/no2002021938" source="lcnaf">American Arab Chamber of Commerce.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n83154850" source="lcnaf">American-Arab Anti-Discrimination Committee.</corpname>
+    <corpname source="lcnaf">American-Arab Anti-Discrimination Committee, Michigan.</corpname>
+    <corpname source="lcnaf">American Federation of Muslims of Indian Origin.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/no99002018" source="lcnaf">American Federation of Ramallah, Palestine.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n88097831" source="lcnaf">American Druze Society.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/no98111834" source="lcnaf">American Moslem Society.</corpname>
+    <corpname source="lcnaf">Antiochian Basilica of St. Mary (Livonia, Mich.)</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79005710" source="lcnaf">Antiochian Orthodox Christian Archdiocese of North America.</corpname>
+    <corpname source="lcnaf">Arab America Michigan.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/no2007107774" source="lcnaf">Arab American National Museum (Dearborn, Mich.)</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n99046417" source="lcnaf">Arab Community Center for Economic and Social Services.</corpname>
+    <corpname source="lcnaf">Asian Pacific American Chamber of Commerce.</corpname>
+    <corpname source="lcnaf">Association of Chinese Americans. Detroit Chapter.</corpname>
+    <corpname source="lcnaf">Bay Mills Indian Community.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n2010064745" source="lcnaf">Chaldean American Ladies of Charity.</corpname>
+    <corpname source="lcnaf">Chippewa Ottawa Resource Authority.</corpname>
+    <corpname source="lcnaf">Council on American-Islamic Relations Michigan Chapter.</corpname>
+    <corpname source="lcnaf">Council of Islamic Organizations in Michigan.</corpname>
+    <corpname source="lcnaf">Detroit Association of Black Organizations.</corpname>
+    <corpname source="lcnaf">Greater Grace Temple (Detroit, Mich.)</corpname>
+    <corpname source="lcnaf">Hartford Memorial Baptist Church (Detroit, Mich.)</corpname>
+    <corpname source="lcnaf">Islamic Center of America (Dearborn, Mich.)</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n2002026952" source="lcnaf">Italian-American Club of Lansing.</corpname>
+    <corpname source="lcnaf">Keweenaw Bay Indian Community, Michigan.</corpname>
+    <corpname source="lcnaf">Lebanese American Heritage Club.</corpname>
+    <corpname source="lcnaf">Little River Band of Ottawa Indians, Michigan.</corpname>
+    <corpname source="lcnaf">Little Traverse Bay Bands of Odawa Indians, Michigan.</corpname>
+    <corpname source="lcnaf">Metropolitan Organizing Strategy Enabling Strength (Detroit, Mich.)</corpname>
+    <corpname source="lcnaf">Michigan Muslim Community Council.</corpname>
+    <corpname source="lcnaf">Michigan Russian Cultural Center.</corpname>
+    <corpname source="lcnaf">Michigan Taiwanese American Organization.</corpname>
+    <corpname source="lcnaf">Migrant Health Promotion (Organization)</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n84181417" source="lcnaf">Motown Record Corporation -- History.</corpname>
+    <corpname source="lcnaf">Muslim American Logic Institute.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n94070744" source="lcnaf">New Bethel Baptist Church (Detroit, Mich.)</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n92056952" source="lcnaf">New Detroit, Inc (Detroit, Mich.)</corpname>
+    <corpname source="lcnaf">Philippine Chamber of Commerce - Michigan.</corpname>
+    <corpname source="lcnaf">Pokagon Band of Potawatomi.</corpname>
+    <corpname source="lcnaf">St. Matthew's &amp; St. Joseph's Episcopal Church (Detroit, Mich.)</corpname>
+    <corpname source="lcnaf">St. Sabbath the Sacrified Orthodox Monastery (Harper Woods, Mich.)</corpname>
+    <corpname source="lcnaf">St. Vladimir Orthodox Church (Ann Arbor, Mich.)</corpname>
+    <corpname source="lcnaf">Universal Hagar's Spiritual Church.</corpname>
+    <corpname source="lcnaf">West Side Detroit Polish American Historical Society.</corpname>
+    <corpname source="lcnaf">Word Of Faith International Christian Center (Southfield, Mich.)</corpname>
+    <corpname source="lcnaf">Yemeni American Net.</corpname>
+    <corpname source="lcnaf">Keweenaw Bay Indian Community, Michigan.</corpname>
+    <corpname source="lcnaf">El Vocero Hispano.</corpname>
+    <corpname source="lcnaf">Forum &amp; Link Newspaper.</corpname>
+    <persname role="ctb" source="lcnaf">Makarem, Julia.</persname>
+    <corpname source="lcnaf">Michigan Arab Times.</corpname>
+    <corpname source="lcnaf">Muslim Observer.</corpname>
+    <corpname source="lcnaf">Nordamerikanische Wochen-Post.</corpname>
+    <corpname source="lcnaf">Russianmichigan.com.</corpname>
+  </controlaccess>
+  <dsc type="combined"><c01 id="aspace_eb910c9e792cf73ea48e0e4a8784ccb5" level="series"><did><unittitle>Ethnic Communities of Michigan Web Archives</unittitle></did><c02 id="aspace_c119baaa06b3ced7052777ae6af24c5d" level="file"><did><unittitle>100 Black Men of Detroit</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://100blackmendetroit.com/" show="new" title="100 Black Men of Detroit 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_1814476e709a9e5deaf2733a6a413a2b" level="file"><did><unittitle>African American Cultural and Historical Museum of Washtenaw County</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.aachmuseum.org/" show="new" title="African American Cultural and Historical Museum of Washtenaw County 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_6dd47420c1ca420a1bcc30215b723385" level="file"><did><unittitle>American Arab Chamber of Commerce</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://americanarab.com/" show="new" title="American Arab Chamber of Commerce 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_3ee34b12db42c578394ae0f1f0b3a6b8" level="file"><did><unittitle>American Druze Society</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.americandruzeheritage.com/" show="new" title="American Druze Society 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_8e5311ec24295999fd9d3a1eb2239528" level="file"><did><unittitle>American Federation of Ramallah-Palestine</unittitle><unitdate normal="2010/2010" type="inclusive">2010</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.afrp.org/" show="new" title="American Federation of Ramallah-Palestine 2010"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_0d81ec3992a7bd221adba33e29603b9b" level="file"><did><unittitle>American Muslim Society</unittitle><unitdate normal="2010/2010" type="inclusive">2010</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.masjiddearborn.org/" show="new" title="American Muslim Society 2010"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_87cd64a2735a05809473177e9831f3b2" level="file"><did><unittitle>American-Arab Anti-Discrimination Committee</unittitle><unitdate normal="2012/2012" type="inclusive">2012</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.adc.org/" show="new" title="American-Arab Anti-Discrimination Committee 2012"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_f0ba5227a4119ec58f23056f77f76747" level="file"><did><unittitle>American-Arab Anti-Discrimination Committee-Michigan</unittitle><unitdate normal="2010/2010" type="inclusive">2010</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.adcmichigan.org/" show="new" title="American-Arab Anti-Discrimination Committee-Michigan 2010"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_0a1428e739643aaf1e5baf5fa1bcfb4f" level="file"><did><unittitle>Ann Arbor Chinese Center of Michigan</unittitle><unitdate normal="2013/2013" type="inclusive">2013</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.aaccom.org" show="new" title="Ann Arbor Chinese Center of Michigan 2013"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_ede43f9e932a01617035449b8a093e42" level="file"><did><unittitle>Antiochian Basilica of St. Mary</unittitle><unitdate normal="2010/2010" type="inclusive">2010</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://saintmarylivonia.com/" show="new" title="Antiochian Basilica of St. Mary 2010"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_03d974f08ee9d0b7001bc947c2e45c6e" level="file"><did><unittitle>Arab Community Center for Economic and Social Services</unittitle><unitdate normal="2010/2010" type="inclusive">2010</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/https://www.accesscommunity.org" show="new" title="Archived snapshots of the website"><daodesc><p>[view item]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_301ca09941e3c4024548e343df2180ce" level="file"><did><unittitle>Arab America</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.arabamerica.com/michigan/" show="new" title="Arab America 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_0e24e27ab2215d3b2566ec21d5f15d34" level="file"><did><unittitle>Asian Pacific American Chamber of Commerce</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.apacc.net/mc/page.do?sitePageId=33955" show="new" title="Asian Pacific American Chamber of Commerce 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_01cedccec9e3986c9b0b1fe42246bd7e" level="file"><did><unittitle>Association of Chinese Americans-Detroit Chapter</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.acadetroit.org/" show="new" title="Association of Chinese Americans-Detroit Chapter 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_540075216d3ab37f9bbfca5d408c9e95" level="file"><did><unittitle>Bay Mills Chippewa Indian Community</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.baymills.org/" show="new" title="Bay Mills Chippewa Indian Community 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_d16091ec360b13630b956bda6b576d6b" level="file"><did><unittitle>Chaldean American Ladies of Charity</unittitle><unitdate normal="2010/2010" type="inclusive">2010</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.calconline.org/" show="new" title="Chaldean American Ladies of Charity 2010"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_5d1cb2ef72ac292acdec40ddf6db792c" level="file"><did><unittitle>Chippewa Ottawa Resource Authority</unittitle><unitdate normal="2012/2012" type="inclusive">2012</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.1836cora.org/" show="new" title="Chippewa Ottawa Resource Authority 2012"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_539199ae041640ff46fa2b6022cd1826" level="file"><did><unittitle>Council of Islamic Organizations in Michigan</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.cairmichigan.org/" show="new" title="Council of Islamic Organizations in Michigan 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_0d6f42234f8b53cc74a89ff66fd9d13b" level="file"><did><unittitle>Detroit Association of Black Organizations</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.dabodetroit.com/index.html" show="new" title="Detroit Association of Black Organizations 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_41b45b2cba6536c1209096356a098434" level="file"><did><unittitle>El Vocero Hispano</unittitle><unitdate normal="2012/2012" type="inclusive">2012</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.elvocerous.com/" show="new" title="El Vocero Hispano 2012"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_61aa7468fd4f9efd0fedfb765da99a66" level="file"><did><unittitle>Forum &amp; Link</unittitle><unitdate normal="2010/2010" type="inclusive">2010</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.forumandlink.com/" show="new" title="Forum &amp;amp; Link 2010"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_cb980669990233cce68f4e127b43335c" level="file"><did><unittitle>Grand Traverse Band of Ottawa and Chippewa Indians</unittitle><unitdate normal="2010/2010" type="inclusive">2010</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.gtbindians.org/" show="new" title="Grand Traverse Band of Ottawa and Chippewa Indians 2010"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_7ec3e05463383734c04bb1cf8a854629" level="file"><did><unittitle>Greater Grace Temple</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://greatergrace.org/" show="new" title="Greater Grace Temple 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_d541df6676a1a61d6d7c8bffa219fe8c" level="file"><did><unittitle>Hartford Memorial Baptist Church (Detroit, Mich.)</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://hmbcdetroit.org/" show="new" title="Hartford Memorial Baptist Church (Detroit, Mich.) 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_7449bc33170b93e139ae757fd341d347" level="file"><did><unittitle>Heidelberg Project</unittitle><unitdate normal="2013/2013" type="inclusive">2013</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.heidelberg.org/" show="new" title="Heidelberg Project 2013"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_6d6a65904074f6ba7e7b79a21f06a39f" level="file"><did><unittitle>Hype&amp;Sou!-The Motown History</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://hypeandsoul.blogspot.com/" show="new" title="Hype&amp;amp;Sou!-The Motown History 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_5a0a6149887c1b841affc8a000219af5" level="file"><did><unittitle>Islamic Center of America</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://icofa.com/" show="new" title="Islamic Center of America 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_71e02da10099915a959409c13335b155" level="file"><did><unittitle>Italian-American Club of Lansing</unittitle><unitdate normal="2010/2010" type="inclusive">2010</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.lansingiac.org" show="new" title="Italian-American Club of Lansing 2010"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_649ea3c53082af5ab1b23e2645ccc3ce" level="file"><did><unittitle>Judge Deborah Geraldine Bledsoe Ford</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://judgebledsoeford.com/" show="new" title="Judge Deborah Geraldine Bledsoe Ford 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_f262bca414fa930f265c2ee51d24dfc9" level="file"><did><unittitle>Keeweenaw Bay Indian Community</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.kbic-nsn.gov/" show="new" title="Keeweenaw Bay Indian Community 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_942ff51282e25e58e3234d8711516768" level="file"><did><unittitle>Lebanese American Heritage Club</unittitle><unitdate normal="2010/2010" type="inclusive">2010</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.lahc.org/" show="new" title="Lebanese American Heritage Club 2010"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_934e1441466856eed06b0ec82a54a583" level="file"><did><unittitle>Little River Band of Ottawa Indians in Manistee, Michigan</unittitle><unitdate normal="2010/2010" type="inclusive">2010</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/https://www.lrboi-nsn.gov/" show="new" title="Little River Band of Ottawa Indians in Manistee, Michigan 2010"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_d338f87ef16ad79dc3b633fb50e44162" level="file"><did><unittitle>Little Traverse Bay Bands of Odawa Indians</unittitle><unitdate normal="2010/2010" type="inclusive">2010</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.ltbbodawa-nsn.gov/index.html" show="new" title="Little Traverse Bay Bands of Odawa Indians 2010"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_4238801de10a4c83af8bf8d00a7854d1" level="file"><did><unittitle>Metropolitan Organizing Strategy Enabling Strength</unittitle><unitdate normal="2012/2012" type="inclusive">2012</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.mosesmi.org/index.html" show="new" title="Metropolitan Organizing Strategy Enabling Strength 2012"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_a4b4bda2dab37ca390357b4a6f25438c" level="file"><did><unittitle>Michigan Arab Times</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.michiganarabtimes.com/" show="new" title="Michigan Arab Times 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_e70ceff6d00f27e50f1d3f2beb4d3e72" level="file"><did><unittitle>Michigan Russian Cultural Center School</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.russianculturalcenter.com/index.html" show="new" title="Michigan Russian Cultural Center School 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_55a251e8b30177e0b1c1658e440a3e31" level="file"><did><unittitle>Michigan Taiwanese American Organization</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://mitai.org/" show="new" title="Michigan Taiwanese American Organization 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_b6d11541191ea06ec3241504ed165cb2" level="file"><did><unittitle>Migrant Health Promotion</unittitle><unitdate normal="2012/2012" type="inclusive">2012</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://mhpsalud.org/" show="new" title="Migrant Health Promotion 2012"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_0cbef0e37903ebbf27a5abfd6f3a188a" level="file"><did><unittitle>Muslim American Logic Institute</unittitle><unitdate normal="2012/2012" type="inclusive">2012</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://muslimamericanlogic.ning.com/" show="new" title="Muslim American Logic Institute 2012"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_cf5203b5fe84de1c048929d6c7cb236a" level="file"><did><unittitle>Muslim Observer</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://muslimmedianetwork.com/mmn/" show="new" title="Muslim Observer 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_e1a12992cb5417d4b0b0d17d90c5bff6" level="file"><did><unittitle>New Bethel Baptist Church (Detroit, Mich.)</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.nbbcdetroit.org/" show="new" title="New Bethel Baptist Church (Detroit, Mich.) 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_6923328761657b7f4366b104cb066550" level="file"><did><unittitle>New Detroit</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.newdetroit.org/cms/" show="new" title="New Detroit 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_7332b52a6f5cee07f3c82f5ebeba3e80" level="file"><did><unittitle>Nordamerikanische Wochen-Post</unittitle><unitdate normal="2012/2012" type="inclusive">2012</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.wochenpostusa.com/" show="new" title="Nordamerikanische Wochen-Post 2012"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_339283e788bebbed90222fe582b9092a" level="file"><did><unittitle>Nottawaseppi Huron Band of Potawatomi</unittitle><unitdate normal="2010/2010" type="inclusive">2010</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://nhbpi.com/" show="new" title="Nottawaseppi Huron Band of Potawatomi 2010"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_c23e65c0c8d570ed52ae14c1063c3fee" level="file"><did><unittitle>Philippine Chamber of Commerce-Michigan</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.pccmichigan.org/" show="new" title="Philippine Chamber of Commerce 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_b2f2786f3599098cd42e76c6cfa125fa" level="file"><did><unittitle>Pokagon Band of Potawatomi Indians</unittitle><unitdate normal="2010/2010" type="inclusive">2010</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.pokagon.com/" show="new" title="Pokagon Band of Potawatomi Indians 2010"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_4122974892df6b56062a9201ea75c46e" level="file"><did><unittitle>Reclaiming Identity: Dismantling Arab Stereotypes</unittitle><unitdate normal="2012/2012" type="inclusive">2012</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.arabstereotypes.org/" show="new" title="Reclaiming Identity: Dismantling Arab Stereotypes 2012"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_3901eed766e143d44e90608cf34516f5" level="file"><did><unittitle>Russian Michigan Yellow Pages</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://yellowpages.russianmichigan.com/" show="new" title="Russian Michigan Yellow Pages 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_f92641fdbb397d7bbd27001d5faf65c9" level="file"><did><unittitle>Saginaw Chippewa Indian Tribe</unittitle><unitdate normal="2010/2010" type="inclusive">2010</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.sagchip.org/" show="new" title="Saginaw Chippewa Indian Tribe 2010"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_42d009f68d244712c270ef27fd9c863b" level="file"><did><unittitle>Sault Tribe of Chippewa Indians</unittitle><unitdate normal="2010/2010" type="inclusive">2010</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.saulttribe.com/" show="new" title="Sault Tribe of Chippewa Indians 2010"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_fa6bd987b82a432fe1df67cac877a2d5" level="file"><did><unittitle>St. Matthew's &amp; St. Joseph's Episcopal Church (Detroit, Mich.)</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://smsjdetroit.org/" show="new" title="St. Matthew's &amp;amp; St. Joseph's Episcopal Church (Detroit, Mich.) 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_088e330dde95c2638bd61e0a3ec10bc5" level="file"><did><unittitle>St. Sabbas Orthodox Monastery (Harper Woods, Mich.)</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://stsabbas.org/stsabbasorthodox.html" show="new" title="St. Sabbas Orthodox Monastery (Harper Woods, Mich.) 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_a0009ca1a97435cd47b78129692d1856" level="file"><did><unittitle>St. Vladimir Orthodox Church (Dexter, Mich.)</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.stvladimiraami.org/" show="new" title="St. Vladimir Orthodox Church (Dexter, Mich.) 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_45595a0f5a43d2dab3c8f1f3d7ca722f" level="file"><did><unittitle>Universal Hagar's Spiritual Church--George H. Latimer-Knight Ministries International</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://fatherhurley.com" show="new" title="Universal Hagar's Spiritual Church--George H. Latimer-Knight Ministries International 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_fd458f2e200edbdec3809d6db33e84eb" level="file"><did><unittitle>West Side Detroit Polish American Historical Society</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://detroitpolonia.org/" show="new" title="West Side Detroit Polish American Historical Society 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_a92034b53841945cc3b6ad5609b92f30" level="file"><did><unittitle>Word Of Faith International Christian Center (Southfield, Mich.)</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://wordoffaith.cc/index.php" show="new" title="Word Of Faith International Christian Center (Southfield, Mich.) 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_3e91a8a7769e6796aa991430c8b8f2a7" level="file"><did><unittitle>Yemeni American Net</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://yemeniamerican.com/" show="new" title="Yemeni American Net 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02></c01></dsc>
+</archdesc>
+</ead>

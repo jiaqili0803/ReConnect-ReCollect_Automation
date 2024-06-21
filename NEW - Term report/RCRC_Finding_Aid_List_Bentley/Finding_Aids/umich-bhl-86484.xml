@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>umich-bhl-86484</eadid><filedesc><titlestmt><titleproper>Finding aid for George Murphy papers, 1911-1961</titleproper><author>Finding aid created by Michigan Historical Collections staff</author></titlestmt><publicationstmt><publisher>Bentley Historical Library</publisher><p><date>2007</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-10-07 12:25:06 -0400</date>.</creation><langusage>The finding aid is written in <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc><revisiondesc><change><date>2007-03-22</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change><change><date>2016-11-21</date><item>Updated Conditions Governing Use Note</item></change></revisiondesc></eadheader><frontmatter><titlepage><publisher>Bentley Historical Library <lb/>University of Michigan</publisher><titleproper>Finding aid for George Murphy papers, 1911-1961</titleproper><author>Finding aid created by Michigan Historical Collections staff</author></titlepage></frontmatter><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Bentley Historical Library</corpname>
+      <extptr actuate="onload" href="bhladd" show="embed"/>
+    </repository>
+    <unittitle>George Murphy papers</unittitle>
+    <origination label="creator">
+      <persname source="lcnaf">Murphy, George, 1897-1961</persname>
+    </origination>
+    <unitid type="call number">86484 Aa 2; AA; UAm</unitid>
+    <physdesc>
+      <extent>15 linear feet</extent>
+    </physdesc>
+    <physdesc>
+      <extent>1 volume</extent>
+    </physdesc>
+    <physdesc>
+      <extent>1 oversize folder</extent>
+    </physdesc>
+    <unitdate normal="1911/1961" type="inclusive">1911-1961</unitdate>
+    <langmaterial id="aspace_f2f147101df8e1d7ce04e68ddcd90b3e">The material is in <language encodinganalog="041" langcode="eng">English</language></langmaterial>
+    <abstract id="aspace_7f472c463f651689685d4c631a39b8bf">Judge of the Recorder's Court in Detroit and Frank Murphy's brother; contain correspondence, legal briefs, newspaper clippings, and other materials concerning Detroit politics, 1935-1961, the grand jury investigation of Detroit street railways, 1936, arbitration of labor disputes, 1936-1941, investigation of the Charles Street housing project, 1939-1940, as well as materials illuminating the careers and personal affairs of both George and Frank Murphy, especially in relation to Detroit and the Philippine Islands.</abstract>
+    <physloc id="aspace_2c30447d85a4986dc917ee70032f0c10">Portions located in offsite storage; prior notification required for access.</physloc>
+  </did>
+  <descgrp type="admin">
+    <acqinfo><p>The collection was the gift of the estate of the Hon. George Murphy (donor no. <num encodinganalog="541$e" type="donor">3074</num>) and came to the library in 1965.</p></acqinfo>
+    <accessrestrict><p>Researchers must sign the Murphy contract before access to the papers will be permitted.</p></accessrestrict>
+    <userestrict><p>George Murphy has transferred any applicable copyright to the Regents of the University of Michigan but the collection may contain third-party materials for which copyright was not transferred. Patrons are responsible for determining the appropriate use or reuse of materials.</p></userestrict>
+    <prefercite><p>[item], folder, box, George Murphy papers, Bentley Historical Library, University of Michigan</p></prefercite>
+  </descgrp>
+  <bioghist><p>George Ignatius Murphy was born January 20,1894, at Harbor Beach, Michigan, to John T. and Mary (Brennan) Murphy. He attended the University of Michigan where he received the A.B. degree in 1917 and the LL.B degree in 1922. While at the University he joined the Sigma Chi fraternity and served on the University's world record breaking two-mile relay track team. During both World Wars he served in the United States Naval Air Corps. During the years of peace, he served in the Naval Reserves. He entered private law practice with his brother, Frank, and Edward Kemp in the early 1930's and served as assistant attorney general of Michigan from 1932 to 1934 and as judge of the Recorder's Court in Detroit from 1935 to 1961. Long active in Democratic Party affairs, Murphy was a delegate to the 1924 Democratic National Convention, and ran at various times for prosecuting attorney of Huron County, for Wayne County Circuit Court commissioner, and for state senator from Wayne County. In 1932 he became state chairman of the Veteran's Division of the Democratic Party, In 1946 he married Brigid McKenna; they had two children., Frances Anastasia born in 1950 and Marguerite Mavoureen born in 1952. Murphy died in Detroit, July 11, 1961.</p></bioghist>
+  <scopecontent><p>The George Murphy papers, which encompass the years 1911 to 1961, are most comprehensive for the decade following 1932. During this period - the most politically active in Murphy's career - the correspondence is especially useful in illustrating George Murphy's role in his brother's emergence as a politician, especially his role as dispenser of patronage in the depression years. The papers, of course, illuminate the social function performed by the Recorder's Court and contain voluminous correspondence with state and federal judges, attorneys, prisoners, prison officials, probation officers, etc. Judge Murphy also maintained close contact with affairs in his home town, Harbor Beach. Included in the collection are significant materials on affairs in the Philippines during his brother's governorship there, particularly correspondence during the years 1933 to 1936 with his sister, Marguerite, Eleanor Bumgardner, and with leading Filipinos concerning conditions there.</p></scopecontent>
+  <controlaccess>
+    <p>
+      <extptr actuate="onload" href="accnote" show="embed"/>
+    </p>
+    <subject source="lcsh">African Americans -- Michigan.</subject>
+    <subject source="lcsh">Courts -- Michigan.</subject>
+    <subject source="lcsh">Depressions -- 1929 -- Michigan -- Detroit.</subject>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n79045539" source="lcsh">Detroit (Mich.)</geogname>
+    <subject source="lcsh">Housing.</subject>
+    <subject source="lcsh">Labor -- Michigan.</subject>
+    <geogname source="local">Michigan -- Politics and government -- 1929-1938.</geogname>
+    <geogname source="local">Michigan -- Politics and government -- 1939-1945.</geogname>
+    <geogname source="local">Michigan -- Politics and government -- 1946-1960.</geogname>
+    <geogname source="local">Michigan -- Politics and government -- 1961-1970.</geogname>
+    <geogname source="lcsh">Michigan -- Politics and government -- 1837-1950.</geogname>
+    <geogname source="lcsh">Michigan -- Politics and government -- 1951-</geogname>
+    <geogname source="lcsh">Philippines -- History -- 1898-1946.</geogname>
+    <subject source="lcsh">Presidents -- United States -- Election -- 1932.</subject>
+    <subject source="lcsh">Public welfare -- Michigan -- Detroit.</subject>
+    <subject source="lcsh">Street-railroads -- Michigan -- Detroit.</subject>
+    <subject source="lcsh">Sit-down strikes -- Michigan.</subject>
+    <geogname source="lcsh">United States -- Politics and government -- 1933-1945.</geogname>
+    <geogname source="lcsh">United States -- Politics and government -- 1929-1933.</geogname>
+    <geogname source="lcsh">Philippines -- History -- 1898-1946.</geogname>
+    <genreform source="gmgpc">Drawings.</genreform>
+    <genreform source="aat">Oral histories.</genreform>
+    <genreform source="aat">Photographs.</genreform>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n83163731" source="lcnaf">Democratic Party (Mich.)</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n92061700" source="lcnaf">Detroit (Mich.). Recorder's Court.</corpname>
+    <persname source="lcnaf">Murphy, George, 1897-1961.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50040351" source="lcnaf">Aguinaldo, Emilio, 1869-1964.</persname>
+    <persname source="lcnaf">Moody, Blair, 1902-1954.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86025928" source="lcnaf">Murphy, Frank, 1890-1949.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008182920" role="ctb" source="lcnaf">Abbott, Horatio J. (Horatio Johnson), 1876-1936.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50040351" role="ctb" source="lcnaf">Aguinaldo, Emilio, 1869-1964.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2009006457" role="ctb" source="lcnaf">Black, Eugene F., 1903-1990.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79056509" role="ctb" source="lcnaf">Black, Hugo LaFayette, 1886-1971.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2009002769" role="ctb" source="lcnaf">Bowles, Charles, 1884-1957.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n87910355" role="ctb" source="lcnaf">Brennan, William J. (William Joseph), 1906-1997.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n82079368" role="ctb" source="lcnaf">Brown, Edmund G. (Edmund Gerald), 1905-1996.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2007125178" role="ctb" source="lcnaf">Brown, Prentiss M. (Prentiss Marsh), 1889-1973.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n94105471" role="ctb" source="lcnaf">Brucker, Wilber Marion, 1894-1968.</persname>
+    <persname role="ctb" source="lcnaf">Bryan, William Jennings, 1860-1925.</persname>
+    <persname role="ctb" source="lcnaf">Bumgardner, Eleanor M. (Eleanor Margaret)</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2009002372" role="ctb" source="lcnaf">Bushnell, George E. (George Edward), 1887-1965.</persname>
+    <persname role="ctb" source="lcnaf">Carr, Lowell Juilliard, 1885-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008190241" role="ctb" source="lcnaf">Cobo, Albert E. (Albert Eugene), 1893-1957.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008182100" role="ctb" source="lcnaf">Comstock, William Alfred, 1877-1949.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50018203" role="ctb" source="lcnaf">Coughlin, Charles E. (Charles Edward), 1891-1979.</persname>
+    <persname role="ctb" source="lcnaf">Couzens, Frank, 1902-1950.</persname>
+    <persname role="ctb" source="lcnaf">Cramton, Louis C. (Louis Convers), 1875-</persname>
+    <persname role="ctb" source="lcnaf">Cromwell, James Henry Roberts.</persname>
+    <persname role="ctb" source="lcnaf">Cunningham, Leon Max, -1930.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79026987" role="ctb" source="lcnaf">Darrow, Clarence, 1857-1938.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n88218900" role="ctb" source="lcnaf">Davis, John W. (John William), 1873-1955.</persname>
+    <persname role="ctb" source="lcnaf">De Maggio, Andrew.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2009002019" role="ctb" source="lcnaf">Dethmers, John R., 1903-1971.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79060532" role="ctb" source="lcnaf">Dewey, John, 1859-1952.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n92802898" role="ctb" source="lcnaf">Dingell, John D. (John David), 1894-1955.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79041741" role="ctb" source="lcnaf">Douglas, William O. (William Orville), 1898-1980.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n78001406" role="ctb" source="lcnaf">Edwards, George, 1914-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79066408" role="ctb" source="lcnaf">Eisenhower, Dwight D. (Dwight David), 1890-1969.</persname>
+    <persname role="ctb" source="lcnaf">Eliasohn, Jack, 1908-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79135041" role="ctb" source="lcnaf">Farley, James A. (James Aloysius), 1888-1976.</persname>
+    <persname role="ctb" source="lcnaf">Ferguson, Homer, 1889-1982.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n81037309" role="ctb" source="lcnaf">Ford, Henry, 1917-1987.</persname>
+    <persname role="ctb" source="lcnaf">Foy, Byron Cecil, 1893-1970.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2010115287" role="ctb" source="lcnaf">Frankensteen, Richard T. (Richard Truman), 1907-1977.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50025733" role="ctb" source="lcnaf">Frankfurter, Felix, 1882-1965.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50041614" role="ctb" source="lcnaf">Fulbright, J. William (James William), 1905-1995.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n91085097" role="ctb" source="lcnaf">Garner, John Nance, 1868-1967.</persname>
+    <persname role="ctb" source="lcnaf">Gillein, Hilmer.</persname>
+    <persname role="ctb" source="lcnaf">Gomon, Josephine Fellows, 1892-1975.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008183293" role="ctb" source="lcnaf">Green, Fred W. (Fred Warren), 1872-1936.</persname>
+    <persname role="ctb" source="lcnaf">Griffiths, Hicks G., 1910-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n80131961" role="ctb" source="lcnaf">Hannah, John A., 1902-1991.</persname>
+    <persname role="ctb" source="lcnaf">Harding, Ann, 1904-1981.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n87870675" role="ctb" source="lcnaf">Hart, Philip A. (Philip Aloysius), 1912-1976.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50033375" role="ctb" source="lcnaf">Hatcher, Harlan, 1898-1998.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85252398" role="ctb" source="lcnaf">Hayden, Joseph Ralston, 1887-1945.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no96052829" role="ctb" source="lcnaf">Hill, Norman Llewellyn, 1895-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79077374" role="ctb" source="lcnaf">Hoover, J. Edgar (John Edgar), 1895-1972.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n89118383" role="ctb" source="lcnaf">Howe, Louis McHenry, 1871-1936.</persname>
+    <persname role="ctb" source="lcnaf">Jayne, Ira Waite, 1882-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n96021654" role="ctb" source="lcnaf">Jeffries, Edward, 1900-1950.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008189249" role="ctb" source="lcnaf">Kelly, Harry F. (Harry Francis), 1895-1971.</persname>
+    <persname role="ctb" source="lcnaf">Kemp, Edward Gearing, 1887-1962.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79055297" role="ctb" source="lcnaf">Kennedy, John F. (John Fitzgerald), 1917-1963.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79126863" role="ctb" source="lcnaf">Kennedy, Joseph P. (Joseph Patrick), 1888-1969.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n80035888" role="ctb" source="lcnaf">Kennedy, Robert F., 1925-1968.</persname>
+    <persname role="ctb" source="lcnaf">Larned, Abner E.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86111057" role="ctb" source="lcnaf">Lehman, Herbert H. (Herbert Henry), 1878-1963.</persname>
+    <persname role="ctb" source="lcnaf">Levin, Saul R.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50049279" role="ctb" source="lcnaf">Lewis, John Llewellyn, 1880-1969.</persname>
+    <persname role="ctb" source="lcnaf">Lincoln, Burr, 1880-1937.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n80024557" role="ctb" source="lcnaf">Louis, Joe, 1914-1981.</persname>
+    <persname role="ctb" source="lcnaf">Lowery, Percival C., 1885-1978.</persname>
+    <persname role="ctb" source="lcnaf">McAllister, Thomas Raymond, 1905-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n97079701" role="ctb" source="lcnaf">MacArthur, Jean Faircloth.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008152067" role="ctb" source="lcnaf">McNamara, Patrick Vincent, 1894-1966.</persname>
+    <persname role="ctb" source="lcnaf">Madrigal, Pacita.</persname>
+    <persname role="ctb" source="lcnaf">Martel, Frank Xavier, 1888-</persname>
+    <persname role="ctb" source="lcnaf">Mead, Harry L., 1893-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n91085171" role="ctb" source="lcnaf">Miriani, Louis C.</persname>
+    <persname role="ctb" source="lcnaf">Moley, Raymond L., 1886-</persname>
+    <persname role="ctb" source="lcnaf">Moody, Blair, 1902-1954.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86025928" role="ctb" source="lcnaf">Murphy, Frank, 1890-1949.</persname>
+    <persname role="ctb" source="lcnaf">Murphy, Irene Ellis, 1900-</persname>
+    <persname role="ctb" source="lcnaf">Murphy, Marguerite.</persname>
+    <persname role="ctb" source="lcnaf">Osmeña, Sergio, 1878-1961.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n2008055613" role="ctb" source="lcnaf">Parker, Frank, 1872-1947.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008183545" role="ctb" source="lcnaf">Picard, Frank A., 1889-1963.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n94057548" role="ctb" source="lcnaf">Pollock, James K. (James Kerr), 1898-1968.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/nr92042890" role="ctb" source="lcnaf">Potter, Charles E. (Charles Edward), 1916-1979.</persname>
+    <persname role="ctb" source="lcnaf">Quezon, Manuel Luis, 1878-1944.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n88243581" role="ctb" source="lcnaf">Quirino, Elpidio, 1890-1956.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2009001428" role="ctb" source="lcnaf">Rabaut, Louis Charles, 1886-1961.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50045219" role="ctb" source="lcnaf">Reuther, Walter, 1907-1970.</persname>
+    <persname role="ctb" source="lcnaf">Romulo, Carlos P. (Carlos Peña), 1899-1985.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79022932" role="ctb" source="lcnaf">Roosevelt, Franklin D. (Franklin Delano), 1882-1945.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n80017801" role="ctb" source="lcnaf">Roosevelt, James, 1907-1991.</persname>
+    <persname role="ctb" source="lcnaf">Rutledge, Wiley Blount, 1894-1949.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n83065961" role="ctb" source="lcnaf">Smith, Gerald L. K. (Gerald Lyman Kenneth), 1898-1976.</persname>
+    <persname role="ctb" source="lcnaf">Smith, Talbot.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/nr89001910" role="ctb" source="lcnaf">Staebler, Neil, 1905-2000.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n87909927" role="ctb" source="lcnaf">Sugar, Maurice, 1891-1974.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n2003087794" role="ctb" source="lcnaf">Swainson, John B. (John Burley), 1925-1994.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n93026198" role="ctb" source="lcnaf">Voelker, John D. (John Donaldson), 1903-1991.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79029742" role="ctb" source="lcnaf">Truman, Harry S., 1884-1972.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2009002479" role="ctb" source="lcnaf">Tuttle, Arthur J., 1868-1944.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50045033" role="ctb" source="lcnaf">Vandenberg, Arthur H. (Arthur Hendrick), 1884-1951.</persname>
+    <persname role="ctb" source="lcnaf">Van Wagoner, Murray Delos, 1898-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50021368" role="ctb" source="lcnaf">Waite, John Barker, 1882-1967.</persname>
+    <persname role="ctb" source="lcnaf">Walker, Moses L.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50028322" role="ctb" source="lcnaf">Warren, Earl, 1891-1974.</persname>
+    <persname role="ctb" source="lcnaf">Whittaker, Alfred Heacock, 1894-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n80084463" role="ctb" source="lcnaf">Williams, G. Mennen, 1911-1988.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n80070288" role="ctb" source="lcnaf">Williams, G. Mennen., Mrs.</persname>
+    <persname role="ctb" source="lcnaf">Yost, Fielding Harris, 1871-1946.</persname>
+  </controlaccess>
+  <dsc type="combined"><c01 id="aspace_2e600c0cdb4d53feb1262aba056aad7d" level="series"><did><unittitle>Correspondence and other papers</unittitle><unitdate normal="1911/1961" type="inclusive">1911-1961</unitdate></did><c02 id="aspace_2f1799a3b71ce922cc20dcdd39984d33" level="file"><did><physdesc><extent>35 folders</extent></physdesc><unitdate type="inclusive">Undated</unitdate><unitdate normal="1911/1931" type="inclusive">1911-1931</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_025781a5c84de293e4db63bfac395f3d" level="file"><did><physdesc><extent>11 folders</extent></physdesc><unitdate normal="1932/1932" type="inclusive">1932</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_3923ec2d7febca7af88b3897d9d4ed35" level="file"><did><unittitle>Memorandums and correspondence from Democratic National Committee</unittitle><unitdate normal="1932/1932" type="inclusive">1932</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_a3ef384578438a124ee9c4fded9f4a32" level="file"><did><unittitle>Legal correspondence and miscellaneous briefs</unittitle><unitdate normal="1932/1932" type="inclusive">1932</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_57d68a99eb5dff1d20f03dcf3d8d1027" level="file"><did><physdesc><extent>10 folders</extent></physdesc><unitdate normal="1933/1933" type="inclusive">1933</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_a21b57853e6a746117d83a12e131866b" level="file"><did><unittitle>Applications and recommendations</unittitle><unitdate normal="1932/1933" type="inclusive">1932-1933</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_f50d89040e273a61ae8296315880be5e" level="file"><did><physdesc><extent>15 folders</extent></physdesc><unitdate normal="1934-01/1935-04" type="inclusive">January 1934-April 1935</unitdate><container label="Box" type="box">3</container></did></c02><c02 id="aspace_53f3e22eeed8e2be15407186d0cbf48d" level="file"><did><physdesc><extent>28 folders</extent></physdesc><unitdate normal="1935-05/1936-04" type="inclusive">May 1935-April 1936</unitdate><container label="Box" type="box">4</container></did></c02><c02 id="aspace_3eacfe9bd06c80ee7e74f07b20f00096" level="file"><did><physdesc><extent>37 folders</extent></physdesc><unitdate normal="1936-05/1937-07" type="inclusive">May 1936-July 1937</unitdate><container label="Box" type="box">5</container></did></c02><c02 id="aspace_7bac69724b49c737a37f0934d5b8214c" level="file"><did><physdesc><extent>37 folders</extent></physdesc><unitdate normal="1937-08/1938-11" type="inclusive">August 1937-November 1938</unitdate><container label="Box" type="box">6</container></did></c02><c02 id="aspace_4896da380a4a8c55af59022fb7a3e27c" level="file"><did><physdesc><extent>27 folders</extent></physdesc><unitdate normal="1938-12/1940-01" type="inclusive">December 1938-January 1940</unitdate><container label="Box" type="box">7</container></did></c02><c02 id="aspace_49ac64353de61e00e2d03b459cfb979c" level="file"><did><physdesc><extent>21 folders</extent></physdesc><unitdate normal="1940-02/1941-03" type="inclusive">February 1940-March 1941</unitdate><container label="Box" type="box">8</container></did></c02><c02 id="aspace_33c386d42f2b73ef5d6af81c3a608d5d" level="file"><did><physdesc><extent>27 folders</extent></physdesc><unitdate normal="1941-04/1946-09" type="inclusive">April 1941-September 1946</unitdate><container label="Box" type="box">9</container></did></c02><c02 id="aspace_8fbc0bab5c996892ebecd2d4414fb27c" level="file"><did><physdesc><extent>28 folders</extent></physdesc><unitdate normal="1946-10/1951-12" type="inclusive">October 1946-December 1951</unitdate><container label="Box" type="box">10</container></did></c02><c02 id="aspace_89e864fe5e0751176f635b7b2ad71b7f" level="file"><did><physdesc><extent>20 folders</extent></physdesc><unitdate normal="1952-01/1955-12" type="inclusive">January 1952-December 1955</unitdate><container label="Box" type="box">11</container></did></c02><c02 id="aspace_b62fbbf139498933fa5b91ccbe81d71e" level="file"><did><physdesc><extent>19 folders</extent></physdesc><unitdate normal="1956-01/1959-06" type="inclusive">January 1956-June 1959</unitdate><container label="Box" type="box">12</container></did></c02><c02 id="aspace_22b97dac2504af1521976dd9f2d9860f" level="file"><did><unittitle>July 1959-August 1961 and later undated</unittitle><physdesc><extent>22 folders</extent></physdesc><unitdate normal="1959/1961" type="inclusive">1959-1961</unitdate><unitdate type="inclusive">undated</unitdate><container label="Box" type="box">13</container></did></c02><c02 id="aspace_2fedf0183949b0c5ad158644eb6b1c03" level="file"><did><unittitle>Funeral miscellanea</unittitle><unitdate normal="1961/1961" type="inclusive">1961</unitdate><container label="Box" type="box">13</container></did></c02></c01><c01 id="aspace_c881a6f180152ba2915f0c6b91ce6610" level="series"><did><unittitle>Law and politics</unittitle><unitdate normal="1926/1952" type="inclusive">1926-1952</unitdate></did><c02 id="aspace_eeee339a5fe2ada1afc9a74bc14aa30c" level="file"><did><unittitle>Legal briefs</unittitle><unitdate normal="1926/1926" type="inclusive">1926</unitdate><container label="Box" type="box">14</container></did></c02><c02 id="aspace_0e34f23f914611b5fbba8c0eccfe6093" level="file"><did><unittitle>Legal briefs</unittitle><unitdate normal="1932/1932" type="inclusive">1932</unitdate><container label="Box" type="box">14</container></did></c02><c02 id="aspace_54ed26537b6fc94476a5454ddb9b90db" level="file"><did><unittitle>Labor arbitration materials</unittitle><unitdate normal="1952/1952" type="inclusive">1952</unitdate><unitdate type="inclusive">undated</unitdate><container label="Box" type="box">14</container></did></c02><c02 id="aspace_f66d33660b8eb240d7a9d72936474590" level="file"><did><unittitle>Charles Street Housing Project</unittitle><unitdate normal="1939/1940" type="inclusive">1939-1940</unitdate><container label="Box" type="box">14</container></did><odd><p>(see also Correspondence series for additional materials)</p></odd></c02><c02 id="aspace_2eb49bd6b83ddfd5a8ba690415aaa153" level="file"><did><unittitle>Detroit Street Railways, grand jury investigations, etc.</unittitle><unitdate normal="1936/1941" type="inclusive">1936-1941</unitdate><container label="Box" type="box">14</container></did><odd><p>(reports and miscellaneous)</p></odd></c02></c01><c01 id="aspace_1895bfbc0184211d2a60a9415a9d654c" level="series"><did><unittitle>Personal</unittitle><unitdate normal="1922/1959" type="inclusive">1922-1959</unitdate></did><c02 id="aspace_95cb20c17cd52cb53094a0676c3c561a" level="file"><did><unittitle>Correspondence with brother Frank Murphy</unittitle><physdesc><extent>6 folders</extent></physdesc><unitdate normal="1941/1946" type="inclusive">1941-1946</unitdate><container label="Box" type="box">15</container></did></c02><c02 id="aspace_4242593b53a43c83af6f89ebaa43482f" level="file"><did><unittitle>Military service</unittitle><physdesc><extent>6 folders</extent></physdesc><unitdate type="inclusive">undated</unitdate><unitdate normal="1943/1944" type="inclusive">1943-1944</unitdate><container label="Box" type="box">15</container></did></c02><c02 id="aspace_a17544e3b04d6d5a4f83dd6961b44a2b" level="file"><did><unittitle>Clippings</unittitle><unitdate normal="1922/1922" type="inclusive">1922</unitdate><container label="Box" type="box">15</container></did></c02><c02 id="aspace_bc05f7447dcbe9534b01a73aa87f1894" level="file"><did><unittitle>Clippings</unittitle><unitdate normal="1923/1923" type="inclusive">1923</unitdate><container label="Box" type="box">15</container></did></c02><c02 id="aspace_6b9155a042b99f4da9847725bd7fa500" level="file"><did><unittitle>Clippings</unittitle><unitdate normal="1931/1935" type="inclusive">1931-1935</unitdate><container label="Box" type="box">15</container></did></c02><c02 id="aspace_29d31e6c457d61e5fa8cb86f5d5b2284" level="file"><did><unittitle>Clippings</unittitle><unitdate normal="1936/1940" type="inclusive">1936-1940</unitdate><container label="Box" type="box">15</container></did></c02><c02 id="aspace_e02bcf30856c111bcd533f42c9740696" level="file"><did><unittitle>Clippings</unittitle><unitdate normal="1951/1951" type="inclusive">1951</unitdate><container label="Box" type="box">15</container></did></c02><c02 id="aspace_35c6b9d99e088af35a0c6f2cc99392c8" level="file"><did><unittitle>Clippings</unittitle><physdesc><extent>2 folders</extent></physdesc><unitdate type="inclusive">undated</unitdate><container label="Box" type="box">15</container></did></c02><c02 id="aspace_f0fba1245c8a7c80a78e6e994e7b9e87" level="file"><did><unittitle>Scrapbook</unittitle><container label="Box" type="box">15</container></did></c02><c02 id="aspace_1e80b2d1d1d1d5aedcafd2befdb6a078" level="file"><did><unittitle>Miscellanea</unittitle><physdesc><extent>3 folders</extent></physdesc><unitdate type="inclusive">undated</unitdate><container label="Box" type="box">15</container></did></c02><c02 id="aspace_6f5961fcacff1be177a41974e8819f29" level="file"><did><unittitle>Papers concerning campaigns for re-election as Recorder's Court judge</unittitle><unitdate normal="1959/1959" type="inclusive">1959</unitdate><container label="Box" type="box">15</container></did></c02><c02 id="aspace_cfc3c47e5f20f5cef21332e7d289fa16" level="file"><did><unittitle>Student notebook</unittitle><unitdate certainty="approximate" normal="1920/1920" type="inclusive">circa 1920</unitdate><container label="Box" type="box">15</container></did></c02><c02 id="aspace_3969eb7dd4763c3d54ab14a8e7358196" level="file"><did><unittitle><genreform normal="Photographs">Photographs</genreform> of Murphy with his brother Frank, and with other notables, such as Emilio Aguinaldo and Blair Moody</unittitle><container label="Box" type="box">15</container></did><odd><p>(See also oversize folder UAm)</p></odd></c02><c02 id="aspace_7826d0a63dbb3ade9333d04417632eb0" level="file"><did><unittitle>Transcript of interview with George Murphy conducted by Sidney Fine and Robert M. Warner</unittitle><unitdate normal="1957-03-28/1957-03-28" type="inclusive">March 28, 1957</unitdate><container label="Volume" type="volume">1</container></did><odd><p>(interview concerns the Flint Sit-Down strike and the career of his brother Frank Murphy)</p></odd></c02></c01></dsc>
+  <descgrp type="add">
+    <index id="aspace_c4298b33be49336de30f814a2d86c1c4">
+      <head>Selective Index to Correspondents</head>
+      <indexentry>
+        <persname>Abbott, Horatio J. (Horatio Johnson), 1876-</persname>
+        <ref>
+          <list type="simple">
+            <item>1920's and 1930's</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Aguinaldo, Emilio, 1869-1964.</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 11, 1935</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Black, Eugene F., 1903-</persname>
+        <ref>
+          <list type="simple">
+            <item>June 30, 1958, July 16, 1958, May 6, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Black, Hugo LaFayette, 1886-1971.</persname>
+        <ref>
+          <list type="simple">
+            <item>Mar. 11, 1952, June 5, 1953 (secretary)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bowles, Charles, 1884-1957.</persname>
+        <ref>
+          <list type="simple">
+            <item>June 7, 1930, June 10, 1930, June 24, 1930, June 28, 1930, July 2, 1930</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Brennan, William J. (William Joseph), 1906-1997.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 22, 1956, Sept. 13, 1957</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Brown, Edmund G. (Edmund Gerald), 1905-1996.</persname>
+        <ref>
+          <list type="simple">
+            <item>July 2, 1958</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Brown, Prentiss Marsh, 1889-1973.</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 13, 1935, Aug. 6, 1935 with Frank Martel about Frank Murphy's candidacy for governor; Jan. 24, 1938, Feb. 28, 1938, Mar. 18, 1939, Nov. 7, 1939, Jan. 4, 1940, May 27, 1940, June 12, 1940, May 27, 1941, Nov. 24, 1951, Dec. 29, 1941</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Brucker, Wilber Marion, 1894-1968.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 1, 1930, June 6, 1930, Aug. 6, 1931</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bryan, William Jennings, 1860-1925.</persname>
+        <ref>
+          <list type="simple">
+            <item>Mar. 11, 1920, Dec. 8, 1920, 1921, Dec. 30, 1922</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bumgardner, Eleanor M. (Eleanor Margaret)</persname>
+        <ref>
+          <list type="simple">
+            <item>1933-1949</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bushnell, George E. (George Edward), 1887-1965.</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 23, 1926, Jan. 22, 1952, Feb. 11, 1952</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Carr, Lowell Juilliard, b. 1885.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 1, 1953</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Cobo, Albert Eugene, 1893-1957.</persname>
+        <ref>
+          <list type="simple">
+            <item>June 22, 1951, Aug. 25, 1954</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Comstock, William Alfred, 1877-1949.</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 11, 1932, Nov. 10, 1932, Nov. 12, 1932</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Coughlin, Charles E. (Charles Edward), 1891-1979.</persname>
+        <ref>
+          <list type="simple">
+            <item>Mar. 6, 1933, July 7, 1933, Sept. 19, 1933, Sept. 20, 1933, Sept. 20, 1933, Feb. 1, 1934, Feb. 27, 1936 (Frank Murphy to Coughlin), Sept. 21, 1939 (Coughlin to Mrs. R. R. Cockburn), Apr. 4, 1944 and undated</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Couzens, Frank, 1902-1950.</persname>
+        <ref>
+          <list type="simple">
+            <item>June 10, 1931 and scattered</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Cramton, Louis C. (Louis Convers), b. 1875.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 1954</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Cromwell, James Henry Roberts.</persname>
+        <ref>
+          <list type="simple">
+            <item>Late 1930's-1954. Letters Oct. -Nov. 1954 concerning the Dodge estate. Cromwell was one-time United States Consul in Canada, later joined Washington law firm</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Cunningham, Leon Max, d. 1930.</persname>
+        <ref>
+          <list type="simple">
+            <item>1927-1930</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Darrow, Clarence, 1857-1938.</persname>
+        <ref>
+          <list type="simple">
+            <item>Mar. 3, 1932, Sept. 7, 1933, Sept. 8, 1933, Oct. 25, 1933, Apr. 23, 1935, Sept. 30, 1935, (Mrs. C.), Jan. 2, 1941 (Mrs. C.), Jan. 20, 1941 (Mrs. C.), Feb. 12, 1941</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Davis, John W. (John William), 1873-1955.</persname>
+        <ref>
+          <list type="simple">
+            <item>June 3, 1932, June 16, 1932</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>De Maggio, Andrew.</persname>
+        <ref>
+          <list type="simple">
+            <item>1940's and 1950's</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Dethmers, John R., 1903-1971.</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 3, 1959, Feb. 8, 1961</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Dewey, John, 1859-1952.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 15, 1931</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Dingell, John D. (John David), 1894-1955.</persname>
+        <ref>
+          <list type="simple">
+            <item>1930's - 1950's</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Douglas, William O. (William Orville), 1898-1980.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 28, 1952, Apr. 18, 1955, Feb. 16, 1959, May 5, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Edwards, George, 1914-</persname>
+        <ref>
+          <list type="simple">
+            <item>June 20, 1957, Feb. 17, 1959, May 19, 1959, Aug. 7, 1959, Sept. 1, 1959, Sept. 21, 1960, Apr. 12, 1961, July 2l, 1961</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Eisenhower, Dwight D. (Dwight David), 1890-1969.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 12, 1960, Jan. 3, 1961</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Eliasohn, Jack, 1908-</persname>
+        <ref>
+          <list type="simple">
+            <item>Throughout on his position on the Michigan Parole Board</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Farley, James Aloysius, 1888-</persname>
+        <ref>
+          <list type="simple">
+            <item>Mar. 17, 1932, Mar. 28, 1932, Mar. 29, 1932, Mar. 30, 1932, Apr. 1, 1932, Apr. 2, 1932, Apr. 11, 1932, Apr. 12, 1932, Apr. 13, 1932, Apr. 14, 1932, Apr. 16, 1932, Apr. 21, 1932, Apr. 23, 1932, Apr. 26, 1932, Apr. 28, 1932, May 3, 1932, May 4, 1932, May 9, 1932, Aug. 29, 1932, Sept. 15, 1932, Sept. 17, 1932, Sept. 19, 1932, Nov. 15, 1932, Nov. 28, 1932 May 16, 1933, May 29, 1933, June 17, 1933, June 22, 1933, Mar. 18, 1936, May 22, 1936, May 23, 1936, Aug. 29, 1936, Sept. 10, 1936, Feb. 3, 1937, Mar. 1, 1937, Apr. 30, 1937, May 4, 1937, Dec. 7, 1937, Mar. 11, 1938, Sept. 30, 1932 (to Farley from M. Scott)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ferguson, Homer, 1889-1982.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 7, 1942, Nov. 10, 1952, Jan. 5, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ford, Henry, 1917-1987.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 16, 1953</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Foy, Byron Cecil, 1893-1970.</persname>
+        <ref>
+          <list type="simple">
+            <item>Throughout</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Frankensteen, Richard T., 1907-</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 30, 1938, Feb. 7, 1941, Sept. 9, 1941</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Frankfurter, Felix, 1882-1965.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 30, 1941</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Fulbright, J. William (James William), 1905-1995.</persname>
+        <ref>
+          <list type="simple">
+            <item>Mar. 24, 1958</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Garner, John Nance, 1868-1967.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 14, 1936</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Gillein, Hilmer.</persname>
+        <ref>
+          <list type="simple">
+            <item>1930's and 1940's</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Gomon, Josephine Fellows, 1892-1975.</persname>
+        <ref>
+          <list type="simple">
+            <item>1930's and 1940's</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Green, Fred Warren, 1872-1936.</persname>
+        <ref>
+          <list type="simple">
+            <item>June 8, 1928, July 2, 1928, July 6, 1928</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Griffiths, Hicks G., 1910-</persname>
+        <ref>
+          <list type="simple">
+            <item>1950's</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hannah, John A., 1902-</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 21, 1960</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Harding, Ann, 1904-1981.</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 1, 1927, Oct. 8, 1931, Oct. 3, 1932, Nov. 29, 1933, Aug. 31, 1933, Dec. 29, 1934, Apr. 29, 1935, July 12, 1935, May 5, 1936 and Nov. 9, 1931 (Harding to Hoover [copy])</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hart, Philip A. (Philip Aloysius), 1912-1976.</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 28, 1959, Nov. 16, 1959, Dec. 11, 1959, Jan. 5, 1960, Mar. 7, 1961, Apr. 13, 1961</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hatcher, Harlan Henthorne, 1898-</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 19, 1954, Mar. 3, 1959, Sept. 29, 1960, May 8, 1961</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hayden, Joseph Ralston, 1887-1945.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 9, 1939</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hill, Norman Llewellyn, 1895-</persname>
+        <ref>
+          <list type="simple">
+            <item>Throughout</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hoover, J. Edgar (John Edgar), 1895-1972.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb, 1, 1939, Aug. 25, 1939, Mar 11, 1940, Apr. 18, 1940, Sept. 27, 1940, June 30, 1941, Sept. 20,1941, Feb. 21, 1942</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Howe, Louis McHenry, 1871-1936.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 20, 1932, Feb. 9, 1932, Feb. 10, 1932, Feb. 15, 1932, Oct. 19, 1932, Oct. 21, 1932, Oct. 24, 1932, Oct. 31, 1932, Aug. 6, 1935</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Jayne, Ira Waite, 1882-</persname>
+        <ref>
+          <list type="simple">
+            <item>business affairs scattered throughout collection</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Jeffries, Edward, 1900-</persname>
+        <ref>
+          <list type="simple">
+            <item>1940's</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Kelly, Harry F. (Harry Francis), 1895-1971.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan, 19, 1940, Feb. 22, 1940, Apr. 12, 1941, Sept. 3, 1941, May 8, 1953, May 25, 1954, Oct. 11, 1960, July 11, 1961</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Kemp, Edward Gearing, 1887-1962.</persname>
+        <ref>
+          <list type="simple">
+            <item>1923-1954</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Kennedy, John F. (John Fitzgerald), 1917-1963.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 14, 1958, Aug. 23, 1960</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Kennedy, Joseph P. (Joseph Patrick), 1888-1969.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 12, 1937, Dec. 11, 1937, June 14, 1948</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Kennedy, Robert F., 1925-1968.</persname>
+        <ref>
+          <list type="simple">
+            <item>Mar. 14, 1961</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Larned, Abner E.</persname>
+        <ref>
+          <list type="simple">
+            <item>W.P.A, and applications for jobs in the 1930's</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Lehman, Herbert H. (Herbert Henry), 1878-1963.</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 19, 1950</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Levin, Saul R.</persname>
+        <ref>
+          <list type="simple">
+            <item>1950's</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Lewis, John Llewellyn, 1880-1969.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 1, 1938, Mar. 19, 1958, Oct. 17, 1958</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Lincoln, Burr, 1880-1937.</persname>
+        <ref>
+          <list type="simple">
+            <item>Throughout</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Louis, Joe, 1914-1981.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 4, 1937</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Lowery, Percival C., 1885-1978.</persname>
+        <ref>
+          <list type="simple">
+            <item>1929-1930 and scattered</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>McAllister, Thomas Raymond, 1905-</persname>
+        <ref>
+          <list type="simple">
+            <item>Mar. 14, 1939, Apr. 14, 1939, Jan. 28, 1941, Nov. 11, 1946, Apr. 28, 1953, June 8, 1953, Jan. 8, 1959, Jan. 23, 1959, Sept. 17, 1959, Aug. 22, 1961</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>MacArthur, Jean Faircloth.</persname>
+        <ref>
+          <list type="simple">
+            <item>Mar. 25, 1960, Apr. 11, 1960, Dec. 28, 1960, June 28, 1961</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>McNamara, Patrick Vincent, 1894-1966.</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 11, 1950, July 6, 1955, Jan. 4, 1956, Sept. 12, 1957, Mar. 13, 1958, Mar. 21, 1958, Jan. 13, 1959, Oct. 15, 1959, Feb. 4, 1960</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Madrigal, Pacita.</persname>
+        <ref>
+          <list type="simple">
+            <item>1935-1958</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Martel, Frank Xavier, 1888-</persname>
+        <ref>
+          <list type="simple">
+            <item>1945-1961</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Mead, Harry L., 1893-</persname>
+        <ref>
+          <list type="simple">
+            <item>1930's and 1960</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Miriani, Louis C.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 23, 1950, May 19, 1953, Dec. 10, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Moley, Raymond L., 1886-</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 19, 1934</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Moody, Blair, 1902-1954.</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 11, 1952, May 26, 1952, Nov. 28, 1952</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Murphy, Frank, 1890-1949.</persname>
+        <ref>
+          <list type="simple">
+            <item>1911, 1917-1918, 1920, 1922, 1925, 1928, 1931, 1933-1936, 1949</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Murphy, Irene Ellis, 1900-</persname>
+        <ref>
+          <list type="simple">
+            <item>1934 and 1950's</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Murphy, Marguerite.</persname>
+        <ref>
+          <list type="simple">
+            <item>1933-1936 and scattered into the 1950's</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Osmeña, Sergio, 1989-1961</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 20, 1937</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Parker, Frank, 1872-1947.</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 5, 1935, Dec. 21, 1941, June 21, 1941 (Mrs.)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Picard, Frank A., 1889-1963.</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 19, 1932, Apr. 15, 1935, Jun. 14, 1935, Sept. 18, 1935, Feb. 15, 1936, Feb. 18, 1936, Feb. 21, 1936, Feb. 5, 1937, Feb. 6, 1937, Feb. 11, 1937, May 13, 1937, May 18, 1937, May 21, 1937, May 28, 1937, Oct. 20, 1937, Sept. 23, 1938, Mar. 17, 1939, Apr. 9, 1941, Apr. 9, 1941, Feb. 6, 1942, Oct. 24, 1950, Mar. 8, 1954, Oct. 5, 1954, Sept. 29, 1959, June 26, 1961</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Pollock, James Kerr, 1898-</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 10, 1940, Oct. 5, 1953</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Potter, Charles E. (Charles Edward), 1916-1979.</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 15, 1958</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Quezon, Manuel Luis, 1878-1944.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 23, 1934 (telegram) Feb 5 1934, Feb 7, 1934, Feb. 28, 1934, Mar. 1, 1934, Mar. 3, 1934, Mar. 26, 1934, Apr. 4, 1934, Oct. 24, 1934, Nov. 9, 1934, Nov. 10, 1934, Dec. 4, 1934, May 7, 1935, Oct. 25, 1935, Mar. 24, 1934, Mar. 28, 1934, Apr. 4, 1934, Apr. 9, 1934, Apr. 11, 1934, Feb. 14, 1935, Sept. 10, 1936, Aug. 21, 1942, and Nov .22, 1943; and with Jose and Carmen Melencio: Jan, 22, 1934, Jan. 25, 1934, Jan. 29, 1934, Feb. 2, 1934, Feb. 8, 1934, Feb. 15, 1934, Mar. 2, 1934, Mar. 24, 1934, Mar. 28, 1934, Apr. 4, 1934, Apr. 9, 1934, Apr. 11, 1934, and Feb. 14, 1935</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Quirino, Elpidio, 1890-1956.</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 28, 1935, Jan. 1, 1936, July 24, 1953</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Rabaut, Louis Charles, 1886-1961.</persname>
+        <ref>
+          <list type="simple">
+            <item>scattered from 1930's on</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Reuther, Walter, 1907-1970.</persname>
+        <ref>
+          <list type="simple">
+            <item>Mar. 4, 1954, May 3, 1955, May 29, 1957, Jan. 28, 1958., Sept. 4, 1958, Oct. 13, 1958, Dec. 4, 1958 (secretary), Dec. 30, 1959, Jan. 7, 1959, Nov. 21, 1960, Apr. 11, 1961, July 20, 1961</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Romulo, Carlos P. (Carlos Peña), 1899-1985.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 25, 1960</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Roosevelt, Franklin D. (Franklin Delano), 1882-1945.</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 3, 1932</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Roosevelt, James, 1907-</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 12, 1959, Feb. 24, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Rutledge, Wiley Blount, 1894-1949.</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 11, 1949</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Smith, Gerald L. K. (Gerald Lyman Kenneth), 1898-</persname>
+        <ref>
+          <list type="simple">
+            <item>Mar. 12, 1942</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Smith, Talbot.</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 4, 1955, Nov. 17, 1956, Sept. 5, 1958, Dec. 24, 1958, June 1, 1960 and undated</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Staebler, Neil, 1905-</persname>
+        <ref>
+          <list type="simple">
+            <item>May 1, 1957, Jan. 3, 1958, Apr. 1, 1958</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Sugar, Maurice, 1891-1974.</persname>
+        <ref>
+          <list type="simple">
+            <item>scattered in the 1940's</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Swainson, John Burley, 1925-</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 8, 1959, Jan. 17, 1961, July 11, 1961</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Truman, Harry S., 1884-1972.</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 12, 1952</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Tuttle, Arthur J., 1868-1944.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 8, 1944, Aug. 26, 1935</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Vandenberg, Arthur H. (Arthur Hendrick), 1884-1951.</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 7, 1929</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Van Wagoner, Murray Delos, 1898-</persname>
+        <ref>
+          <list type="simple">
+            <item>Mar. 3, 1933, Mar. 9, 1933, Feb. 10, 1933, Feb. 11, 1933, Apr. 19, 1933.Mar. 16, 1933, May 25, 1933, Apr. 15, 1936, July 27, 1936, July 28, 1936, July 30, 1936, July 30, 1937, Jan. 24, 1941, Sept. 12, 1941, Jan. 14, 1942, Feb. 25, 1942</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Voelker, John D. (John Donaldson), 1903-</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 24, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Waite, John Barker, 1882-</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 17, 1947, Nov. 3, 1948</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Walker, Moses L.</persname>
+        <ref>
+          <list type="simple">
+            <item>1930's</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Warren, Earl, 1891-1974.</persname>
+        <ref>
+          <list type="simple">
+            <item>Mar. 19, 1956, Mar. 29, 1956, July 15, 1957, Oct. 20, 1958, May 11, 1961</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Whittaker, Alfred Heacock, 1894-</persname>
+        <ref>
+          <list type="simple">
+            <item>1950's</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Williams, G. Mennen, 1911-</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 16, 1939, Aug. 24, 1939, Nov. 22, 1939, Jan. 17, 1940, Mar. 8, 1947, Mar. 25, 1947, May 29, 1948, Apr. 11, 1950, Dec. 13, 1950, Jan. 17, 1952, June 5, 1952, June 24, 1952, Apr. 8, 1953, Apr. 9, 1953, Sept. 28, 1953 May 3, 1954, Aug. 24, 1954, July 27, 1955, Nov. 9, 1955, Nov. 26, 1955, May 7, 1956, May 31, 1956, June 12, 1956, June 28, 1956, Apr. 30, 1957, May 29, 1957, June 17, 1957, July 8 1957, (to E. Bumgardner), July 18, 1957, Sept. 17, 1957, Nov. 5, 1957 Mar. 24, 1958, Apr. 1, 1958, June 12, 1958, July 2, 1958, Aug. 26, 1958, Oct. 21, 1958, Nov. 19, 1958, Dec. 22, 1958, (secretary), Jan. 6, 1959, Feb. 11, 1959, Feb. 24, 1959, Apr. 8, 1959, Apr. 27, 1959, Sept, 1, 1959, Sept. 24, 1959, Nov. 10, 1959, Nov. 16, 1959, Dec. 7, 1959, Jan. 22, 1960, Mar. 23, 1960, May 26, 1961, July 13, 1961</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Williams, G. Mennen, Mrs.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 13, 1958, Feb. 4, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Yost, Fielding Harris, 1871-1946.</persname>
+        <ref>
+          <list type="simple">
+            <item>June 6, 1941</item>
+          </list>
+        </ref>
+      </indexentry>
+    </index>
+  </descgrp>
+</archdesc>
+</ead>

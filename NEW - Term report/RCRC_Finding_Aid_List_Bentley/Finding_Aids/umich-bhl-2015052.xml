@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>umich-bhl-2015052</eadid><filedesc><titlestmt><titleproper>Finding aid for Edmond DeVine papers</titleproper><author>Finding aid created by Elena Colon-Marrero, in October, 2015.</author></titlestmt><publicationstmt><publisher>Bentley Historical Library</publisher><p><date>2015</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-10-07 12:19:54 -0400</date>.</creation><langusage>The finding aid is written in <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc><revisiondesc><change><date>2015-10-13</date><item>Original encoding from Word 10.0 file using Word macros and Xmetal.</item></change><change><date>2016-11-21</date><item>Updated Conditions Governing Use Note</item></change></revisiondesc></eadheader><frontmatter><titlepage><publisher>Bentley Historical Library <lb/>University of Michigan</publisher><titleproper>Finding aid for Edmond DeVine papers</titleproper><author>Finding aid created by Elena Colon-Marrero, in October, 2015.</author></titlepage></frontmatter><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Bentley Historical Library</corpname>
+      <extptr actuate="onload" href="bhladd" show="embed"/>
+    </repository>
+    <unittitle>Edmond DeVine papers</unittitle>
+    <origination label="creator">
+      <persname source="lcnaf">DeVine, Edmond Francis.</persname>
+    </origination>
+    <unitid type="call number">2015052 Aa 2</unitid>
+    <physdesc>
+      <extent>0.3 linear feet</extent>
+    </physdesc>
+    <unitdate normal="1933/1955" type="inclusive">1933-1955</unitdate>
+    <langmaterial id="aspace_08b0c9e52d84d71c028d01b812bb8ba1">The material is in <language encodinganalog="041" langcode="eng">English</language></langmaterial>
+    <abstract id="aspace_4f79e37c8a4c8a6c2032e92d01f6017e">Edmond Francis DeVine was a lawyer and an Ann Arbor, Michigan native who served as Prosecuting Attorney for Washtenaw County in the 1950s and was a World War II veteran. The collection consists of diaries, scrapbooks, photographs, and other materials related to DeVine's high school, military, and legal careers.</abstract>
+  </did>
+  <descgrp type="admin">
+    <acqinfo><p>Donated by Suzanne DeVine (donor no. <num encodinganalog="541$e" type="donor">11259</num>), in April, 2015.</p></acqinfo>
+    <accruals><p>No further additions to the papers are expected.</p></accruals>
+    <accessrestrict><p>The collection is open for research.</p></accessrestrict>
+    <userestrict><p>Copyright is held by the Regents of the University of Michigan but the collection may contain third-party materials for which copyright is not held. Patrons are responsible for determining the appropriate use or reuse of materials.</p></userestrict>
+    <prefercite><p>[item], folder, box, Edmond DeVine papers, Bentley Historical Library, University of Michigan</p></prefercite>
+  </descgrp>
+  <bioghist><p>Edmond Francis DeVine was born in Ann Arbor, Michigan on August 9, 1916. He attended St. Thomas High where he was a member of the track, football, and basketball teams. DeVine received his bachelor's degree from the University of Michigan in 1937, where he lettered in track as a half-miler and was a member of Phi Kappa Psi. He graduated from the University of Michigan Laws School in 1940. DeVine was an editor of the Michigan Law Review and a member of the Phi Delta Phi legal fraternity. He attended Catholic University of America on a fellowship, and received his Master of Laws (LLM) degree in 1941. In 1941, he was appointed a special agent of the FBI, and was assigned to offices in El Paso, San Diego, and San Francisco. In 1943, DeVine was commissioned as an Ensign in the Navy. He served as an Air Combat Intelligence Officer with VF29, a Fighter Squadron that flew Hellcats from aircraft carrier USS Cabot with the First Carrier Task Force in the Pacific. With his Air Group, he received the Presidential Unit Citation and four battle stars, reflecting actions off the Philippines, Formosa, Iwo Jima, and Okinawa. DeVine was awarded the Bronze Star "with combat V, for valor." In 1949, he was appointed Chief Assistant Prosecuting Attorney of Washtenaw County. DeVine was elected Washtenaw County Prosecutor in 1951 and served two additional terms. He served as president of the Michigan Prosecuting Attorney's Association and Director of the National Association of District Attorneys. He taught Criminal Law and trial practice at the University of Michigan Law School as a lecturer, then Adjunct Professor, from 1949 to 1979. In 1955, DeVine married Elizabeth (Libby) Palmer Ward of Pontiac, Michigan. Devine was a fellow of the American College of Trial Lawyers and the Michigan State Bar Foundation and a Commissioner of the State Bar of Michigan. He was a member of the varsity "M" Club. At the age of 73, DeVine started a new career of competitive running. In 2007, USA Track &amp; Field Association presented him with the Paul Spangler Award given to "the outstanding master's long distance running athlete [in the nation] in the oldest age category." DeVine passed away at his home on February 15, 2012.</p></bioghist>
+  <arrangement><p>The records are arranged in three series: Personal materials, Election Materials, and Photographs.</p></arrangement>
+  <scopecontent><p>The Edmond DeVine papers consists of diaries, scrapbooks, photographs, and other materials related to DeVine's high school, military, and legal careers.</p></scopecontent>
+  <controlaccess>
+    <p>
+      <extptr actuate="onload" href="accnote" show="embed"/>
+    </p>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n79022219" source="lcsh">Ann Arbor (Mich.)</geogname>
+    <subject source="lcsh">Elections -- Michigan -- Washtenaw County.</subject>
+    <subject source="lcsh">School sports -- Michigan -- Ann Arbor.</subject>
+    <subject source="lcsh">World War, 1939-1945.</subject>
+    <subject source="lctgm">Family members.</subject>
+    <genreform source="aat">Photographs.</genreform>
+    <genreform source="aat">Scrapbooks.</genreform>
+    <corpname source="lcnaf">Cabot (Ship)</corpname>
+    <persname source="lcnaf">DeVine, Edmond Francis.</persname>
+    <corpname source="lcnaf">St. Thomas High School (Ann Arbor, Mich.) -- Sports.</corpname>
+    <corpname source="lcnaf">United States. Navy. Fighting Squadron 29.</corpname>
+    <corpname source="lcnaf">Washtenaw County (Mich.). Prosecuting Attorney.</corpname>
+  </controlaccess>
+  <dsc type="combined"><c01 id="aspace_ff329e581784411433bb33730f208c57" level="series"><did><unittitle>Personal Materials</unittitle></did><scopecontent><p>The Personal Materials series (1933-1945, 0.2 linear feet) consists of a scrapbook containing clippings documenting DeVine's high school sports career, correspondence, and a World War II diary.</p></scopecontent><c02 id="aspace_42c340f0b262fbd6b3a9c9061cad007a" level="file"><did><unittitle>Scrapbook</unittitle><unitdate normal="1933/1933" type="inclusive">1933</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_cd15d498aa837ece8035e6ad0c90cfdd" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1943/1945" type="inclusive">1943-1945</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_8c2362e7cab99b80f73dea12e06079c1" level="file"><did><unittitle>World War II Diary</unittitle><unitdate type="inclusive">undated</unitdate><container label="Box" type="box">1</container></did></c02></c01><c01 id="aspace_2fdcf402e3522fe71c2a6965b47c1410" level="series"><did><unittitle>Election Materials</unittitle></did><scopecontent><p>The Election Materials series (1952-1955, 0.1 linear feet) contains pamphlets, news clippings, a certificate of nomination, and press photographs relating to DeVine's run for Prosecuting Attorney for Washtenaw County.</p></scopecontent><c02 id="aspace_b05c15da0c5be63f4f8b740eec69b2aa" level="file"><did><unitdate normal="1952/1955" type="inclusive">1952-1955</unitdate><container label="Box" type="box">1</container></did></c02></c01><c01 id="aspace_96be907552eb502544eb0d077736d15e" level="series"><did><unittitle>Photographs</unittitle></did><scopecontent><p>The Photographs series (undated, 0.1 linear feet) contains photographs of DeVine's mother and aunt.</p></scopecontent><c02 id="aspace_e03bead63d97efbe0b453dcfa648173b" level="file"><did><unittitle>Margaret Herbert DeVine and sister</unittitle><unitdate type="inclusive">undated</unitdate><container label="Box" type="box">1</container></did></c02></c01></dsc>
+  <descgrp type="add">
+    <relatedmaterial>
+      <head>Related Material</head>
+<p>The Bentley Historical Library holds related material in the <title actuate="onrequest" href="http://quod.lib.umich.edu/b/bhlead/umich-bhl-87212" show="new">Ward Family Papers</title> and the <title actuate="onrequest" href="http://quod.lib.umich.edu/b/bhlead/umich-bhl-8978" show="new">Palmer Family papers</title>.</p>    </relatedmaterial>
+  </descgrp>
+</archdesc>
+</ead>

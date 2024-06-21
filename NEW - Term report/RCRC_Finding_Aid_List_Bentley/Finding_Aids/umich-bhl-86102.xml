@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>umich-bhl-86102</eadid><filedesc><titlestmt><titleproper>Finding aid for Theodore Hawley Tapping papers, 1909-1916 and 1937-1961</titleproper><author>Finding aid created by Michigan Historical Collections staff</author></titlestmt><publicationstmt><publisher>Bentley Historical Library</publisher><p><date>2008</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-10-07 12:46:26 -0400</date>.</creation><langusage>The finding aid is written in <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc><revisiondesc><change><date>2008-02-07</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change><change><date>2016-11-21</date><item>Updated Conditions Governing Use Note</item></change></revisiondesc></eadheader><frontmatter><titlepage><publisher>Bentley Historical Library <lb/>University of Michigan</publisher><titleproper>Finding aid for Theodore Hawley Tapping papers, 1909-1916 and 1937-1961</titleproper><author>Finding aid created by Michigan Historical Collections staff</author></titlepage></frontmatter><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Bentley Historical Library</corpname>
+      <extptr actuate="onload" href="bhladd" show="embed"/>
+    </repository>
+    <unittitle>Theodore Hawley Tapping papers</unittitle>
+    <origination label="creator">
+      <persname source="lcnaf">Tapping, Theodore Hawley, 1889-1969</persname>
+    </origination>
+    <unitid type="call number">86102 Aa 2</unitid>
+    <physdesc>
+      <extent>2.3 linear feet</extent>
+    </physdesc>
+    <physdesc>
+      <extent>1 oversize volume</extent>
+    </physdesc>
+    <unitdate normal="1909/1916" type="inclusive">1909-1916</unitdate>
+    <unitdate normal="1937/1961" type="inclusive">1937-1961</unitdate>
+    <langmaterial id="aspace_9e72e9086e030c8b25ffc6957ec301e3">The material is in <language encodinganalog="041" langcode="eng">English</language></langmaterial>
+    <abstract id="aspace_52633d6c61cb9f55d5b70199ca6f7c89">Secretary of University of Michigan Alumni Association; correspondence, scrapbooks, and photographs.</abstract>
+  </did>
+  <descgrp type="admin">
+    <acqinfo><p>The bulk of the collection was donated by Tapping (donor <num encodinganalog="541$e" type="donor">1464</num>) in 1951 and 1959-1960. Some materials were donated by the University of Michigan Alumni Association (donor <num encodinganalog="541$e" type="donor">1617</num>).</p></acqinfo>
+    <accruals><p>No further additions to the papers are expected.</p></accruals>
+    <accessrestrict><p>The collection is open to research.</p></accessrestrict>
+    <userestrict><p>Copyright status is unknown. Patrons are responsible for determining the appropriate use or reuse of materials.</p></userestrict>
+    <prefercite><p>[item], folder, box, Theodore Hawley Tapping papers, Bentley Historical Library, University of Michigan</p></prefercite>
+  </descgrp>
+  <bioghist><p>T. Hawley Tapping was born on Aug. 13, 1889, in Peoria, IL. He attended the University of Michigan literary college from 1907 to 1909. Tapping then received his Bachelor of Arts degree from the State University of Iowa in 1911.</p><p> Tapping began his career as newspaper editor for two years for several newspapers, including the <title render="italic">Peoria Transcript</title> of Peoria, IL. He then returned to the University of Michigan to receive his law degree in 1916. During World War I, Tapping served with the 343rd U.S. Infantry of the American Expeditionary Force in France for two years, rising to the rank of captain.</p><p> T. Hawley Tapping was a member of the Acacia fraternity and was national editor for that social fraternity in 1920-28. In addition, Tapping in 1921 became state editor of the <title render="italic">Grand Rapids Press</title>. In 1922-23, he was appointed Ann Arbor correspondent for the Booth Newspapers of Michigan. And in 1923, he became Field Secretary for the U-M Alumni Association, later General Secretary and editor-in-chief of the <title render="italic">Michigan Alumnus</title>. He retired in 1958.</p><p> Following his retirement, Tapping was appointed to the United Board of New York as a consultant to Stillman University in the Philippines, a Presbyterian Church supported institution. In 1962 he was named by the Washtenaw County Chapter of the American Red Cross as a consultant for its fund-raising drive to build the chapter's present headquarters on Packard Rd.</p><p> Tapping died on February 17, 1969.</p></bioghist>
+  <scopecontent><p>The T. Hawley Tapping collection includes material documenting his student days at the University of Michigan and University of Iowa, the Acacia fraternity and his work as consultant to f University in the Philippine Islands and service to the University of Michigan Alumni Association. The papers are arranged into three series: Correspondence; Scrapbooks; and Photographs.</p></scopecontent>
+  <controlaccess>
+    <p>
+      <extptr actuate="onload" href="accnote" show="embed"/>
+    </p>
+    <geogname source="lcsh">Philippines -- History -- 1946-1986.</geogname>
+    <subject source="lcsh">World War, 1939-1945.</subject>
+    <subject source="lctgm">Farming.</subject>
+    <subject source="lctgm">Football.</subject>
+    <subject source="lcsh">Hazing -- Michigan -- Ann Arbor.</subject>
+    <subject source="lcsh">Women college students -- Michigan -- Ann Arbor.</subject>
+    <genreform source="aat">Calling cards.</genreform>
+    <genreform source="aat">Photographs.</genreform>
+    <genreform source="aat">Scrapbooks.</genreform>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n85004340" source="lcnaf">Acacia Fraternity.</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no90002065" source="lcnaf">Angell, James Burrill, 1829-1916.</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n81018266" source="lcnaf">Silliman University.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79046198" source="lcnaf">University of Iowa.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- Alumni and alumnae.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/nr93034095" source="lcnaf">University of Michigan. Alumni Association.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- Students -- Social life and customs -- 1901-1910.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- Students -- Social life and customs -- 1911-1920.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n85004340" source="lcnaf">Acacia Fraternity.</corpname>
+    <corpname source="lcnaf">Archons (University of Michigan)</corpname>
+    <corpname source="lcnaf">Griffins (University of Michigan)</corpname>
+    <persname source="lcnaf">Tapping, Theodore Hawley, 1889-1969.</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79046198" source="lcnaf">University of Iowa.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- Football.</corpname>
+    <corpname source="lcnaf">University of Michigan. Junior Hop.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- Student housing.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- Students -- 1911-1920.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- Students -- Conduct of life.</corpname>
+    <persname role="ctb" source="lcnaf">Murphy, George, 1897-1961.</persname>
+    <persname role="ctb" source="lcnaf">Murphy, Irene Ellis, 1900-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n87828171" role="ctb" source="lcnaf">Ruthven, Alexander Grant, 1882-1971.</persname>
+  </controlaccess>
+  <dsc type="combined"><c01 id="aspace_42c916d8e288af7613e6ae07e5dc6f1b" level="series"><did><unittitle>Correspondence</unittitle></did><scopecontent><p>The Correspondence concerns the gift of land to the University of Michigan by the Von Platen-Fox Company. There are also letters from servicemen during World War II, including Milton M. Berger, army physician, who comments on the surrender of a group of Japanese on Okinawa at the end of World War II. The correspondence also relates to Tapping's activities in the Philippine Islands as consultant to Silliman University in its public relations program. Also found in the correspondence are letters from various University alumni containing reminiscences of administration of James B. Angell, and founding of the Acacia Fraternity. Other correspondents include George Murphy, Irene Murphy, and Alexander Ruthven.</p></scopecontent><c02 id="aspace_70273e2d39649009600fb1bb89e76b76" level="file"><did><unitdate normal="1937/1937" type="inclusive">1937</unitdate><container label="Box" type="box">1</container></did><odd><p>(Von Platen-Fox Company)</p></odd></c02><c02 id="aspace_9da0f9e6b978ea66e677c81e0e7c6fd1" level="file"><did><unitdate normal="1939/1946" type="inclusive">1939-1946</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_fcd118efe0785b331780ac37f3400690" level="file"><did><physdesc><extent>40 folders</extent></physdesc><unitdate normal="1956/1961-09" type="inclusive">1956-September 1961</unitdate><container label="Box" type="box">1</container></did></c02></c01><c01 id="aspace_143b4a413d7bfebba5dd48e12190290e" level="series"><did><unittitle><genreform normal="Scrapbooks">Scrapbooks</genreform> (College)</unittitle></did><scopecontent><p>The Scrapbooks contain programs, pictures <genreform normal="Calling cards">calling cards</genreform>, and miscellanea, ca. 1908-1915, from Iowa University and University of Michigan.</p></scopecontent><c02 id="aspace_2fdf53d2ede5e7d0f4251f9e2ebe45c1" level="file"><did><unitdate normal="1909/1910" type="inclusive">1909-1910</unitdate><container label="Box" type="box">2</container></did><odd><p>(includes <genreform normal="Photographs">photos</genreform> of buildings, student activities, and student rooms at University of Iowa)</p></odd></c02><c02 id="aspace_3e596dbf16a62101ddd54e7368c476e7" level="file"><did><unitdate normal="1910/1911" type="inclusive">1910-1911</unitdate><container label="Box" type="box">2</container></did><odd><p>(includes <genreform normal="Photographs">photos</genreform> of student activities at University of Iowa)</p></odd></c02><c02 id="aspace_27760e7fe14ff916c1fcea12db795c42" level="file"><did><unitdate normal="1911/1913" type="inclusive">1911-1913</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_7b8b98ec8eb0f740c3ed86926b38b92c" level="file"><did><unitdate normal="1913/1914" type="inclusive">1913-1914</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_2dea86aaba2e629bf4ba3c3947e701ef" level="file"><did><unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate><container label="Oversize Volume" type="volume">1</container></did><odd><p>(includes <genreform normal="Photographs">photos</genreform> of Archons and Griffins initiations)</p></odd></c02><c02 id="aspace_fad39f08db77385d0a97fa2009900b54" level="file"><did><unitdate normal="1914/1916" type="inclusive">1914-1916</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_e6ef8009f1bb77426f2aa94867d3b76a" level="file"><did><unittitle>Loose material from scrapbooks, chiefly <genreform normal="Photographs">photos</genreform></unittitle><physdesc><extent>5 folders</extent></physdesc><container label="Box" type="box">3</container></did></c02></c01><c01 id="aspace_0de533440bf8ea61218e58571aeebd45" level="series"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did><scopecontent><p>The Photographs relate to Tapping's student life at the University of Michigan and University of Iowa, including photos of student rooms, football games, the 1916 Junior Hop, Acacia fraternity, and initiations of the Archons and Griffins.</p></scopecontent><c02 id="aspace_baf4769e6099fe6ebd06cbb42665d123" level="file"><did><unittitle>Family and friends</unittitle><container label="Box" type="box">3</container></did></c02><c02 id="aspace_7cb7b63d611ccc14d886b8aa1050e155" level="file"><did><unittitle>Junior Hop</unittitle><unitdate normal="1916/1916" type="inclusive">1916</unitdate><container label="Box" type="box">3</container></did></c02><c02 id="aspace_a78ff16359b1beb524a0f644f7a76313" level="file"><did><unittitle>Portraits</unittitle><container label="Box" type="box">3</container></did></c02><c02 id="aspace_c55034ee4f235139dba3145d70818a2a" level="file"><did><unittitle>Sports</unittitle><container label="Box" type="box">3</container></did></c02><c02 id="aspace_a63a4ff5f7cf65fe7d3745e3c6fc04e7" level="file"><did><unittitle>University of Michigan buildings and students</unittitle><container label="Box" type="box">3</container></did></c02></c01></dsc>
+</archdesc>
+</ead>

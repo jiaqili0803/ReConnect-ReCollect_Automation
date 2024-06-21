@@ -1,0 +1,1244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>umich-bhl-851733</eadid><filedesc><titlestmt><titleproper>Finding Aid for Harry Burns Hutchins papers</titleproper><author>Finding aid prepared by: Michigan Historical Collections staff</author></titlestmt><publicationstmt><publisher>Bentley Historical Library</publisher><p><date>1997</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-10-07 12:28:45 -0400</date>.</creation><langusage>The finding aid is written in <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc><revisiondesc><change><date>2003-10-10</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change><change><date>1999-07-24</date><item>converted to new container style</item></change><change><date>1999-09-28</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change><change><date>2016-11-21</date><item>Updated Conditions Governing Use Note</item></change><change><date>2016-12-02</date><item>Hidden Collections: updated description</item></change><change><date>2016-1-09</date><item>Corrected typo</item></change><change><date>2017-09-27</date><item>Added digitized additional descriptive data from paper finding aid</item></change></revisiondesc></eadheader><frontmatter><titlepage><publisher>Bentley Historical Library <lb/>University of Michigan</publisher><titleproper>Finding Aid for Harry Burns Hutchins papers</titleproper><author>Finding aid prepared by: Michigan Historical Collections staff</author></titlepage></frontmatter><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Bentley Historical Library</corpname>
+      <extptr actuate="onload" href="bhladd" show="embed"/>
+    </repository>
+    <unittitle>Harry Burns Hutchins papers</unittitle>
+    <origination label="creator">
+      <persname authfilenumber="http://id.loc.gov/authorities/names/n88002366" source="lcnaf">Hutchins, Harry B. (Harry Burns), 1847-1930</persname>
+    </origination>
+    <unitid type="call number">851733 Aa 2; AC; UAM</unitid>
+    <physdesc>
+      <extent>22 linear feet</extent>
+    </physdesc>
+    <unitdate normal="1879/1930" type="inclusive">1879-1930</unitdate>
+    <abstract id="aspace_6dba5a8c815f40d746a9a872dbb3497f">Professor of law and president of the University of Michigan. Papers include correspondence, reports, and speeches relating to all aspects of his University activities; and visual materials.</abstract>
+    <langmaterial id="aspace_b97aebff5c16f69a59d886c8f00ffa6e">The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+  </did>
+  <descgrp type="admin">
+    <acqinfo><p>The Hutchins papers were transferred to the library from the University of Michigan Business Office. (Donor no. <num encodinganalog="541$e" type="donor">73</num>.)</p></acqinfo>
+    <accessrestrict><p>The collection is open for research.</p></accessrestrict>
+    <userestrict><p>Copyright is held by the Regents of the University of Michigan but the collection may contain third-party materials for which copyright is not held. Patrons are responsible for determining the appropriate use or reuse of materials.</p></userestrict>
+    <prefercite><p>[item], folder, box, Harry Burns Hutchins papers, Bentley Historical Library, University of Michigan.</p></prefercite>
+  </descgrp>
+  <bioghist><p>Harry Burns Hutchins was born near Lisbon, New Hampshire, on April 8,1847 and received his preparatory education in the east. However, from the time he entered the University of Michigan as an undergraduate, his life and work were closely tied to Michigan. As a student, Hutchins was a member of the Alpha Delta Phi fraternity and an editor of the University Chronicle. He was the first student to receive a degree from James B. Angell in 1871, and upon graduation worked for a year as superintendent of the Owosso schools. Hutchins returned to the university as an instructor in rhetoric and history and became an assistant professor a year later. During the three years he held that post, he studied law and began practicing law in Mount Clemens in 1876. </p><p>On December 27, 1872, Harry B. Hutchins married Marry Louise Crocker, of Birmingham, Michigan. Mary was born on January 14, 1857, the daughter of Fandira Emery Crocker and Thomas Martin Crocker. She was a descendent of Thomas Hooker, founder of Hartford, Connecticut, and Deacon William Crocker, one of the early settlers of Cape Cod, Massachusetts. Mrs. Hutchins graduated from Mt. Clemens High School in 1869. </p><p>In 1884, Mr. Hutchins returned to the University of Michigan as Jay Professor of Law. His teaching and organizational skills were recognized by Cornell University which invited him to organize its law school in 1887. He later returned to Ann Arbor and was appointed dean of the University of Michigan's Department of Law in 1895. He served as interim president of the university in 1897-98 while President Angell was serving as envoy to Turkey, and again in 1909-10 after Angell's resignation. In spite of Hutchins reluctance to accept the appointment as president at age 63, the Regents prevailed upon him, and he agreed to serve for five years. Letters of July 5, 1910, to Regents Leland and Knappen (box 2, folder 1) detail the conditions of his acceptance; numerous letters in the next few months replying to congratulatory messages he received, reiterate his doubts and hesitation. However, once in office he applied himself to the job with diligence. Hutchins believed that the university should be a leader and a contributor to the public good. Toward that end, he travelled extensively in his first year in office lecturing and meeting with alumni to encourage their support of the university by establishing active regional alumni organizations. He also oversaw the beginnings of an extension service to better serve the people of the Michigan. At first only a kind of speakers' bureau, which arranged for university professors to lecture to various groups outstate, it later added courses in outlying localities for which university credit could be earned.</p><p>President Hutchins took a personal interest in students, often inviting them to call on him, but he was also a strict disciplinarian who held students to a high standard of academic work and personal morality. His term in office was extended beyond five years by the demands of World War I, and he served until 1920.</p><p>Mr. and Mrs. Hutchins hosted many friends and distinguished guests, including U.S. President William H. Taft, to their home in Ann Arbor and their summer cottage in Cotuit, Massachusetts. Mary Hutchins was a member of many organizations including the Daughters of the American Revolution, a Regent of the Sarah Caswell Angell Chapter, the National Committee for the American flag, the Michigan Chapter of Colonial Dames, the American Association of University Women (Ann Arbor branch), the Faculty Women's Club, and a founding member of the Ann Arbor Women's Club. Mary Hutchins died of a heart attack on August 2, 1927. </p><p>After his retirement in 1920, Hutchins became President Emeritus and continued to serve the university in various capacities until his death. Harry B. Hutchins died on January 25, 1930.</p></bioghist>
+  <scopecontent><p>The Harry B. Hutchins papers cover the years 1879 through 1929, and include records generated during his years as professor and dean of the law department, President of the University of Michigan, and in retirement. Boxes 1-18 are primarily comprised of correspondence. Reports of the departments, schools, and other units of the university are contained in box 19, folders 30-32, and box 20, folders 1-13. As president, Hutchins did not regularly submit annual reports to the Board of Regents. Additional materials include speeches, photographs, and biographical material.</p></scopecontent>
+  <controlaccess>
+    <p>
+      <extptr actuate="onload" href="accnote" show="embed"/>
+    </p>
+    <subject source="lcsh">Afro-Americans -- Michigan.</subject>
+    <subject source="lcsh">Conservation of natural resources -- Michigan.</subject>
+    <subject source="lcsh">Elections -- Michigan -- 1912.</subject>
+    <subject source="lcsh">Elections -- Michigan -- 1914.</subject>
+    <geogname source="lcsh">United States -- Emigration and immigration.</geogname>
+    <geogname source="lcsh">Hillsdale (Mich.)</geogname>
+    <subject source="lcsh">Indians of North America -- Michigan.</subject>
+    <subject source="lcsh">Jews -- Michigan.</subject>
+    <geogname source="lcsh">Philippines -- History -- 1898-1946.</geogname>
+    <subject source="lcsh">Presidents -- United States -- Election -- 1912.</subject>
+    <subject source="lcsh">Prohibition -- Michigan.</subject>
+    <subject source="lcsh">Radicalism -- Michigan -- Ann Arbor.</subject>
+    <subject source="lcsh">Temperance -- Michigan.</subject>
+    <subject source="lcsh">Women -- Suffrage -- United States.</subject>
+    <subject source="lcsh">Spanish-American War, 1898.</subject>
+    <subject source="lcsh">Greek letter societies -- Michigan -- Ann Arbor.</subject>
+    <subject source="lcsh">Students, Foreign -- Michigan -- Ann Arbor.</subject>
+    <subject source="lcsh">Hazing -- Michigan -- Ann Arbor.</subject>
+    <subject source="lcsh">World War, 1914-1918 -- Education and the war.</subject>
+    <subject source="lcsh">World War, 1914-1918 -- Michigan -- Ann Arbor.</subject>
+    <subject source="lcsh">Immigrants -- United States.</subject>
+    <geogname source="lctgm">Ann Arbor (Mich.) -- Dwellings.</geogname>
+    <geogname source="lctgm">Ann Arbor (Mich.) -- Streets.</geogname>
+    <geogname source="lcsh">Camp Davis (University of Michigan)</geogname>
+    <genreform source="gmgpc">Drawings.</genreform>
+    <subject source="lctgm">Dwellings -- Michigan -- Ann Arbor.</subject>
+    <subject source="lctgm">Dwellings -- New Hampshire.</subject>
+    <geogname source="lcsh">Monroe Street (Ann Arbor, Mich.)</geogname>
+    <geogname source="lctgm">New Hampshire -- Dwellings.</geogname>
+    <genreform source="aat">Photographs.</genreform>
+    <genreform source="gmgpc">Prints.</genreform>
+    <subject source="lctgm">Streets -- Michigan -- Ann Arbor.</subject>
+    <genreform source="aat">Photographs.</genreform>
+    <subject source="local">Women's resources -- biographical information in finding aid.</subject>
+    <corpname source="lcnaf">American Peace Congress (4th : 1913 : St. Louis)</corpname>
+    <corpname source="lcnaf">B'nai B'rith Hillel Foundation (University of Michigan)</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50034593" source="lcnaf">Goldman, Emma, 1869-1940.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n88002366" source="lcnaf">Hutchins, Harry B. (Harry Burns), 1847-1930.</persname>
+    <corpname source="lcnaf">Intercollegiate Conference of Faculty Representatives.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n80076145" source="lcnaf">Ku Klux Klan (1915-)</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n80013543" source="lcnaf">United States. Army. Reserve Officers' Training Corps.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- Buildings.</corpname>
+    <corpname source="lcnaf">University of Michigan. Chinese Students Club.</corpname>
+    <corpname source="lcnaf">University of Michigan. Department of Astronomy.</corpname>
+    <corpname source="lcnaf">University of Michigan. Dept. of Classical Studies.</corpname>
+    <corpname source="lcnaf">University of Michigan. Dept. of Military Science and Tactics.</corpname>
+    <corpname source="lcnaf">University of Michigan. Dept. of Physics.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- Faculty.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- Football.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- Students.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- Students -- Societies, etc.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- Law School.</corpname>
+    <corpname source="lcnaf">University of Michigan. Library.</corpname>
+    <corpname source="lcnaf">Michigan Union.</corpname>
+    <corpname source="lcnaf">University of Michigan. University Museum.</corpname>
+    <corpname source="lcnaf">University of Michigan. President.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n82063886" source="lcnaf">University of Michigan. School of Music.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- Students -- Social life and customs -- 1911-1920.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- Students -- Conduct of life.</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n88002366" source="lcnaf">Hutchins, Harry B. (Harry Burns), 1847-1930.</persname>
+    <famname source="lcnaf">Hutchins family.</famname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n87828171" source="lcnaf">Ruthven, Alexander Grant, 1882-1971.</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n80094504" source="lcnaf">University of Michigan. College of Engineering.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- Faculty.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- Law School.</corpname>
+    <corpname source="lcnaf">University of Michigan. President.</corpname>
+    <persname role="ctb" source="lcnaf">Shaw, Wilfred Byron, 1881-1959.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n87145383" role="ctb" source="lcnaf">Adams, Charles Kendall, 1835-1902.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50036849" role="ctb" source="lcnaf">Adams, Henry Carter, 1851-1921.</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n90719457" role="ctb" source="lcnaf">American Neutral Conference Committee.</corpname>
+    <corpname role="ctb" source="lcnaf">American Protective Tariff League.</corpname>
+    <corpname role="ctb" source="lcnaf">American Union Against Militarism.</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n88002045" role="ctb" source="lcnaf">Angell, Alexis C. (Alexis Caswell), 1857-1932.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no90002065" role="ctb" source="lcnaf">Angell, James Burrill, 1829-1916.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no97001042" role="ctb" source="lcnaf">Angell, James Rowland, 1869-1949.</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/no99031082" role="ctb" source="lcnaf">Anti-Saloon League of Michigan.</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no98115213" role="ctb" source="lcnaf">Babst, Earl D., 1870-1967.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85809443" role="ctb" source="lcnaf">Barbour, Levi L. (Levi Lewis), 1840-1925.</persname>
+    <persname role="ctb" source="lcnaf">Bartelme, Philip George, 1876-1954.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2001090656" role="ctb" source="lcnaf">Bates, Henry Moore, 1869-1949.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008182928" role="ctb" source="lcnaf">Beakes, Samuel Willard, 1861-1927.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008186663" role="ctb" source="lcnaf">Beal, Junius E. (Junius Emery), 1860-1942.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n93084315" role="ctb" source="lcnaf">Bishop, William Warner, 1871-1955.</persname>
+    <persname role="ctb" source="lcnaf">Boudeman, Dallas.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50042822" role="ctb" source="lcnaf">Bowers, Claude Gernade, 1879-1958.</persname>
+    <persname role="ctb" source="lcnaf">Bryan, William Jennings, 1860-1925.</persname>
+    <persname role="ctb" source="lcnaf">Bulkley, Harry C. (Harry Conant), 1870-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no95042265" role="ctb" source="lcnaf">Burrows, Julius C. (Julius Caesar), 1837-1915.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n88650119" role="ctb" source="lcnaf">Burton, Marion Le Roy, 1874-1925.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50032600" role="ctb" source="lcnaf">Butler, Nicholas Murray, 1862-1947.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86111262" role="ctb" source="lcnaf">Cabot, Hugh, 1872-1945.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86114210" role="ctb" source="lcnaf">Chapin, Roy D. (Roy Dikeman), 1880-1936.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/nr94018515" role="ctb" source="lcnaf">Clements, William L. (William Lawrence), 1861-1934.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008182100" role="ctb" source="lcnaf">Comstock, William Alfred, 1877-1949.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n87856649" role="ctb" source="lcnaf">Cook, William W. (William Wilson), 1858-1930.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n80056984" role="ctb" source="lcnaf">Cooley, Charles Horton, 1864-1929.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n84804477" role="ctb" source="lcnaf">Cooley, Mortimer E. (Mortimer Elwyn), 1855-1944.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no97067269" role="ctb" source="lcnaf">Copeland, Royal S. (Royal Samuel), 1868-1938.</persname>
+    <persname role="ctb" source="lcnaf">Cramton, Louis C. (Louis Convers), 1875-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50037360" role="ctb" source="lcnaf">Daniels, Josephus, 1862-1948.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008189013" role="ctb" source="lcnaf">Demmon, Isaac Newton, 1842-1920.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n84805969" role="ctb" source="lcnaf">D'Ooge, Martin Luther, 1839-1915.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85335454" role="ctb" source="lcnaf">Douglas, Lloyd C. (Lloyd Cassel), 1877-1951.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2002097291" role="ctb" source="lcnaf">Dow, Earle Wilbur, 1868-1946.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n80046721" role="ctb" source="lcnaf">Du Bois, W. E. B. (William Edward Burghardt), 1868-1963.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2007084988" role="ctb" source="lcnaf">Effinger, John R. (John Robert), 1869-1933.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n2013064058" role="ctb" source="lcnaf">Eggert, Carl Edgar, 1868-1944.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n96085441" role="ctb" source="lcnaf">Ferris, Woodbridge N., 1853-1928.</persname>
+    <persname role="ctb" source="lcnaf">Fletcher, Frank Ward, 1853-1922.</persname>
+    <persname role="ctb" source="lcnaf">Gore, Victor Michael, 1858-1941.</persname>
+    <persname role="ctb" source="lcnaf">Grant, Claudius Buchanan, 1835-1921.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008187842" role="ctb" source="lcnaf">Grant, John Henry, 1857-1913.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008187813" role="ctb" source="lcnaf">Groesbeck, Alexander J. (Alexander Joseph), 1873-1953.</persname>
+    <persname role="ctb" source="lcnaf">Hanchett, Benjamin Sawtell, 1868-1933.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50032646" role="ctb" source="lcnaf">Hart, Albert Bushnell, 1854-1943.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n84012363" role="ctb" source="lcnaf">Hinsdale, W. B. (Wilbert B.), 1851-1944.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86869592" role="ctb" source="lcnaf">Hobbs, William Herbert, 1864-1952.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79021421" role="ctb" source="lcnaf">Hoover, Herbert, 1874-1964.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/nr97041173" role="ctb" source="lcnaf">Hubbard, Lucius L. (Lucius Lee), 1849-1933.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008186678" role="ctb" source="lcnaf">Hudson, Joseph Lowthian, 1846-1912.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85221105" role="ctb" source="lcnaf">Hudson, Richard, 1845-1915.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79006704" role="ctb" source="lcnaf">Hughes, Charles Evans, 1862-1948.</persname>
+    <persname role="ctb" source="lcnaf">Hussey, Ethel Fountain, 1865-1915.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008189002" role="ctb" source="lcnaf">Hussey, William Joseph, 1862-1926.</persname>
+    <corpname role="ctb" source="lcnaf">Illinois Vigilance Association.</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86013736" role="ctb" source="lcnaf">Johnson, Elias Finley, 1861-1933.</persname>
+    <persname role="ctb" source="lcnaf">Jordan, Myra Beach, 1863-1946.</persname>
+    <persname role="ctb" source="lcnaf">Keeler, Fred L.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50060957" role="ctb" source="lcnaf">Kellogg, John Harvey, 1852-1943.</persname>
+    <persname role="ctb" source="lcnaf">Kelsey, Francis W. (Francis Willey), 1858-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008186689" role="ctb" source="lcnaf">Knappen, Loyal Edwin, 1854-1930.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n82037904" role="ctb" source="lcnaf">Koch, Theodore Wesley, 1871-1941.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86026339" role="ctb" source="lcnaf">Labadie, Jo, 1850-1933.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50039266" role="ctb" source="lcnaf">Lansing, Robert, 1864-1928.</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n86111035" role="ctb" source="lcnaf">League to Enforce Peace.</corpname>
+    <persname role="ctb" source="lcnaf">Leland, Frank Bruce.</persname>
+    <persname role="ctb" source="lcnaf">Little, Clarence C. (Clarence Cook), 1888-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n80090331" role="ctb" source="lcnaf">McLaughlin, Andrew Cunningham, 1861-1947.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n92120793" role="ctb" source="lcnaf">Malcolm, George A. (George Arthur), 1881-1961.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008189047" role="ctb" source="lcnaf">Mapes, Carl Edgar, 1874-1939.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50007348" role="ctb" source="lcnaf">Mayo, William James, 1861-1939.</persname>
+    <corpname role="ctb" source="lcnaf">Men's League for Woman Suffrage of the State of Michigan.</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79055261" role="ctb" source="lcnaf">Mott, John Raleigh, 1865-1955.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008183306" role="ctb" source="lcnaf">Murfin, James Orin, 1875-1940.</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n84110549" role="ctb" source="lcnaf">National Child Labor Committee (U.S.)</corpname>
+    <corpname role="ctb" source="lcnaf">National Conference on Race Betterment.</corpname>
+    <corpname source="lcnaf">National Conservation Congress. n 5th, Washington, D.C., 1913.</corpname>
+    <corpname role="ctb" source="lcnaf">National Home Finding Society for Colored Children.</corpname>
+    <corpname role="ctb" source="lcnaf">National Peace Federation.</corpname>
+    <corpname role="ctb" source="lcnaf">National Religious Training School.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79063815" role="ctb" source="lcnaf">National Urban League.</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n89125977" role="ctb" source="lcnaf">Newberry, Truman Handy, 1864-1945.</persname>
+    <persname role="ctb" source="lcnaf">Osborn, Chase S. (Chase Salmon), 1860-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50051834" role="ctb" source="lcnaf">Page, Walter Hines, 1855-1918.</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/no2005098042" role="ctb" source="lcnaf">Michigan State Grange.</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no95038753" role="ctb" source="lcnaf">Pillsbury, W. B. (Walter Bowers), 1872-1960.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n78097059" role="ctb" source="lcnaf">Pinchot, Gifford, 1865-1946.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86868022" role="ctb" source="lcnaf">Pingree, Hazen S., 1840-1901.</persname>
+    <persname role="ctb" source="lcnaf">Quezon, Manuel Luis, 1878-1944.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2001028340" role="ctb" source="lcnaf">Reeves, Jesse Siddall, 1872-1942.</persname>
+    <persname role="ctb" source="lcnaf">Reighard, Jacob Ellsworth, 1861-1942.</persname>
+    <persname role="ctb" source="lcnaf">Riggs, Henry Earle, 1865-1949.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79027239" role="ctb" source="lcnaf">Roosevelt, Theodore, 1858-1919.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50048409" role="ctb" source="lcnaf">Root, Elihu, 1845-1937.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n87828171" role="ctb" source="lcnaf">Ruthven, Alexander Grant, 1882-1971.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008183271" role="ctb" source="lcnaf">Sawyer, Walter H. (Walter Hulme), 1861-1931.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n81024695" role="ctb" source="lcnaf">Schurman, Jacob Gould, 1854-1942.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008187860" role="ctb" source="lcnaf">Sleeper, Albert E., 1862-1934.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008187805" role="ctb" source="lcnaf">Smith, Shirley Wheeler, 1875-1959.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no98099507" role="ctb" source="lcnaf">Smith, William Alden, 1859-1932.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50011364" role="ctb" source="lcnaf">Stimson, Henry L. (Henry Lewis), 1867-1950.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79022244" role="ctb" source="lcnaf">Taft, William H. (William Howard), 1857-1930.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008188960" role="ctb" source="lcnaf">Townsend, Charles E. (Charles Elroy), 1856-1924.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50045033" role="ctb" source="lcnaf">Vandenberg, Arthur H. (Arthur Hendrick), 1884-1951.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50046690" role="ctb" source="lcnaf">Van Tyne, Claude Halstead, 1869-1930.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85804361" role="ctb" source="lcnaf">Vaughan, Victor C. (Victor Clarence), 1851-1929.</persname>
+    <persname role="ctb" source="lcnaf">Ward, Marcus Llewellyn, 1875-1963.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n88022440" role="ctb" source="lcnaf">Warner, Frederick Maltby, 1865-1923.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79063604" role="ctb" source="lcnaf">Washington, Booker T., 1856-1915.</persname>
+    <persname role="ctb" source="lcnaf">Wedemeyer, William Walter, 1873-1913.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/nr00017036" role="ctb" source="lcnaf">Wenley, R. M. (Robert Mark), 1861-1929.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n87890337" role="ctb" source="lcnaf">Wheeler, Burton K. (Burton Kendall), 1882-1975.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n80032033" role="ctb" source="lcnaf">White, Andrew Dickson, 1832-1918.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79046299" role="ctb" source="lcnaf">Wilson, Woodrow, 1856-1924.</persname>
+    <persname role="ctb" source="lcnaf">Wood, Leonard, 1860-1927.</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/no2003070180" role="ctb" source="lcnaf">World Court League.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79074496" role="ctb" source="lcnaf">World Peace Foundation.</corpname>
+    <persname role="ctb" source="lcnaf">Wright, Luther Lamphere, 1856-1922.</persname>
+    <persname rules="dacs" source="local">Hutchins, Mary Louise Crocker, 1857-1927.</persname>
+  </controlaccess>
+  <dsc type="combined"><c01 id="aspace_423cbf7bbc1fed8dcdbf8f5450c71942" level="series"><did><unittitle>Correspondence and other Papers</unittitle><physdesc><extent>18.5 linear feet</extent></physdesc><unitdate normal="1879/1930" type="inclusive">1879-1930</unitdate></did><scopecontent><p>The correspondence is arranged in strict chronological order according to the date of the letter received and the date of the reply to it. This means that the letter and its response are sometimes widely separated. However, the date of the reply was often noted on the incoming letter in blue pencil. Two indexes have been created to provide some access points to the chronological correspondence files.</p><p> A name index lists many of the most significant authors or recipients of letters. The alphabetical listing cites letters by the author by date. A second index provides access by broad topics and subjects. In the index notations, dates for original letters and responses are given. If the reply is in the same folder as the incoming letter, the dates in the index appear in order, separated by a comma. If the reply is in another folder, its notation is preceded by an R and the box, folder number, and date are given. Starting in 1913, copies of replies are sometimes on the back of the incoming letter itself so the researcher should check there also</p><p> President Hutchins continued the operation of the university as it had been under previous presidents, although with increasing expansion of course offerings and student numbers university management was beginning to become unwieldy. There was no organizational structure demarking administrative functions. This lack meant that a wide range of inquiries were addressed to the president -- including those regarding appointments, admissions, student financial aid, and medical care in the university hospitals. These were referred to the heads of the various departments and schools, to the secretary of the university, who oversaw financial affairs, or to the Student Christian Association, which arranged for student jobs.</p><p> An indication of how highly regarded the university was across the country may be found in the large number of inquiries from university or government officials in recently admitted states in the west where state systems of higher education were being developed. The range of topics on which they sought advice may be seen in the index listings under "Inquiries from other Educational Institutions".</p></scopecontent><c02 id="aspace_ad655f669d9883f49ee1c84ce81263c3" level="file"><did><unittitle>"Letters Written by Men of Note which are to be found in the Hutchins Papers"</unittitle><unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_52f11c3604eb13ce89feab1b3eba8214" level="file"><did><physdesc><extent>43 folders</extent></physdesc><unitdate normal="1879/1910-06-30" type="inclusive">1879-June 30, 1910</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_880676ef6c74b9771ab63596a283ca53" level="file"><did><physdesc><extent>42 folders</extent></physdesc><unitdate normal="1910-07-01/1911-05-07" type="inclusive">July 1, 1910-May 7, 1911</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_0de32936ca0b350f4d214b8c4466320b" level="file"><did><physdesc><extent>28 folders</extent></physdesc><unitdate normal="1911-05-08/1911-12-31" type="inclusive">May 8, 1911-December 31, 1911</unitdate><container label="Box" type="box">3</container></did></c02><c02 id="aspace_bf98bfa5637809accb6f4d9a5e233e1b" level="file"><did><physdesc><extent>24 folders</extent></physdesc><unitdate normal="1912-01-01/1912-06-30" type="inclusive">January 1, 1912-June 30, 1912</unitdate><container label="Box" type="box">4</container></did></c02><c02 id="aspace_edebb1296e5ce2474a0c27d5e7d6c699" level="file"><did><physdesc><extent>36 folders</extent></physdesc><unitdate normal="1912-07-01/1913-03-31" type="inclusive">July 1, 1912-March 31, 1913</unitdate><container label="Box" type="box">5</container></did></c02><c02 id="aspace_e6909847f8e7c9d8aedcc35e96d6e05c" level="file"><did><physdesc><extent>30 folders</extent></physdesc><unitdate normal="1913-04-01/1913-12-31" type="inclusive">April 1, 1913-December 31, 1913</unitdate><container label="Box" type="box">6</container></did></c02><c02 id="aspace_985af8e1d75066cac7cb38b1bd50807a" level="file"><did><physdesc><extent>24 folders</extent></physdesc><unitdate normal="1914-01-01/1914-06-30" type="inclusive">January 1, 1914-June 30, 1914</unitdate><container label="Box" type="box">7</container></did></c02><c02 id="aspace_22fe58f81e3113f69ce66a909525b255" level="file"><did><physdesc><extent>24 folders</extent></physdesc><unitdate normal="1914-07-01/1914-12-31" type="inclusive">July 1, 1914-December 31, 1914</unitdate><container label="Box" type="box">8</container></did></c02><c02 id="aspace_40bcdf88ed5bfde387d0f799de53ac6b" level="file"><did><physdesc><extent>24 folders</extent></physdesc><unitdate normal="1915-01-01/1915-06-30" type="inclusive">January 1, 1915-June 30, 1915</unitdate><container label="Box" type="box">9</container></did></c02><c02 id="aspace_c006a520a3e19d694fdf9bc7b0b924ff" level="file"><did><physdesc><extent>25 folders</extent></physdesc><unitdate normal="1915-07-01/1915-12-31" type="inclusive">July 1, 1915-December 31, 1915</unitdate><container label="Box" type="box">10</container></did></c02><c02 id="aspace_a2cf29952185a6a935ea9c27bb2ac4df" level="file"><did><physdesc><extent>31 folders</extent></physdesc><unitdate normal="1916/1916-08-31" type="inclusive">January 1 1916-August 31, 1916</unitdate><container label="Box" type="box">11</container></did></c02><c02 id="aspace_bdecc50ae27a2b9b28edfaa396190816" level="file"><did><physdesc><extent>28 folders</extent></physdesc><unitdate normal="1916-09-01/1917-03-31" type="inclusive">September 1, 1916-March 31, 1917</unitdate><container label="Box" type="box">12</container></did></c02><c02 id="aspace_df8f16d9a6864133ac68a82e87f2c2b6" level="file"><did><physdesc><extent>24 folders</extent></physdesc><unitdate normal="1917-04-01/1917-09-30" type="inclusive">April 1, 1917-September 30, 1917</unitdate><container label="Box" type="box">13</container></did></c02><c02 id="aspace_e455551f6b055088d35f3a1da135a10f" level="file"><did><physdesc><extent>24 folders</extent></physdesc><unitdate normal="1917-10-01/1918-03-31" type="inclusive">October 1, 1917-March 31, 1918</unitdate><container label="Box" type="box">14</container></did></c02><c02 id="aspace_5be38dc1ffc2b3c240ccc3296d033f8e" level="file"><did><physdesc><extent>20 folders</extent></physdesc><unitdate normal="1918-04-01/1918-08-31" type="inclusive">April 1, 1918-August 31, 1918</unitdate><container label="Box" type="box">15</container></did></c02><c02 id="aspace_82413660702a165d3addd523d1241a20" level="file"><did><unittitle>September 1, 1918-Jan 27</unittitle><physdesc><extent>22 folders</extent></physdesc><unitdate normal="1919/1919" type="inclusive">1919</unitdate><container label="Box" type="box">16</container></did></c02><c02 id="aspace_257554a72e79872843bf8e56ac23e394" level="file"><did><physdesc><extent>28 folders</extent></physdesc><unitdate normal="1919-02-01/1919-08-31" type="inclusive">February 1, 1919-August 31, 1919</unitdate><container label="Box" type="box">17</container></did></c02><c02 id="aspace_cdf3e8a65196ebce3aa5f8f5ea546f91" level="file"><did><unittitle>September 1, 1919-March, 31</unittitle><physdesc><extent>32 folders</extent></physdesc><unitdate normal="1920/1920" type="inclusive">1920</unitdate><container label="Box" type="box">18</container></did></c02><c02 id="aspace_9b72a4e82371fb6461f77e864faaf2b3" level="file"><did><physdesc><extent>25 folders</extent></physdesc><unitdate normal="1920-04-01/1930" type="inclusive">April 1, 1920-1930</unitdate><container label="Box" type="box">19</container></did><odd><p>(folder undated 1920 includes Committee of Instructor's Plea for Salary Increase)</p></odd></c02></c01><c01 id="aspace_1c1f88ec324606749de2638d4aff95a4" level="series"><did><unittitle>Biographical Material</unittitle></did><scopecontent><p>The Biographical Materials series consist of a typescript biography of Hutchins written by Harry C. Hutchins, Hutchins' will and an obituary of Mary Hutchins.</p></scopecontent><c02 id="aspace_8d4d5c56f130ecff9a19179b56071ec3" level="file"><did><unittitle>Biography of Harry B. Hutchins, typescript by Harry C. Hutchins</unittitle><container label="Box" type="box">19</container></did><odd><p>(also includes will of HBH and an obituary of Mary Hutchins)</p></odd></c02></c01><c01 id="aspace_e27242a37fb259eb8b73d234da10d548" level="series"><did><unittitle>Speeches and Articles</unittitle></did><scopecontent><p>Several commencement and baccalaureate addresses, presentations to the American Political Science Association, and talks and articles on the university and academic affairs comprise the Speeches and Articles series.</p></scopecontent><c02 id="aspace_2f2e20918c89f3a6984c2005f9715c40" level="file"><did><unittitle>Speeches</unittitle><physdesc><extent>3 folders</extent></physdesc><container label="Box" type="box">19</container></did></c02></c01><c01 id="aspace_da6dbf8545e1d5f598e32d933bb1d5c4" level="series"><did><unittitle>Reports of Colleges, Schools and Departments</unittitle></did><scopecontent><p>The Reports of Colleges, Schools and Departments series includes reports from deans and heads of department. IN some cases these are annual or five year reports. A number are reports specifically requested by Hutchins in 1920 to document developments during his administration.</p></scopecontent><c02 id="aspace_82937ae66aa16ef10c6e5145657f5cf7" level="file"><did><unittitle>College of L.S.&amp;A.</unittitle><unitdate normal="1919/1919" type="inclusive">1919</unitdate><unitdate normal="1920/1920" type="inclusive">1920</unitdate><container label="Box" type="box">19</container></did></c02><c02 id="aspace_b487c2d98f3fda6ef8e9668116012575" level="file"><did><unittitle>College of Pharmacy</unittitle><unitdate normal="1915/1915" type="inclusive">1915</unitdate><unitdate normal="1920/1920" type="inclusive">1920</unitdate><container label="Box" type="box">19</container></did></c02><c02 id="aspace_f5b7f082bbce0ed59690976ccbd6b90d" level="file"><did><unittitle>Dean of Women</unittitle><unitdate normal="1920/1920" type="inclusive">1920</unitdate><container label="Box" type="box">19</container></did><odd><p>(Includes information on the development of women's dormitories (such as the Women's League), the increase in female attendance, benefits of self-governance, and impact of WWI on academic curriculum. Witten by second Dean of Women, Myra Beach Jordan (1920-1922), and covers the time period 1909-1920.)</p></odd></c02><c02 id="aspace_6fcf80589c89804220834833db538f42" level="file"><did><unittitle>Department Of Engineering</unittitle><unitdate normal="1910/1910" type="inclusive">1910</unitdate><container label="Box" type="box">19</container></did></c02><c02 id="aspace_7aa0c8d7b4435731a1518706c7b6acb3" level="file"><did><unittitle>Extension Service</unittitle><unitdate normal="1915/1915" type="inclusive">1915</unitdate><unitdate normal="1920/1920" type="inclusive">1920</unitdate><container label="Box" type="box">20</container></did></c02><c02 id="aspace_b1543d3ece9213c254f5b8e5cbb64304" level="file"><did><unittitle>Graduate School</unittitle><unitdate normal="1910/1910" type="inclusive">1910</unitdate><unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate><unitdate normal="1920/1920" type="inclusive">1920</unitdate><container label="Box" type="box">20</container></did></c02><c02 id="aspace_2591aa0cc7a730a20cccd5e96c513348" level="file"><did><unittitle>Health Service</unittitle><unitdate normal="1916/1916" type="inclusive">1916</unitdate><container label="Box" type="box">20</container></did></c02><c02 id="aspace_b57765b30c295a96bae101b26147fea3" level="file"><did><unittitle>Homeopathic School</unittitle><unitdate normal="1910/1910" type="inclusive">1910</unitdate><unitdate normal="1915/1915" type="inclusive">1915</unitdate><unitdate normal="1920/1920" type="inclusive">1920</unitdate><container label="Box" type="box">20</container></did></c02><c02 id="aspace_479a93b443a19e0ccbc5a269dbd95b4b" level="file"><did><unittitle>Law School</unittitle><unitdate normal="1915/1915" type="inclusive">1915</unitdate><unitdate normal="1921/1921" type="inclusive">1921</unitdate><container label="Box" type="box">20</container></did></c02><c02 id="aspace_fd510ea899320da773c3cd14d336082f" level="file"><did><unittitle>Library</unittitle><unitdate normal="1920/1920" type="inclusive">1920</unitdate><container label="Box" type="box">20</container></did></c02><c02 id="aspace_bd91e5e66c4a7052dee74cc95971a6f2" level="file"><did><unittitle>Medical School</unittitle><unitdate normal="1910/1910" type="inclusive">1910</unitdate><unitdate normal="1915/1915" type="inclusive">1915</unitdate><unitdate normal="1920/1920" type="inclusive">1920</unitdate><container label="Box" type="box">20</container></did></c02><c02 id="aspace_5f5c1d30d52ffb1283e21caaa5fb5a06" level="file"><did><unittitle>Observatory</unittitle><unitdate normal="1915/1915" type="inclusive">1915</unitdate><container label="Box" type="box">20</container></did></c02><c02 id="aspace_87bad1b2f01591226acce2534807a726" level="file"><did><unittitle>School of Dentistry</unittitle><unitdate normal="1910/1910" type="inclusive">1910</unitdate><unitdate normal="1915/1915" type="inclusive">1915</unitdate><unitdate normal="1920/1920" type="inclusive">1920</unitdate><container label="Box" type="box">20</container></did></c02><c02 id="aspace_675c9896246cf15ec3aebeefd0c7f48f" level="file"><did><unittitle>Summer Session</unittitle><unitdate normal="1910/1910" type="inclusive">1910</unitdate><unitdate normal="1911/1911" type="inclusive">1911</unitdate><unitdate normal="1920/1920" type="inclusive">1920</unitdate><container label="Box" type="box">20</container></did></c02><c02 id="aspace_93b009749dde8982968aa794fdd78ca1" level="file"><did><unittitle>University Hospital</unittitle><unitdate normal="1915/1915" type="inclusive">1915</unitdate><unitdate normal="1920/1920" type="inclusive">1920</unitdate><container label="Box" type="box">20</container></did></c02></c01><c01 id="aspace_e5fb2b1f4ec28b0f16d72a9ea884da8f" level="series"><did><unittitle>Miscellaneous Papers</unittitle></did><scopecontent><p>The Miscellaneous Papers series consists of correspondence and other material arranged by topic. There are files relating to alumni affairs-largely arrangements for Hutchins' speaking engagements at regional alumni associations, commencement activities and awarding of honorary degrees, convocations, his participation in the affairs of the Carnegie Foundation, and files concerning the University's participation in World War I, including campus ROTC and military training camps for students.</p></scopecontent><c02 id="aspace_98b69002480cb949bda1bc834408139a" level="file"><did><unittitle>Alumni Association and commencement</unittitle></did><c03 id="aspace_025e7e3279b2827ef3128381b38945ed" level="file"><did><unittitle>General</unittitle><physdesc><extent>3 folders</extent></physdesc><container label="Box" type="box">20</container></did></c03><c03 id="aspace_fdb0289577a436de13575b1505891aa2" level="file"><did><unittitle>Alumni Clubs</unittitle><container label="Box" type="box">20</container></did></c03><c03 id="aspace_72d68901c2edbda0b71cb4d48ac4bb9e" level="file"><did><unittitle>Buffalo Alumni Association</unittitle><unitdate normal="1916/1916" type="inclusive">1916</unitdate><container label="Box" type="box">20</container></did></c03><c03 id="aspace_f662fbdd46b34582acf2cd2d5674ad1b" level="file"><did><unittitle>Chicago Alumni Association</unittitle><unitdate normal="1915/1915" type="inclusive">1915</unitdate><container label="Box" type="box">20</container></did></c03><c03 id="aspace_435adbac905f0bf57fd1cba24047fc55" level="file"><did><unittitle>Chicago Alumni Association</unittitle><unitdate normal="1916/1916" type="inclusive">1916</unitdate><container label="Box" type="box">20</container></did></c03><c03 id="aspace_ec2a44d3f821632255751d67e6320ba1" level="file"><did><unittitle>Cleveland Alumni Association</unittitle><unitdate normal="1915/1915" type="inclusive">1915</unitdate><container label="Box" type="box">20</container></did></c03><c03 id="aspace_7cb9fb006404fbf7f5168bfa029f5636" level="file"><did><unittitle>Cleveland and Philadelphia Alumni Association</unittitle><unitdate normal="1916/1916" type="inclusive">1916</unitdate><container label="Box" type="box">20</container></did></c03><c03 id="aspace_e5eb8b58432382a9a009601e67f900b9" level="file"><did><unittitle>Columbus (OH)</unittitle><unitdate normal="1914/1914" type="inclusive">1914</unitdate><container label="Box" type="box">20</container></did></c03><c03 id="aspace_51e70938c591dd40505b1f08c325dc1f" level="file"><did><unittitle>Kansas City, St. Louis and Springfield (IL) Alumni Associations</unittitle><unitdate normal="1914/1914" type="inclusive">1914</unitdate><container label="Box" type="box">20</container></did></c03><c03 id="aspace_526aa4b01da94023bf32bdcd16659a52" level="file"><did><unittitle>Kansas city and Oklahoma City</unittitle><unitdate normal="1916/1916" type="inclusive">1916</unitdate><container label="Box" type="box">20</container></did></c03><c03 id="aspace_acb8bf0f3878ef4ecb683d18c6b7a949" level="file"><did><unittitle>Milwaukee Alumni Meeting</unittitle><unitdate normal="1920/1920" type="inclusive">1920</unitdate><container label="Box" type="box">20</container></did></c03><c03 id="aspace_00460cd0e5fad110d47e6e86aec63256" level="file"><did><unittitle>Minneapolis and Northwestern Alumni Associations</unittitle><unitdate normal="1915/1915" type="inclusive">1915</unitdate><container label="Box" type="box">20</container></did></c03><c03 id="aspace_f474c057a14444339923b19f57541660" level="file"><did><unittitle>New England Alumni Association</unittitle><unitdate normal="1916/1916" type="inclusive">1916</unitdate><container label="Box" type="box">20</container></did></c03><c03 id="aspace_161612722dee30142b724285dfe06cca" level="file"><did><unittitle>New York City, Rochester, Washington, Buffalo</unittitle><unitdate normal="1914/1914" type="inclusive">1914</unitdate><container label="Box" type="box">20</container></did></c03><c03 id="aspace_62691dd9970a1cec825361a0e850f1b1" level="file"><did><unittitle>New York and Washington D.C.</unittitle><unitdate normal="1915/1915" type="inclusive">1915</unitdate><container label="Box" type="box">20</container></did></c03><c03 id="aspace_949664e138d8e83dfdc6e0a64645778d" level="file"><did><unittitle>New York City and Washington D.C.</unittitle><unitdate normal="1916/1916" type="inclusive">1916</unitdate><container label="Box" type="box">20</container></did></c03><c03 id="aspace_f6b3952182d3efb93b51680bb25b3844" level="file"><did><unittitle>Philadelphia Alumni Association</unittitle><container label="Box" type="box">20</container></did></c03><c03 id="aspace_6a08a627f7cb5363b37315f00306cb1e" level="file"><did><unittitle>Rochester District Alumni Association</unittitle><unitdate normal="1914/1914" type="inclusive">1914</unitdate><container label="Box" type="box">20</container></did></c03></c02><c02 id="aspace_ceb499b5a80f9d4eec74218d7a97c423" level="file"><did><unittitle>Carnegie Foundation</unittitle><physdesc><extent>15 folders</extent></physdesc><unitdate normal="1910/1920" type="inclusive">1910-1920</unitdate><container label="Box" type="box">20</container></did></c02><c02 id="aspace_80080fde922b5212197f778ade64d6c9" level="file"><did><unittitle>Letters of congratulations on appointment as president</unittitle><physdesc><extent>3 folders</extent></physdesc><unitdate normal="1910/1910" type="inclusive">1910</unitdate><container label="Box" type="box">20</container></did></c02><c02 id="aspace_428991c4073d7294eafeb4dd46b88867" level="file"><did><unittitle>Commencement</unittitle><unitdate normal="1911/1920" type="inclusive">1911-1920</unitdate></did><c03 id="aspace_f71ece3f0ac2d2d121f0a252c6188ce7" level="file"><did><physdesc><extent>7 folders</extent></physdesc><unitdate normal="1911/1916" type="inclusive">1911-1916</unitdate><container label="Box" type="box">20</container></did></c03><c03 id="aspace_c5efa3d6f092b2ab4be99b22e6fb575e" level="file"><did><physdesc><extent>4 folders</extent></physdesc><unitdate normal="1917/1920" type="inclusive">1917-1920</unitdate><container label="Box" type="box">21</container></did></c03></c02><c02 id="aspace_d4bd0b2663e94b7c7c2f19bb85aeff32" level="file"><did><unittitle>Convocations</unittitle><physdesc><extent>4 folders</extent></physdesc><unitdate normal="1913/1920" type="inclusive">1913-1920</unitdate><container label="Box" type="box">21</container></did></c02><c02 id="aspace_70b5d1ee9f8417646c752af659930e20" level="file"><did><unittitle>Honorary Degrees</unittitle><physdesc><extent>11 folders</extent></physdesc><unitdate normal="1911/1920" type="inclusive">1911-1920</unitdate><container label="Box" type="box">21</container></did></c02><c02 id="aspace_8df1dc3ac517c875174116ce7c2fd0de" level="file"><did><unittitle>Non-resident Lecturers</unittitle><physdesc><extent>6 folders</extent></physdesc><unitdate normal="1911/1920" type="inclusive">1911-1920</unitdate><container label="Box" type="box">21</container></did></c02><c02 id="aspace_b93faff46790eec1ae1952e062254fde" level="file"><did><unittitle>Miscellaneous Correspondence</unittitle></did><c03 id="aspace_e8d66598e94555e6d77342eb6d7f777f" level="file"><did><unittitle>Affiliation between University and Normal School</unittitle><unitdate type="inclusive">undated</unitdate><container label="Box" type="box">22</container></did></c03><c03 id="aspace_759490845ab34795e78681d096103e00" level="file"><did><unittitle>American Council on Education</unittitle><unitdate normal="1919/1920" type="inclusive">1919-1920</unitdate><container label="Box" type="box">22</container></did></c03><c03 id="aspace_b8dd77ab01a59255d61dbb26a463f76d" level="file"><did><unittitle>Forestry School</unittitle><unitdate normal="1908/1917" type="inclusive">1908-1917</unitdate><container label="Box" type="box">22</container></did></c03><c03 id="aspace_65d54f26f78ec2bcc1af78148cd7dc59" level="file"><did><unittitle>Henry Strong Educational Fund</unittitle><unitdate normal="1912/1912" type="inclusive">1912</unitdate><container label="Box" type="box">22</container></did></c03><c03 id="aspace_e22d98d27957b515f36dcfb7bfb0b5c4" level="file"><did><unittitle>Newlands Bill</unittitle><unitdate normal="1916/1917" type="inclusive">1916-1917</unitdate><container label="Box" type="box">22</container></did></c03></c02><c02 id="aspace_2708de5f64d8281f2781f48eedea9b7b" level="file"><did><unittitle>National Dinner</unittitle><unitdate normal="1911/1911" type="inclusive">1911</unitdate><container label="Box" type="box">22</container></did></c02><c02 id="aspace_a85f762dcd8b1509a98e7af63ca8da3b" level="file"><did><unittitle>Selective Subject Card Catalog to the Harry Burns Hutchins papers</unittitle><unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate><container label="Box" type="box">22</container></did></c02><c02 id="aspace_a7620dec36b393362a95e0d3f15a3a2d" level="file"><did><unittitle>The University in World War I, ROTC and Training Camps for Students</unittitle><physdesc><extent>14 folders</extent></physdesc><unitdate normal="1913/1918" type="inclusive">1913-1918</unitdate><container label="Box" type="box">22</container></did></c02><c02 id="aspace_2afa9b2776ff0f2d4f55cd27bddc2cef" level="file"><did><unittitle>Student Notebooks on course in geometry, U of M</unittitle><physdesc><extent>2 volumes</extent></physdesc><unitdate normal="1871/1871" type="inclusive">1871</unitdate><container label="Box" type="box">22</container></did></c02></c01><c01 id="aspace_a3ce975fd1d7cb2d32c45eefabd43c66" level="series"><did><unittitle>Visual Material</unittitle></did><scopecontent><p>Visual materials include photographic and print portraits, including drawing by Wilfred Shaw; photographs of Hutchins lecturing, with faculty and students at Camp Davis, with family, and with successor, Alexander Ruthven; also prints depicting Hutchins, and Hutchins' homes in New Hampshire and in Ann Arbor, Michigan.</p></scopecontent><c02 id="aspace_67477c82063d7b55672d1f9b04ff4571" level="file"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did><c03 id="aspace_ce6ff7ef8951b025912c5af5bbce08a1" level="file"><did><unittitle>Henry B. Hutchins Portraits</unittitle><physdesc><extent>2 folders</extent></physdesc><container label="Box" type="box">22</container></did></c03><c03 id="aspace_4c35c31f3465b8d0042c4bea78f1a261" level="file"><did><unittitle>Family and group photos</unittitle><physdesc><extent>2 folders</extent></physdesc><container label="Box" type="box">22</container></did></c03></c02><c02 id="aspace_77eea23f759d8867d26cf40a4d433a6a" level="file"><did><unittitle>Prints</unittitle><container label="Box" type="box">22</container></did><odd><p>(mostly portraits of Hutchins from publications)</p></odd></c02></c01></dsc>
+  <descgrp type="add">
+    <odd>
+      <head>Selective Subject Index to Correspondence</head>
+<p>This index covers only materials generated during President Hutchins term as interim president, 1909-1910, and as president, 1910-1920. Papers of 1897-98, when he was acting president, are not included in the index. The correspondence of that year deals mainly with routine business matters -- requests for catalogs, inquiries about entrance requirements, or lecture arrangements for the president, and letters of recommendation. A few letters touch on such matters of public interest as state support of higher education, or the university's position on the Cuban question and the war with Spain.</p><p> The subject index has been organized into five broad categories: Administration, Building Program, Academic Units and Programs, Student Life and Campus Social Problems, Social and Political Issues of the Time. Index entries under subject terms include name of correspondent, box and folder numbers, and date of the document.</p><p> Since the university affairs were centralized in the president's office, the bulk of the correspondence falls under the heading of Administration (Sec. I). Although Hill Auditorium and the power plant were being completed when he took office and plans were being made for a natural sciences building and women's residence halls, in general there was a minimal amount of new building on campus during Hutchins's tenure (Sec. II). Few changes were made in academic units or the work of the departments in this time. Thus, the relatively small amount of correspondence related to academic affairs is contained in Sec. III, but most such materials will be found in the papers of departmental heads and deans.</p>      <list type="ordered">
+        <item>I. Administration <list type="simple"><item>General <list type="simple"><item>Christian Science Monitor 10-22, 12/10 &amp; 12/13/15</item><item>Hogan, 3-5, 7/16 &amp; 7/19/12</item><item>McQuade, 5-1, 7/5/12, R5-2, 7/8/12</item></list> </item><item>Admissions policies <list type="simple"><item>Butler (Columbia), 3-25, 12/1/11, copies of same letter re: centralization of admissions were sent on same date to presidents of Yale, Wisconsin, Cornell, Harvard, Universities of Illinois &amp; Minnesota, and Ohio State. No incoming replies were found in files.</item></list> </item><item>Admissions requirements <list type="simple"><item>4-6, 2/16/12, 22 replies from superintendents of schools to letter sent by HBH re: suitability of proposed entrance requirements.</item><item>Drouyer, 4-24, 6/24/12</item><item>Sawdon, 4-19, 5/19 &amp; 5/20/12</item><item>Vincent, 3-25, 12/1/11</item><item>Warriner, 4-9, 4/7/12; 4-10, 3/14/12</item></list> </item><item>Adviser system <list type="simple"><item>Effinger, 5-8, 8/24/12</item><item>Hayes, 5-16, 10/22/12</item></list> </item><item>Alumni organization and activities <list type="simple"><item>General <list type="simple"><item>Angell, 1-26, 2/12/10</item><item>Chapaton, 2-6, 10/19/10</item><item>Copeland, 5-29, 2/7/13</item><item>Lenderink, 8-12, 10/28 &amp; 10/31/14</item><item>Lessing, 1-19, 10/31/09; 1-21, 11/24/09</item><item>McReynolds, 2-5, 10/8/10, R10/14/10 Throughout 1909, 1910, &amp; 1911 there are numerous letters regarding arrangements for President Hutchins to speak at alumni meetings nationwide. </item><item>Oxtoby, 6-22, 10/25/13</item><item>Seaman, 9-24, 6/28/15</item></list> </item><item>U-M National dinner held in New York City <list type="simple"><item>Babst, 2-24, 2/13/11, R2-25, 2/20/11; 2-26, 2/27/11; 2-27, 3/3/11, R2-28, 3/9/11</item><item>Kern, 2-20, 1/27/11</item><item>Maclay-Sunderland, 4-4, 1/25/12</item><item>O'Brien, 2-19, 1/17/11</item><item>In folders 2-19 and 2-20, in addition to the Kern and O'Brien letters, there are many others pertaining to the arrangements for the national alumni dinner held in February 1911.</item></list> </item></list> </item><item>Athletics <list type="simple"><item>General</item><item>Graves, 6-22, 10/31/13, R6-23, 11/3/13</item><item>Control of athletics <list type="simple"><item>Bartelme, 5-22, 12/11 &amp; 12/12/12</item><item>Effinger, 5-22, 12/14/12</item><item>Thomas, 3-23, 11/25/11, R3-24, 11/27/11; 3-25, 12/1/11</item></list> </item><item>Rose Bowl invitation <list type="simple"><item>Baer, 10-16, 10/28/15; 10-19, 11/17/15</item><item>Bartelme, 10-17, 11/8/15</item><item>Bulkley, 10-16, 10/27/15, R10-17,11/4/15; 11/8/15</item><item>Carhart, 10-19, 11/17/15; 10-20. 11/22/15</item><item>Murfin, 10-16, 10/25 &amp; 10/28/15</item><item>Scherer, 10-16, 10/26/15; 10-19, 11/17/15</item><item>Turner, 10-16, 10/28/15; 10-19, 11/17/15</item><item>Willett, 10-16, 10/28/15, R10-17, 11/4/15; 10-20, 11/22/15</item></list> </item><item>Women's physical education <list type="simple"><item>Bigelow, 3-26, 12/14/11</item></list> </item></list> </item><item>Faculty freedom of speech issue <list type="simple"><item>Bohn, 1-24, 1/6/10 (re: his speech on socialism)</item><item>Cooley, 1-22, 12/14 &amp; 12/15/09</item><item>Fowler, 1-31, 4/18/10</item><item>Latham, 1-22, 12/3/09</item><item>Sawyer, 1-30, 4/9/10</item><item>Spalding, 1-22, 12/13 &amp; 12/14/09</item></list> </item><item>Financing of the University <list type="simple"><item>General <list type="simple"><item>Ferris, 5-29, 2/4 &amp; 2/6/13</item><item>Hopkins, 8-13, 10/1 &amp; 10/5/14</item><item>Hubbard, 5-29, 2/4 &amp; 2/6/13</item><item>Osborne, 5-20, 11/24/12</item></list> </item><item>Mill tax legislation <list type="simple"><item>King, 2-35, 5/1 &amp; 5/5/11</item><item>Slauson, 4-21, 6/1/12</item></list> </item><item>Private donations and funding <list type="simple"><item>Wright, 2-25, 2/16/11</item></list> </item><item>State granting of cutover land to U-M <list type="simple"><item>McEldownery, 3-11, 7/24/11</item></list> </item></list> </item><item>Fraternities and sororities <list type="simple"><item>Collins, 7-18, 5/11/14, R7-19, 5/28/14; 8-16, 10/13/14, R8-18,11/13/14</item><item>Cooley, 7-18, 5/8 &amp; 5/9/14</item><item>Jordan, 7-15, 4/21/14</item><item>Levere, 7-24, 6/26/14</item></list> </item><item>Inquiries from other educational institutions <list type="simple"><item>(Note: By 1913-14 the number of inquiries was decreasing and most inquiries were referred to various other university officials. Thus there was no record of replies. Indexing of inquiries does not continue after Box 7.)</item><item>General <list type="simple"><item>Bovard, 2-35, 5/2/11, R5/4/11 (sent to Ward)</item><item>Brewer, 7-10, 3/14/14, R7-11, 3/18/14</item><item>Chamberlin, 7-16, 4/25 &amp; 4/27/14 (admissions qualifications)</item><item>Clark, 7-16, 4/28/14, R7-17, 5/14/14 (academic ranking for administrators)</item><item>Comstock, 5-16, 10/23 &amp; 10/28/12 (use of academic costume)</item><item>Curtiss, 5-26, 1/14/13, R5-29, 2/5/13 (outside work of scientists, control of patents)</item><item>Harmon, 1-33, 5/16/10, R5/26/10; 3-8, 7/5/11, R3-9, 7/10/11</item><item>Hart, 6-21, 10/16/13, R6-22, 10/25/13</item><item>Hetzel, 3-16, 9/27/11</item><item>McMurricks, 4-3, 1/18/12, R4-4, 1/22/12</item><item>Potts, 5-33, 3/5/13; R5-34, 3/8 &amp; 3/13/13 (combining all state colleges in one system)</item><item>Smith, 5-19, 11/18/12, R5-20, 11/25/12</item><item>Strong, 6-18, 9/20 &amp; 9/24/13</item><item>Templin, 4-7, 2/17/12, R4-8, 2/24/12</item><item>Walthall, 5-14, 10/9 &amp; 10/14/12</item><item>Williston, 1-33, 5/31/10</item></list> </item><item>Alumni organization <list type="simple"><item>Benson, 4-13, 4/1/12, R4/4/23</item><item>Bralley, 7-11, 3/20/14, R7-12, 3/23/14</item><item>Stanton, 6-8, 5/27 &amp; 5/30/13</item></list> </item><item>Athletics <list type="simple"><item>Garrett, 7-1, 1/1 &amp; 1/4/14</item><item>Kingsbury, 6-29, 12/12/13, R6-30, 12/22/13; 7-7, 2/17 &amp; 2/24/14</item></list> </item><item>Combined courses with Albion College in law and medicine <list type="simple"><item>Barr, 7-7, 2/18/14, R 7-9,3/5/14</item><item>Dickie, 7-6, 2/10/&amp; 2/11/14</item></list> </item><item>Curriculum <list type="simple"><item>Gilvray, 2-34, 4/26/11</item><item>Hallam, 4-3, 1/16/12, R4-4, 1/24/12</item><item>Jewett, 1-33, 5/20 &amp; 5/27/10</item></list> </item><item>Faculty matters <list type="simple"><item>Angell, 4-11, 3/16/12, R4-13, 4/4/12(teaching hours required); 5-22,12/10 &amp; 12/12/12 (qualifications for title of professor)</item><item>Appell, 7-13, 4/6/14, R7-14, 4/14/14</item><item>Brindley, 7-10, 3/9 &amp; 3/11/14</item><item>Cary, 4-19, 5/21/12, R4-20, 5/29/12 (use of teaching assistants)</item><item>Eigenmann, 6-8, 5/28 &amp; 5/30/13 (comparative salaries)</item><item>Fulmer, 5-25, 1/3/11, R5-26, 1/13/13 (sabbatical leaves)</item><item>Hawkins, 6-20, 10/13 &amp; 10/16/13 (sabbatical leaves)</item><item>Johnston, 4-13, 4/2/12, R4/5/12</item><item>Landes, 7-22, 6/13/14, R8-2, 7/9/14 (salaries and promotions)</item><item>McCaffrey, 1-32, 5/6 &amp; 5/7/10 (faculty organization)</item><item>McPherson, 4-6, 2/14/12, R4-8, 2/24/12 (faculty research required)</item><item>Tobey, 3-11, 7/25 &amp; 7/27/11 (hours of teaching required)</item></list> </item><item>Final examination policy <list type="simple"><item>Ketchum, 2-27, 3/1 &amp; 3/7/11</item><item>McCaskey, 2-27, 3/1 &amp; 3/3/11</item></list> </item><item>Financing <list type="simple"><item>Bates, 7-12, 3/23 &amp; 3/26/14</item><item>Benton, 5-20, 11/21 &amp; 11/25/12</item><item>Henderson, 3-21, 11/4/10 (general financing)</item><item>Kingsbury, 5-16, 10/30/12, R5-17, 11/4/12</item><item>Mackey, 3-21, 11/4/11; 3-27, 12/20/11, R3-28, 12/28/11 (fees for student activities)</item><item>Powell, 2-1d, 8/6/10</item><item>Prescott, 5-14, 10/18/12 (millage tax)</item><item>Puryear, 1-33, 5/17/10, R5/26/10 (millage tax &amp; state support)</item><item>Reynolds, 1-23, 12/16 &amp; 12/21/09; 5-14, 10/8 10/10/12 (taxing plans)</item><item>Strong, 5-16, 10/28 &amp; 10/31/12</item></list> </item><item>Fraternities and sororities <list type="simple"><item>Baer, 6-25, 11/19 &amp; 11/21/13 (re: attitudes toward Jews)</item><item>Baum, 7-18, 5/8 &amp; 5/11/14</item><item>Boyd, 5-1, 7/3/12, R5-2, 7/8/12</item><item>Collins, 8-16, 10/13/14, R8-18, 11/13/14</item><item>Kingsbury, 7-13, 4/6/14/, R7-14, 4/10/14</item><item>Lloyd, 3-2, 5/19/11, R5/22/11</item><item>Potts, 5-26, 1/13/13, R5-27, 1/19/13</item><item>Robitshek, 5-18, 11/12 &amp; 11/14/12</item></list> </item><item>Governance of the university <list type="simple"><item>Baker, 5-18, 11/9 &amp; 11/14/12</item><item>Coffey, 7-13, 4/14/14, R7-14, 4/10/14</item><item>Filbey, 6-21, 10/17/13, R6-22, 10/24/13</item><item>Fuller, 7-5, 2/6 &amp; 2/11/14</item><item>Hall, 5-32, 2/24/13</item><item>Mason, 7-21, 6/3 &amp; 6/6/14</item><item>Mattson, 7-6, 2/9 &amp; 2/13/14</item><item>Schurmann, 7-18, 5/13/14, R7-19, 5/18/14</item><item>Womack, 5-16, 10/24 &amp; 10/28/12</item></list> </item><item>Physical education organization <list type="simple"><item>Cooke, 4-1, 1/7/12, R4-2, 1/11/12</item></list> </item><item>Religious education <list type="simple"><item>Davis,5-24, 12/22 &amp; 12/26/12</item><item>Edwards. 5-22, 12/13 &amp; 12/18/12</item><item>Stone, 5-36, 3/24 &amp; 3/27/13</item><item>Wicker, 5-16, 10/24 &amp; 10/28/12</item></list> </item><item>Services to state of Michigan <list type="simple"><item>Ferris, 5-24, 12/29/12</item><item>Gillette, 4-13, 4/4/12</item><item>Henderson, 5-24, 12/30/12</item><item>Ripley, 1-30, 4/8 &amp; 4/13/10</item><item>Schafer, 4-11, 3/19/11</item><item>Smith, 5-18, 11/13/12</item></list> </item><item>Student housing <list type="simple"><item>Detrick, 3-17, 10/5/11, (private rooms vs. fraternity living)</item><item>Littlejohn, 5-4, 7/26 &amp; 7/30/12 (women's building)</item><item>Norris, 4-2, 1/8/12 (dormitories)</item><item>Schuman, 3-25, 12/5/11, R12/7/11; 3-26, 12/11/11 (boarding house inspection)</item></list> </item><item>Student life <list type="simple"><item>Cavanaugh, 4-4, 1/31/12, R4-5, 2/6/12 (rules for closing times for parties, dances)</item><item>Gladson, 1/32, 5/4 &amp; 5/7/10 (student government organization)</item><item>Hostetter, 7-13, 4/1/14, R7-14, 4/10/14</item><item>Miller, 7-23, 6-18/14, R8-1, 7/2/14 (student government)</item><item>Sabine, 4-6, 2/14/12, R4-9, 3/2/12 (vocational guidance)</item><item>Samson, 5-6, 8/14/12, R5-7, 8/19/12 (control of students in dorms)</item><item>Warman, 7-16, 4/22/14, R7-17, 5/1/14 (student government)</item></list> </item><item>End of Indexing of inquiries from other institutions. This indexing does not continue after Box 7.</item></list> </item><item>Military preparedness <list type="simple"><item>General <list type="simple"><item>Adams, 10-18, 11/11/15, R10-19, 11/15/15</item><item>Arneill, 10-3, 7/19/15</item><item>Beadle, 10-18, 11/9/15, R10-19, 11/16/15</item><item>Benton, 7-12, 3/31/14, R7-13, 4/9/14</item><item>DeNancrede, 9-17, 5/7/15</item><item>Geisler, 9-23, 6/15 &amp; 6/18-15</item><item>Gimperling, 10-3, 7/16/15</item><item>Hobbs, 10-19, 11/15, 16, &amp; 20/15</item><item>Humphrey, 10-21, 12/1 &amp; 12/6/15</item><item>Kuss, 10-21, 12/1/15</item><item>MacCracken, 9-10, 3/10/15</item><item>Raycroft, 8-17,11/6/14, R8-18, 11/13/14</item><item>Smith, 10-21, 12/4 &amp; 12/6/15</item><item>Stockton, 9-22, 6/12/15; 10-1, 7/1/15</item><item>Thompson, 10-16, 10/29/15, R10-17, 11/2/15</item><item>Van Anda, 9-2, 1/13/15, R9-3, 1/15/15</item><item>White, 10-21, 12/4 &amp; 12/7/15</item><item>Williams, 9-8, 2/25 &amp; 2/26/15</item><item>Wolfenden, 7-15, 4/18 &amp; 4/21/14</item></list> </item><item>Summer training camps <list type="simple"><item>Drinker, 10-6, 8/13/15; 10-16, 10/26/15; 10-19, 11/20/15, R10-21, 12/6/15</item><item>Military Training Camp, 10-2, 7/9/15</item><item>Wood, 8-2, 7/10/14, 10-2, 7/12 &amp; 7/13/15; 10-3, 7/16/15; 10-6, 8/4/15, R10-7,8/19/15</item></list> </item></list> </item><item>Non-resident students <list type="simple"><item>Grant, 2-21, 1/30/11, R2/22, 2/1/11</item><item>Scott, 2-21, 1-30-11</item></list> </item><item>"Outside work" by faculty <list type="simple"><item>Boughton, 2-31, 4/3/11, R4/5/11</item><item>Cooley, 4-19, 5/24/12 in response to Merrill, 4-19, 5/10/12; HBH reply 4/19, 5/27/12; 9-23, 6/16/15</item></list> </item><item>Relations with other state universities <list type="simple"><item>Clements, 5-32, 2/27/13 (2 letters)</item><item>Craighead, 5-27, 1/15/13</item><item>Haddock, 4-4, 1/27/12</item><item>Ladd, 5-8, 8/26/12, R5-12, 9/26/12</item><item>McKenny, 5-29, 2/4 &amp; 2/6/13; 6-26, 11/28/13, R6-27, 12/2/13; 6-29, 12/16/13</item><item>McNair, 5-5, 8/3/12, R5-12, 9/24/12; 5-13, 10/4/12</item><item>McVey,5-27, 1/16/13, R5-29, 2/5/13; 6-8, 5/23 &amp; 5/26/13</item><item>Wright, 5-23, 12/17 &amp; 12/18/12</item></list> </item><item>Services to the state of Michigan <list type="simple"><item>Barnes, 8-24, 12/22 &amp; 12/24/14</item><item>Ferris, 9-1, 1/2/15</item><item>Labadie, 7-18, 5/13/14</item><item>Riggs, 9-11, 3/19/14</item></list> </item><item>Student discipline <list type="simple"><item>General <list type="simple"><item>Bates, 8-24, 12/30/14</item><item>Berry, 1-29, 3/21/10, 3/24/10</item><item>Burke, 6-21, 10/16 &amp; 10/17/13; 8-24, 12/30 &amp; 12/31/14</item><item>Clark, 2-33, 4/20/11, R2-34, 4/29/11</item><item>Cooley, 2-6, 10/18, 10/19, &amp; 10/21/10; 3-17, 10/3/11</item><item>Cornwell, 4-14, 4/8 &amp; 4/9/12; 4-15, 4/16/12; 4-16, 4/25/12</item><item>Cross, 6-4, 4/29/13, R6-5, 5/2/13</item><item>Giddings, 1-31, 4/22/10</item><item>Gorman, 2-5, 10/13/10; 2-6, 10/17/10; 2-7, 10/24/10</item><item>Griffiths, 1-23, 12/27 &amp; 12/30/09 (re:Berry)</item><item>Holmes, 8-19, 11/18 &amp; 11/19/14</item><item>Kelley, 1-19, 10/25/09 (re:hazing); 10/28/09; 1-20, 11/9/09; 2-1c, 7/27 &amp; 7/30/10</item><item>Koehler, 1-29, 3/17/10, 3/23 &amp; 3/25/10</item><item>McKenny, 7-11, 3/17 &amp; 3/19/14</item><item>Pomper, 8-4, 7/30 &amp; 7/31/14, R8-5, 8/1/14</item><item>Strong, 10-22, 12/10 &amp; 12/13/15</item><item>Toms, 1-28, 3/15/10, R3/16/10</item><item>Webster, 1-28, 3/14/10</item></list> </item><item>Samuel Shulkin case <list type="simple"><item>Laughlin, 10-24, 12/28 &amp; 12/30/15</item><item>Northwestern Medical School, 10-23, 12/15/15</item><item>Shulkin, 10-13, 10/5/15, R10-16, 10/28/15; 10-19, 11/18/15; 10-20, 11/8 &amp; 11/26/15; 10-21, 12/2 &amp; 12/6/15; 10-22, 12/9, 12/12 &amp; 12/14/15</item></list> </item><item>Suspension of Michael Foote <list type="simple"><item>Bates, 5-18, 11/9 &amp; 11/12/12</item><item>Brown, 5-18, 11/11 &amp; 11/14/12</item><item>Burke, 5-18, 11/11 &amp; 11/14/12</item><item>Effinger, 5-18, 11/9/12</item><item>Marks, 5-22, 12/14 &amp; 12/18/12</item><item>Reed, 6-13, 7/3 &amp; 7/5/13; 6-21, 10/21 &amp; 10/23/13</item></list> </item></list> </item><item>Student health <list type="simple"><item>General <list type="simple"><item>Marks, 5-11, 9/20/12</item><item>Rathbone, 3-2, 5/18/11, R5/20/11</item><item>Shumway, 2-9, 11/15/10</item><item>Vaughan, 5-11, 9/20/12</item></list> </item><item>Smallpox outbreaks <list type="simple"><item>Atwater, 2-9, 11/12/10, 11/14/10</item><item>Bates, 3-1, 5/11/11</item><item>Beebe, 9-1, 1/12/15</item><item>Cummings, 9-1, 1/12/15</item><item>Clements, 2-9, 11/12, 11/14, &amp; 11/15/10</item><item>Smith, 2-34, 4/24/11</item><item>Wessinger, 9-1, 1/10 &amp; 1/12/15</item></list> </item></list> </item><item>Undergraduate work, re-organization of <list type="simple"><item>Butts, 4-4, 1/24/12</item></list> </item><item>Women in the university <list type="simple"><item>General <list type="simple"><item>Baumgardner, 8-21, 12/7/14, R8-22, 12/10/14</item><item>Jordan, 10-4, 7/28/15</item><item>Palmer, 7-19, 5/20/14, R7-20, 5/29/14</item></list> </item><item>Faculty <list type="simple"><item>Salmon, 3-22, 11/15/11, referred to Van Tyne, his reply, 3-23, 11/23/11; HBH reply, 11/25/11</item></list> </item><item>Students (co-education) <list type="simple"><item>Bok, 2-13, 12/12/10, R12/15/10</item><item>Guyot, 2-4, 1/28/11; 2-18, 1/14/11; 2-21, 1/28/11</item><item>Judkins, 1-24, 1/12/10</item><item>Kirchwey, 1-22, 12/1 &amp; 12/13/09 (effect of women attending law school with men students)</item></list> </item><item>Women's education <list type="simple"><item>Douglass, 5-27, 1/17/13; R5-28, 1/23/13</item><item>Hopwood, 9-20, 5/22/15, R9-21, 6/4/15</item><item>Hutchinson, 6-29, 12/15/13, R6-27, 12/30/13</item><item>Miller, 7-11, 3/17 &amp; 3/19/14</item><item>Porter, 7-8, 2/28/14, R 7-9, 3/3/14</item><item>Salmon, 10-15, 10/19/15, R10-16, 10/23/15</item></list> </item></list> </item><item>World War I related matters <list type="simple"><item>Bates, 10-20, 11/29/15 (re: anti-English propaganda by Indian students)</item><item>Bulkley, 10-21, 12/3,9,&amp; 13/15, R10-22, 12/9 &amp; 12/13/15 (re: German propaganda by Prof. Hobbs)</item><item>Bullen, 10-17, 11/5/15</item><item>Dunlap, 8-20, 11/23/14</item><item>Ferris, 10-5, 8/4 &amp; 8/5/15</item><item>Hall 8-12, 9/27 &amp; 9/29/14 (Red Cross fund-raising</item><item>Haselden, 10-20,11/22/15</item><item>Henry, 10-22, 12/14/15</item><item>Hobbs, 10-19, 11/15 &amp; 11/16/15</item><item>Marsh, 9-11, 3/20/15, R9-12, 3/23/15</item><item>Miller 8-12, 9/25 &amp; 9/28/14</item><item>Sanders, 10-16, 10/25/15, R10-19, 11/16/15 (effect of war on American Academy in Rome)</item><item>Sarton, 10-17, 11/2 (2 letters) &amp; 11/4/15</item><item>Sullivan, 10-20, 11/26/15, R10-21, 12/6/15 (re: remarks of Hobbs) 9/28/14</item></list> </item></list></item>
+        <item>II. Building Program <list type="simple"><item>General <list type="simple"><item>Babst, 3-9, 7/14, 7/20 &amp; 7/21/11; 3-11, 7/28/11;7-12, 3/23 &amp; 3/25/14</item><item>Brooks, 8-16, 10-24/14 (land acquisition)</item><item>Clements, 1-24, 1/14/10; 2-1a, 7/11/10, R7/12/10 (use of library building); 2-1f, 9/5/10; 2-29, 3/18 &amp; 3/20/11; 2/31, 4/7/11, R2-32, 4/8/11; 2-31, 4/10/11; 3-9, 7/11, 7/13, &amp; 7/14/11; 3-20, 10/28/11; 3-28, 12/27/11</item><item>Cook, 6-7, 5/19/13</item><item>Curtis, 3-26, 12/11/11</item><item>Fletcher, 2-28, 3/15/11; 2-29, 3/18 &amp; 3/20/11, R3/23/11; 2-31,4/7/11; 3-1, 5/11/11</item><item>Haff, 3-13, 8/30/11, R3-6, 9/26/11</item><item>Kelsey, 7-15, 4/16 &amp; 4/20/14</item><item>New York Alumni, 6-21, 10/16/13 (review of new buildings added)</item><item>Reed, 6-7, 5/19/13; 6-10, 6/11/13</item><item>Sawyer, 3-15, 9/16/11, R9/19/11</item><item>Travis, 5-23, 12/21/12</item></list> </item><item>Demonstration school <list type="simple"><item>Grant, 9-7, 2/17 &amp; 2/20/15</item><item>Planck, 9-7, 2/17 &amp; 2/20/25</item><item>Whitney, 9-5, 2/2/15</item></list> </item><item>Hill Auditorium <list type="simple"><item>Clements, 2-6, 10/18/10; 2-9, 11/11 &amp; 11/14/10; 2-10, 11/21/10; 2-11, 11/28/10; 2-13, 2/14/10; 4-1, 1/3 &amp; 1/4/12, R4-2, 1/8/12; 5-22, 12/10 &amp; 12/11/12; 5-32, 2/24 &amp; 2/25/13 7/18, 5/14/15, R7-19, 5/19/14</item><item>Ferris, 5-34, 3/12 &amp; 3/14/13</item><item>Kahn, 6-14, 7/15/13</item><item>Kelsey, 2-9, 11/14/10</item><item>Stark, 5-34, 3/12/14; 6-1, 4/3 &amp; 4/4/13; 6-3, 4/16/13</item><item>Townsend, 5-34, 3/12/13, R5-35, 3/15/13</item></list> </item><item>Library <list type="simple"><item>Bursley, 9-16, 4/26/15</item><item>Clements, 8-19, 11/19 &amp; 11/20/14; 9-4, 1/29/15, R9-5, 2/1/15; 9-6, 4/30/15; 9-20, 5/26 &amp; 5/28/15; 9-23, 6/15, 16, &amp; 18/15; 9-24, 6/28 &amp; 6/30/15; 10-1, 7/1 &amp; 7/6/15; 10-9, 9/4 &amp; 9/7/15; 10-11, 9/16/15; 10-13, 10/4, &amp; 10/6/15</item><item>Edmunds, 10-2, 7/13/15</item><item>Gore, 9-14, 4/14/15</item><item>Kahn, 10-7, 8/16/15</item><item>Koch, 9-6, 2/12/15; 9-13, 4/5 &amp; 4/6/15</item><item>Thompson, 10-2, 7/8/15</item></list> </item><item>Michigan Union, Fund-raising and plans for <list type="simple"><item>Bates, 10-21, 12/7 &amp; 12/9/15; 10-22, 12/9, 11, &amp; 13/15</item><item>Boynton, 10-4, 7/29/15</item><item>Cochran, 10-23, 12/18/15, R10-24, 12/27/15</item><item>Cutcheon, 10-17, 11/3/15</item><item>Durant, 10-14, 10/11/15, R10-16, 10/24/15; 10-22, 12/9, 11, &amp; 13/15</item><item>Engineering News, 10-4, 7/29 &amp; 7/31/15</item><item>Farrell, 10-14, 10/8 &amp; 10/9/15; 10-18, 11/13 &amp; 11/15/15</item><item>Fox, 10-22, 12/9/15</item><item>Gillette, 10-12, 9/27 &amp; 9/29/15</item><item>Heath, 8-5, 8/4/14; 9-24, 6/25/15; 10-23, 12/21/15; 10-24, 12/30/15</item><item>Hughes, 10-7, 8/21 &amp; 8/23/15; 10-8, 8/24 &amp; 8/25/15; 10-11, 9/15/15</item><item>Junell, 10-12, 9/28/15, R10-13, 10/5/15</item><item>Killilea, 10-16, 10/24/15; 10-22, 12/9/15</item><item>Kleinstueck, 10-14, 10/9/15</item><item>Lee, 10-22, 12/9/15</item><item>Lightner, 10-16, 10/28/15 (2 letters)</item><item>McAndrew, 10-12, 9/30/15, R10-13, 10/4/15</item><item>McGraw, 10-15, 10/18/15, R10-16, 10/24/15; 10-17, 11/1,3,&amp; 5/15; 10-20, 11/23/15</item><item>McKenzie, 10-21, 12/1 &amp; 12/7/15</item><item>Maxwell, 10-15, 10/19/15</item><item>Pond, 10-18, 11/8/15</item><item>Reed, 10-20, 11/22/15</item><item>Richmond, 10-12, 9/27/15</item><item>Ripley, 10-4, 7/26/15</item><item>Rose, 10-17, 11/4/15; 10-18, 11/11/15, R10-19, 11/16/15</item><item>Tinsman, 10-16, 10/23/15 (list of Chicago area contributors)</item><item>Tweedy, 10-22, 12/9/15</item><item>Wilkinson, 10-22, 12/9 &amp; 12/13/15; 10-23, 12/16 &amp; 12/20/15</item><item>Wollman, 10-17, 11/4/15</item><item>Young, 10-5, 8/4 &amp; 8/5/15</item></list> </item><item>Olmsted plan for the campus <list type="simple"><item>Clements, 9-21, 6/5, 7, &amp; 6/10/15</item><item>Olmsted, 9-24, 6/23, 25, &amp; 29/15</item><item>Shepard, 9-23, 6/16/15</item><item>Tealdi, 9-24, 6/30/15</item></list> </item><item>Power Plant <list type="simple"><item>Beal 4-19, 5/16/12</item><item>Clements, 2-11, 11/29 &amp; 11/30/10; 2-17, 2/2/11 (2 letters); 2-21, 1/28/11; 2-26, 2/25/11, R2-27, 3/3/11; 2-27, 3/6/11; 4-2, 1/8/12; 4-9, 3/7/12; 4-10, 3/9/12; 4-12, 3/28/12; 4-20, 5/29 &amp; 5/31/12; 4-22, 6/13 &amp; 6/14/12; 4-23, 6/19/12; 5-17, 11/1 &amp; 11/4/12; 5-22, 12/9/12; 5-32, 2/26/13 7-2, 1/10/14; 7-3, 1/15 &amp; 1/16/14</item><item>Cooley, 4-1, 1/4/12</item><item>Hinchman, 9-3, 1/15/15</item><item>Hussey, 4-1, 1/2/12; 5-6, 8/14/12, R5-12, 9/24/12; 5-13, 10/7/12; 5-29, 2/6/13; 5-35, 3/20/13; 8-23, 12/18/14</item><item>Lamont, 4-12, 3/27/12, R4-13, 4/1/12; 5-18, 11/8/12</item><item>Nygren, Tenney &amp; Ohmer, 5-11, 9//19/12</item><item>Sawyer, 8-23, 12/19/14</item></list> </item><item>Residence Halls for Women <list type="simple"><item>Note: Includes correspondence related to fund-raising efforts by alumnae, and the building of Newberry Hall and Martha Cook by private donation.</item><item>Clements, 6-10, 6/11/13; 6-11, 6-17-13, R6-12, 6/27/13</item><item>Cook, 2-24, 2/10/11 (2 letters); 2-27, 3/3/11; 3-4, 6/1 &amp; 6/5/11, R3-4, 5/6/11; 5-4, 7/30/12; 5-33, 3/6/13; 6-7, 5/17/13; 6-12, 6/30/13; 10-12, 9/29/15; 10-13, 10/4/15 (2 letters)</item><item>Dewey, 2-8, 11/5/10, R11/8/10; 2-9, 11/12/10; 2-21, 1/28 &amp; 1/30/11</item><item>Doan, 7-2, 1/8 &amp; 1/10/14</item><item>Ferris, 10-12, 9/30/15; 10-14, 10/9 &amp; 10/11/15</item><item>Ferry, 3-20, 10/27/11</item><item>Fletcher, 3-25, 12/7/11</item><item>Hitchcock, 2-27, 3/7/11</item><item>Hudson, 5-13, 10/1/12</item><item>Jordan, 6-26, 11/24 &amp; 11/26/13; 7-23, 6/18 &amp; 6/19/14; 7-24, 6/23 &amp; 6/26/14; 8-2, 7/8/14; 8-3, 7/15 &amp; 7/20/14</item><item>Kelly, 8-19, 11/20/14, R8-20, 11/25/14</item><item>Kirchner, 3-22, 11/11, 13, &amp; 15/11</item><item>Maclay &amp; Sunderland, 4-4, 1/25/12</item><item>McRoberts, 2-11, 11/25/10 &amp; others of same date</item><item>Millard, 6-21, 10/18 &amp; 10/24/13</item><item>Noble, 2-9, 11/10/10</item><item>Norris, 4-13, 4/5/12 &amp; Hanchett et al of same date</item><item>Parks, 4-4, 1/31/12; 4-5, 2/5/12</item><item>Pond, 6-13, 7/8 &amp; 7/9/13</item><item>Rice (architect), 3-28, 12/28/11</item><item>Rust, 4-5, 2/5/12, R2/5/12; 4-20, 5/26/12</item><item>Sage, 2-20, 2/27/11</item><item>Templin, 3-9, 7/15/11, R3-10, 7/17/11</item><item>Thorne, 7-8, 2/23 &amp; 2/26/14</item><item>Turner, 3-25, 12/7/11</item><item>Voigtmann, 7-18, 5/8 &amp; 5/11/14</item><item>Weeks, 2-10, 11/16/10; 2-12, 12/7/10</item><item>White, 2-7, 10/30/10, R2-8, 11/1/10; 2-8, 11/4 &amp; 11/7/10; 2-10, 11/22/10; 2-11, 11/25/10; 2-12, 12/1/10; 2-19, 1/16/11, R2-20, 1/27/11; 2-21, 1/31/11; 2-24, 2/10/11; 2-29, 3/16/11, R3/20/11; 3-1, 5/10/11</item></list> </item><item>Science building <list type="simple"><item>Clements, 6-30, 12/30/13; 7-9, 3/5/14; 7/10, 3/10 &amp; 3/11/14</item><item>Ferris, 5-32, 2/25/13</item><item>Fuller, 6-19, 10/3/13</item><item>Gleason, 5-18, 11/14/12</item><item>Gore, 7-9, 3/5/14</item><item>Hanchett, 7-9, 3/5/14; 7-10, 3/14/14</item></list> </item><item>Science building <list type="simple"><item>Kahn, 7-1, 1/2/14</item><item>Kane, 5-35, 3/15/13</item><item>Maclaurin, 6-9, 6/7/13</item><item>Newcombe, 6-4, 4/22 &amp; 4/24/13</item><item>Pillsbury, 6-5, 5/5/13; 6-7, 5/20/13</item></list> </item><item>Student Christian Association building <list type="simple"><item>Proposal for Lane, 3-10, 7/19/11; 9-13, 4/1/15; 10-16, 10/28/15; 10-25, 12/31/15</item></list> </item></list></item>
+        <item>III. Academic Units and Programs <list type="simple"><item>Architecture Department <list type="simple"><item>Cooley, 7-1, 1/6 &amp; 1/7/14</item><item>James, 7-1, 1/7,9,12,14,16/14</item></list> </item><item>Astronomy Department <list type="simple"><item>Gonzalez-Iramain, 10-23, 12/15/15</item><item>Hussey, 10-8, 8/31/15</item></list> </item><item>Dutch, Proposal for study of <list type="simple"><item>Hulst, 9-14, 4/10/15</item></list> </item><item>Education Department <list type="simple"><item>Whitney, 6-29, 12/20/13, R6-30, 12/23/13</item></list> </item><item>Engineering Department <list type="simple"><item>General</item><item>Bailey, 10-10, 9/10/15</item><item>Chapin, 10-7, 8/18/15 (highways)</item><item>Cooley, 7-1, 1/2 &amp; 1/3/14 (Services available to the public); 10-11, 9/17/15</item><item>Johnston, 8-1, 7/3 &amp; 7/6/14 (Camp Davis)</item><item>Stephens, 8-4, 7/28/14</item><item>White, 9-20, 5/25/15; 9-22, 6/12/15, R9-23, 6/15/15</item><item>Combining literary &amp; engineering courses</item><item>Cooley, 3-27, 12/21/11, R3-28, 12/27/11</item><item>Sadler, 5-33, 3/4/13</item></list> </item><item>Electrical engineering <list type="simple"><item>Hubbard, 10-8, 8/28/15 (2 letters), &amp; 8/31/15, R10-9, 9/2/15</item><item>Parker, 10-8, 8/28/15</item><item>Hiring of naval officers to teach steam engineering and ship building <list type="simple"><item>Bryan, 5-3, 7/19/12; 5-4, 7/22 &amp; 7/29/12</item><item>Cone, 5-3, 7/16/12</item><item>Cooley, 5-3, 7/16/12</item><item>Winthrop, 5-3, 7/16/12</item></list> </item></list> </item><item>Forestry, School of <list type="simple"><item>Pinchot, 1-19, 10/23/09</item><item>Garfield, 4-7, 2/19/12, R4-8, 2/22/12</item><item>Mulford, 4-9, 3/4/12</item><item>Roth, 3-26, 12/12/11</item><item>Snyder, 4-17, 5/4/12; 4-20, 5/31/12</item></list> </item><item>Law Department <list type="simple"><item>Bates, 7-1, 1/3 &amp; 1/5/14</item></list> </item><item>Library <list type="simple"><item>Clements, 9-16, 4/24 &amp; 4/26/15</item><item>Jenks, 7-2, 1/8 &amp; 1/9/14; 8-24, 12/29 &amp; 12/30/14</item><item>Labadie, 3-17, 10/3/11; 3-18, 10/15/11; 3-20, 10/27 &amp; 10/31/11; 3-24, 11/27/11; 4-1,1/2/12, R4-2, 1/9/12; 4-8, 2/22/12; 5-6, 8/10/12; 5-8, 8/24/12; 5-12, 9/24 &amp; 9/30/12 (re:donation of his collection to library); 6-10, 6/11/13; 6-25, 11/16 &amp; 11/28/13; 7-18, 5/12 &amp; 5/13/14; 7-21, /2 &amp; 6/3/14</item><item>Worcester, 8-4, 7/28/14 (re: collection of Philippine books &amp; mss.)</item></list> </item><item>Military science <list type="simple"><item>Grieves, 2-1a, 7/12/10</item></list> </item><item>Museum of Natural History <list type="simple"><item>Hobbs, 5-30, 2/10/13</item><item>Ruthven, 8-7, 8/15/14, R 8-13, 10/2/14</item><item>Walker, 3-2, 5/18 &amp; 5/20/11</item></list> </item><item>Political Science Department <list type="simple"><item>Fitzpatrick, 6-2, 10/21/13 (re: training for public service)</item></list> </item></list></item>
+        <item>IV. Student Life and Campus Social Problems <list type="simple"><item>General <list type="simple"><item>Appleman, 5-17, 11/4 &amp; 11/6/12</item><item>Editor, N.Y. Herald, 5-30, 2/13/13</item><item>Hull, 5-30, 2/13 &amp; 2/18/13</item><item>Jordan, 10-4, 7/28/15</item></list> </item><item>Minority Students at U-M <list type="simple"><item>General</item><item>DuBois, 1-30, 4/11/10</item><item>Phelps, 2-24, 2/12/11</item><item>Schurman, 2-31, 4/5/11, R4/7/11</item><item>Zartmann, 6-15, 8/11 &amp; 8/12/13</item></list> </item><item>Chinese students <list type="simple"><item>Wong, 6-30, 12/26/13; 7-3, 1/15 &amp; 1/19/14</item></list> </item><item>Hindu students <list type="simple"><item>Bhutia, 5-2, 7/8 &amp; 7/11/12</item><item>Comfort, 4-20, 5/28 &amp; 5/29/12)</item><item>Roy, 6-24, 11/14 &amp; 11/21/13</item></list> </item><item>Chinese student conference <list type="simple"><item>Chang, 5-12, 9/26/12; 5-13, 10/5 &amp; 10/7/12</item><item>Chiu, 5-1, 7/9/12, R5-2, 7/11/12; 5-3, 7/17/12</item><item>Effinger, 5-1, 7/9 &amp; 7/11/12</item><item>Sam Hoe Kee, 5-8, 8/27/12</item></list> </item><item>Living arrangements and conditions <list type="simple"><item>Jordan, 10-4, 7/28/15</item><item>Schepeler, 8-16, 10/26 &amp; 10/28/14</item><item>Tucker, 10-16, 10/28/15, R10-17, 11/4/15</item></list> </item></list></item>
+        <item>IV. Student Life and Campus Social Problems (cont.) <list type="simple"><item>Religion <list type="simple"><item>Barkley, 8-12, 9/22 &amp; 9/23/14</item><item>Green, 4-8, 2/26/12, R2/29/12</item><item>Kane, 3-25, 12/6/11</item><item>Kelsey, 1-29, 3/24/10 (2 items); 1-30, 4/2/10</item><item>Lane, 3-26, 12/14/11</item><item>Sharpe, 3-23, 11/22/11</item><item>Smith, 3-26, 12/12/11</item><item>Snyder, 9-19, 5/20/15, R9-20, 5/24/15</item><item>Starbuck, 4-1, 1/4/12</item></list> </item><item>Student government <list type="simple"><item>Dyon, 2-31, 4/4/11, R4/6/11</item><item>Young, 3-27, 12/22/11, R3-28, 12/26/11</item></list> </item><item>Use of alcohol by students <list type="simple"><item>See entries under V, Social issues of the time.</item></list> </item></list></item>
+        <item>V. Social and political issues of the time <list type="simple"><item>Child labor <list type="simple"><item>Lovejoy, 5-26, 1/8/13</item></list> </item><item>Cigarette use <list type="simple"><item>Combs, 5-21, 12/4 &amp; 12/6/12</item><item>Cummings, 9-5, 2/3 &amp; 2/11/15</item><item>Gaston, 12-13, 12/9/10, R12/13/10; 6-5, 5/1/13</item><item>Johnson, 8-21, 12/7/14, R8-22, 12/10/14</item><item>May, 9-4, 1/28/15</item><item>Mead, 4-19, 5/7/12, R5/20/12</item><item>Tracy, 8-24, 12/27 &amp; 12/29/14</item><item>Tripp, 10-6, 8/14/15, R10-7, 8/18/15</item></list> </item><item>Peace movements (including World Court proposal) <list type="simple"><item>Cadwalader, 6-28, 12/13/13, R6-29, 12/15/13; 6-29, 12/18/13; 9-21, 6/1/15</item><item>Ford, 10-8, 8/25/15; 10-9, 9/9 &amp; 9/10/15 (Ford Peace Mission to Europe)</item><item>Frers, 10-22, 12/9/15</item><item>Grant 10-21, 12/1 &amp; 12/3/15 (Peace Mission)</item><item>Hammond, 9-14, 4/12/15, R9-15, 4/29/15 (World Court Congress)</item><item>Lochner, 9-6, 2/10/15; 10-16, 10/30/15, R10-17, 11/2/15; 10-20, 11/29/15 (Peace Mission)</item><item>Parker, 10-21, 12/6/15, R10-24, 12/22/15</item><item>Parsons, 10-8, 8/28 &amp; 8/30/15; 10-9, 9/8/15; 10-13, 10/6/15</item><item>Reeves, 9-16, 4/24/15</item><item>Short, 7-4, 1/26/14; 7-6, 2/12/14; 7-15, 4/15/14; 12-4, 7/28/15; 10-4, 7/28/15</item><item>Wishart, 10-8, 8/24 &amp; 8/25/15; 10-10, 9/10/15; 10-15, 10/21/15</item><item>Wood, 9-20, 5/27/15</item></list> </item><item>Philippine independence <list type="simple"><item>Quezon, 4-12, 3/29/12,R4-13, 4/5/12</item></list> </item><item>Race relations <list type="simple"><item>Franklin, 2-35, 5/2/11, R3-3, 5/31/11; 3-4, 6/1/11</item><item>Robbins, 6-30, 12/24 &amp; 12/26/13; 7-1, 1/2 &amp; 1/5/14</item></list> </item><item>Ratification of League of Nations treaty <list type="simple"><item>Hunsberger, 3-22, 11/10/11</item></list> </item><item>Simplified spelling <list type="simple"><item>Ferris, 8-12, 10/27/14</item><item>Shoop, 7-19, 5/18/14</item><item>Vaile, 7-10, 3/12 &amp; 3/13/14, R7-12, 3/31/14; 7-13, 4/2/14, R7-14, 7/10/14</item></list> </item><item>Use of alcohol, on campus and in saloons <list type="simple"><item>Black, 2-29, 3/20/11</item><item>Burke, 5-19, 11/15/12</item><item>Editor, Detroit Free Press, 5-14, 10/25/12</item><item>Edmonds, 3-12, 8/12/11, R3-13, 9/26/11</item><item>Foote, 5-21, 12/3 &amp; 12/6/12</item><item>Hanchett, 5-20, 11/27/12</item><item>Hill, 2-29, 3/17/11</item><item>Hobson, 5-26, 1/9/13</item><item>Hudson, 4-7, 2/21/12, R4-8, 2/23/12</item><item>Humphrey, 5-26, 1/8 &amp; 1/13/13; 8-6, 8/14 &amp; 8/16/14; 8-, 9/28/14</item></list> </item><item>Use of alcohol, on campus and in saloons <list type="simple"><item>MacKenzie, 8-17, 11/3/14</item><item>McMurdy, 2-1d, 8/13/10, R2-5, 10/13/10; 2-6, 10/17/10, R10/19/10</item><item>Morrow, 2-25, 2/16/11; 2-32, 4/14/11; 3-2, 5/18/11; 3-17, 10/4/11</item><item>Prohibition Film Co., 9-21, 6/4/15</item><item>Publicity Library, 2-7, 10/26/10</item><item>Reed, 5-21, 12/5 &amp; 12/9/12</item><item>Rood, 5-2, 7/11/12, R5-3, 7/17 &amp; 7/18/12; 9-24, 6/25/15</item><item>Rowden, 7-4, 1/27 &amp; 1/28/14; 9-8, 2/25 &amp; 2/27/15</item><item>Rowland, 2-1c, 7/26/10, R7/28/10</item><item>Russell, 3-13, 8/18/11</item><item>Souter, 3-22, 11/13/11</item><item>Warriner, 10-12, 9/25 &amp; 9/28/15</item><item>Wright, 1-29, 3/24/10, R1-30, 4/5/10</item></list> </item><item>Women's suffrage <list type="simple"><item>Barbour, 1-29, 3/21/10; 1-30, 4/8 &amp; 4/11/10</item><item>Blauveldt, 4-3, 1/16/11</item><item>Catt, 2-9, 11/12/10</item><item>Howland, 2-10, 11/21/10</item><item>Stevens, 1-29, 3/31/10; 1-30, 4/4/10; 2-9, 11/16/10</item><item>Trimble, 9-6, 2/13/15, R9-7, 2/17/15</item><item>Wilcox, 5-13, 10/3 &amp; 10/7/12, re: refusal to allow Jane Addams to speak in university building</item></list> </item></list></item>
+      </list>
+    </odd>
+    <odd><p><title href="https://deepblue.lib.umich.edu/handle/2027.42/138142">"Letters Written by Men of Note</title> Which are to be Found in the Hutchins Papers"</p></odd>
+    <odd>
+      <head>Selective Subject Card Catalog to the Harry Burns Hutchins papers</head>
+<p>The catalog identifies the archival materials within the collecton that correspond to the subjects listed in the catalog cards. The <title href="https://deepblue.lib.umich.edu/handle/2027.42/138143">Selective Subject Card Catalog</title> includes entries on the following subjects:</p>      <list type="ordered">
+        <item>Blacks in Michigan</item>
+        <item>B'nai B'irth Hillel Foundation, University of Michigan</item>
+        <item>Election of 1912</item>
+        <item>Election of 1914</item>
+        <item>Goldman, Emma, 1869-1940</item>
+        <item>Hillsdale, Mich.</item>
+        <item>Indians</item>
+        <item>Jews in Michigan</item>
+        <item>Ku Klux Klan (1915- )</item>
+        <item>Philippine Islands</item>
+        <item>Prohibition</item>
+        <item>Radicalism (Social and political)</item>
+        <item>Spanish-American War</item>
+        <item>Temperance</item>
+        <item>University of Michigan Chinese Students Club</item>
+        <item>University of Michigan Department of Astronomy</item>
+        <item>University of Michigan Department of Classical Studies</item>
+        <item>University of Michigan Department of Physics</item>
+        <item>University of Michigan Faculty</item>
+        <item>University of Michigan Fraternities</item>
+        <item>University of Michigan Football</item>
+        <item>University of Michigan Foreign Students</item>
+        <item>University of Michigan Hazing</item>
+        <item>University of Michigan Library</item>
+        <item>University of Michigan Museum</item>
+        <item>University of Michigan Reserve Officer Training</item>
+        <item>University of Michigan School of Music</item>
+        <item>Western Intercollegiate Conference</item>
+        <item>Woman Suffrage</item>
+      </list>
+    </odd>
+    <index id="aspace_e8d555680ff785a214f15b50881e90d7">
+      <head>Partial Index to Correspondents</head>
+<p>This index lists many of the most significant authors or recipients of letters found in the chronologically arranged Correspondence and Other Papers series. The alphabetical listing cites letters by the author by date.</p>      <indexentry>
+        <persname>Adams, Charles Kendall, 1835-1902.</persname>
+        <ref>
+          <list type="simple">
+            <item>1898, July 2, 1910</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Adams, Henry Carter, 1851-1921.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 11, 1898, Feb. 28, 1898, June 20, 1898, 1910, 1911, May 3, 1913, Aug. 18, 1913, Sept. 15, 1913, Oct. 7, 1913 March 2, 1914, Apr. 7, 1914, June 14, 1914, July 17, 1914, Aug. 16, 1914, Feb. 15, 1915, Feb. 23, 1915, March 17, 1915, March 29, 1915, Aug. 23, 1918, Aug. 26, 1918, Sept. 4, 1918, Feb. 4, 1920</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>American Neutral Conference Committee</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 3, 1916</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>American Protective Tariff League</corpname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 3, 1912, Jan. 4, 1912, Oct. 9, 1912, Dec. 5, 1912, Nov. 22, 1913, Dec. 31, 1914, Apr. 6, 1916</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>American Union Against Militarism</corpname>
+        <ref>
+          <list type="simple">
+            <item>July 26, 1916</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Angell, Alexis Caswell, 1857-1932.</persname>
+        <ref>
+          <list type="simple">
+            <item>June 25, 1898, Aug. 6, 1901, Feb. 27, 1911</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Angell, James Burrill, 1829-1916.</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 23, 1904, March 9, 1910, Oct. 27, 1910, Aug. 9, 1911, Oct. 21, 1914, Nov. 22, 1915</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Angell, James Rowland, 1869 1949.</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 6, 1901, 1910, March 16, 1912, Apr. 4, 1912, Apr. 7, 1912, Dec. 10, 1912, June 11, 1913, July 9, 1914, Jan. 9, 1915, June 21, 1916, Jan. 25, 1918, March 20, 1919, March 24, 1919</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Ant-Saloon League of Michigan</corpname>
+        <ref>
+          <list type="simple">
+            <item>July 11, 1912, July 17, 1912, July 18, 1912, Dec. 17, 1913, Jan. 27, 1914, Feb. 25, 1915, June 25, 1915, March 11, 1919, March 20, 1919</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Babst, Earl D., 1870-1967.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 15, 1898, Dec. 31, 1909, 1910, 1911, 1912, 1913, 1914, Jan. 29, 1915, July 28, 1915, July 30, 1915, Aug. 4, 1915, Aug. 23, 1915, Oct. 6, 1915</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Barbour, Levi Levis, 1840-1925.</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 8, 1910, Apr. 11, 1910, May 7, 1910, May 20, 1911, Feb. 28, 1912, July 1, 1913, Nov. 20, 1916 June 15, 1917, June 30, 1917, July 9, 1917, Nov. 16, 1917, Jan. 7, 1919, Jan. 16, 1919, Jan. 29, 1919, Feb. 10, 1919, Aug. 15, 1919</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bartelme, Philip George, 1876-1954.</persname>
+        <ref>
+          <list type="simple">
+            <item>1911, Oct. 29, Nov. 3, 1910 and earlier, Nov. 7, 1910, Sept. 21, 1911, Oct. 30, 1912, Dec. 11, 1912, Feb. 18, 1913, Oct. 2, 1913, Apr. 13, 1914, Nov. 4, 1915, Nov. 8, 1915, Nov. 26, 1915</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bates, Henry Moore, 1869-1949.</persname>
+        <ref>
+          <list type="simple">
+            <item>1898, 1910, Feb. 1, 1911, Apr. 10, 1911, May 11, 1911, July 6, 1911, Nov. 1, 1912, Dec. 19, 1912, July 11, 1913, Jan. 3, 1914 Jan. 7, 1915, Jan. 21, 1915, Feb. 23, 1915, Feb. 26, 1915, Aug. 7, 1915, Nov. 23, 1915, Nov. 29, 1915, Dec. 9, 1915 Jan. 20, 1916, March 7, 1916, June 5, 1916, Sept. 25, 1916, Nov. 3, 1916, Nov. 28, 1916, Dec. 15, 1916 Jan. 25, 1917, June 19, 1917, Dec. 18, 1917, Jan. 4, 1918, Jan. 7, 1918, Jan. 14, 1918, Jan. 28, 1918, Feb. 12, 1918, March 5, 1918, March 5, 1918, Apr. 5, 1918, May 25, 1918, Nov. 29, 1918 Jan. 7, 1919, Jan. 21, 1919, Jan. 25, 1919, March 12, 1919, March 21, 1919, Oct. 15, 1919, Dec. 22, 1919, May 6, 1920, 1921, 1925, 1929</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Beakes, Samuel Willard, 1861-1927</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 1, 1914, March 28, 1916</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Beal, Junius E. (Junius Emery), 1860-1942.</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 23, 1909, Nov. 27, 1909, 1910, 1911, 1912, 1913, May 12, 1914, Aug. 3, 1914, Sept. 20, 1914, Jan. 4, 1915 March 1, 1915, Aug. 3, 1915, Sept. 13, 1915, March 2, 1916, March 27, 1916, May 5, 1916, July 13, 1916, Aug. 21, 1917</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bishop, William Warner, 1871-1955</persname>
+        <ref>
+          <list type="simple">
+            <item>July 8, 1915, July 10, 1917, July 26, 1915, July 28, 1915, Nov. 10, 1915, 1916, March 3, 1917, Oct. 9, 1917 Feb. 4, 1918, Apr. 6, 1918, may 8, 1918, may 18, 1918, Aug. 17, 1916, Sept. 30, 1918, Oct. 8, 1918, Nov. 4, 1918, Nov. 29, 1918 Jan. 4, 1919, Jan. 23, 1919, Feb. 11, 1919, Feb. 21, 1919, May 1, 1919, May 15, 1919, Sept. 25, 1919, Nov. 24, 1919</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Boudeman, Dallas</persname>
+        <ref>
+          <list type="simple">
+            <item>1914, May 27, 1914, [letter suggesting Hutchins become Republican candidate for Governor], May 31, 1916, June 14, 1917, May 7, 1918, Jan. 10, 1919, Apr. 2, 1919, Apr. 28, 1919, June 30, 1919</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bowers, Claude G., 1878-1958.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 14, 1917</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bryan, William Jennings, 1860-1925</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 16, 1914, Nov. 25, 1914, June 4, 1915, June 7, 1915, June 8, 1915, Jan. 11, 1918</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bulkley, Harry Conant, 1870-1943</persname>
+        <ref>
+          <list type="simple">
+            <item>1911, 1912, 1913, Mar. 3, 1914, Aug. 5, 1914, Oct. 27, 1914, Nov. 5, 1914, 1915, Jan. 4, 1916, Jan. 8, 1916, Jan. 25, 1916, March 20, 1916, Apr. 7, 1916, May 31, 1916, Dec. 14, 1916 Jan. 6, 1917, Feb. 21, 1917, March 2, 1917, March 6, 1917, May 21, 1917, Nov. 20, 1917, May 6, 1918, May 9, 1918</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Burrows, Julius Caesar, 1837-1915</persname>
+        <ref>
+          <list type="simple">
+            <item>July 14, 1910, March 4, 1911</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Burton, Marion LeRoy, 1874-1925</persname>
+        <ref>
+          <list type="simple">
+            <item>May 8, 1915, Dec. 4, 1919, 1920</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Butler, Nicholas Murray, 1862-1947</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 23, 1912, Oct. 26, 1912</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Cabot, Hugh, 1872-1945.</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 17, 1929</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Chapin, Roy Dikeman, 1880-1936</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 18, 1915, Jan. 22, 1916, Aug. 16, 1918, Jan. 3, 1919, Jan. 8, 1919, Jan. 20, 1919, March 10, 1919</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Clements, William Lawrence, 1861-1934.</persname>
+        <ref>
+          <list type="simple">
+            <item>1910, 1911, 1912, 1913, 1914, 1915, 1916, may 16, 1917, July 12, 1917, July 28, 1917, July 31, 1917, Oct. 23, 1917 July 20, 1918, Nov. 13, 1918, March 23, 1919, Oct. 24, 1919, Feb. 4, 1920, Feb. 5, 1920, Feb. 12, 1920, March 5, 1920, Apr. 25, 1920, July 6, 1925, Nov. 10, 1925.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Comstock, William. Alfred, 1877-1949.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 26, 1913, March 5, 1915, March 13, 1915</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Cook, William Wilson, 1858-1930.</persname>
+        <ref>
+          <list type="simple">
+            <item>June 1, 1910, June 10, 1910, June 13, 1910, Feb. 10, 1911, March 3, 1911, June 1, 1911, June 5, 1911, June 6, 1911 March 6, 1919, Jan. 26, 1920, Feb. 19, 1920, Apr. 12, 1920, May 10, 1920, May 27, 1920, May 28, 1920, June 4, 1920, June 24, 1920, 1921, 1922, 1923, 1924, 1925, Nov. 19, 1928, Dec. 25, 1928, 1929, 1930</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Cooley, Charles Horton, 1864-1929.</persname>
+        <ref>
+          <list type="simple">
+            <item>June 11, 1910, June 13, 1910, Dec. 14, 1909, Dec. 15, 1909, Feb. 27, 1912, Oct. 29, 1912, Apr. 6, 1915</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Cooley, Mortimer Elwyn, 1855-1944.</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 18, 1910 and earlier, Dec. 29, 1910, 1911, 1912, 1913, 1914, 1915, 1916, 1917, Jan. 8, 1918, Jan. 10, 1918, Jan. 22, 1918, Feb. 25, 1918, May 27, 1918 July 10, 1918, Nov. 16, 1918, May 15, 1919, July 10, 1919, July 12, 1919, Feb. 5, 1920, Feb. 14, 1920, Feb. 20, 1920, Apr. 8, 1925</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Copeland, Royal Samuel, 1868-1938</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 19, 1912, Feb. 23, 1912, Feb. 24, 1912, May 8, 1912, Jan. 30, 1913, Feb. 7, 1913</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Cramton, Louis Convers, 1875-1966.</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr., 1916</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Daniels, Josephus, 1862-1948.</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 23, 1913, Feb. 5, 1919</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Demmon, Isaac Newton, 1842-1920.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 27, 1910, Nov. 25, 1912</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>D'Ooge, Martin Luther, 1839-1915</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 17, 1912</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Douglas, Lloyd Cassel, 1877-1951.</persname>
+        <ref>
+          <list type="simple">
+            <item>July 12, 1916, July 19, 1916, Dec. 10, 1916, Dec. 20, 1929</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Dow, Earle Wilbur, 1868-1946.</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 14, 1918</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>DuBois, William Edward Burghardt, 1868-1963</persname>
+        <ref>
+          <list type="simple">
+            <item>March 30, 1910, Apr. 11, 1910, May 1, 1917, may 8, 1917</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Eggert, Carl Edgar, 1868</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 7, 1917, Oct. 11, 1917, Oct. 14, 1917, Oct. 15, 1917, Oct. 16, 1917, Oct. 19, 1917, Oct. 22, 1917, Oct. 24, 1917, Nov. 13, 1917, Nov. 21, 1917</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Effinger, John Robert, 1869-1933.</persname>
+        <ref>
+          <list type="simple">
+            <item>1913, Apr. 18, 1914, Aug. 20, 1914, Aug. 21, 1915</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ferris, Woodbridge Nathan, 1853-1928.</persname>
+        <ref>
+          <list type="simple">
+            <item>March 11, 1898, Dec. 2, 1912, Dec. 29, 1912, 1913, Feb. 5, 1914, Feb. 11, 1914, March 26, 1914, June 26, 1914, July 2, 1914, Dec. 15, 1914 Jan. 2, 1915, April, 1915, May 10, 1915, Aug. 4, 1915, Aug. 5, 1915, Oct. 17, 1915, Nov. 6, 1915, Feb. 12, 1916, Feb. 16, 1916, Sept. 14, 1918</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Fletcher, Frank Ward, 1853-1922.</persname>
+        <ref>
+          <list type="simple">
+            <item>March 2, 1898, March 3, 1898, Oct. 20, 1898, Nov. 26, 1909, March 3, 1910, June 2, 1910, June 13, 1910, June 16, 1910, June 17, 1910, 1911, Feb. 20, 1912, Feb. 23, 1912, Feb. 26, 1912</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Gore, Victor Michael, 1858, 1941.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 16, 1913, Jan. 20, 1914, Jan. 4, 1915, Jan. 7, 1915, Feb. 13, 1915, March 1, 1915, Apr. 14, 1915, Feb. 28, 1918, Sept. 16, 1918, Nov. 26, 1919, Dec. 3, 1919</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Grant, Claudius Buchanan, 1835-1921</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 29, 1897, Dec. 16, 1909, Dec. 20, 1909, June 13, 1910, June 23, 1910, June 30, 1910, July 5, 1910, Dec. 19, 1910, 1911, Jan. 9, 1912, Jan. 11, 1912, May 19, 1912, May 29, 1912, Dec. 22, 1916, Feb. 11, 1919</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Grant. John Henry, 1857-1913</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 24, 1909, 1910, 1911, 1912</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Groesbeck, Alexander J., 1873-1953.</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 28, 1916</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hanchett, Benjamin Savtell, 1868-1933.</persname>
+        <ref>
+          <list type="simple">
+            <item>Mar. 25, 1911, June 21, 1911, May 17, 1912, 1912, 1913, May 14, 1914, Apr. 4, 1914, Oct. 23, 1914, 1915, Apr. 20, 1916 Mar. 5, 1917, June 7, 1917, June 14, 1917, July 13, 1917, Sept. 13, 1917, Sept. 15, 1917, Feb. 1, 1918, Feb. 9, 1918, Feb. 14, 1918, Apr. 8, 1918, Apr. 16, 192o</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hart, Albert Bushnell, 1854-1943</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 18, 1898</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hinsdale, Wilbert Bartlett, 1851-1944.</persname>
+        <ref>
+          <list type="simple">
+            <item>1915-1918</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hobbs, William Herbert, 1864-1953.</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 2, 1910, Feb. 14, 1911, 1912, 1913, Jan. 12, 1914, Feb. 16, 1914, Apr. 1, 1914, Feb. 26, 1915, Mar. 26, 1915, Apr. 21, 1915, Apr. 21, 1915, Nov. 8, 1915, Nov. 15, 1915 Jan. 3, 1917, Mar. 29, 1917, Mar. 30, 1917, Apr. 8, 1917, Dec. 24, 1917, Apr. 25, 1919, May 2, 1919, Jan. 20, 1920</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hoover, Herbert Clark, Pres. U.S., 1874-1964.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 16, 1914</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hubbard, Lucius Lee, 1849-1933.</persname>
+        <ref>
+          <list type="simple">
+            <item>1911, 1912, 1913, 1914, 1915, Apr. 8, 1916, Feb. 1918, Apr. 7, 1918, May 27, 1918, Aug. 16, 1918, Oct. 12, 1918, Feb. 10, 1919, Apr. 4, 1919, July 12, 1919, Nov. 10, 1919, Dec. 15, 1919, Feb. 24, 1920</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hudson, Joseph Lovthian, 1846-1912.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 2, 1912, Jan. 4, 1912, Feb. 21, 1912, Feb. 26, 1912</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hudson, Richard, 1845-1915.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 14, 1910, May 27, 1910, May 5, 1912, Jan. 26, 1913, Mar. 22, 1913, Oct. 28, 1913, Jan. 23, 1914, Dec. 8, 1914, Jan. 11, 1915, Jan. 18, 1915, Jan. 23, 1915, Feb. 6, 1915</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hughes, Charles Evans, 1862-1948.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 14, 1907, 1909, Mar. 4, 1914, 1929</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hussey, Ethel Fountain, 1865-1915</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 6, 1913</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hussey, William Joseph, 1862-1926.</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 14, 1912, Dec. 2, 1912, 1913, July 18, 1914, July 21, 1914, Nov. 17, 1914, Aug. 31, 1915, mar. 4, 1917, mar. 15, 1916, May 18, 1916</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Illinois Vigilance Association</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 22, 1914</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Johnson, Elias Finley, 1861-1933</persname>
+        <ref>
+          <list type="simple">
+            <item>July 11, 1910, Aug. 9, 1912</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Jordan, Myra Beach, 1860</persname>
+        <ref>
+          <list type="simple">
+            <item>June 9, 1913, July 8, 1913, Nov. 24, 1913, Dec. 4, 1913, Dec. 30, 1913, Jan. 14, 1914, Apr. 21, 1914, June 18, 1914, July 15, 1914, 1914 Jan. 5, 1915, Jan. 18, 1915, Apr. 23, 1915, May 14, 1915, June 28, 1915, Nov. 8, 1915, Dec. 6, 1915, May 19, 1916, June 1, 1916 Oct. 17, 1917, Jan. 10, 1917, Apr. 13, 1918, Aug. 2, 1918, Sept. 22, 1918, Sept. 24, 1918, Oct. 10, 1918, Dec. 7</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Keeler, Fred L</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 4, 1915, Jan. 23, 1915, Mar. 12, 1915, Sept. 10, 1915, Feb. 3, 1916, Sept. 20, 1916, Aug. 6, 1917, Oct. 6, 1917, Dec. 21, 1917, Feb. 5, 1918, mar. 18, 1918, Mar. 20, 1918, Mar. 21, 1918, May 15, 1918, Sept. 23, 1918</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Kellogg, John Harvey, 1852-1943</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 27, 1916</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Kelsey, Francis Willey, 1858-1927</persname>
+        <ref>
+          <list type="simple">
+            <item>1910, Feb. 1, 1911, July 13, 1911, Feb. 3, 1912, Mar. 2, 1912, Nov. 25, 1912, Nov. 27, 1912, Dec. 21, 1912 Jan. 9, 1913, Jan. 20, 1913, Mar. 14, 1913, May 10, 1913, 1913, 1914, 1915, Feb. 29, 1916, Apr. 22, 1916, Oct. 12, 1916 Jan. 8, 1917, May 21, 1917, July 23, 1917, Jan. 15, 1918, Dec. 10, 1918, Feb. 22, 1919, Feb. 24, 1919, Aug. 1, 1925, Mar. 10, 1926</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Knappen, Loyal Edwin, 1854-1930.</persname>
+        <ref>
+          <list type="simple">
+            <item>1910, 1911</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Koch, Theodore Wesley, 1871-1941.</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 12, 1910, Oct. 11, 1910, Oct. 13, 1910, Oct. 22, 1910, Jan. 10, 1911, Feb. 1, 1911, Mar. 29, 1912, Apr. 27, 1912, July 9, 1913, July 15, 1913, Aug. 16, 1913 Mar. 2, 1914, June 15, 1914, Nov. 17, 1914, Apr. 5, 1915, Apr. 15, 1915, Apr. 19, 1915, Dec. 6, 1915</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Labadie, Joseph</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 15, 1911, Oct. 27, 1911, Oct. 31, 1911, Nov. 27, 1911, Jan. 2, 1912, Jan. 9, 1912, Feb. 22, 1912, Feb. 27, 1912, Aug. 10, 1912, 1912, June 11, 1913, Nov. 16, 1913, May 12, 1914, June 2, 1914, June 23, 1914, Dec. 29, 1914, Jan. 13, 1920</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Lansing, Robert, 1864-1928.</persname>
+        <ref>
+          <list type="simple">
+            <item>July 1, 1915</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>League to Enforce Peace.</corpname>
+        <ref>
+          <list type="simple">
+            <item>July 28, 1915, Dec. 6, 1915, Dec. 22, 1915, Nov. 22, 1917 Mar. 23, 1918, Apr. 20, 1918, Apr. 24, 1918, Apr. 27, 1918, Apr. 29, 1918, June 4, 1918, Aug. 13, 1918, Oct. 18, 1918, Nov. 30, 1918, Dec. 31, 1918 Jan. 2, 1919, Jan. 15, 1919, Jan. 29, 1919, Jan. 30, 1919, Apr. 8, 1919, May 4, 1919, June 19, 1919, Sept. 18, 1919, Oct. 7, 1919, Nov. 22, 1919, Nov. 25, 1919, Dec. 5, 1919</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Leland, Frank</persname>
+        <ref>
+          <list type="simple">
+            <item>1910, 1911, 1912, 1913, Dec. 5, 1914, 1915, Feb. 3, 1916, Oct. 18, 1916, Dec. 18, 1916, July 17, 1919</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Little, Clarence Cook, 1888</persname>
+        <ref>
+          <list type="simple">
+            <item>Mar. 2, 1911, Aug. 18, 1911, Aug. 22, 1911, June 29, 1925, Nov. 6, 1925, June 27, 1925, July 2, 1926, June 7, 1927, Apr. 7, 1928</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>McLaughlin, Andrew Cunningham, 1861-1947.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 19, 1927</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Malcolm, George Arthur, 1881-1961.</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 8, 1913, Mar. 23, 1914</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Mapes, Carl Edgar, 1874-1939</persname>
+        <ref>
+          <list type="simple">
+            <item>June 21, 1917</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Mayo, William James, 1861-1939.</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 27, 1915, Sept. 28, 1915</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Men's League for Woman Suffrage of the State of Michigan.</corpname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 16, 1912</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Mott, John R</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 30, 1912</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Murfin, James Orin, 1875-1940</persname>
+        <ref>
+          <list type="simple">
+            <item>July 23, 1918, Aug. 15, 1918, Aug. 29, 1918, Jan. 29, 1919, Mar. 5, 1919, Mar. 17, 1919, Sept. 4, 1925</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>National Child Labor Committee.</corpname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 8, 1913, Jan. 12, 1914, Dec. 19, 1914, Dec. 20, 1915, Apr. 22, 1920</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>National Conference on Race Betterment.</corpname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 24, 1913, Jan. 2, 1914, Mar. 3, 1915</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>National Conservation Congress.</corpname>
+        <ref>
+          <list type="simple">
+            <item>May 26, 1913, Sept. 20, 1913, Oct. 15, 1913</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>National Home Finding Society for Colored Children.</corpname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 20, 1920, Apr. 17, 1920</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>National Peace Federation.</corpname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 20, 1915, Sept. 8, 1915, Oct. 30, 1915</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>National Religious Training School.</corpname>
+        <ref>
+          <list type="simple">
+            <item>Mar. 12, 1914, Oct. 7, 1914</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>National Urban League for Social Service Among Negroes.</corpname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 14, 1920</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Newberry, Truman Handy, 1864-1945</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 23, 1909, Nov. 27, 1909, Nov. 29, 1909, 1910, 1911, June 19, 1915, May 2, 1918</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Osborn, Chase Salmon, 1860-1949.</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 29, 1909 and before, Mar. 12, 1910, Mar. 15, 1910, Apr. 13, 1910, Feb. 16, 1910, 1911, 1912, Oct. 24, 1913, Dec. 6, 1913, Mar. 7, 1914, June 29, 1914, Jan. 15, 1918, June 23, 1920</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Page, Walter Hines, 1855-1918.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 9, 1898</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Patrons of Husbandry. Michigan State Grange.</corpname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 15, 1915, Nov. 29, 1915, Dec. 2, 1915</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Pillsbury, Walter Bowers, 1872-1960.</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 18, 1912, May 5, 1913</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Pinchot, Gifford, 1865-1946.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 23, 1909, Nov. 2, 1909</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Pingree, Hazen Smith, 1840-1901.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 1, 1898, Apr. 12, 1898, Jan. 21, 1898</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Quezon, Manuel Luis, 1878 1944.</persname>
+        <ref>
+          <list type="simple">
+            <item>Mar. 29, 1912</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Reeves, Jesse Siddall, 1872-1942.</persname>
+        <ref>
+          <list type="simple">
+            <item>mar. 16, 1910, Apr. 12, 1910, Apr. 16, 1910, Apr. 22, 1910</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Reighard, Jacob Ellsworth, 1861-1942.</persname>
+        <ref>
+          <list type="simple">
+            <item>July 15, 1915</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Riggs, Henry E.</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 10, 1915, Aug. 20, 1915, Nov. 24, 1916, Dec. 29, 1916, Jan. 23, 1917, Feb. 10, 1917, Mar. 19, 1917, Mar. 26, 1917, Apr. 5, 1917, Nov. 9, 1917 Aug. 28, 1918, Sept. 20, 1918, Nov. 25, 1918, Dec. 16, 1918, Dec. 19, 1918, Mar. 6, 1919, Jan. 1, 1920</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Roosevelt, Theodore, Pres. U.S., 1858-1919.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 2, 1910, Mar. 5, 1917</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Root, Elihu</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 29, 1910, Mar. 4, 1914, Oct. 1, 1917, Dec. 17, 1917</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ruthven, Alexander Grant, 1882</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 14, 1911, Feb. 16, 1911, 1912, June 4, 1913, Oct. 2, 1913, Jan. 13, 1914, June 4, 1914, Aug. 15, 1914, Dec. 1, 1914, June 9, 1915, Feb. 19, 1917, May 11, 1917, Apr. 23, 1918, Apr. 30, 1918</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Sawyer, Walter Hulme, 1861-1931.</persname>
+        <ref>
+          <list type="simple">
+            <item>1909, 1910, 1911, 1912, 1913, 1914, 1915, 1916, Jan. 12, 1917, May 31, 1917, Sept. 29, 1917, Dec. 24, 1918, Nov. 21, 1924, Nov. 30, 1924</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Schurman, J.G.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 16, 1910, Dec. 22, 1910, Dec. 20, 1910, Apr. 5, 1911, Dec. 1, 1911, Dec. 5, 1911, Dec. 7, 1911</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Sleeper, Albert E</persname>
+        <ref>
+          <list type="simple">
+            <item>Mar. 27, 1917, Apr. 11, 1917, Feb. 9, 1918, Apr. 2, 1918, Apr. 3, 1918, Feb. 5, 1919</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Smith, Shirley Wheeler</persname>
+        <ref>
+          <list type="simple">
+            <item>Mar. 20, 1912, Apr. 3, 1912</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Smith, William Alden, 1859-1932.</persname>
+        <ref>
+          <list type="simple">
+            <item>June 6, 1911, Aug. 2, 1911, Feb. 21, 1912, Mar. 29, 1912, Apr. 1, 1912, Apr. 5, 1912, Dec. 20, 1912, July 14, 1913, Feb. 28, 1914</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Stimson, Henry Lewis, 1867-1950</persname>
+        <ref>
+          <list type="simple">
+            <item>May 15, 1912, June 30, 1913</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Taft, William Howard, Pres. U.S., 1857-1930.</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 29, 1898, Oct. 22, 1910, Mar. 16, 1912, Oct. 28, 1915</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Townsend, Charles E. (Charles Elroy), 1856-1924.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 20, 1910, Nov. 1, 1910, Dec. 30, 1910, May 3, 1912, Mar. 12, 1913, Mar. 15, 1913, Nov. 29, 1913, Jan. 28, 1916, Jan. 31, 1916, Sept. 7, 1916</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Vandenberg, Arthur H.</persname>
+        <ref>
+          <list type="simple">
+            <item>June 8, 1901, Aug. 911901, June 13, 1902, Jan. 3, 1909, Jan. 18, 1910, Jan. 19, 1910, Jan. 8, 1912</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Van Tyne, Claude Halstead, 1869-1930</persname>
+        <ref>
+          <list type="simple">
+            <item>May 1, 1916, Jan. 3, 1917, Nov. 23, 1911</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Vaughan, Victor Clarence, 1851-1929</persname>
+        <ref>
+          <list type="simple">
+            <item>1910, 1911, 1912, Jan. 4, 1913, May 5, 1913, Sept. 11, 1916, Sept. 10, 1917, Sept. 19, 1917, Oct. 4, 1917, Dec. 19, 1917, Jan. 4, 1918, Jan. 21, 1918, Mar. 6, 1918, Apr. 9, 1918, Dec. 7, 1918</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ward, Marcus Llevellyn, 1875-1963.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 12, 1916</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Warner, Fred Maltby, 1865-1923</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 29, 1909, 1910</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Washington, Booker Taliaferro, 1856-1915.</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 30, 1912, Dec. 2, 1912, Dec. 14, 1912, Dec. 21, 1912, Jan. 7, 1913, Jan. 9, 1914, Jan. 14, 1914, Mar. 17, 1914, Oct. 12, 1914, Jan. 6, 1915, May 14, 1915, Oct. 14, 1915, March. 6, 1916</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wedemeyer, William Walter, 1873-1913</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 18, 1911</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wenley, Robert Mark, 1861-1929.</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 9, 1910, Apr. 13, 1910, Mar. 2, 1912, Mar. 30, 1912, Sept. 7, 1912, Sept. 24, 1912, Oct. 21, 1912, Nov. 30, 1912, Apr. 18, 1919, Aug. 6, 1925, 1926, 1927</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wheeler, Burton Kendall, 1882-</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 7, 1901, Mar. 3, 1902, Sept. 2, 1902</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>White Andrew Dickson, 1832-1918.</persname>
+        <ref>
+          <list type="simple">
+            <item>June 3, 1898, Dec. 4, 1918</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wilson, Woodrow, Pres. U.S., 1856-1924.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 15, 1910, Jan. 20, 1910, Jan. 27, 1911, Jan. 15, 1912, Aug. 23, 1912, Jan. 20, 1913, Sept. 2, 1914, June 16, 1915, Nov. 15, 1916</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wood, Leonard, 1860-1927.</persname>
+        <ref>
+          <list type="simple">
+            <item>June 8, 1914, July 10, 1914, July 14, 1914, Apr. 30, 1915, July 12, 1915, July 16, 1915, Aug. 14, 1915, Mar. 8, 1917, Apr. 18, 1917, Apr. 23, 1917, Jan. 10, 1919</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>World Court League.</corpname>
+        <ref>
+          <list type="simple">
+            <item>May 2, 1916</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>World Peace Foundation.</corpname>
+        <ref>
+          <list type="simple">
+            <item>July 10, 1912</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wright, Luther Lamphere, 1856-1922.</persname>
+        <ref>
+          <list type="simple">
+            <item>1910, 1911, 1912, 1913, Oct. 13, 1914</item>
+          </list>
+        </ref>
+      </indexentry>
+    </index>
+  </descgrp>
+</archdesc>
+</ead>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>umich-bhl-2018019</eadid><filedesc><titlestmt><titleproper>Finding aid for the Barbara Bassett McIver papers</titleproper><author>Finding aid created by Nichole L. Manlove, April 2018</author></titlestmt><publicationstmt><publisher>Bentley Historical Library</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-10-07 12:11:46 -0400</date>.</creation><langusage>The finding aid is written in <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc></eadheader><frontmatter><titlepage><publisher>Bentley Historical Library <lb/>University of Michigan</publisher><titleproper>Finding aid for the Barbara Bassett McIver papers</titleproper><author>Finding aid created by Nichole L. Manlove, April 2018</author></titlepage></frontmatter><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Bentley Historical Library</corpname>
+      <extptr actuate="onload" href="bhladd" show="embed"/>
+    </repository>
+    <unittitle>Barbara Bassett McIver papers</unittitle>
+    <origination label="creator">
+      <persname source="local">McIver, Barbara Bassett.</persname>
+    </origination>
+    <unitid type="call number">2018019 Aa 2</unitid>
+    <physdesc>
+      <extent>0.5 linear feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" era="ce" normal="1961/2011" type="inclusive">1961-2011</unitdate>
+    <unitdate calendar="gregorian" era="ce" normal="1961/1964" type="bulk">1961-1964</unitdate>
+    <abstract id="aspace_de0248b2e094bbc7c7ce4c42303a2e9c">A Detroit, Mich. native, Barbara Bassett McIver was part of the second cohort of Peace Corps volunteers and part of the first Peace Corps group to go to the Philippines. The bulk of the material is dated between 1961 and 1964, and includes McIver's diary, a scrapbook, letters home, and ephemera relating to McIver's experiences in the Philippines. Also included in the collection are Peace Corps 25th and 50th anniversary program materials.</abstract>
+    <langmaterial id="aspace_62136a54cca87a86de6a59a1eb0e315e">The material is in <language langcode="eng">English</language></langmaterial>
+  </did>
+  <descgrp type="admin">
+    <accessrestrict><p>This collection is open without restriction.</p></accessrestrict>
+    <acqinfo><p>Donated by Barbara Bassett McIver (donor no. <num type="donor">11670</num>) in February 2017.</p></acqinfo>
+    <userestrict><p>Donor(s) have transferred any applicable copyright to the Regents of the University of Michigan but the collection may contain third-party materials for which copyright was not transferred. Patrons are responsible for determining the appropriate use or reuse of materials.</p></userestrict>
+    <prefercite><p>[item], folder, box, Barbara Bassett McIver papers, Bentley Historical Library, University of Michigan.</p></prefercite>
+  </descgrp>
+  <bioghist><p>A Marygrove College (Detroit, Mich.) Class of 1958 graduate, Barbara Bassett McIver served with the Peace Corps in the Philippines as an Elementary School Aide from July 29, 1961 to June 3, 1963 teaching science and English as a second language.  Prior to joining the Corps, McIver worked as an educator within the Detroit Public School System (DPS).  She also began to pursue a law degree through the Detroit College of Law (currently the Michigan State University College of Law).  However, her interest in global initiatives led her to postpone law school and join the Peace Corps. </p><p>Upon her return to the United States, McIver became an officer with the Detroit Police Department (DPD).  In 1966, while serving with the DPD, she returned to the Detroit College of Law to complete her degree.  In 1967, McIver was admitted to the Michigan Bar and shortly thereafter began working as an Assistant Prosecutor in Jackson County, Michigan.</p><p>In later years, McIver worked under Michigan Attorney General Frank J. Kelley, the nation's longest serving Attorney General (1962-1999) as an Assistant Attorney General.  She became the Chief Deputy Judicial Assistant for the 36th District Court and later went into private practice.  In 1996, after 30 years of service in the legal field, McIver retired from the Michigan Court System.</p></bioghist>
+  <scopecontent><p>The bulk of the material in the collection relates to McIver's time as a volunteer in the Peace Corps. The majority of items dated between 1961 and 1964 include McIver's correspondence (mostly letters to her mother) her diary, and a scrapbook. McIver's letters and her diary describe her daily activities, thoughts, and concerns regarding the Philipines, the Filipino culture, the Peace Corps, and other volunteers. McIver's scrapbook contains maps of the Philippines, photographs of McIver, the Peace Corps volunteers, Filipino students and citizens. Of note (within the scrapbook) are two signed letters to McIver from President John F. Kennedy and four letters from R. Sargent Shriver, the first director of the Peace Corps, as well as two letters from Congresswoman Martha W. Griffiths (D-Michigan; 1955-1974) commending McIver for her work in the Philippines. The scrapbook also contains newspaper clippings (scattered dates), a 1967 Outstanding Young Women of America certificate, a 1961 Peace Corps Volunteer certificate, and a 1961 Pennsylvania State-Peace Corps Training Completion certificate, among other items.  </p><p>
+The collection also includes the Peace Corps 25th and 50th anniversary program announcements and itinerary.</p></scopecontent>
+  <controlaccess>
+    <p>
+      <extptr actuate="onload" href="accnote" show="embed"/>
+    </p>
+    <subject source="lcsh">Americans -- Philippines.</subject>
+    <subject source="lctgm">Civil service.</subject>
+    <subject source="lcsh">Education -- Philippines.</subject>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n79056525" source="lcsh">Manila (Philippines)</geogname>
+    <subject source="lcsh">Volunteers in education -- Philippines.</subject>
+    <subject source="lcsh">Women volunteers.</subject>
+    <genreform source="local">Diaries.</genreform>
+    <geogname source="aat">Photographs.</geogname>
+    <genreform source="lctgm">Scrapbooks.</genreform>
+    <persname source="local">McIver, Barbara Bassett.</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79099503" source="lcnaf">Peace Corps (U.S.)</corpname>
+  </controlaccess>
+  <dsc type="combined"><c01 id="aspace_fce25931b7f32dc6c8de22bad87357f5" level="series"><did><unittitle>Peace Corps</unittitle><unitdate calendar="gregorian" era="ce" normal="1961/1963" type="inclusive">1961-1963</unitdate><unitdate calendar="gregorian" era="ce" normal="1986/1986" type="inclusive">1986</unitdate><unitdate normal="2011/2011" type="inclusive">2011</unitdate></did><c02 id="aspace_3679471ab1adc04df1753d6321a83737" level="file"><did><unittitle>Diary</unittitle><unitdate calendar="gregorian" era="ce" normal="1961/1963" type="inclusive">1961-1963</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_eb341431aa46daf750a30a46a4768062" level="file"><did><unittitle>Peace Corps Anniversary Materials</unittitle><unitdate normal="1986/1986" type="inclusive">1986</unitdate><unitdate normal="2011/2011" type="inclusive">2011</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_e3e7ce2d6fa0997b9e6b4b485cfc3995" level="file"><did><unittitle>Peace Corps Letters</unittitle><physdesc><extent>2 folders</extent></physdesc><unitdate calendar="gregorian" era="ce" normal="1961/1963" type="inclusive">1961-1963</unitdate><container label="Box" type="box">1</container></did><scopecontent><p>Folder 2 of 2 includes scanned color group photographs.</p></scopecontent></c02><c02 id="aspace_81ce65d769e88b5fc74ade61e13dc7ab" level="file"><did><unittitle>Scrapbook</unittitle><physdesc><extent>3 folders</extent></physdesc><unitdate calendar="gregorian" era="ce" normal="1961/1964" type="inclusive">1961-1964</unitdate><container label="Box" type="box">1</container></did><odd><p>(Two original letters to McIver signed by President John F. Kennedy, dated May 22, 1961 and June 19, 1962 (in folder 2 of 3) have been removed from the collection and replaced with photocopies.)</p></odd></c02></c01></dsc>
+</archdesc>
+</ead>

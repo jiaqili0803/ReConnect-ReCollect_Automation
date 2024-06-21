@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>umich-bhl-92954</eadid><filedesc><titlestmt><titleproper>Finding aid for the Roy Stanley Swinton photograph collection</titleproper><author>Finding aid created by Steven Gentry, September 2020.</author></titlestmt><publicationstmt><publisher>Bentley Historical Library</publisher><p><date>2020</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-10-07 12:45:06 -0400</date>.</creation><langusage>The finding aid is written in <language langcode="eng">English</language></langusage><descrules>gihc</descrules></profiledesc><revisiondesc><change><date>2017-02-13</date><item>Original encoding from MARC record</item></change><change><date>2020-09-09</date><item>Finding aid created.</item></change></revisiondesc></eadheader><frontmatter><titlepage><publisher>Bentley Historical Library <lb/>University of Michigan</publisher><titleproper>Finding aid for the Roy Stanley Swinton photograph collection</titleproper><author>Finding aid created by Steven Gentry, September 2020.</author></titlepage></frontmatter><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Bentley Historical Library</corpname>
+      <extptr actuate="onload" href="bhladd" show="embed"/>
+    </repository>
+    <unittitle>Roy Stanley Swinton photograph collection</unittitle>
+    <origination label="creator">
+      <persname source="lcnaf">Swinton, Roy Stanley, 1886-</persname>
+    </origination>
+    <unitid type="call number">92954 UAs</unitid>
+    <physdesc>
+      <extent>1 envelopes</extent>
+    </physdesc>
+    <unitdate certainty="approximate" normal="1880/1880" type="inclusive">circa 1880</unitdate>
+    <unitdate certainty="approximate" normal="1900/1900" type="inclusive">circa 1900</unitdate>
+    <unitdate certainty="approximate" normal="1950/1950" type="inclusive">circa 1950</unitdate>
+    <langmaterial id="aspace_4898c7818e52a4e12cde5dc303ac510d">The material is in <language langcode="eng">English</language>.</langmaterial>
+    <abstract id="aspace_7b6c1ec7a286e1abadac36adaa273856">Roy Stanley Swinton (1886-1956) was a University of Michigan alumnus and professor of engineering mechanics.
+
+Consists of photographs of Calumet, Michigan; the Calumet and Hecla Mining Company and hoisting equipment at the mine; and a stamp mill in Lake Linden, Michigan. Also included are portraits.</abstract>
+  </did>
+  <descgrp type="admin">
+    <prefercite><p>[item], folder, Roy Stanley Swinton photograph collection, Bentley Historical Library, University of Michigan.</p></prefercite>
+    <acqinfo><p>Donors: <num encodinganalog="541$e" type="donor">285</num>, <num encodinganalog="541$e" type="donor">3003</num>.</p></acqinfo>
+    <accessrestrict><p>The collection is open without restriction.</p></accessrestrict>
+    <userestrict><p>Copyright status is unknown. Patrons are responsible for determining the appropriate use or reuse of materials.</p></userestrict>
+  </descgrp>
+  <bioghist><p>Roy Stanley Swinton was born in Calumet, Mich. on September 10, 1886 to George D. Swinton and Martha (Stanley) Swinton. He enrolled in the University of Michigan in 1906 and graduated in 1910 with a Bachelor of Civil Engineering. He was also involved with Phi Kappa Phi, and later served as the fraternity's national president from 1952-1955. After serving as an assistant in the University of Michigan's Civil Engineering Department (circa 1910-1911), Swinton worked as an instructor at the University of the Philippines from 1911-1913. He returned to the United States in 1913 and worked on several major construction projects, including those relating to the Lincoln Memorial's foundations and Arlington National Cemetery. He also served as a consultant to the Detroit Transportation Association in 1915.</p><p>Swinton began serving as an instructor in engineering mechanics at the University of Michigan in circa 1916. Over the next few decades, Swinton was promoted to assistant professor (1918), received his Master of Science in Engineering from the University of Michigan (1920), attended the university's graduate school (1920-1922), and attained the rank of associate professor (1934). In 1940, he took a leave of absence and traveled to the Philippines—accompanied by his wife, Jane (Mitchell) Swinton, and their daughter, Barbara Swinton—to teach at the University of the Philippines. In 1942, Japanese soldiers captured the Swinton family and interned them at the Santo Tomas Internment Camp. Swinton would continue to teach in some capacity during his imprisonment until the war's conclusion in 1945. After their release that year, Swinton and his family returned to the United States and he resumed teaching at the University of Michigan. By 1952, Swinton was named professor of engineering mechanics.</p><p>Swinton's research covered a variety of areas, including dental fillings, ethics, highway and road engineering, surveying, traffic patterns, and transportation and transportation management. His publications include <title render= "italic">Notes and Problems in Statics</title>, <title render="italic">Notes and Problems in Strength of Materials</title> (1930; revised edition published in 1949), and <title render="italic">An Introduction to the Teaching of Engineering Ethics</title> (1948). He held membership with several organizations, including the American Association for the Advancement of Science, the American Society of Civil Engineers, and the Permanent International Association of Road Congresses.</p><p>While on terminal leave from the University of Michigan, Roy Swinton died in Jakarta on October 20, 1956.</p></bioghist>
+  <scopecontent><p>The collection consists of photographs of Calumet, Michigan; the Calumet and Hecla Mining Company and hoisting equipment at the mine; and a stamp mill in Lake Linden, Michigan. Also included are portraits.</p></scopecontent>
+  <controlaccess>
+    <p>
+      <extptr actuate="onload" href="accnote" show="embed"/>
+    </p>
+    <geogname source="lctgm">Calumet (Mich.) -- 1891-1900.</geogname>
+    <subject source="lctgm">Hoisting machinery.</subject>
+    <geogname source="lctgm">Lake Linden (Mich.) -- 1871-1880.</geogname>
+    <subject source="lctgm">Mining.</subject>
+    <genreform source="gmgpc">Photographs.</genreform>
+    <persname source="lcnaf">Swinton, Roy Stanley, 1886-</persname>
+    <corpname source="lcnaf">Calumet and Hecla Mining Company.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- Faculty.</corpname>
+  </controlaccess>
+  <dsc type="combined"><c01 id="aspace_583cc3b652252cc4213f73e8aa6eb517" level="series"><did><unittitle>Roy Stanley Swinton photograph collection</unittitle><container label="Folder" type="folder">1</container></did></c01></dsc>
+</archdesc>
+</ead>

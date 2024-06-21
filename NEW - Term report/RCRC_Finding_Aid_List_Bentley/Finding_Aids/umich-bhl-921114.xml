@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>umich-bhl-921114</eadid><filedesc><titlestmt><titleproper>Finding Aid for Department of History (University of Michigan) Senior Honors Theses</titleproper><author>Finding aid prepared by: Thomas E. Powers, September 1992 University Archives Staff, 2000, 2004, 2009</author></titlestmt><publicationstmt><publisher>Bentley Historical Library</publisher><p><date>2000</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-10-07 12:18:15 -0400</date>.</creation><langusage>The finding aid is written in <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc><revisiondesc><change><date>2015-01-13</date><item>Updated to include new accessions</item></change><change><date>2009-09-15</date><item>Updated to include new accessions</item></change><change><date>2005-01-25</date><item>Updated to include new accessions</item></change><change><date>2003-10-10</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change><change><date>2000-04-29</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change><change><date>2016-10-18</date><item>Spelled out "Dept."; updated folder locations in boxes 4-5.</item></change><change><date>2016-11-21</date><item>Updated Conditions Governing Use Note</item></change><change><date>2017-07-06</date><item>Corrected ongoing dates with an end date of 9999</item></change><change><date>2021-03-05</date><item>updated the accruals note; created "related materials" note</item></change></revisiondesc></eadheader><frontmatter><titlepage><publisher>Bentley Historical Library <lb/>University of Michigan</publisher><titleproper>Finding Aid for Department of History (University of Michigan) Senior Honors Theses</titleproper><author>Finding aid prepared by: Thomas E. Powers, September 1992 University Archives Staff, 2000, 2004, 2009</author></titlepage></frontmatter><archdesc level="recordgrp">
+  <did>
+    <repository>
+      <corpname>Bentley Historical Library</corpname>
+      <extptr actuate="onload" href="bhladd" show="embed"/>
+    </repository>
+    <unittitle>Department of History (University of Michigan) senior honors theses</unittitle>
+    <origination label="creator">
+      <corpname source="lcnaf">University of Michigan. Dept. of History.</corpname>
+    </origination>
+    <unitid type="call number">921114 Bimu C27 2</unitid>
+    <physdesc>
+      <extent>5.25 linear feet</extent>
+    </physdesc>
+    <unitdate normal="1969/2011" type="inclusive">1969-2011</unitdate>
+    <physloc id="aspace_54f54ba2f5c39f7ca753e951c96eecff">Portions of the collection are stored offsite; two days notice required for retrieval.</physloc>
+    <abstract id="aspace_4e8be8ce83b99634e584c2d6af04806c">Research papers on topics relating to Michigan history and the history of the University of Michigan written by students in the History Department Undergraduate Honors Program.</abstract>
+    <langmaterial id="aspace_20aacc459571cdeb86011471cc5252f2">The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+  </did>
+  <descgrp type="admin">
+    <acqinfo><p>This collection was transferred from the History Department (donor no. <num encodinganalog="541$e" type="donor">1442</num>) in 1990.</p></acqinfo>
+    <accessrestrict><p>The collection is open for research with the exception of several theses for which student release forms are not on file. In compliance with the Family Educational Rights and Privacy Act, theses without release forms are closed for 75 years.</p>    <p>
+      <blockquote>
+        <p>
+          <emph render="bold">Access Restrictions for University of Michigan Records</emph>
+        </p>
+        <p>University records are public records and once fully processed are generally open to research use. Records that contain personally identifiable information will be restricted in order to protect individual privacy. Certain administrative records are restricted in accordance with university policy as outlined below. The restriction of university records is subject to compliance with applicable laws, including the Michigan Freedom of Information Act.</p>
+        <p>Categories of Restricted Records        <list type="simple">
+          <item><emph render="bold">Student educational records</emph>: FERPA's protection of personally identifiable information in a student's education records ends at the time of a student's death and therefore is a matter of institutional policy.  As a courtesy to the families of recently deceased students who were enrolled at the time of death, the University generally will not release information from their education records for five years without the consent of the deceased student's next of kin. Eighty-five (85) years after the date the records were first created, the University will presume that the student is deceased. Thereafter the student's education records will be open.  Student records at the Bentley Historical Library are restricted for eighty-five (85) years, but may also be made available upon proof of the death of the student.</item>
+        </list>
+</p>
+        <p>Restricted files are indicated in the contents list of the collection’s finding aid with a restriction note indicating the restriction type and the date of expiration.</p>
+        <p>For further information on the restriction policy and placing Freedom of Information Act requests for restricted material, consult the reference archivist at the Bentley Historical Library (bentley.ref@umich.edu) or the University of Michigan Freedom of Information Office website (https://foia.vpcomm.umich.edu/).</p>
+      </blockquote>
+    </p>
+</accessrestrict>
+    <userestrict><p>Authors of individual papers retain copyright. Patrons are responsible for determining the appropriate use or reuse of materials.</p></userestrict>
+    <prefercite><p>item, folder title, box no., Department of History (University of Michigan) Senior Honors Theses, Bentley Historical Library, University of Michigan</p></prefercite>
+    <accruals><p>The Department of History deposits more recent Senior Honors Theses in the University of Michigan's Deep Blue digital repository.</p></accruals>
+  </descgrp>
+  <bioghist><p>This is a collection of senior honors theses written by University of Michigan students in the department of history. Only topics relating to the history of Michigan or the history of the University of Michigan have been retained in this collection.</p></bioghist>
+  <arrangement><p>The papers are organized by year of completion and thereunder alphabetically by author.</p></arrangement>
+  <controlaccess>
+    <p>
+      <extptr actuate="onload" href="accnote" show="embed"/>
+    </p>
+    <subject source="lcsh">Academic freedom.</subject>
+    <subject source="lcsh">Afro-Americans -- Michigan -- Ann Arbor.</subject>
+    <subject source="lcsh">Afro-Americans -- Michigan -- Detroit.</subject>
+    <subject source="lcsh">Agriculture -- Michigan.</subject>
+    <subject source="lcsh">Air -- Pollution -- Law and legislation -- United States.</subject>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n79022219" source="lcsh">Ann Arbor (Mich.)</geogname>
+    <geogname source="local">Ann Arbor (Mich.) -- Schools.</geogname>
+    <subject source="lcsh">Automobile industry and trade -- United States.</subject>
+    <subject source="lcsh">Child abuse.</subject>
+    <subject source="lcsh">Child development.</subject>
+    <subject source="lcsh">Crematoriums.</subject>
+    <subject source="lcsh">Death.</subject>
+    <subject source="lcsh">Demography.</subject>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n79045539" source="lcsh">Detroit (Mich.)</geogname>
+    <geogname source="lcsh">Detroit (Mich.) -- Politics and government.</geogname>
+    <subject source="lcsh">Elections -- United States -- 1968.</subject>
+    <subject source="lcsh">Fertility, Human.</subject>
+    <subject source="lcsh">Housing -- Michigan -- Ann Arbor.</subject>
+    <subject source="lcsh">Indians of North America -- Michigan -- Claims.</subject>
+    <subject source="lcsh">Jews -- Michigan -- Detroit.</subject>
+    <subject source="lcsh">Labor -- Michigan.</subject>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n81056721" source="lcsh">Ludington (Mich.)</geogname>
+    <geogname source="lcsh">Mason County (Mich.)</geogname>
+    <geogname source="lcsh">Michigan -- History.</geogname>
+    <subject source="lcsh">New Deal, 1933-1939 -- Michigan.</subject>
+    <subject source="lcsh">American newspapers -- Michigan.</subject>
+    <geogname source="lcsh">Northwest, Old.</geogname>
+    <subject source="lcsh">Presidents -- United States -- Election -- 1840.</subject>
+    <subject source="lcsh">Presidents -- United States -- Election -- 1968.</subject>
+    <subject source="lcsh">Strikes and lockouts -- Michigan.</subject>
+    <subject source="lcsh">Trade-unions -- Michigan.</subject>
+    <subject source="lcsh">Undertakers and undertaking -- Michigan -- Ann Arbor.</subject>
+    <geogname source="lcsh">United States -- History -- Civil War, 1861-1865.</geogname>
+    <geogname source="lcsh">Upper Peninsula (Mich.)</geogname>
+    <geogname source="lcsh">Washtenaw County (Mich.)</geogname>
+    <geogname source="lcsh">Washtenaw County (Mich.) -- Politics and government.</geogname>
+    <subject source="lcsh">Minority college students -- Michigan -- Ann Arbor.</subject>
+    <subject source="lcsh">World War, 1939-1945 -- Education and the war.</subject>
+    <subject source="lcsh">World War, 1939-1945 -- Michigan -- Ann Arbor.</subject>
+    <subject source="lcsh">Women in the labor movement -- Michigan -- Flint.</subject>
+    <subject source="lcsh">Women -- Michigan -- Washtenaw County.</subject>
+    <subject source="lcsh">Teachers -- Michigan.</subject>
+    <subject source="lcsh">Women teachers -- Michigan.</subject>
+    <subject source="lcsh">Children -- Death -- Psychological aspects.</subject>
+    <subject source="lcsh">Women -- Michigan -- Attitudes.</subject>
+    <subject source="lcsh">Women -- Massachusetts -- Attitudes.</subject>
+    <subject source="lcsh">Women -- Education -- Michigan.</subject>
+    <subject source="lcsh">Marriage -- Michigan.</subject>
+    <geogname source="lcsh">Saline Valley Farms (Saline, Mich.)</geogname>
+    <subject source="lcsh">Cooperative societies -- Michigan.</subject>
+    <subject source="lcsh">Immigrants -- Michigan -- Detroit.</subject>
+    <subject source="lcsh">Irish Americans -- Michigan -- Ann Arbor.</subject>
+    <subject source="local">Polar Bear Expedition.</subject>
+    <geogname source="lcsh">Soviet Union -- History -- Allied intervention, 1918-1920.</geogname>
+    <subject source="lcsh">Recombinant DNA -- Research.</subject>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50036849" source="lcnaf">Adams, Henry Carter, 1851-1921.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50018203" source="lcnaf">Coughlin, Charles E. (Charles Edward), 1891-1979.</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n92054296" source="lcnaf">Detroit Urban League.</corpname>
+    <persname source="lcnaf">Dieterle, Enoch, 1865-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79022087" source="lcnaf">Ford, Gerald R., 1913-2006.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79055385" source="lcnaf">Ford, Henry, 1863-1947.</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79079577" source="lcnaf">General Motors Corporation.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n80073732" source="lcnaf">International Union, United Automobile, Aircraft and Agricultural Implement Workers of America.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n80079695" source="lcnaf">Industrial Workers of the World.</corpname>
+    <corpname source="lcnaf">Lakewood Crematory.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n82147959" source="lcnaf">Merrill-Palmer Institute.</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86868022" source="lcnaf">Pingree, Hazen S., 1840-1901.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50045219" source="lcnaf">Reuther, Walter, 1907-1970.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50048290" source="lcnaf">Romney, George W., 1907-1995.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008098165" source="lcnaf">Sligh, Charles R., Jr. (Charles Robert), 1906-1997.</persname>
+    <persname source="lcnaf">Stone, Ralph, 1868-1956.</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n50010551" source="lcnaf">Students for a Democratic Society (U.S.)</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- Sports.</corpname>
+    <corpname source="lcnaf">University of Michigan. Band.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- History.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- Students.</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50045033" source="lcnaf">Vandenberg, Arthur H. (Arthur Hendrick), 1884-1951.</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n99270164" source="lcnaf">Sunrise Cooperative Farm Community.</corpname>
+    <corpname source="lcnaf">Planned Parenthood League, Inc (Detroit, Mich.)</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- Admission.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- Students -- Political activity.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n81095986" source="lcnaf">Word of God (Religious community)</corpname>
+    <corpname source="lcnaf">Michigan Central Railroad Depot (Detroit, Mich.)</corpname>
+  </controlaccess>
+  <dsc type="combined"><c01 id="aspace_80972ebbb3e5645e90751e770a05a34a" level="series"><did><unittitle>Senior Honors Theses</unittitle></did><c02 id="aspace_d10df6c8254b89fff2dd2004c75cf4ab" level="subseries"><did><unitdate type="inclusive">Undated</unitdate></did><c03 id="aspace_79f697b80bd71a1879f9f8f3edfc004b" level="item"><did><unittitle><persname>Schettenhelm, Karl W.</persname>, <title render="italic">Prelude to power politics: The isolationism of Senator Arthur H. Vandenberg</title></unittitle><unitid>[1]</unitid><container label="Box" type="box">1</container></did><odd><p>(Subject Terms: <persname>Vandenberg, Arthur Hendrick, 1884-1951</persname>)</p></odd></c03></c02><c02 id="aspace_cc8e3e9e68424ae9e78543831a665bc5" level="subseries"><did><unitdate normal="1969/1969" type="inclusive">1969</unitdate></did><c03 id="aspace_b969b1900807a6803009f10adb4e7773" level="item"><did><unittitle><persname>Koenig, Martha Jean.</persname>, <title render="italic">Flames of Hysteria: The "Red" scare in Detroit, 1919-1920</title></unittitle><unitid>[2]</unitid><container label="Box" type="box">1</container></did><odd><p>(Subject Terms: <geogname>Detroit (Mich.)</geogname>)</p></odd></c03></c02><c02 id="aspace_10287642f727026d8cbb77a7346ed1ee" level="subseries"><did><unitdate normal="1973/1973" type="inclusive">1973</unitdate></did><c03 id="aspace_d454212bc75ddfa590193308b0fc870d" level="item"><did><unittitle><persname>Kubick, Theodore R.</persname>, <title render="italic">Study and analysis of two moderately planned controlled income townhouse developments</title></unittitle><unitid>[3]</unitid><container label="Box" type="box">1</container></did><odd><p>(concerns developments near Ann Arbor, Michigan)</p></odd><odd><p>(Subject Terms: <geogname>Ann Arbor (Mich.)</geogname>, <subject>Housing--Michigan--Ann Arbor</subject>)</p></odd></c03></c02><c02 id="aspace_306713feb5bad333a9d01196cfcc9ef2" level="subseries"><did><unitdate normal="1974/1974" type="inclusive">1974</unitdate></did><c03 id="aspace_5faae22ead7f751d5ed171c5ba3274ac" level="item"><did><unittitle><persname>Greenberg, Susan B. and Jeffrey S. Englander.</persname>, <title render="italic">Child abuse: Dealing with the problem in Washtenaw County</title></unittitle><unitid>[4]</unitid><container label="Box" type="box">1</container></did><odd><p>(Subject Terms: <subject>Child abuse</subject>, <geogname>Washtenaw County (Mich.)</geogname>)</p></odd></c03><c03 id="aspace_b2e7f4798d22a380ac2e2d0ebb3d1997" level="item"><did><unittitle><persname>Rothschild, Steven B.</persname>, <title render="italic">A general history of the Detroit Jewish community: 1933-1949</title></unittitle><unitid>[5]</unitid><container label="Box" type="box">1</container></did><odd><p>(Subject Terms: <geogname>Detroit (Mich.)</geogname>, <subject>Jews, American--Michigan--Detroit.</subject>)</p></odd></c03><c03 id="aspace_916c3e74f6246d0ae82ac4130ea229bf" level="item"><did><unittitle><persname>Spaulding, Paul P., III.</persname>, <title render="italic">The extinquishment of the Indian land claim in the Old Northwest, 1780-1795</title></unittitle><unitid>[6]</unitid><container label="Box" type="box">1</container></did><odd><p>(Subject Terms: <subject>Indians of North America--Michigan--Claims</subject>, <geogname>Northwest, Old</geogname>)</p></odd></c03><c03 id="aspace_d6adabd77b9d47b8d4636bf0a849b76c" level="item"><did><unittitle><persname>Yeghissian, Patricia.</persname>, <title render="italic">Emergence of the Red Tams: Women's Emergency Brigade, Flint Sit-down Strike of 1936-1937</title></unittitle><unitid>[7]</unitid><container label="Box" type="box">1</container></did><odd><p>(Subject Terms: <subject>Strikes and lockouts</subject>, <subject>Women--History</subject>)</p></odd></c03></c02><c02 id="aspace_eaec6bba9f20cfbe00083309f3257850" level="subseries"><did><unitdate normal="1976/1976" type="inclusive">1976</unitdate></did><c03 id="aspace_b4ee181acbe107e87c7b657132da9b04" level="item"><did><unittitle><persname>Good, Deborah.</persname>, <title render="italic">The Lakewood Crematory controversy</title></unittitle><unitid>[8]</unitid><container label="Box" type="box">1</container></did><odd><p>(Subject Terms: <geogname>Ann Arbor (Mich.)</geogname>, <subject>Crematoriums</subject>, <subject>Death</subject>, <corpname>Lakewood Crematory</corpname>)</p></odd></c03><c03 id="aspace_90aab6e7b5cc1ea240097c03f1bd987e" level="item"><did><unittitle><persname>Kanengiser, Amy.</persname>, <title render="italic">The development of a radical ideology in SDS</title></unittitle><unitid>[9]</unitid><container label="Box" type="box">1</container></did><odd><p>(Subject Terms: <corpname>Students for a Democratic Society (U.S.)</corpname>)</p></odd></c03><c03 id="aspace_5fcf83a2e5d75d54ed134b1b05deabe3" level="item"><did><unittitle><persname>Leech, Frederick C.</persname>, <title render="italic">Vertical integration and market power: A case study of General Motors</title></unittitle><unitid>[10]</unitid><container label="Box" type="box">1</container></did><odd><p>(Subject Terms: <subject>Automobile industry and trade</subject>, <corpname>General Motors Corporation</corpname>)</p></odd></c03><c03 id="aspace_3de62b32362b75d66bc004ba28b91971" level="item"><did><unittitle><persname>Nason, Andrew S.</persname>, <title render="italic">A case study of industrial union #440 of the IWW during the depression 1929-1938</title></unittitle><unitid>[11]</unitid><container label="Box" type="box">1</container></did><odd><p>(Subject Terms: <corpname>International Workers of the World</corpname>, <subject>Labor and labor classes</subject>, <subject>Trade-unions</subject>)</p></odd></c03><c03 id="aspace_85717c9a363db3eb9cc9e5a47a9568ae" level="item"><did><unittitle><persname>O'Keefe, Kurt A.</persname>, <title render="italic">Hazen S. Pingree:</title> <title render="italic">An analysis of his vote for mayor and its effect on the municipal elections 1887 to 1897</title></unittitle><unitid>[12]</unitid><container label="Box" type="box">1</container></did><odd><p>(Subject Terms: <geogname>Detroit (Mich.)</geogname>, <geogname>Detroit (Mich.)--Politics and government</geogname>, <persname>Pingree, Hazen Smith, 1840-1901.</persname>)</p></odd></c03><c03 id="aspace_610379370569a0d9b8ce7beb314836cf" level="item"><did><unittitle><persname>Swartzentruber, Anne.</persname>, <title render="italic">The undertaking practice of Enoch Dieterle in Ann Arbor, Michigan 1897-1918</title></unittitle><unitid>[13]</unitid><container label="Box" type="box">1</container></did><odd><p>(Subject Terms: <persname>Dieterle, Enoch, 1895-</persname>, <geogname>Ann Arbor (Mich.)</geogname>, <subject>Undertakers and undertaking</subject>)</p></odd></c03><c03 id="aspace_d54fb6e9d3325e345978dcbce7c23033" level="item"><did><unittitle><persname>Trierweiler, William C.</persname>, <title render="italic">The differential child-woman ratios in Washtenaw County, Michigan, 1850 An investigation into the patterns of fertility decline in ante-bellum America</title></unittitle><unitid>[14]</unitid><container label="Box" type="box">1</container></did><odd><p>(Subject Terms: <subject>Demography</subject>, <subject>Fertility, Human</subject>, <geogname>Washtenaw County (Mich.)</geogname> <subject>Women--History</subject>)</p></odd></c03><c03 id="aspace_15105ee9f413c995ff718f826e7e998f" level="item"><did><unittitle><persname>Weingarten, Ann.</persname>, <title render="italic">Women common school teachers in Michigan, 1836-1860 A study of their economic, social, and occupational characteristics</title></unittitle><unitid>[15]</unitid><container label="Box" type="box">1</container></did><odd><p>(Subject Terms: <subject>Teachers</subject>, <subject>Women--History</subject>)</p></odd></c03></c02><c02 id="aspace_339974fa0b0cd3d571445e3008f32970" level="subseries"><did><unitdate normal="1977/1977" type="inclusive">1977</unitdate></did><c03 id="aspace_b380b3c9e12df63b5e4a78ca8473f2e8" level="item"><did><unittitle><persname>De Bofsky, Mark D.</persname>, <title render="italic">Mirror of the depression--Father Charles E. Coughlin and his social movement</title></unittitle><unitid>[16]</unitid><container label="Box" type="box">1</container></did><odd><p>(Subject Terms: <persname>Coughlin, Charles E. (Charles Edward), 1891-1979</persname>)</p></odd></c03><c03 id="aspace_0efe0341fa44f567748d6e254282d920" level="item"><did><unittitle><persname>Ellis, Barbara June.</persname>, <title render="italic">Fertility on the northern lumbering frontier: Ludington and four townships, Mason County, Michigan, 1880</title></unittitle><unitid>[17]</unitid><container label="Box" type="box">1</container></did><odd><p>(Subject Terms: <subject>Fertility, Human</subject>, <geogname>Ludington (Mich.)</geogname>, <geogname>Mason County (Mich.)</geogname>)</p></odd></c03><c03 id="aspace_7d88a37181444f7b9c870897bb42dce8" level="item"><did><unittitle><persname>Kane, Regina Naomi.</persname>, <title render="italic">The history of the University of Michigan Marching Band</title></unittitle><unitid>[18]</unitid><container label="Box" type="box">1</container></did><odd><p>(Subject Terms: <corpname>University of Michigan. Band</corpname>, <corpname>University of Michigan--History</corpname>)</p></odd></c03><c03 id="aspace_68561a4e10af819ca8c9b44372f8c4eb" level="item"><did><unittitle><persname>Runyan, Betsy.</persname>, <title render="italic">Academic freedom at the University of Michigan, 1954</title></unittitle><unitid>[19]</unitid><container label="Box" type="box">1</container></did><odd><p>(Subject Terms: <subject>Academic freedom</subject>, <corpname>University of Michigan--History</corpname>)</p></odd></c03><c03 id="aspace_dd8e6dadecc51a63c4e8a3320f5f6c26" level="item"><did><unittitle><persname>Vener, Erica R.</persname>, <title render="italic">The failure of George Romney's 1968 presidential campaign</title></unittitle><unitid>[20]</unitid><container label="Box" type="box">1</container></did><odd><p>(Subject Terms: <subject>Elections--United States--1968</subject> <subject>Presidents--United States--Elections--1968</subject> <persname>Romney, George W., 1907-</persname>)</p></odd></c03></c02><c02 id="aspace_87c29a6669233f60b742f23c049ace76" level="subseries"><did><unitdate normal="1978/1978" type="inclusive">1978</unitdate></did><c03 id="aspace_26876b24930e1aead0e4d7fcd548161e" level="item"><did><unittitle><persname>McConnell, Stuart C.</persname>, <title render="italic">The peculiar interest of the country: Newspapering on the Marquette iron range of Michigan's Upper Peninsula, 1857-1884</title></unittitle><unitid>[21]</unitid><container label="Box" type="box">2</container></did><odd><p>(Subject Terms: <subject>Newspapers</subject>, <geogname>Upper Peninsula (Mich.)</geogname>)</p></odd></c03></c02><c02 id="aspace_9c716b55ce70146f2545aced917227ab" level="subseries"><did><unitdate normal="1979/1979" type="inclusive">1979</unitdate></did><c03 id="aspace_0552455478b7d0b658ea0c4a4d1c62fb" level="item"><did><unittitle><persname>Downs, Peter.</persname>, <title render="italic">A history of agriculture in Michigan since World War Two</title></unittitle><unitid>[22]</unitid><container label="Box" type="box">2</container></did><odd><p>(Subject Terms: <subject>Agriculture</subject>)</p></odd></c03><c03 id="aspace_af29daa3d55891953383a10ec7bf022c" level="item"><did><unittitle><persname>Gorosh, Steven J.</persname>, <title render="italic">Reformers, radicals &amp; revolutionaries: Students for a Democratic Society in Ann Arbor, 1960-1970</title></unittitle><unitid>[23]</unitid><container label="Box" type="box">2</container></did><odd><p>(Subject Terms: <geogname>Ann Arbor (Mich.)</geogname>, <corpname>Students for a Democratic Society (U.S.)</corpname>)</p></odd></c03><c03 id="aspace_a949c4fcd89471815f65c361831e80a4" level="item"><did><unittitle><persname>Spivak, Frank J.</persname>, <title render="italic">Toward a corporate debut; The emergence of public relations at General Motors from 1933 to 1945</title></unittitle><unitid>[24]</unitid><container label="Box" type="box">2</container></did><odd><p>(Subject Terms: <subject>Automobile industry and trade</subject>, <corpname>General Motors Corporation</corpname>)</p></odd></c03></c02><c02 id="aspace_2fe2c4881231501c7595bb318ad4d8d9" level="subseries"><did><unitdate normal="1980/1980" type="inclusive">1980</unitdate></did><c03 id="aspace_61a8c49fc169f56dc8f78a8922cfd4de" level="item"><did><unittitle><persname>Benjamin, Sally D.</persname>, <title render="italic">The Merrill-Palmer Institute: Its formative role in the beginnings of the scientific study of child development</title></unittitle><unitid>[25]</unitid><container label="Box" type="box">2</container></did><odd><p>(Subject Terms: <subject>Child development</subject>, <corpname>Merrill-Palmer Institute</corpname>)</p></odd></c03><c03 id="aspace_0cbc71f7fda8744096ff527e5b83592b" level="item"><did><unittitle><persname>Silver, Kenneth F.</persname>, <title render="italic">The Dead End Kids: A history of Local 212 UAW-CIO</title></unittitle><unitid>[26]</unitid><container label="Box" type="box">2</container></did><odd><p>(Subject Terms: <corpname>International Union, United Automobile, Aircraft, and Agricultural Implement Workers of America.</corpname>, <subject>Labor and labor classes</subject>, <subject>Trade-unions</subject>)</p></odd></c03></c02><c02 id="aspace_99af772fe75d4152375aafbdcd4a9036" level="subseries"><did><unitdate normal="1982/1982" type="inclusive">1982</unitdate></did><c03 id="aspace_b47f9a04b94a30b03db7cd5c7af60027" level="item"><did><unittitle><persname>Amith, Adina N.</persname>, <title render="italic">Building a well being society of well being individuals: The activities and attitudes of the Detroit Urban League during the Great Migration, 1916-1921</title></unittitle><unitid>[27]</unitid><container label="Box" type="box">2</container></did><odd><p>[Subject Terms: <geogname>Detroit (Mich.)</geogname>, <subject>Afro-Americans--Michigan--Detroit</subject></p></odd></c03><c03 id="aspace_9d50165cd9fed9011ce46cb124c57402" level="item"><did><unittitle><persname>Wolper, Gregg.</persname>, <title render="italic">The New Deal in Ann Arbor</title></unittitle><unitid>[28]</unitid><container label="Box" type="box">2</container></did><odd><p>(Subject Terms: <subject>New Deal, 1933-1939</subject>)</p></odd></c03></c02><c02 id="aspace_4632ebe94a30b81f66e1ac96fe7bd8a9" level="subseries"><did><unitdate normal="1984/1984" type="inclusive">1984</unitdate></did><c03 id="aspace_8be52698db2b1e37b92e1717bedbab12" level="item"><did><unittitle><persname>DiPrinzio, Raymond Anthony.</persname>, <title render="italic">Henry Carter Adams: A progressive speaks for himself, 1887-1907</title></unittitle><unitid>[29]</unitid><container label="Box" type="box">2</container></did><odd><p>(Subject Terms: <persname>Adams, Henry Carter, 1851-1921.</persname>)</p></odd></c03><c03 id="aspace_ecd4234bd56b48945a2284d1f88a093a" level="item"><did><unittitle><persname>Kemp, John W.</persname>, <title render="italic">Riding out the storm: The University of Michigan during World War II</title></unittitle><unitid>[30]</unitid><container label="Box" type="box">2</container></did><odd><p>(Subject Terms: <corpname>University of Michigan--History</corpname>, <corpname>University of Michigan--Wars, emergencies, etc. (World War, 1939-1945)</corpname>)</p></odd></c03><c03 id="aspace_f0f5e95916a788b95c06309efe125749" level="item"><did><unittitle><persname>Shufro, Nicholas A.</persname>, <title render="italic">The Great Depression's effect on enrollment patterns at the University of Michigan from 1929 to 1939</title></unittitle><unitid>[31]</unitid><container label="Box" type="box">2</container></did><odd><p>(Subject Terms: <corpname>University of Michigan--History</corpname>)</p></odd></c03></c02><c02 id="aspace_02e8a85e23c239a866af8b9d3d624c0b" level="subseries"><did><unitdate normal="1985/1985" type="inclusive">1985</unitdate></did><c03 id="aspace_7b4e0735b0f02ab86935b2b2e10244b2" level="item"><did><unittitle><persname>London, Jacob.</persname>, <title render="italic">Walter Reuther's moment: One man's struggle to increase labor's role in political and economic decision-making 1940-1946</title></unittitle><unitid>[32]</unitid><container label="Box" type="box">2</container></did><odd><p>(Subject Terms: <corpname>International Union, United Automobile, Aircraft, and Agricultural Implement Workers of America.</corpname>, <subject>Labor and labor classes</subject>, <persname>Reuther, Walter, 1907-1970</persname>)</p></odd></c03><c03 id="aspace_e4c5730576914ccd65b27a9a09b93cb5" level="item"><did><unittitle><persname>Sudarkasa, Michael Eric.</persname>, <title render="italic">Black varsity lettermen: 1882-1979 Offering a window onto the historical experience of Black students at the University of Michigan</title></unittitle><unitid>[33]</unitid><container label="Box" type="box">2</container></did><odd><p>(Subject Terms: <subject>Afro-Americans--Michigan--Ann Arbor</subject>, <corpname>University of Michigan--History</corpname>, <corpname>University of Michigan--Minority students</corpname>)</p></odd></c03><c03 id="aspace_170f9222f039a30b77b966328c137e4b" level="item"><did><unittitle><persname>Thompson, Heather Ann.</persname>, <title render="italic">Detroit: Wildcat 1973</title></unittitle><unitid>[34]</unitid><container label="Box" type="box">2</container></did><odd><p>(Subject Terms: <subject>Detroit (Mich.)</subject>, <corpname>International Union, United Automobile, Aircraft, and Agricultural Implement Workers of America.</corpname>, <subject>Strikes and lockouts</subject>)</p></odd></c03></c02><c02 id="aspace_25962184e53571f5ec1304a5be477f66" level="subseries"><did><unitdate normal="1986/1986" type="inclusive">1986</unitdate></did><c03 id="aspace_daffae14a496fdb4a5a4fb0df63dc15d" level="item"><did><unittitle><persname>Bacon, John U.</persname>, <title render="italic">The process and results of Ann Arbor secondary school curriculum reform</title></unittitle><unitid>[34-a]</unitid><container label="Box" type="box">2</container></did><odd><p>(Subject Terms: <geogname>Ann Arbor (Mich.)</geogname>, <geogname>Ann Arbor (Mich.)--Schools</geogname>)</p></odd></c03><c03 id="aspace_ab6a464ee4bd0acd914512c74d7cce50" level="item"><did><unittitle><persname>Barnes, Katrina A.</persname>, <title render="italic">Truman, Vandenberg, and the Cold War: Anti-Communism and bipartisanship as political necessities</title></unittitle><unitid>[34-b]</unitid><container label="Box" type="box">2</container></did><odd><p>(Subject Terms: <persname>Vandenberg, Arthur Hendrick, 1884-1951</persname>)</p></odd></c03><c03 id="aspace_944510938b54d49b77ccf8110fa04c7c" level="item"><did><unittitle><persname>Rapaport, John.</persname>, <title render="italic">George Romney and the 1969-1973 FHA housing crisis</title></unittitle><unitid>[34-c]</unitid><container label="Box" type="box">2</container></did><odd><p>(Subject Terms: <persname>Romney, George, 1907-1995</persname>)</p></odd></c03><c03 id="aspace_d50049d0a16a43df8023dd7036d73741" level="item"><did><unittitle><persname>Sullivan, Bradley J.</persname>, <title render="italic">The role of businessmen in progressive politics: The case study of Charles Sligh</title></unittitle><unitid>[34-d]</unitid><container label="Box" type="box">2</container></did><odd><p>(Subject Terms: <persname>Sligh, Charles Robert, 1906-</persname>)</p></odd></c03></c02><c02 id="aspace_8728d2bbb661830fe0a1607298420ed7" level="subseries"><did><unitdate normal="1987/1987" type="inclusive">1987</unitdate></did><c03 id="aspace_69e25a33a9fcf9c4cad812fa809ab9a6" level="item"><did><unittitle><persname>Kannensohn, Kim.</persname>, <title render="italic">The struggle for acceptance: The response of the American Jewish community to Henry Ford's antisemitic campaign, 1920-1927</title></unittitle><unitid>[35]</unitid><container label="Box" type="box">3</container></did><odd><p>(Subject Terms: <subject>Jews, American--Michigan--Detroit.</subject>)</p></odd></c03><c03 id="aspace_cb30e9b8f7b439a404bb1f2cd89066f5" level="item"><did><unittitle><persname>Paetkau, Tyler.</persname>, <title render="italic">Cooperation in a crisis: student, faculty, and administration interaction at the University of Michigan, 1965-1970</title></unittitle><unitid>[36]</unitid><container label="Box" type="box">3</container></did><odd><p>(Subject Terms: <corpname>University of Michigan--History</corpname>)</p></odd></c03><c03 id="aspace_4961ee8cf6ebd0c3964c54471366def3" level="item"><did><unittitle><persname>Simon, Amy R.</persname>, <title render="italic">Attitudes of women toward the death of their children in Michigan and Massachusetts from 1830-1890</title></unittitle><unitid>[37]</unitid><container label="Box" type="box">3</container></did><odd><p>(Subject Terms: <subject>Death</subject> <subject>Women--History</subject>)</p></odd></c03></c02><c02 id="aspace_bf313f0f17eaa75caed14a2430a4cd2a" level="subseries"><did><unitdate normal="1990/1990" type="inclusive">1990</unitdate></did><c03 id="aspace_2ee690302f2d3d9deca3cc59dcceea3c" level="item"><did><unittitle><persname>Abramson, Jerome.</persname>, <title render="italic">Clean Air Act automobile regulations and the Ford administration</title></unittitle><unitid>[38]</unitid><container label="Box" type="box">3</container></did><odd><p>(Subject Terms: <subject>Air - Pollution - Law and legislation - United States</subject> <persname>Ford, Gerald R., 1910-</persname>)</p></odd></c03><c03 id="aspace_3f755bdc4a5e3bad8cc7f34f86b14b6a" level="item"><did><unittitle><persname>Jampel, Emily S.</persname>, <title render="italic">Secondary education in nineteenth century Michigan: Community-wide attitudes and the development of high school education for women</title></unittitle><unitid>[39]</unitid><container label="Box" type="box">3</container></did><odd><p>(Subject Terms: <subject>Education</subject> <subject>Women--History</subject>)</p></odd></c03><c03 id="aspace_da46dce10bc91ecd5d2d29afedf01bba" level="item"><did><unittitle><persname>Topetzes, James Gregory.</persname>, <title render="italic">Foundations of partisanship in the presidential election of 1840 Washtenaw County, Michigan</title></unittitle><unitid>[40]</unitid><container label="Box" type="box">3</container></did><odd><p>(Subject Terms: <subject>Presidents--United States--Elections--1840</subject>, <geogname>Washtenaw County (Mich.) - Politics and government, 1840</geogname>)</p></odd></c03></c02><c02 id="aspace_c483dbb84e8fe197b3f00f532c5f4890" level="subseries"><did><unittitle>1991</unittitle></did><c03 id="aspace_ae535547c2306cf4db66e614ef68fdc8" level="item"><did><unittitle><persname>Allen, James P.</persname>, <title render="italic">The tragic reformer: Ralph Stone, Progressive in the New Deal</title></unittitle><unitid>[41]</unitid><container label="Box" type="box">3</container></did><odd><p>(Subject Terms: <persname>Stone, Ralph, 1868-1956.</persname>)</p></odd></c03><c03 id="aspace_ddcb2cde09d6c7e2b30355d7de3ef4ca" level="item"><did><unittitle><persname>Hunter, Daniel Francis</persname>, <title render="italic">The Irish in a Town and Village Environment: A Probe of the 1860 Census in Ann Arbor and Vicinity</title></unittitle><unitid>[42]</unitid><container label="Box" type="box">3</container></did><odd><p>(Subject Terms: <geogname>Ann Arbor (Mich.)</geogname>, <subject>Irish, American--Michigan--Ann Arbor</subject>)</p></odd></c03><c03 id="aspace_24706a8d23430b278f283d794cfe6d46" level="item"><did><unittitle><persname>LaLonde, Kristine</persname>, <title render="italic">Student Activism in the Student Newspaper: The University of Michigan in the 1930s</title></unittitle><unitid>[43]</unitid><container label="Box" type="box">3</container></did><odd><p>(Subject Terms: <subject>Newspapers</subject>, <corpname>University of Michigan--History</corpname>, <corpname>University of Michigan--Students--Political activity.</corpname>)</p></odd></c03><c03 id="aspace_ccd633bc45631ac2344095547de27229" level="item"><did><unittitle><persname>Ray, Anne</persname>, <title render="italic">"Yours with a heap of love": Marriage, gender, and Civil War correspondence</title></unittitle><unitid>[44]</unitid><container label="Box" type="box">3</container></did><odd><p>(Subject Terms: <geogname>United States - History - Civil War, 1861-1865</geogname>, <subject>Women--History</subject>)</p></odd></c03></c02><c02 id="aspace_af385ac9c57f59f6507ee2be62cbab02" level="subseries"><did><unitdate normal="1992/1992" type="inclusive">1992</unitdate></did><c03 id="aspace_fdacc656c1a3e53e2e70680ada176492" level="item"><did><unittitle><persname>Buskirk, Amy L.</persname>, <title render="italic">American Visions: The Goals and Realities of Saline Valley Farms and Sunrise Cooperative Farm Community</title></unittitle><unitid>[45]</unitid><container label="Box" type="box">3</container></did><odd><p>(Subject Terms: <subject>Cooperative societies--Michigan</subject>, <corpname>Saline Valley Farms (Saline, Mich.)</corpname>, <corpname>Sunrise Cooperative Farm Community.</corpname>)</p></odd></c03><c03 id="aspace_44d416e0ef0252f1371da801b38082b3" level="item"><did><unittitle><persname>Martin, Elizabeth</persname>, <title render="italic">Detroit and the Great Migration, 1916-1929</title></unittitle><unitid>[46]</unitid><container label="Box" type="box">3</container></did><odd><p>(Subject Terms: <subject>Detroit (Mich.)</subject>)</p></odd></c03><c03 id="aspace_e05011b9c1974e37a234fc3100dbbc99" level="item"><did><unittitle><persname>Miller, Karen R</persname>, <title render="italic">"Hate" Strikes in Detroit During World War II</title></unittitle><unitid>[47]</unitid><container label="Box" type="box">3</container></did><odd><p>(Subject Terms : <subject>Automobile industry and trade</subject>, <geogname>Detroit (Mich.)</geogname>, <subject>Strikes and lockouts</subject>)</p></odd></c03><c03 id="aspace_d0acbc7ca82ff0360ce0bf1ab5ecb46a" level="item"><did><unittitle><persname>Mutchnick, Ian</persname>, <title render="italic">Regulating Recombinant DNA at the University of Michigan: "An Act of Faith"</title></unittitle><unitid>[48]</unitid><container label="Box" type="box">3</container></did><odd><p>(Subject Terms: <subject>Recombinant DNA--Research.</subject>, <corpname>University of Michigan--History</corpname>, <corpname>University of Michigan--Research</corpname>)</p></odd></c03></c02><c02 id="aspace_af7056fd7b7eeef835dab8391ab22a10" level="subseries"><did><unitdate normal="1993/1993" type="inclusive">1993</unitdate></did><c03 id="aspace_21a66b5c473fce50b9295fc88bdf9f7e" level="item"><did><unittitle><persname>Bell, Denise C</persname>, <title render="italic">Weathering the Storm: Women's Athletics at the University of Michigan, 1973-1981</title></unittitle><unitid>[49]</unitid><container label="Box" type="box">3</container></did><odd><p>(Subject Terms: <corpname>University of Michigan--Athletics</corpname>, <corpname>University of Michigan--History</corpname>, <subject>Women--History</subject>)</p></odd></c03><c03 id="aspace_5302d5b35164bc44a2a4f2138d235c97" level="item"><did><unittitle><persname>Gendleman, Amy Beth</persname>, <title render="italic">The History of Planned Parenthood in Southeastern Michigan, 1927-1974</title></unittitle><unitid>[50]</unitid><container label="Box" type="box">3</container></did><odd><p>(Subject Terms: <corpname>Planned Parenthood--Michigan</corpname>)</p></odd></c03></c02><c02 id="aspace_723e2c2cd874987a1e2e9965bd36daf5" level="subseries"><did><unitdate normal="1995/1995" type="inclusive">1995</unitdate></did><c03 id="aspace_f3b1ee384bb714992394d56edb9fcb06" level="file"><did><unittitle>Dombkowski, Kristen <title render="italic">"To Raise the Average": The Introduction and Development of Kindergartens in Michigan to 1910</title></unittitle><unitid>[54]</unitid><container label="Box" type="box">3</container></did><odd><p>(Subject Terms: <subject>Kindergarten--Michigan</subject>, <subject>Teachers</subject>)</p></odd></c03><c03 id="aspace_73c8f9904d8487d219baaee365f7ee21" level="file"><did><unittitle>Kent, Joshua D. <title render="italic">Safe but not secure: Jewish American Responses to Organized Antisemitism in Detroit During the Crisis Years, 1937-1946</title></unittitle><unitid>[55]</unitid><container label="Box" type="box">3</container></did><accessrestrict><p>[Student records restricted, no signed release form]</p></accessrestrict><odd><p>(Subject Terms: <subject>Antisemitism</subject>, <subject>Jews, American--Michigan-Detroit</subject>, <geogname>Detroit (Mich.)</geogname>)</p></odd></c03><c03 id="aspace_41afcf891f5e08ddb1c548d1e887db0e" level="file"><did><unittitle>Mejer, Adrienne <title render="italic">"Sisters-in-Law": Pioneer Women Law Graduates from the University of Michigan Law School, 1870-1920</title></unittitle><unitid>[56]</unitid><container label="Box" type="box">3</container></did><accessrestrict><p>[Student records restricted, no signed release form]</p></accessrestrict><odd><p>(Subject Terms: <corpname>University of Michigan--History</corpname>, <corpname>University of Michigan--Law School</corpname>, <subject>Women--History</subject>)</p></odd></c03></c02><c02 id="aspace_aed33dd2dae61f49cb6331daf4219c2e" level="subseries"><did><unitdate normal="1996/1996" type="inclusive">1996</unitdate></did><c03 id="aspace_cc4855d3ad4d70f17c25d1b3786c3345" level="file"><did><unittitle>Baum, Mark <title render="italic">The Fight to End In Loco Parentis: A Study of the University of Michigan's Paternal Housing and Educational Policies and the Students' Response, 1955-1975</title></unittitle><unitid>[57]</unitid><container label="Box" type="box">3</container></did><accessrestrict><p>[Student records restricted, no signed release form]</p></accessrestrict><odd><p>(Subject Terms: <subject>Student-administrator relationships</subject>, <corpname>University of Michigan--History</corpname>)</p></odd></c03><c03 id="aspace_fd3450cf00b4fe53988d1a6fe4444b66" level="file"><did><unittitle>Becker, Julie <title render="italic">"On Common Ground:" Detroit's Intercultural Education Movement, 1943-1952</title></unittitle><unitid>[58]</unitid><container label="Box" type="box">3</container></did><accessrestrict><p>[Student records restricted, no signed release form]</p></accessrestrict><odd><p>(Subject Terms: <subject>Multi-cultural education</subject>, <corpname>University of Michigan--Admissions</corpname>)</p></odd></c03><c03 id="aspace_458403da1f2e66625ea265ad708624dd" level="file"><did><unittitle>Bellows, Benjamin W. <title render="italic">Politics and Michigan Fiscal Policy, 1837-1865</title></unittitle><unitid>[59]</unitid><container label="Box" type="box">3</container></did><accessrestrict><p>[Student records restricted, no signed release form]</p></accessrestrict><odd><p>(Subject Terms: <subject>Fiscal policy</subject>)</p></odd></c03><c03 id="aspace_2a67b1c57dbdfc33eca83398aa317133" level="file"><did><unittitle>Galed, Tamar <title render="italic">Hill Auditorium: A Symbol of Higher Education's Promises</title></unittitle><unitid>[60]</unitid><container label="Box" type="box">4</container></did><odd><p>(Subject Terms: <corpname>University of Michigan--History</corpname>, <corpname>Hill Auditorium (University of Michigan)</corpname>)</p></odd></c03><c03 id="aspace_357c5166e31c20f4de2b0592b92cac32" level="file"><did><unittitle>Perez, Devon Anne <title render="italic">The Dodge Revolutionary Union Movement: Rhetoric Defined, Actions Solidified, Opposition Destroyed</title></unittitle><unitid>[61]</unitid><container label="Box" type="box">4</container></did><accessrestrict><p>[Student records restricted, no signed release form]</p></accessrestrict><odd><p>(Subject Terms: <corpname>Dodge Revolutionary Union Movement</corpname>, <subject>Labor and labor classes</subject>)</p></odd></c03></c02><c02 id="aspace_824152c671700c34d3a3fd5ac566e319" level="subseries"><did><unitdate normal="1997/1997" type="inclusive">1997</unitdate></did><c03 id="aspace_7738339d657d1d74bd947b63f1937b1b" level="file"><did><unittitle>Etcubañez, Marita C. <title render="italic">The Filipino American Community in Detroit: Expressions of Identity</title></unittitle><unitid>[66]</unitid><container label="Box" type="box">4</container></did><accessrestrict><p>[Student records restricted, no signed release form]</p></accessrestrict><odd><p>(Subject Terms: <geogname>Detroit (Mich.)</geogname>, <subject>Filipino Americans</subject>)</p></odd></c03><c03 id="aspace_e6e929bc6f76dc58af35c3ab9aef6413" level="file"><did><unittitle>Lopez, Sean Christopher <title render="italic">Realizations of Broadacre City: Frank Lloyd Wright's Postwar Planned Communities</title></unittitle><unitid>[67]</unitid><container label="Box" type="box">4</container></did><accessrestrict><p>[Student records restricted, no signed release form]</p></accessrestrict><odd><p>(Subject Terms: <subject>City Planning - Michigan</subject>)</p></odd></c03><c03 id="aspace_088fa74e76ed0b81b51dd82a5d2db442" level="file"><did><unittitle>Naftulin, Danielle Eve <title render="italic">The Advent of the Juvenile Court and Robison v. Wayne Circuit Judges: Progressivism and the Michigan Supreme Court</title></unittitle><unitid>[68]</unitid><container label="Box" type="box">4</container></did><accessrestrict><p>[Student records restricted, no signed release form]</p></accessrestrict><odd><p>(Subject Terms: <corpname>Michigan. Supreme Court</corpname>)</p></odd></c03><c03 id="aspace_9e726f45a567a70ba773f52d8d220445" level="file"><did><unittitle>Quinn, Andrew Sekou <title render="italic">The Detroit Riot of 1863: Racial Violence and Internal Division in Northern Society During the Civil War</title></unittitle><unitid>[69]</unitid><container label="Box" type="box">4</container></did><accessrestrict><p>[Student records restricted, no signed release form]</p></accessrestrict><odd><p>(Subject Terms: <subject>Afro-Americans--Michigan--Detroit</subject>, <geogname>Michigan--History--Civil War, 1861-1865</geogname>, <subject>Race relations 1860-1870.</subject>)</p></odd></c03><c03 id="aspace_c01069816d4b583868e4254c0a121094" level="file"><did><unittitle>Santana, Kennet D. <title render="italic">Genesis of a Ghetto: Urban Renewal and Dislocation in Battle Creek, Michigan, 1947-1961</title></unittitle><unitid>[70]</unitid><container label="Box" type="box">4</container></did><accessrestrict><p>[Student records restricted, no signed release form]</p></accessrestrict><odd><p>(Subject Terms: <subject>Afro-Americans--Michigan--Battle Creek</subject>, <subject>City Planning - Michigan</subject>)</p></odd></c03></c02><c02 id="aspace_5c51b763fe49a3d91cf1fd2239c82eac" level="subseries"><did><unitdate normal="1998/1998" type="inclusive">1998</unitdate></did><c03 id="aspace_8e1f7932ca42a07d9214555a40506bc8" level="file"><did><unittitle>Bauman, John E. <title render="italic">Superfly Suits and Blue Suits with Silver Badges: STRESS, the Election of Coleman Young, and the Reform of the Detroit Police Department</title></unittitle><unitid>[71]</unitid><container label="Box" type="box">4</container></did><accessrestrict><p>[Student records restricted, no signed release form]</p></accessrestrict><odd><p>(Subject Terms: <subject>Afro-Americans--Michigan--Detroit</subject>, <geogname>Detroit (Mich.)</geogname>, <geogname>Detroit (Mich.)--Politics and government</geogname>)</p></odd></c03><c03 id="aspace_08d3cf2198c2232a46bcab65030e347f" level="file"><did><unittitle>Sirna, David A. <title render="italic">Prosperity and Poverty, Black Flint, 1900-1990 A Study in Paradox</title></unittitle><unitid>[72]</unitid><container label="Box" type="box">4</container></did><accessrestrict><p>[Student records restricted, no signed release form]</p></accessrestrict><odd><p>(Subject Terms: <subject>Afro-Americans--Michigan--Flint</subject>, <corpname>General Motors Corporation</corpname>, <subject>Labor and labor classes</subject>)</p></odd></c03></c02><c02 id="aspace_4a76e2acc437252c12a39eaf7676206f" level="subseries"><did><unitdate normal="1999/1999" type="inclusive">1999</unitdate></did><c03 id="aspace_9109f3d434efc889fafb2259a46aba18" level="file"><did><unittitle>Bernstein, Scott Howard. <title render="italic">The American North Russian Expeditionary Force, 1918-1919</title></unittitle><unitid>[51]</unitid><container label="Box" type="box">4</container></did><odd><p>(Subject Terms: <corpname>Polar Bear Expedition, 1918-1919</corpname>, <geogname>Soviet Union--History--Allied intervention, 1918-1920</geogname>)</p></odd></c03><c03 id="aspace_9843fd40beb1c1c494a94d8b1d3c6dfc" level="file"><did><unittitle>Gongora, Alan. <title render="italic">The Changing Function of Public Education: Selective Admissions at the University of Michigan, 1920-1940</title></unittitle><unitid>[52]</unitid><container label="Box" type="box">4</container></did><odd><p>(Subject Terms: <corpname>University of Michigan--History</corpname>)</p></odd></c03><c03 id="aspace_c8e1ed7341ed43f9fda70c165845a741" level="file"><did><unittitle>Wu, Gregory K. <title render="italic">Subversion of Immigrant Rights in Detroit, A Study of Cultural Struggle, 1910-1918</title></unittitle><unitid>[53]</unitid><container label="Box" type="box">4</container></did><odd><p>(Subject Terms: <geogname>Detroit (Mich.)</geogname>, <subject>Immigrants--Michigan--Detroit</subject>)</p></odd></c03></c02><c02 id="aspace_032b25c8b481b6f732d0cbeee0f21342" level="subseries"><did><unitdate normal="2002/2002" type="inclusive">2002</unitdate></did><c03 id="aspace_033d2b8f1b53249b174513150b781885" level="file"><did><unittitle>Daniels, Benjamin <title render="italic">The Detroit May oral Election of 1969 A Study of Race and Retrenchment</title></unittitle><unitid>[62]</unitid><container label="Box" type="box">4</container></did><odd><p>(Subject Terms: <subject>Afro-Americans--Michigan--Detroit</subject>, <geogname>Detroit (Mich.)</geogname>, <geogname>Detroit (Mich.)--Politics and government</geogname>)</p></odd></c03><c03 id="aspace_7a13a7ffdb49c8e72850f2162809afb4" level="file"><did><unittitle>Morris, Robert <title render="italic">Preserving the Union as it Was: The Michigan Democratic Party During the Civil War</title></unittitle><unitid>[63]</unitid><container label="Box" type="box">4</container></did><odd><p>(Subject Terms: <geogname>Michigan--History--Civil War, 1861-1865</geogname>)</p></odd></c03><c03 id="aspace_1d7c07ffcba0818a74e2436d0c8f97bd" level="file"><did><unittitle>Shirvell, Andrew <title render="italic">Echoes of An Earlier Crusade: The Right to Life of Michigan's Struggle Against the National Status Quo</title></unittitle><unitid>[64]</unitid><container label="Box" type="box">4</container></did><odd><p>(Subject Terms: <corpname>Michigan State Anti-slavery Society</corpname>, <subject>Pro-life movement</subject>, <corpname>Right to Life of Michigan</corpname>)</p></odd></c03><c03 id="aspace_4e1d691014761ed4bd4b3b4c10136dda" level="file"><did><unittitle>Tausig, Ben <title render="italic">Detroit Techno: Race, Agency, and Electronic Music in Post-Industrial Detroit</title></unittitle><unitid>[65]</unitid><container label="Box" type="box">4</container></did><odd><p>(Subject Terms: <subject>Afro-Americans--Michigan--Detroit</subject>, <geogname>Detroit (Mich.)</geogname>, <subject>Techno music</subject>)</p></odd></c03></c02><c02 id="aspace_8ed4095b4423b781b417e711bffb7e5f" level="subseries"><did><unitdate normal="2003/2003" type="inclusive">2003</unitdate></did><c03 id="aspace_bd8fd82a292551efbff6cc0ea46b65a4" level="file"><did><unittitle>Luckhardt, Traci <title render="italic">Towards a More Secular School: The Changing Face of Detroit Public Schools, 1890s -1920s</title></unittitle><unitid>[73]</unitid><container label="Box" type="box">4</container></did><odd><p>(Subject Terms: <geogname>Detroit (Mich.)</geogname>, <subject>Education</subject>)</p></odd></c03><c03 id="aspace_f93fb27603aa4d5285e4afa2c78d5d09" level="file"><did><unittitle>Miller, Sarah K. <title render="italic">Walking a Tightrope: Race and Politics in Detroit</title></unittitle><unitid>[74]</unitid><container label="Box" type="box">4</container></did><odd><p>(Subject Terms: <subject>Afro-Americans--Michigan--Detroit</subject>, <geogname>Detroit (Mich.)</geogname>, <geogname>Detroit (Mich.)--Politics and government</geogname>)</p></odd></c03><c03 id="aspace_cea2b99e96988877b11c4207ec17cec6" level="file"><did><unittitle>Robbins, Mark Walter <title render="italic">Rationality in an Age of Ill-Reason: American Anxiety and the Reactions of Michigan Agricultural College [M.A.C.] and the University of Michigan to the First Red Scare</title></unittitle><unitid>[75]</unitid><container label="Box" type="box">4</container></did><odd><p>(Subject Terms: <subject>Communism--Michigan</subject>, <corpname>University of Michigan--Students--Political activity.</corpname>,)</p></odd></c03></c02><c02 id="aspace_12037c3d34c315ba659444e0262511ed" level="subseries"><did><unitdate normal="2004/2004" type="inclusive">2004</unitdate></did><c03 id="aspace_4843fd2d8efcc66fbfb673d5430555a8" level="file"><did><unittitle>Goodspeed, Robert C. <title render="italic">Urban Renewal in Postwar Detroit: The Gratiot Area Redevelopment, A Case Study</title></unittitle><unitid>[76]</unitid><container label="Box" type="box">5</container></did><odd><p>(Subject Terms: <subject>Afro-Americans--Michigan--Detroit</subject>, <subject>City Planning - Michigan</subject>)</p></odd></c03><c03 id="aspace_d0964154e8859eeadc5f560c19c532c5" level="file"><did><unittitle>Hutton, Michelle Rebekah <title render="italic">White Picket Fences and Black City Lights: Urban Transformation and Racial Turnover in Southfield</title></unittitle><unitid>[77]</unitid><container label="Box" type="box">5</container></did><odd><p>(Subject Terms: <subject>City Planning - Michigan</subject>)</p></odd></c03><c03 id="aspace_05daa4cb2a29c28e2b1afc86d16a3007" level="file"><did><unittitle>Jones, Olivia Helena <title render="italic">Housewives for a Separate Black Economy: The Detroit Housewives League of the 1930s Great Depression Era</title></unittitle><unitid>[78]</unitid><container label="Box" type="box">5</container></did><odd><p>(Subject Terms: <subject>Afro-Americans--Michigan--Detroit</subject>, <subject>Women--History</subject>)</p></odd></c03><c03 id="aspace_6dcfcf134fa993adff9af4b63b24aa63" level="file"><did><unittitle>Lambe, Kristy <title render="italic">Getting the Ducks Out of the Bathtub: The Hygiene and Americanization Campaigns of the Ford Sociological Department, 1914-1921</title></unittitle><unitid>[79]</unitid><container label="Box" type="box">5</container></did><odd><p>(Subject Terms: <subject>Automobile industry and trade</subject>, <corpname>Ford Motor Company</corpname>, <subject>Immigrants--Michigan--Detroit</subject>)</p></odd></c03><c03 id="aspace_8c24f90dc9938ef1aab636ac68c614c4" level="file"><did><unittitle>Lowthian, Robert <title render="italic">Decline of an Urban Empire</title></unittitle><unitid>[80]</unitid><container label="Box" type="box">5</container></did><odd><p>(Subject Terms: <subject>African-Americans--Michigan--Flint</subject>, <corpname>General Motors Corporation</corpname>)</p></odd></c03></c02><c02 id="aspace_703692d5640f7993b6de4a742fdd9933" level="subseries"><did><unitdate normal="2005/2005" type="inclusive">2005</unitdate></did><c03 id="aspace_83370919d15f4d59435cb3c93239970c" level="file"><did><unittitle>Broad, Trevor <title render="italic">A Forgotten Man in a Tumultuous Time: The Gilded Age as Seen by United States Supreme Court Associate Justice Henry Billings Brown</title></unittitle><unitid>[81]</unitid><container label="Box" type="box">5</container></did><odd><p>(Subject Terms: <persname>Brown, Henry Billings</persname>)</p></odd></c03><c03 id="aspace_0b775fa9c2b7f4619d375f2286fb3e8e" level="file"><did><unittitle>Hiedemann, Sabrina <title render="italic">Unique Collections, Innovative Designs, and One Interpretation: The Henry Ford Museum, 1929-1976</title></unittitle><unitid>[82]</unitid><container label="Box" type="box">5</container></did><odd><p>(Subject Terms: <corpname>Henry Ford Museum and Greenfield Village – History</corpname>, <persname>Ford, Henry</persname>, <subject>Historical Museums</subject>)</p></odd></c03><c03 id="aspace_a2eb51f3f61346c1aa1b8f54cd4e8549" level="file"><did><unittitle>Horowitz, Susan <title render="italic">Peace, Protests, and Parties: The Radical Student Movement Against War and Fascism in America, 1933-1939</title></unittitle><unitid>[83]</unitid><container label="Box" type="box">5</container></did><odd><p>(Subject Terms: <subject>College Students – Political Activity</subject>, <subject>Protest movements – United States</subject>)</p></odd></c03><c03 id="aspace_b7bf5d986d69240720fb59c0730ee2b7" level="file"><did><unittitle>Mobley, W. Patrick <title render="italic">Disease, Rhetoric, and Action: Cholera in Detroit, 1832 and 1834</title></unittitle><unitid>[84]</unitid><container label="Box" type="box">5</container></did><odd><p>(Subject Terms: <subject>Cholera</subject>, <geogname>Detroit (Mich.)</geogname>)</p></odd></c03><c03 id="aspace_dc1cd4f9691812182b4890f6b40a528d" level="file"><did><unittitle>Radke, Heather <title render="italic">'This Machine Kills Fascists,' Interactions Between Politics and Folk Music</title></unittitle><unitid>[85]</unitid><container label="Box" type="box">5</container></did><odd><p>(Subject Terms: <corpname>Canterbury House (Ann Arbor, Michigan)</corpname>, <subject>Communism – United States</subject>, <subject>Folk Music</subject>, <corpname>International Workers of the World</corpname>, <subject>Labor and labor classes</subject>, <persname>Lomax, Alan, 1915-2002</persname>, <subject>Protest movements – United States</subject>, <corpname>University of Michigan – Students – Political activity</corpname>)</p></odd></c03><c03 id="aspace_c8b3ba803e0d37b6a38035055612cf4c" level="file"><did><unittitle>Watkins, Ryan <title render="italic">An Education for All Our Children, An Urban Case Study of the Life Adjustment Movement</title></unittitle><unitid>[86]</unitid><container label="Box" type="box">5</container></did><odd><p>(Subject Terms: <corpname>Detroit Public Schools</corpname>, <subject>Education</subject>, <subject>High Schools – Curricula</subject>, <subject>Labor and labor classes</subject>)</p></odd></c03></c02><c02 id="aspace_902d9e7d2e07c8c69ee6864618e881aa" level="subseries"><did><unitdate normal="2006/2006" type="inclusive">2006</unitdate></did><c03 id="aspace_6eb6ab0c048869a278c219d27c63fa15" level="file"><did><unittitle>Bullock, Amanda <title render="italic">A New Working Class: Students for a Democratic Society and the United Auto Workers in the Sixties</title></unittitle><unitid>[87]</unitid><container label="Box" type="box">5</container></did><odd><p>(Subject Terms: <corpname>International Union, United Automobile, Aircraft, and Agricultural Implement Workers of America.</corpname>, <subject>Labor and labor classes</subject>, <corpname>Students for a Democratic Society (U.S.)</corpname>, <subject>University of Michigan – Students – Political activity.</subject>)</p></odd></c03><c03 id="aspace_75a3e7322eddefb586a798fea2b22b9a" level="file"><did><unittitle>Gierada, Tracy <title render="italic">A Manifest Tragedy: American Expansion and the Lumbering Frontier of Michigan</title></unittitle><unitid>[88]</unitid><container label="Box" type="box">5</container></did><odd><p>(Subject Terms: <subject>Lumber and lumbering – Environmental aspects</subject>, <geogname>United States – Territorial Expansion</geogname>)</p></odd></c03><c03 id="aspace_346f6b33df349eb202569d0e24eb3939" level="file"><did><unittitle>Retzloff, Tim <title render="italic">"Just Unheard Of": Suburbanization and the Shaping of Gay and Lesbian Communities in Metro Detroit</title></unittitle><unitid>[89]</unitid><container label="Box" type="box">5</container></did><odd><p>(Subject Terms: <subject>Gays – Michigan – Metropolitan Detroit</subject>, <subject>Homosexuality – Social Aspects – Michigan – Detroit</subject>, <subject>Suburbs – Michigan – Detroit Metropolitan Area – History</subject>)</p></odd></c03></c02><c02 id="aspace_3428bbd33faf1941e34076744ff3b3f5" level="subseries"><did><unitdate normal="2007/2007" type="inclusive">2007</unitdate></did><c03 id="aspace_f620978d1110f313978b65f79615030a" level="file"><did><unittitle>Baghdadchi, Iden <title render="italic">Assessing the Aftermath: Post 9/11 Discrimination in Arab Detroit; National and Local Perspectives on Arab and Muslim Americans in Society</title></unittitle><unitid>[90]</unitid><container label="Box" type="box">5</container></did><odd><p>(Subject Terms: <subject>Arab Americans – Michigan</subject>, <geogname>Detroit (Mich.)</geogname>, <subject>Immigrants – Michigan – Detroit</subject>, <subject>September 11 Terrorist Attacks, 2001</subject>)</p></odd></c03><c03 id="aspace_c5c98f0c5d725a9f87be83822cc0346c" level="file"><did><unittitle>Carmichael, Karen A. <title render="italic">Americanization and Mexican Immigrants: Racism and Citizenship in Conflict in 1920s Detroit</title></unittitle><unitid>[91]</unitid><container label="Box" type="box">5</container></did><odd><p>(Subject Terms: <subject>Immigrants – Michigan – Detroit</subject>, <geogname>Detroit (Mich.)</geogname>, <subject>Mexican-Americans--Michigan--Detroit</subject>)</p></odd></c03><c03 id="aspace_870938d6f9d200dadfb3c9087ddf0883" level="file"><did><unittitle>Mallen, Elliott <title render="italic">Urban Insurgency on the Great Lakes: Civil Rights and White Flight in Benton Harbor, Michigan</title></unittitle><unitid>[92]</unitid><container label="Box" type="box">5</container></did><odd><p>(Subject Terms: <geogname>Benton Harbor (Mich.) – Race relations</geogname>, <subject>Race relations</subject>)</p></odd></c03><c03 id="aspace_aba3f4f75c0efddfaee29a7398b62a9e" level="file"><did><unittitle>Zajac, Jonathan Alexander <title render="italic">The Importance of Being Polish: The Complex Interactions of Community Identity and Race in Hamtramack's Postwar Development</title></unittitle><unitid>[93]</unitid><container label="Box" type="box">5</container></did><odd><p>(Subject Terms: <geogname>Detroit (Mich.)</geogname>, <geogname>Hamtramack (Mich.)</geogname>, <subject>Immigrants – Michigan – Detroit</subject>, <subject>Polish-Americans</subject>)</p></odd></c03></c02><c02 id="aspace_09e4076ddb2ae0632623d277579669a6" level="subseries"><did><unitdate normal="2008/2008" type="inclusive">2008</unitdate></did><c03 id="aspace_a69bad4109d06a9f75023e0245bb5ff4" level="file"><did><unittitle>Davidson, Jeremy <title render="italic">AIDS at the University of Michigan: 1985-1990</title></unittitle><unitid>[94]</unitid><container label="Box" type="box">5</container></did><odd><p>(Subject Terms: <subject>AIDS</subject>, <corpname>University of Michigan – History</corpname>)</p></odd></c03></c02><c02 id="aspace_d26bf19b279506d1f98912e920a0aa75" level="subseries"><did><unitdate normal="2009/2009" type="inclusive">2009</unitdate></did><c03 id="aspace_5730588573eda52efea5e2abc9dfc8ff" level="file"><did><unittitle>Kellett, Maureen <title render="italic">Fixture of a Changing Landscape: A History of Detroit's Michigan Central Station</title></unittitle><unitid>[95]</unitid><container label="Box" type="box">5</container></did><odd><p>(Subject Terms: <geogname>Detroit (Mich.)</geogname>, <geogname>Detroit (Mich.) – Politics and government</geogname>, <corpname>Michigan Central Railroad Depot (Detroit, Mich.)</corpname> <subject>Railroads.</subject>, <subject>City Planning – Michigan</subject>)</p></odd></c03><c03 id="aspace_bf86fae9b2c35860374ecb4c08a0c629" level="file"><did><unittitle>Williamson, David <title render="italic">Against the Grain: The Word of God Community from 1967-1987</title></unittitle><unitid>[96]</unitid><container label="Box" type="box">5</container></did><odd><p>(Subject Terms: <geogname>Ann Arbor (Mich.)</geogname>, <corpname>Word of God Movement</corpname>, <subject>Religious Movements</subject>,)</p></odd></c03></c02><c02 id="aspace_59414ef584715c64a612e4d3318254da" level="subseries"><did><unitdate normal="2010/2010" type="inclusive">2010</unitdate></did><c03 id="aspace_58a35cf74c3abbff7b31af72f8aaa40b" level="file"><did><unittitle>Balabuch, Andrew R. <title render="italic">To Run and Play: Resistance and Community at the Mt. Pleasant Indian Industrial School, 1892-1933</title></unittitle><unitid>[97]</unitid><container label="Box" type="box">6</container></did><odd><p>(Subject Terms: <subject>Indians of North America – Michigan – Education</subject>, <corpname>Mount Pleasant Indian Industrial School</corpname>)</p></odd></c03><c03 id="aspace_5687511bc5663d3d9a4080c2b42d2e12" level="file"><did><unittitle>Domin, Sarah <title render="italic">Accidental Destinations: The Story of the Senegalese Immigrant Community in Detroit</title></unittitle><unitid>[98]</unitid><container label="Box" type="box">6</container></did><odd><p>(Subject Terms: <subject>Senegalese Americans – Michigan</subject>, <subject>Immigrants – Michigan – Detroit</subject>, <geogname>Detroit (Mich.)</geogname>)</p></odd></c03></c02><c02 id="aspace_ce26ba2ea8c6d09e2c40e9e556292305" level="subseries"><did><unitdate normal="2011/2011" type="inclusive">2011</unitdate></did><c03 id="aspace_a266a03e64061290307b5295e66c28fe" level="file"><did><unittitle>Stefanick, Adam <title render="italic">Personality and Power in the Ford Motor Company Hierarchy: The Story of Harry Bennett, 1916-1945</title></unittitle><unitid>[99]</unitid><container label="Box" type="box">6</container></did><odd><p>(Subject Terms: <subject>AIDS</subject>, <persname>Bennett, Harry Herbert, 1892-1979</persname> <corpname>Ford Motor Company</corpname>)</p></odd></c03></c02></c01></dsc>
+  <descgrp type="add">
+    <relatedmaterial><p>Additional 2006-2011 theses and Senior Honors theses dated 2012-[ongoing] are available through the Deptartment of History in <title href="https://deepblue.lib.umich.edu/documents">Deep Blue</title>, the University of Michigan digital repository, as part of the <title href="https://deepblue.lib.umich.edu/handle/2027.42/55461">Honors Theses (Bachelor's)</title> collection.</p></relatedmaterial>
+    <index id="aspace_f1a6a8dabeed36104dc9a21cedd59343">
+      <head>Subject Index to History Honors Theses</head>
+<p>The numbers in this index refer to the number in brackets [] following each thesis.</p>      <indexentry>
+        <subject>Academic freedom</subject>
+        <ref>
+          <list type="simple">
+            <item>19</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Adams, Henry Carter, 1851-1921</persname>
+        <ref>
+          <list type="simple">
+            <item>29</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Afro-Americans -- Michigan -- Ann Arbor</subject>
+        <ref>
+          <list type="simple">
+            <item>33</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Afro-Americans -- Michigan -- Battle Creek</subject>
+        <ref>
+          <list type="simple">
+            <item>70</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Afro-Americans -- Michigan -- Detroit</subject>
+        <ref>
+          <list type="simple">
+            <item>27, 62, 65, 69, 71, 74, 76, 78</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Afro-Americans -- Michigan -- Flint</subject>
+        <ref>
+          <list type="simple">
+            <item>72, 80</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Agriculture</subject>
+        <ref>
+          <list type="simple">
+            <item>21</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>AIDS</subject>
+        <ref>
+          <list type="simple">
+            <item>94</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Air - Pollution -- Law and legislation -- United States</subject>
+        <ref>
+          <list type="simple">
+            <item>38</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <geogname>Ann Arbor (Mich.)</geogname>
+        <ref>
+          <list type="simple">
+            <item>3, 8, 13, 23, 28, 34-a, 42, 96</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Ann Arbor (Mich.) -- Schools</subject>
+        <ref>
+          <list type="simple">
+            <item>34-a</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Arab Americans -- Michigan</subject>
+        <ref>
+          <list type="simple">
+            <item>90</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Automobile industry and trade</subject>
+        <ref>
+          <list type="simple">
+            <item>10, 24, 47, 79</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <geogname>Benton Harbor (Mich.) -- Race relations</geogname>
+        <ref>
+          <list type="simple">
+            <item>92</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Brown, Henry Billings, 1836-1913</persname>
+        <ref>
+          <list type="simple">
+            <item>81</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Canterbury House (Ann Arbor, Michigan)</corpname>
+        <ref>
+          <list type="simple">
+            <item>85</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Child abuse</subject>
+        <ref>
+          <list type="simple">
+            <item>4</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Child development</subject>
+        <ref>
+          <list type="simple">
+            <item>25</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Cholera</subject>
+        <ref>
+          <list type="simple">
+            <item>84</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>City Planning -- Michigan</subject>
+        <ref>
+          <list type="simple">
+            <item>67, 70, 76, 77, 95</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>College Students -- Political Activity</subject>
+        <ref>
+          <list type="simple">
+            <item>83</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Communism -- Michigan</subject>
+        <ref>
+          <list type="simple">
+            <item>75</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Communism -- United States</subject>
+        <ref>
+          <list type="simple">
+            <item>85</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Cooperative societies -- Michigan</subject>
+        <ref>
+          <list type="simple">
+            <item>45</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Coughlin, Charles E. (Charles Edward), 1891-1979.</persname>
+        <ref>
+          <list type="simple">
+            <item>16</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Crematoriums</subject>
+        <ref>
+          <list type="simple">
+            <item>8</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Death</subject>
+        <ref>
+          <list type="simple">
+            <item>8, 37</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Democratic Party (Mich.)</corpname>
+        <ref>
+          <list type="simple">
+            <item>63</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Demography</subject>
+        <ref>
+          <list type="simple">
+            <item>14</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <geogname>Detroit (Mich.)</geogname>
+        <ref>
+          <list type="simple">
+            <item>2, 5, 12, 27, 34, 46, 47, 53, 55, 58, 62, 65, 66, 71, 73, 74, 84, 90, 93, 95</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <geogname>Detroit (Mich.) -- Politics and government</geogname>
+        <ref>
+          <list type="simple">
+            <item>12, 62, 71, 74, 95</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <geogname>Detroit Public Schools</geogname>
+        <ref>
+          <list type="simple">
+            <item>86</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <geogname>Detroit Urban League</geogname>
+        <ref>
+          <list type="simple">
+            <item>27</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Dieterle, Enoch, 1865-1929</persname>
+        <ref>
+          <list type="simple">
+            <item>13</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Dodge Revolutionary Union Movement</corpname>
+        <ref>
+          <list type="simple">
+            <item>61</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Elections -- United States -- 1968</subject>
+        <ref>
+          <list type="simple">
+            <item>20</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Education</subject>
+        <ref>
+          <list type="simple">
+            <item>39, 73, 86</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Fertility, Human</subject>
+        <ref>
+          <list type="simple">
+            <item>14, 17</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Filipino Americans</subject>
+        <ref>
+          <list type="simple">
+            <item>66</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Fiscal policy</subject>
+        <ref>
+          <list type="simple">
+            <item>59</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Folk Music</subject>
+        <ref>
+          <list type="simple">
+            <item>85</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ford, Gerald R., 1913-2006</persname>
+        <ref>
+          <list type="simple">
+            <item>38</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ford, Henry, 1863-1947</persname>
+        <ref>
+          <list type="simple">
+            <item>35, 82</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Ford Motor Company</corpname>
+        <ref>
+          <list type="simple">
+            <item>79</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Gays -- Michigan -- Metropolitan Detroit</subject>
+        <ref>
+          <list type="simple">
+            <item>89</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>General Motors Corporation</corpname>
+        <ref>
+          <list type="simple">
+            <item>10, 24, 72, 80</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Hamtramack (Mich.)</corpname>
+        <ref>
+          <list type="simple">
+            <item>93</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Henry Ford Museum and Greenfield Village -- History</subject>
+        <ref>
+          <list type="simple">
+            <item>82</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>High Schools -- Curricula</subject>
+        <ref>
+          <list type="simple">
+            <item>86</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Hill Auditorium (University of Michigan)</corpname>
+        <ref>
+          <list type="simple">
+            <item>60</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Historical Museums</subject>
+        <ref>
+          <list type="simple">
+            <item>82</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Homosexuality -- Social Aspects -- Michigan -- Detroit</subject>
+        <ref>
+          <list type="simple">
+            <item>89</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Housing -- Michigan -- Ann Arbor</subject>
+        <ref>
+          <list type="simple">
+            <item>3</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Immigrants -- Michigan -- Detroit</subject>
+        <ref>
+          <list type="simple">
+            <item>53, 79, 90, 91, 93</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Indians of North America -- Michigan -- Claims</subject>
+        <ref>
+          <list type="simple">
+            <item>6</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>International Union, United Automobile, Aircraft, and Agricultural Implement Workers of America.</corpname>
+        <ref>
+          <list type="simple">
+            <item>26, 32, 34, 87</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>International Workers of the World</corpname>
+        <ref>
+          <list type="simple">
+            <item>11, 85</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Irish, American -- Michigan -- Ann Arbor</subject>
+        <ref>
+          <list type="simple">
+            <item>42</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Jews, American -- Michigan -- Detroit.</subject>
+        <ref>
+          <list type="simple">
+            <item>5, 35, 55</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Kindergarten</subject>
+        <ref>
+          <list type="simple">
+            <item>54</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Labor and labor classes</subject>
+        <ref>
+          <list type="simple">
+            <item>11, 26, 32, 34, 61, 72, 85, 86, 87</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Lakewood Crematory</subject>
+        <ref>
+          <list type="simple">
+            <item>8</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Lomax, Alan, 1915-2002</persname>
+        <ref>
+          <list type="simple">
+            <item>85</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <geogname>Ludington (Mich.)</geogname>
+        <ref>
+          <list type="simple">
+            <item>17</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Lumber and lumbering -- Environmental aspects</subject>
+        <ref>
+          <list type="simple">
+            <item>88</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <geogname>Mason County (Mich.)</geogname>
+        <ref>
+          <list type="simple">
+            <item>17</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Merrill-Palmer Institute</corpname>
+        <ref>
+          <list type="simple">
+            <item>25</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <geogname>Michigan -- History -- Civil War, 1861-1865</geogname>
+        <ref>
+          <list type="simple">
+            <item>63, 69</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Michigan Central Railroad Depot</corpname>
+        <ref>
+          <list type="simple">
+            <item>95</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Michigan State Anti-slavery Society</corpname>
+        <ref>
+          <list type="simple">
+            <item>64</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Michigan. Supreme Court</corpname>
+        <ref>
+          <list type="simple">
+            <item>68</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Multi-cultural education</subject>
+        <ref>
+          <list type="simple">
+            <item>58</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>New Deal, 1933-1939</subject>
+        <ref>
+          <list type="simple">
+            <item>28</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Newspapers</subject>
+        <ref>
+          <list type="simple">
+            <item>21, 43</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <geogname>Northwest, Old</geogname>
+        <ref>
+          <list type="simple">
+            <item>6</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Pingree, Hazen Smith, 1840-1901</persname>
+        <ref>
+          <list type="simple">
+            <item>12</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Planned Parenthood -- Michigan</corpname>
+        <ref>
+          <list type="simple">
+            <item>50</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Polar Bear Expedition, 1918-1919</corpname>
+        <ref>
+          <list type="simple">
+            <item>51</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Presidents -- United States -- Elections -- 1840</subject>
+        <ref>
+          <list type="simple">
+            <item>40</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Presidents -- United States -- Elections -- 1968</subject>
+        <ref>
+          <list type="simple">
+            <item>20</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Pro-life movement</subject>
+        <ref>
+          <list type="simple">
+            <item>64</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Protest movements -- United States</subject>
+        <ref>
+          <list type="simple">
+            <item>83, 85</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Quarantine -- Michigan -- Untied States</subject>
+        <ref>
+          <list type="simple">
+            <item>84</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Race relations 1860-1870.</subject>
+        <ref>
+          <list type="simple">
+            <item>69</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Railroads.</subject>
+        <ref>
+          <list type="simple">
+            <item>95</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Recombinant DNA -- Research.</subject>
+        <ref>
+          <list type="simple">
+            <item>48</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Recombinant DNA -- Research.</subject>
+        <ref>
+          <list type="simple">
+            <item>48</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Religious movements.</subject>
+        <ref>
+          <list type="simple">
+            <item>96</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Reuther, Walter, 1907-1970.</persname>
+        <ref>
+          <list type="simple">
+            <item>32</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Right to Life of Michigan</corpname>
+        <ref>
+          <list type="simple">
+            <item>63</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Romney, George W., 1907-1995</persname>
+        <ref>
+          <list type="simple">
+            <item>20, 34</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Saline Valley Farms (Saline, Mich.)</corpname>
+        <ref>
+          <list type="simple">
+            <item>45</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>September 11 Terrorist Attacks, 2001</subject>
+        <ref>
+          <list type="simple">
+            <item>90</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Sligh, Charles Robert, 1906-1997</persname>
+        <ref>
+          <list type="simple">
+            <item>34-d</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <geogname>Soviet Union -- History -- Allied intervention, 1918-1920</geogname>
+        <ref>
+          <list type="simple">
+            <item>51</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Stone, Ralph, 1868-1956.</persname>
+        <ref>
+          <list type="simple">
+            <item>41</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Strikes and lockouts</subject>
+        <ref>
+          <list type="simple">
+            <item>7, 34, 47</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Students for a Democratic Society (U.S.)</corpname>
+        <ref>
+          <list type="simple">
+            <item>9, 23, 87</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Student-administrator relationships</subject>
+        <ref>
+          <list type="simple">
+            <item>57</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Suburbs -- Michigan -- Detroit Metropolitan Area -- History</subject>
+        <ref>
+          <list type="simple">
+            <item>89</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Sunrise Cooperative Farm Community.</corpname>
+        <ref>
+          <list type="simple">
+            <item>45</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Teachers</subject>
+        <ref>
+          <list type="simple">
+            <item>15, 54</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Techno music</subject>
+        <ref>
+          <list type="simple">
+            <item>65</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Trade-unions</subject>
+        <ref>
+          <list type="simple">
+            <item>11, 26</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Undertakers and undertaking</subject>
+        <ref>
+          <list type="simple">
+            <item>13</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <geogname>United States -- History -- Civil War, 1861-1865</geogname>
+        <ref>
+          <list type="simple">
+            <item>44</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <geogname>United States -- Supreme Court</geogname>
+        <ref>
+          <list type="simple">
+            <item>81</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <geogname>United States -- Territorial Expansion</geogname>
+        <ref>
+          <list type="simple">
+            <item>88</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>University of Michigan -- Admissions</corpname>
+        <ref>
+          <list type="simple">
+            <item>52</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>University of Michigan -- Athletics</corpname>
+        <ref>
+          <list type="simple">
+            <item>33, 49</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>University of Michigan -- Band</corpname>
+        <ref>
+          <list type="simple">
+            <item>18</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>University of Michigan -- History</corpname>
+        <ref>
+          <list type="simple">
+            <item>18, 19, 30, 31, 33, 36, 43, 48, 49, 52, 56, 57, 94</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>University of Michigan -- Law School</corpname>
+        <ref>
+          <list type="simple">
+            <item>56</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>University of Michigan -- Minority students</corpname>
+        <ref>
+          <list type="simple">
+            <item>33</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>University of Michigan -- Research</corpname>
+        <ref>
+          <list type="simple">
+            <item>48</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>University of Michigan -- Students -- Political activity.</corpname>
+        <ref>
+          <list type="simple">
+            <item>43, 75, 85, 87</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>University of Michigan -- Wars, emergencies, etc. (World War, 1939-1945)</corpname>
+        <ref>
+          <list type="simple">
+            <item>30</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <geogname>Upper Peninsula (Mich.)</geogname>
+        <ref>
+          <list type="simple">
+            <item>21</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Vandenberg, Arthur Hendrick, 1884-1951</persname>
+        <ref>
+          <list type="simple">
+            <item>1, 34-b</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <geogname>Washtenaw County (Mich.)</geogname>
+        <ref>
+          <list type="simple">
+            <item>4, 14</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <geogname>Washtenaw County (Mich.) -- Politics and government, 1840</geogname>
+        <ref>
+          <list type="simple">
+            <item>40</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Women -- History</subject>
+        <ref>
+          <list type="simple">
+            <item>7, 14, 15, 37, 39, 44, 49, 56, 78</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <geogname>Word of God Movement.</geogname>
+        <ref>
+          <list type="simple">
+            <item>96</item>
+          </list>
+        </ref>
+      </indexentry>
+    </index>
+  </descgrp>
+</archdesc>
+</ead>

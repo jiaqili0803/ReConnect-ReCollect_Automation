@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>umich-bhl-85884</eadid><filedesc><titlestmt><titleproper>Finding Aid for Junius E. Beal Papers</titleproper><author>Finding aid prepared by: Michigan Historical Collections staff and William H. McNitt</author></titlestmt><publicationstmt><publisher>Bentley Historical Library</publisher><p><date>1970</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-10-07 12:35:07 -0400</date>.</creation><langusage>The finding aid is written in <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc><revisiondesc><change><date>2003-10-01</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change><change><date>2001-08-14</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change><change><date>2016-11-21</date><item>Updated Conditions Governing Use Note</item></change></revisiondesc></eadheader><frontmatter><titlepage><publisher>Bentley Historical Library <lb/>University of Michigan</publisher><titleproper>Finding Aid for Junius E. Beal Papers</titleproper><author>Finding aid prepared by: Michigan Historical Collections staff and William H. McNitt</author></titlepage></frontmatter><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Bentley Historical Library</corpname>
+      <extptr actuate="onload" href="bhladd" show="embed"/>
+    </repository>
+    <unittitle>Junius E. Beal Papers</unittitle>
+    <origination label="creator">
+      <persname authfilenumber="http://id.loc.gov/authorities/names/no2008186663" source="lcnaf">Beal, Junius E. (Junius Emery), 1860-1942</persname>
+    </origination>
+    <unitid type="call number">85884 Aa 2</unitid>
+    <physdesc>
+      <extent>15.3 linear feet</extent>
+    </physdesc>
+    <unitdate normal="1869/1946" type="inclusive">1869-1946</unitdate>
+    <abstract id="aspace_0da9a3cef19aaab8201ec2191af2e103">Ann Arbor, Michigan, businessman, publisher of <title render="italic">Ann Arbor Courier</title>, Republican politician, and regent of University of Michigan. Correspondence, letter books, speeches, newspaper clippings, and photographs; papers (1909-1920) of Michigan Public Domain Commission, of which Beal was a member; papers (1877-1904) concerning Port Huron Gas Light Company; and printed material and miscellanea (1885-1905) concerning League of American Wheelmen and his interest in bicycling.</abstract>
+    <langmaterial id="aspace_d0d03d73f563f0dafe0fa3e4610b9298">The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+  </did>
+  <descgrp type="admin">
+    <acqinfo><p>A portion of the collection was donated by Mrs. Junius Beal (donor no. <num encodinganalog="541$e" type="donor">1176</num>) in 1942. The great bulk of Beal's papers were donated by his daughter Mrs. Albert Jacobs (donor no. <num encodinganalog="541$e" type="donor">3046</num>) and came to the library in the period of 1967-1970.</p></acqinfo>
+    <accessrestrict><p>The collection is open for research.</p></accessrestrict>
+    <userestrict><p>Donor(s) have transferred any applicable copyright to the Regents of the University of Michigan but the collection may contain third-party materials for which copyright was not transferred. Patrons are responsible for determining the appropriate use or reuse of materials.</p></userestrict>
+    <prefercite><p>item, folder title, box no., Junius E. Beal Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+  </descgrp>
+  <bioghist><p>Junius E. Beal was born February 23, 1860 in Port Huron, Michigan. He graduated from the University of Michigan in 1882, then assumed the editorship of the Ann Arbor Weekly Courier and the Daily Times which he had inherited from his foster father Rice A. Beal. He remained as editor until 1904. Beal was also instrumental in the development of the Ann Arbor-Ypsilanti interurban in 1889, and was president of the firm until 1896. He also served as manager of the Ann Arbor Electric Light Co., 1894-1902. He was also president of the Port Huron Gas Co. during that same period.</p><p> Beal, in addition to business interests, was also civically involved. He served on the Ann Arbor Board of Education from 1884 to 1904; he filled one term (1905-1906) as state legislator in the Michigan House of Representatives; and from 1908 to 1919, he served on the Michigan Public Domain Commission where he helped further a state reforestation program.</p><p> Beal was most noteworthy in his work as regent of the University of Michigan. He served four 8-year terms from 1907 to 1939. Among his accomplishments on the board were his advocacy of a building program that saw the construction of the football stadium and Hill Auditorium. Beal was also involved in the selection of U-M presidents.</p><p> Beal died June 24, 1942.</p></bioghist>
+  <scopecontent><p>The Junius E. Beal papers include correspondence, papers accumulated from his various interests and organizational activities, subject files, speeches, newspaper clippings, and photographs. The series in the collection include: Correspondence, Michigan Public Domain Commission, Topical Files; and Other Materials. Most of the files in the collection relate in some way to Beal's life in Ann Arbor, either as a student, a businessman, a public figure, as someone who took civic responsibility seriously and was determined to serve his community and the university that he loved.</p></scopecontent>
+  <controlaccess>
+    <p>
+      <extptr actuate="onload" href="accnote" show="embed"/>
+    </p>
+    <subject source="lcsh">African Americans.</subject>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n79022219" source="lcsh">Ann Arbor (Mich.)</geogname>
+    <geogname source="lcsh">Belgium.</geogname>
+    <subject source="lcsh">Conservation of natural resources -- Michigan.</subject>
+    <subject source="lcsh">Cycling.</subject>
+    <subject source="lcsh">Elections -- Michigan -- 1894.</subject>
+    <subject source="lcsh">Elections -- Michigan -- 1896.</subject>
+    <subject source="lcsh">Elections -- Michigan -- 1904.</subject>
+    <subject source="lcsh">Elections -- Michigan -- 1908.</subject>
+    <subject source="lcsh">Elections -- Michigan -- 1910.</subject>
+    <subject source="lcsh">Elections -- Michigan -- 1912.</subject>
+    <subject source="lcsh">Elections -- Michigan -- 1914.</subject>
+    <subject source="lcsh">Elections -- Michigan -- 1916.</subject>
+    <subject source="lcsh">Elections -- Michigan -- 1918.</subject>
+    <subject source="lcsh">Elections -- Michigan -- 1920.</subject>
+    <subject source="lcsh">Elections -- Michigan -- 1922.</subject>
+    <subject source="lcsh">Elections -- Michigan -- 1924.</subject>
+    <subject source="lcsh">Elections -- Michigan -- 1926.</subject>
+    <subject source="lcsh">Elections -- Michigan -- 1928.</subject>
+    <subject source="lcsh">Elections -- Michigan -- 1930.</subject>
+    <subject source="lcsh">Elections -- Michigan -- 1932.</subject>
+    <subject source="lcsh">Elections -- Michigan -- 1934.</subject>
+    <subject source="lcsh">Elections -- Michigan -- 1936.</subject>
+    <geogname source="lcsh">Hawaii.</geogname>
+    <geogname source="lcsh">Michigan -- Politics and government -- 1837-1950.</geogname>
+    <geogname source="local">Michigan -- Politics and government -- 1877-1898.</geogname>
+    <geogname source="local">Michigan -- Politics and government -- 1899-1916.</geogname>
+    <geogname source="local">Michigan -- Politics and government -- 1917-1921.</geogname>
+    <geogname source="local">Michigan -- Politics and government -- 1922-1928.</geogname>
+    <geogname source="local">Michigan -- Politics and government -- 1929-1938.</geogname>
+    <geogname source="lcsh">Philippines -- History -- 1898-1946.</geogname>
+    <subject source="lcsh">Street-railroads -- Michigan.</subject>
+    <subject source="lcsh">Temperance -- Michigan.</subject>
+    <subject source="lcsh">World War, 1914-1918.</subject>
+    <geogname source="lctgm">Ann Arbor (Mich.) -- Dwellings.</geogname>
+    <geogname source="lctgm">Ann Arbor (Mich.) -- Streets.</geogname>
+    <subject source="lctgm">Bicycles and tricycles.</subject>
+    <subject source="lctgm">Cemeteries -- Michigan -- Ann Arbor.</subject>
+    <subject source="lctgm">Cycling -- Michigan -- Ann Arbor.</subject>
+    <subject source="lctgm">Dwellings -- Michigan -- Ann Arbor.</subject>
+    <subject source="lctgm">Forestry.</subject>
+    <subject source="lctgm">Lumber industry.</subject>
+    <subject source="lctgm">Streets -- Michigan -- Ann Arbor.</subject>
+    <genreform source="aat">Photographs.</genreform>
+    <corpname source="lcnaf">Ann Arbor courier.</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008186663" source="lcnaf">Beal, Junius E. (Junius Emery), 1860-1942.</persname>
+    <persname source="lcnaf">Beal, Rice Aner, 1823-1883.</persname>
+    <corpname source="lcnaf">Beta Theta Pi. Lambda Chapter (University of Michigan)</corpname>
+    <corpname source="lcnaf">Detroit Bicycle Club.</corpname>
+    <corpname source="lcnaf">First Methodist Church (Ann Arbor, Mich.)</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n84098287" source="lcnaf">League of American Wheelmen.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n80021644" source="lcnaf">Methodist Episcopal Church -- Michigan -- Ann Arbor.</corpname>
+    <corpname source="lcnaf">Republican Party (Mich.)</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79022244" source="lcnaf">Taft, William H. (William Howard), 1857-1930.</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/nr89016998" source="lcnaf">University of Michigan. Board of Regents.</corpname>
+    <corpname source="lcnaf">University of Michigan. Class of 1882.</corpname>
+    <corpname source="lcnaf">University of Michigan. President.</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79046299" source="lcnaf">Wilson, Woodrow, 1856-1924.</persname>
+    <corpname source="lcnaf">Ann Arbor Bicycle Club.</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008186663" source="lcnaf">Beal, Junius E. (Junius Emery), 1860-1942.</persname>
+    <persname source="lcnaf">Bryan, William Jennings, 1860-1925.</persname>
+    <corpname source="lcnaf">Chelsea Methodist Home.</corpname>
+    <corpname source="lcnaf">Forest Hill Cemetery (Ann Arbor, Mich.)</corpname>
+    <corpname source="lcnaf">League of American Wheelmen. Michigan Division.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79059059" source="lcnaf">Michigan. Legislature.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/no2005065290" source="lcnaf">Michigan. Public Domain Commission.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/nr89016998" source="lcnaf">University of Michigan. Board of Regents.</corpname>
+    <corpname source="lcnaf">University of Michigan. Chinese Students Club.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n81003782" source="lcnaf">University of Michigan. School of Natural Resources.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- Students -- Social life and customs -- 1901-1910.</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n89605398" role="ctb" source="lcnaf">Abbot, Willis J. (Willis John), 1863-1934.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50036849" role="ctb" source="lcnaf">Adams, Henry Carter, 1851-1921.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n81099052" role="ctb" source="lcnaf">Alger, R. A. (Russell Alexander), 1836-1907.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008190062" role="ctb" source="lcnaf">Alger, Frederick Moulton, 1876-1933.</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n80057270" role="ctb" source="lcnaf">American Bible Society.</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no90002065" role="ctb" source="lcnaf">Angell, James Burrill, 1829-1916.</persname>
+    <corpname role="ctb" source="lcnaf">Ann Arbor Street Railway Company.</corpname>
+    <persname role="ctb" source="lcnaf">Baird, Charles, 1870-1944.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2001090656" role="ctb" source="lcnaf">Bates, Henry Moore, 1869-1949.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008182928" role="ctb" source="lcnaf">Beakes, Samuel Willard, 1861-1927.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2007125178" role="ctb" source="lcnaf">Brown, Prentiss M. (Prentiss Marsh), 1889-1973.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n94105471" role="ctb" source="lcnaf">Brucker, Wilber Marion, 1894-1968.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no95042265" role="ctb" source="lcnaf">Burrows, Julius C. (Julius Caesar), 1837-1915.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n88650119" role="ctb" source="lcnaf">Burton, Marion Le Roy, 1874-1925.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n81024666" role="ctb" source="lcnaf">Chase, A. W. (Alvin Wood), 1817-1885.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/nr94018515" role="ctb" source="lcnaf">Clements, William L. (William Lawrence), 1861-1934.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008182100" role="ctb" source="lcnaf">Comstock, William Alfred, 1877-1949.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n84804477" role="ctb" source="lcnaf">Cooley, Mortimer E. (Mortimer Elwyn), 1855-1944.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no97067269" role="ctb" source="lcnaf">Copeland, Royal S. (Royal Samuel), 1868-1938.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86070545" role="ctb" source="lcnaf">Couzens, James, 1872-1936.</persname>
+    <persname role="ctb" source="lcnaf">Cramton, Louis C. (Louis Convers), 1875-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50037360" role="ctb" source="lcnaf">Daniels, Josephus, 1862-1948.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008187778" role="ctb" source="lcnaf">Dickinson, Luren Dudley, 1859-1943.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008183572" role="ctb" source="lcnaf">Diekema, Gerrit John, 1859-1930.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85239197" role="ctb" source="lcnaf">Fairlie, John A. (John Archibald), 1872-1947.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008186658" role="ctb" source="lcnaf">Fellows, Grant, 1865-1929.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n96085441" role="ctb" source="lcnaf">Ferris, Woodbridge N., 1853-1928.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008187825" role="ctb" source="lcnaf">Florer, Warren Washburn, 1869-1958.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n88274247" role="ctb" source="lcnaf">Fordney, Joseph W. (Joseph Warren), 1853-1932.</persname>
+    <persname role="ctb" source="lcnaf">Fuller, Oramel B., 1858-</persname>
+    <persname role="ctb" source="lcnaf">Gore, Victor M.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008187842" role="ctb" source="lcnaf">Grant, John Henry, 1857-1913.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008183293" role="ctb" source="lcnaf">Green, Fred W. (Fred Warren), 1872-1936.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008187813" role="ctb" source="lcnaf">Groesbeck, Alexander J. (Alexander Joseph), 1873-1953.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86137853" role="ctb" source="lcnaf">Guest, Edgar A. (Edgar Albert), 1881-1959.</persname>
+    <persname role="ctb" source="lcnaf">Hanchett, Benjamin Sawtell, 1868-1933.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85252398" role="ctb" source="lcnaf">Hayden, Joseph Ralston, 1887-1945.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n84012363" role="ctb" source="lcnaf">Hinsdale, W. B. (Wilbert B.), 1851-1944.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86869592" role="ctb" source="lcnaf">Hobbs, William Herbert, 1864-1952.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n90616630" role="ctb" source="lcnaf">Holt, Hamilton, 1872-1951.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/nr97041173" role="ctb" source="lcnaf">Hubbard, Lucius L. (Lucius Lee), 1849-1933.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008029408" role="ctb" source="lcnaf">Hudson, Grant Martin, 1868-1955.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008186678" role="ctb" source="lcnaf">Hudson, Joseph Lowthian, 1846-1912.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n88002366" role="ctb" source="lcnaf">Hutchins, Harry B. (Harry Burns), 1847-1930.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50030338" role="ctb" source="lcnaf">Hutchins, Robert Maynard, 1899-1977.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86013736" role="ctb" source="lcnaf">Johnson, Elias Finley, 1861-1933.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n88163469" role="ctb" source="lcnaf">Kahn, Albert, 1869-1942.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008031481" role="ctb" source="lcnaf">Kelley, Patrick Henry, 1867-1925.</persname>
+    <persname role="ctb" source="lcnaf">Kelsey, Francis W. (Francis Willey), 1858-</persname>
+    <persname role="ctb" source="lcnaf">King, Paul H.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008186689" role="ctb" source="lcnaf">Knappen, Loyal Edwin, 1854-1930.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86034285" role="ctb" source="lcnaf">Knox, Frank, 1874-1944.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n82037904" role="ctb" source="lcnaf">Koch, Theodore Wesley, 1871-1941.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008183527" role="ctb" source="lcnaf">Lawrence, Howard Cyrus, 1890-1961.</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n86111035" role="ctb" source="lcnaf">League to Enforce Peace.</corpname>
+    <persname role="ctb" source="lcnaf">Leland, Frank Bruce.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50050879" role="ctb" source="lcnaf">Lindsey, Ben B. (Ben Barr), 1869-1943.</persname>
+    <persname role="ctb" source="lcnaf">Little, Clarence C. (Clarence Cook), 1888-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008190066" role="ctb" source="lcnaf">Loud, George Alvin, 1852-1925.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85173288" role="ctb" source="lcnaf">Lowden, Frank O. (Frank Orren), 1861-1943.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n80079701" role="ctb" source="lcnaf">McKinley, William, 1843-1901.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n2005173297" role="ctb" source="lcnaf">McMillan, James, 1838-1902.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n92120793" role="ctb" source="lcnaf">Malcolm, George A. (George Arthur), 1881-1961.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n2002022232" role="ctb" source="lcnaf">Michener, Earl C. (Earl Cory), 1876-1957.</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/no2005065290" role="ctb" source="lcnaf">Michigan. Public Domain Commission.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n82047246" role="ctb" source="lcnaf">Michigan Audubon Society.</corpname>
+    <corpname role="ctb" source="lcnaf">Michigan Pioneer and Historical Society.</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n92085116" role="ctb" source="lcnaf">Mott, Charles Stewart, 1875-1973.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008183306" role="ctb" source="lcnaf">Murfin, James Orin, 1875-1940.</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/no95011217" role="ctb" source="lcnaf">National Economic League (U.S.)</corpname>
+    <corpname role="ctb" source="lcnaf">National Home Finding Society for Colored Children.</corpname>
+    <persname role="ctb" source="lcnaf">Osborn, Chase S. (Chase Salmon), 1860-</persname>
+    <persname role="ctb" source="lcnaf">Osmeña, Sergio, 1878-1961.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n88655160" role="ctb" source="lcnaf">Patton, John, 1850-1907.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n78097059" role="ctb" source="lcnaf">Pinchot, Gifford, 1865-1946.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n80093638" role="ctb" source="lcnaf">Poindexter, Miles, 1868-1946.</persname>
+    <corpname role="ctb" source="lcnaf">Port Huron Gas Light Company.</corpname>
+    <persname role="ctb" source="lcnaf">Powers, Perry Francis, 1857-1945.</persname>
+    <persname role="ctb" source="lcnaf">Ramos, Alfredo.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008186715" role="ctb" source="lcnaf">Rich, John Treadway, 1841-1926.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50048409" role="ctb" source="lcnaf">Root, Elihu, 1845-1937.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2006038285" role="ctb" source="lcnaf">Roth, Filibert, 1858-1925.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n87828171" role="ctb" source="lcnaf">Ruthven, Alexander Grant, 1882-1971.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008183271" role="ctb" source="lcnaf">Sawyer, Walter H. (Walter Hulme), 1861-1931.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008187792" role="ctb" source="lcnaf">Sink, Charles A. (Charles Albert), 1879-1972.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008187860" role="ctb" source="lcnaf">Sleeper, Albert E., 1862-1934.</persname>
+    <persname role="ctb" source="lcnaf">Smith, Henry Cassorte, 1859-1911.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008188967" role="ctb" source="lcnaf">Smith, John McMunn C., 1853-1923.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008187805" role="ctb" source="lcnaf">Smith, Shirley Wheeler, 1875-1959.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no98099507" role="ctb" source="lcnaf">Smith, William Alden, 1859-1932.</persname>
+    <persname role="ctb" source="lcnaf">Spaulding, Thomas M. (Thomas Marshall), 1882-</persname>
+    <persname role="ctb" source="lcnaf">Stone, Ralph, 1868-1956.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008188960" role="ctb" source="lcnaf">Townsend, Charles E. (Charles Elroy), 1856-1924.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50017038" role="ctb" source="lcnaf">Tyler, Moses Coit, 1835-1900.</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n86015328" role="ctb" source="lcnaf">United States. Fuel Administration.</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50045033" role="ctb" source="lcnaf">Vandenberg, Arthur H. (Arthur Hendrick), 1884-1951.</persname>
+    <persname role="ctb" source="lcnaf">Vaughan, Coleman C., 1857-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85804361" role="ctb" source="lcnaf">Vaughan, Victor C. (Victor Clarence), 1851-1929.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n88022440" role="ctb" source="lcnaf">Warner, Frederick Maltby, 1865-1923.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79063604" role="ctb" source="lcnaf">Washington, Booker T., 1856-1915.</persname>
+    <persname role="ctb" source="lcnaf">Watkins, Lucius Whitney, 1873-</persname>
+    <persname role="ctb" source="lcnaf">Wedemeyer, William Walter, 1873-1913.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/nr00017036" role="ctb" source="lcnaf">Wenley, R. M. (Robert Mark), 1861-1929.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n78096905" role="ctb" source="lcnaf">White, William Allen, 1868-1944.</persname>
+    <persname role="ctb" source="lcnaf">Wood, Leonard, 1860-1927.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86828116" role="ctb" source="lcnaf">Worcester, Dean C. (Dean Conant), 1866-1924.</persname>
+    <persname role="ctb" source="lcnaf">Yost, Fielding Harris, 1871-1946.</persname>
+  </controlaccess>
+  <dsc type="combined"><c01 id="aspace_94c921a9dc903831cae6352eb4a236ad" level="series"><did><unittitle>Correspondence</unittitle><physdesc><extent>10.3 linear feet</extent></physdesc><unitdate normal="1880/1946" type="inclusive">1880-1946</unitdate></did><scopecontent><p>Correspondence is the largest series (10.3 linear ft.; 1880-1946) in the collection. Documented is not only the wide variety of individuals with whom Beal corresponded, but also his many organizational and public activities, notably those relating to the University of Michigan.</p></scopecontent><c02 id="aspace_7713d1282cc384088ba34f3b74ae291d" level="file"><did><physdesc><extent>29 folders</extent></physdesc><unitdate type="inclusive">Undated</unitdate><unitdate normal="1880/1908-06" type="inclusive">1880-June 1908</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_4fba8509da7e398ec31cbcc8dadabe55" level="file"><did><physdesc><extent>24 folders</extent></physdesc><unitdate normal="1908-07/1910-07" type="inclusive">July 1908-July 1910</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_7b6abcfc02fa1bf4d9fc924abadc2a7e" level="file"><did><physdesc><extent>25 folders</extent></physdesc><unitdate normal="1910-08/1912-12" type="inclusive">August 1910-December 1912</unitdate><container label="Box" type="box">3</container></did></c02><c02 id="aspace_223af71017b3805382bca235cdf7baf2" level="file"><did><physdesc><extent>25 folders</extent></physdesc><unitdate normal="1913/1916-01" type="inclusive">1913-January 1916</unitdate><container label="Box" type="box">4</container></did></c02><c02 id="aspace_a80ca34949f31ffa765c40b63d3f44ed" level="file"><did><physdesc><extent>27 folders</extent></physdesc><unitdate normal="1916-02/1918-03" type="inclusive">February 1916-March 1918</unitdate><container label="Box" type="box">5</container></did></c02><c02 id="aspace_e1db668581ed77a6d46943cc5631b8b7" level="file"><did><physdesc><extent>34 folders</extent></physdesc><unitdate normal="1918-04/1924-12" type="inclusive">April 1918-December 1924</unitdate><container label="Box" type="box">6</container></did></c02><c02 id="aspace_006e226b1d83b31e2a1894a6697a9082" level="file"><did><physdesc><extent>27 folders</extent></physdesc><unitdate normal="1925/1927" type="inclusive">1925-1927</unitdate><container label="Box" type="box">7</container></did></c02><c02 id="aspace_7a9a79190841663040ab7a6c361c0730" level="file"><did><physdesc><extent>31 folders</extent></physdesc><unitdate normal="1928/1930-06" type="inclusive">1928-June 1930</unitdate><container label="Box" type="box">8</container></did></c02><c02 id="aspace_d7f071551f2f2cd17d4956577af793c7" level="file"><did><physdesc><extent>36 folders</extent></physdesc><unitdate normal="1930-07/1933-05" type="inclusive">July 1930-May 1933</unitdate><container label="Box" type="box">9</container></did></c02><c02 id="aspace_f58577d0a2a2d461c1d5faf9a63f61e2" level="file"><did><physdesc><extent>40 folders</extent></physdesc><unitdate normal="1933-06/1937-06" type="inclusive">June 1933-June 1937</unitdate><container label="Box" type="box">10</container></did></c02><c02 id="aspace_eb04dd61564114a0b575feb5b1e2388e" level="file"><did><physdesc><extent>9 folders</extent></physdesc><unitdate normal="1937-07/1946" type="inclusive">July 1937-1946</unitdate><container label="Box" type="box">11</container></did></c02></c01><c01 id="aspace_f7cc3c4298f4a79ccfd41df4770402f6" level="series"><did><unittitle>Michigan Public Domain Commission</unittitle></did><c02 id="aspace_5f39e4b1b89974ebeea5697a542d7b66" level="file"><did><physdesc><extent>11 folders, 1 volume</extent></physdesc><unitdate type="inclusive">Undated</unitdate><unitdate normal="1909/1920" type="inclusive">1909-1920</unitdate><container label="Box" type="box">11</container></did></c02></c01><c01 id="aspace_dca2139044121763bbbb429d162e22a6" level="series"><did><unittitle>Topical Files</unittitle></did><scopecontent><p>The other noteworthy series is the Topical Files where have been placed files relating to Beal's interests in business, politics, bicycling, and regental concerns. Here will be found photographs in the collection. These consists of informal photos; photos of Beal with various groups; photos of Ann Arbor houses and other views; lumbering and forestry photographs (probably California); and a photo of William Jennings Bryan's visit to Ann Arbor (1896?).</p></scopecontent><c02 id="aspace_3b6ae513784f12e64e68b204e8adf19e" level="file"><did><unittitle>Ann Arbor file</unittitle><physdesc><extent>2 folders</extent></physdesc><unitdate certainty="approximate" normal="1870/1940" type="inclusive">1870s-1940</unitdate><container label="Box" type="box">11</container></did></c02><c02 id="aspace_d5b427473df31b231c03efc531a9440d" level="file"><did><unittitle>Ann Arbor Printing Company file</unittitle><unitdate normal="1875/1902" type="inclusive">1875-1902</unitdate><container label="Box" type="box">12</container></did></c02><c02 id="aspace_64b64065b31e873efeb6b46b4c52bae8" level="file"><did><unittitle>Appointment calendars</unittitle><unitdate normal="1912/1918" type="inclusive">1912-1918</unitdate><container label="Box" type="box">12</container></did><odd><p>(sample)</p></odd></c02><c02 id="aspace_75e94b688b0551aa05069a52b2ee6d79" level="file"><did><unittitle>Beta Theta Pi</unittitle><physdesc><extent>3 folders</extent></physdesc><unitdate normal="1891/1939" type="inclusive">1891-1939</unitdate><container label="Box" type="box">12</container></did></c02><c02 id="aspace_f12db8eecdf296383816c110e14aea25" level="file"><did><unittitle>Bicycling</unittitle></did><c03 id="aspace_f0dda1e89ad6fcf372dc64d0c539ccc9" level="file"><did><unittitle>Printed material concerning the League of American Wheelmen and bicycle tours</unittitle><physdesc><extent>2 folders</extent></physdesc><unitdate normal="1885/1905" type="inclusive">1885-1905</unitdate><container label="Box" type="box">12</container></did></c03><c03 id="aspace_4392188dba644c238f47938a54354d87" level="file"><did><unittitle>Bound document presented to American cyclists by Birchfield Wheeling Club, Birmingham, Eng</unittitle><unitdate normal="1889/1889" type="inclusive">1889</unitdate><container label="Box" type="box">16</container></did></c03></c02><c02 id="aspace_4e332805cb3edec4969092679eecf34d" level="file"><did><unittitle>Masons</unittitle><unitdate normal="1879/1938" type="inclusive">1879-1938</unitdate><container label="Box" type="box">12</container></did></c02><c02 id="aspace_a51edf4ecbd2c70faefe3c9fffe5d84a" level="file"><did><unittitle>Member cards and certificates</unittitle><unitdate normal="1887/1927" type="inclusive">1887-1927</unitdate><container label="Box" type="box">12</container></did></c02><c02 id="aspace_8b788f5db1abb8a3dd67ce4cfa3dc974" level="file"><did><unittitle>Methodist Church</unittitle><unitdate normal="1883/1929" type="inclusive">1883-1929</unitdate><container label="Box" type="box">12</container></did></c02><c02 id="aspace_306d7162882a0b1056846ffac7dfec06" level="file"><did><unittitle>Miscellanea</unittitle><physdesc><extent>4 folders</extent></physdesc><container label="Box" type="box">12</container></did></c02><c02 id="aspace_2672ec9423c76c8e83af0728922df378" level="file"><did><unittitle><genreform normal="Photographs" source="aat">Photographs</genreform></unittitle><physdesc><extent>4 envelopes</extent></physdesc><container label="Box" type="box">13</container></did><odd><p>(see also oversize photographs in box 16)</p></odd><c03 id="aspace_6613fd4c6f08f7b415840fadfa51b022" level="file"><did><unittitle>Portraits of Beal and group photos</unittitle><container label="Box" type="box">13</container></did><odd><p>(Includes photo of Beal with William Jennings Bryan in Ann Arbor)</p></odd></c03><c03 id="aspace_5d98e84c58aee7927ec9a5291e30ebb6" level="file"><did><unittitle>Lumbering and Forestry</unittitle><physdesc><extent>10 items</extent></physdesc><container label="Box" type="box">13</container></did></c03><c03 id="aspace_7fb69177933c23dd8c5ac2fe7e0f31f0" level="file"><did><unittitle>Ann Arbor House and Street View</unittitle><physdesc><extent>3 items</extent></physdesc><container label="Box" type="box">13</container></did><odd><p>(see also box 16 outsize)</p></odd></c03><c03 id="aspace_4163ef31c26f2ae47b1b8f6e52c905a3" level="file"><did><unittitle>Miscellaneous</unittitle><container label="Box" type="box">13</container></did></c03><c03 id="aspace_0b1d1ab888ba1d7a9bd4087bf2a74cbe" level="file"><did><unittitle>League of American Wheelmen and other groups</unittitle><container label="Box" type="box">16</container></did><odd><p>(outsize photos, includes 1913 U of M Chinese Student Club, 1905 legislature reunion and unidentified groups)</p></odd></c03></c02><c02 id="aspace_8c6bc4905a8618c8797548b93ff99f02" level="file"><did><unittitle>Port Huron Gas Light Company</unittitle><physdesc><extent>4 folders</extent></physdesc><unitdate normal="1877/1904" type="inclusive">1877-1904</unitdate><container label="Box" type="box">13</container></did></c02><c02 id="aspace_410077ee6c80149bd2cdf0d14f4e75fb" level="file"><did><unittitle>Republican politics</unittitle><physdesc><extent>4 folders</extent></physdesc><unitdate normal="1881/1937" type="inclusive">1881-1937</unitdate><container label="Box" type="box">13</container></did></c02><c02 id="aspace_869c36eeb0369be2282136b8a6781fbe" level="file"><did><unittitle>Society of Colonial Wars/Sons of the American Revolution</unittitle><unitdate normal="1914/1938" type="inclusive">1914-1938</unitdate><container label="Box" type="box">13</container></did></c02><c02 id="aspace_6d986450d18dfa3c1ec67f66e504bcc4" level="file"><did><unittitle>Speeches</unittitle><physdesc><extent>4 folders</extent></physdesc><unitdate normal="1923/1939" type="inclusive">1923-1939</unitdate><unitdate type="inclusive">undated</unitdate><container label="Box" type="box">13</container></did></c02><c02 id="aspace_03db61023585a12002293f8e3e721e03" level="file"><did><unittitle>Student papers of Junius Beal</unittitle><unitdate normal="1882/1882" type="inclusive">1882</unitdate><unitdate type="inclusive">undated</unitdate><container label="Box" type="box">13</container></did></c02><c02 id="aspace_fda6faef0d091d1021523d84bcd64e4e" level="file"><did><unittitle>University of Michigan</unittitle><physdesc><extent>3 folders</extent></physdesc><unitdate type="inclusive">undated</unitdate><unitdate normal="1877/1909" type="inclusive">1877-1909</unitdate><container label="Box" type="box">13</container></did></c02><c02 id="aspace_442d3dcdb6c054bc9426fded5d47057b" level="file"><did><unittitle>University of Michigan</unittitle><physdesc><extent>3 folders</extent></physdesc><unitdate normal="1910/1939" type="inclusive">1910-1939</unitdate><container label="Box" type="box">14</container></did></c02></c01><c01 id="aspace_7f1ae95348b29e604a24c015bc795742" level="series"><did><unittitle>Other Materials</unittitle></did><c02 id="aspace_c009e8d2e37866660938a141fd19a4f7" level="file"><did><unittitle>Newspaper clippings</unittitle><physdesc><extent>10 folders</extent></physdesc><unitdate normal="1869/1939" type="inclusive">1869-1939</unitdate><container label="Box" type="box">14</container></did></c02><c02 id="aspace_aa5fca382c53b026712a08431999f170" level="file"><did><unittitle>Pocket notebooks</unittitle><unitdate normal="1885/1906" type="inclusive">1885-1906</unitdate><container label="Box" type="box">14</container></did></c02><c02 id="aspace_4cac5e28a37f812fcdd7bde48150f91c" level="file"><did><unittitle>Letterpress books</unittitle><unitdate normal="1886/1895" type="inclusive">1886-1895</unitdate><container label="Box" type="box">15</container></did></c02><c02 id="aspace_c8ff8b8a1da8aee66ba969b377177276" level="file"><did><unittitle>Account books</unittitle><unitdate normal="1883/1906" type="inclusive">1883-1906</unitdate><container label="Box" type="box">15</container></did></c02><c02 id="aspace_12e852214d74f52c70eab4cc6db4c82d" level="file"><did><unittitle>Citations, appointments, etc</unittitle><container label="Box" type="box">16</container></did></c02><c02 id="aspace_3a44b0e474e22e57d497281c21c77008" level="file"><did><unittitle>Oversized items</unittitle></did><odd><p>(contents listed above)</p></odd></c02></c01></dsc>
+  <descgrp type="add">
+    <index id="aspace_2534ecccaf17e0ad5a9df57244eee9e5">
+      <head>Selective Index of Correspondents</head>
+      <indexentry>
+        <persname>Abbot, Willis John, 1863-1934.</persname>
+        <ref>
+          <list type="simple">
+            <item>July 19, 1933</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Adams, Henry Carter, 1851-1921.</persname>
+        <ref>
+          <list type="simple">
+            <item>Mar. 4, 1910; June 4, 1920</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Alger, Russell Alexander, 1836-1907.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 9; 1897</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Alger, Frederick Moulton, 1876-1933.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 14, 1910; Oct. 28, 1910</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>American Bible Society</persname>
+        <ref>
+          <list type="simple">
+            <item>Correspondence throughout</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Angell, James Burrill, 1829-1916.</persname>
+        <ref>
+          <list type="simple">
+            <item>Undated; Dec. 1; 1892; July 3; 1897; Oct. 10, 1904; Mar. 23, 1907; Apr. 23, 1907, 1908-1909; Oct. 27, 1910</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Ann Arbor Street Railway Company</corpname>
+        <ref>
+          <list type="simple">
+            <item>1896</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Anti-Saloon League/Prohibition letters</corpname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 26, 1907; July 9, 1908; Sept. 16, 1909; Dec. 20, 1909; Feb. 6, 1910; Mar. 12, 1910; Mar. 18, 1910; Apr. 14, 1910; May 20, 1910; Feb. 3, 1911; Mar. 15, 1911; May 18, 1911; Sept. 26, 1911; Jan. 4, 1912; June 4, 1912; Nov. 3, 1914; Jan. 26, 1915; Apr. 1, 1915; [1916?]; [1916?]; [1917?]; Mar. 29, 1917; Aug. 23, 1917; [1922?]; Aug. 3, 1922; Nov. 27, 1922; Nov. 29, 1922; Apr. 13, 1925; Apr. 22, 1925; Apr. 25, 1925; June 26, 1925; [1926?]; Apr. 15, 1926; June 22, 1926; Jan. 20, 1927; Feb. 2, 1927; Feb. 3, 1927; Apr. 26, 1927; July 22, 1927; Aug. 10, 1927; July 27, 1928; Aug. 20, 1928; Aug. 29, 1928; Oct. 24, 1928; Jan. 22, 1929; [1930?]; Feb. 8, 1930; Feb. 19., 1930; Mar. 8, 1930; Mar. 13, 1930; May 3, 1930; May 26, 1930; July 25, 1930; Sept. 2, 1930; Oct. 30, 1930; July 9, 1931; Feb. 1, 1932; Feb., 1932; undated; Feb. 24, 1932; Mar. 9, 1932; Mar. 14, 1932; Mar. 22, 1932; May 17, 1932; May 25, 1932; June 10, 1932; Aug. 19, 1932; Sept. 6, 1932; Sept. 12, 1932; Sept. 15, 1932; Sept. 27, 1932; Sept. 20, 1932; [1932?]; July 5, 1933; Oct. 31, 1934; June 12, 1935; Aug. 3, 1938</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Baird, Charles, 1870-1944.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 13, 1908; Apr. 25, 1914; Feb. 18, 1921; Dec. 28, 1926; Sept. 11, 1929; Sept. 16, 1929; Sept. 11, 1935; Oct. 21, 1936; Dec. 24, 1938; Jan. 10, 1939; Dec. 23, 1939</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bates, Henry Moore, 1869-1949.</persname>
+        <ref>
+          <list type="simple">
+            <item>Undated; Oct. 10, 1904; June 17; 1908; May 29, 1909, 1912; Oct. 30, 1913; Oct. 13, 1914, 1917; Feb. 12, 1918; Dec. 22, 1919; May 6, 1920; May 13, 1920; Feb. 8, 1921, 1924; Jan. 5, 1925; Jan. 9, 1925; Feb. 1, 1929, 1930; June 6, 1931; July 2, 1931; Mar. 29, 1934; Nov. 1934; Dec. 4, 1936; Nov. 1, 1938</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Beakes, Samuel Willard, 1861-1927</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 21; 1886; Apr. 24; 1886; Aug. 16, 1901; Mar. 30, 1911; Oct. 13, 1914, 1916; Feb. 1, 1917, 1918</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Brown, Prentiss Marsh, 1889</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 27, 1937; Apr. 28, 1937</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Brucker, Wilber Marion, 1894-1968.</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 28, 1930, 1931-1933, 1936</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Burrows, Julius Caesar, 1837-1915</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 24, 1904; June 16, 1905; Jan. 22, 1909</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Burton, Marion LeRoy, 1874-1925.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 4, 1919; Dec. 31, 1919, 1920-1924</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Chase, Alvin Wood, 1817-1885.</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 29; 1898</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Clements, William Lawrence, 1861-1934.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 6, 1909; Oct. 26, 1909, 1910-1912; Dec. 12, 1913, 1914-1918, 1920-1930; Feb. 11, 1931; Apr. 15, 1931, 1932-1933</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Comstock, William Alfred, 1877-1949.</persname>
+        <ref>
+          <list type="simple">
+            <item>June 17, 1913; Oct. 1, 1925; Oct. 12, 1925; Dec. 23, 1927; July 6, 1934</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Cooley, Mortimer Elwyn, 1855-1944.</persname>
+        <ref>
+          <list type="simple">
+            <item>Correspondence throughout</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Copeland Royal Samuel, 1868-1938.</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 18, 1901; Mar. 3, 1910; Mar. 24, 1910; Sept. 24, 1910; June 5, 1912; Feb. 8, 1926; Mar. 25, 1936</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Couzens, James Joseph, 1872-1936.</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 22, 1932; Feb. 28, 1935</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Cramton, Louis Convers, 1875-1966.</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 31, 1916</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Daniels, Josephus, 1862-1948.</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 5, 1917</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Dickinson, Luren Dudley, 1859-1943.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 5, 1907; Nov. 15, 1909; Mar. 10, 1910; June 11, 1910, 1914; Mar. 8, 1917, 1924; undated, 1926; Mar. 30, 1928; Apr. 16, 1928; Jan. 28, 1931; Oct. 31, 1934; Mar. 21, 1936; Mar. 25, 1936</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Diekema, Gerrit John, 1859-1930.</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 14, 1908; Apr. 6, 1912</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Fairlie, John Archibald, 1872-1947.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 7; 1908; June 10, 1908</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Fellows, Grant, 1865-1929.</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 11, 1904; Sept. 20, 1910; Sept. 30, 1910; Jan. 25, 1915; Nov. 2, 1915, 1916; Feb. 7, 1923; Feb. 19, 1923</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ferris, Woodbridge Nathan, 1853-1928.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 20, 1913; Aug. 4, 1913; Oct. 18, 1913; Jan. 23, 1914; July 28, 1914, 1915; Jan. 15, 1916; Apr. 5, 1917; July 2, 1917; Dec. 20, 1918; July 6, 1923</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Florer, Warren Washburn, 1869-1958.</persname>
+        <ref>
+          <list type="simple">
+            <item>1916; Jan. 14, 1917; Feb. 11, 1917; May 27, 1917; Nov. 30, 1928</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Fordney, Joseph Warren, 1853-1932.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 11, 1916; Feb. 17, 1916; Oct. 20, 1927</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Fuller, Oramel B, 1858-</persname>
+        <ref>
+          <list type="simple">
+            <item>July 30, 1908; Sept. 14, 1908; Dec. 22, 1909; Sept. 26, 1910; Nov. 17, 1910; Jan. 6, 1911; Sept. 13, 1912; Sept. 12, 1913; Nov. 22, 1913, 1914-1918, 1920; Mar. 17, 1921; June 15, 1921; July 7, 1922; Feb. 20, 1924; Aug. 14, 1924; Aug. 1, 1925; Mar. 18, 1931</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Gore, Victor Michael, 1858-1941.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 13, 1913; Apr. 11, 1913, 1914-1920, 1922; Nov. 8, 1923, 1924-1925; Aug. 14, 1926; Aug. 30, 1927, 1928-1930; Nov. 2, 1931, 1932, 1935; Aug. 15, 1938; Jan. 5, 1939; Sept. 28, 1939</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Grant, John Henry, 1857-1913</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 18; 1883; Apr. 10; 1886; Apr. 30; 1886; 1894; 1896, 1901; Aug. 9, 1902; Dec. 23, 1902; Jan. 19, 1903, 1907, 1909-1912</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Green, Fred Warren, 1872-1936.</persname>
+        <ref>
+          <list type="simple">
+            <item>Mar. 20, 1915; Sept. 13, 1920; Apr. 5, 1923; Aug. 25, 1924; Feb. 19, 1927; Oct. 2, 1928, 1929; May 26, 1930; Oct. 31, 1932</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Groesbeck, Alexander J., 1873-1953.</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 29, 1920</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Guest, Edgar Albert, 1881-1959.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 25, 1929; Feb. 27, 1929; Mar. 19, 1934</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hanchett, Benjamin Sawtell, 1868-1933.</persname>
+        <ref>
+          <list type="simple">
+            <item>1911; June 22, 1912, 1914-1916; Oct. 10, 1917; Dec. 5, 1919, 1922, 1924; June 15, 1926; Dec. 26, 1928; Sept. 24, 1929, 1931</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hawaiian Islands</persname>
+        <ref>
+          <list type="simple">
+            <item>Letters with Lucius Van Slyke; 1885-1886</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hayden, Joseph Ralston, 1887-1945.</persname>
+        <ref>
+          <list type="simple">
+            <item>June 22, 1917; June 30, 1917; July 11, 1917; May 15, 1934; Apr. 2, 1937</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hinsdale, Wilbert Bartlett, 1851-1941.</persname>
+        <ref>
+          <list type="simple">
+            <item>June 4, 1909; Oct. 26, 1910, 1911; Mar. 5, 1912; Apr. 9, 1912; Mar. 25, 1914; Feb. 13, 1915; Mar. 15, 1915; July 14, 1917, 1920, 1922 undated; Feb. 14, 1923; Nov. 7, 1927</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hobbs, William Herbert, 1864-1953.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 31, 1911; Nov. 28, 1913; Sept. 10, 1914; Nov. 24, 1915; Dec. 24, 1915; Mar. 21, 1916; July 5, 1926</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Holt, Hamilton, 1872-1951.</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 18, 1918</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hubbard, Lucius Lee, 1849-1933</persname>
+        <ref>
+          <list type="simple">
+            <item>1911-1912; Aug. 26, 1913, 1914-1918; Feb. 8, 1919; Nov. 25, 1919, 1920; Apr. 1, 1921, 1922-1923; Sept. 21, 1924, 1925-1933</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hudson, Grant Martin, 1868-1955.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 7, 1907; Jan. 26, 1915; Apr. 1, 1915; May 26, 1924; Feb. 1909, 1911-1912; Mar. 23, 1916, 1917; May 3, 1920, 1925-1926, 1928-1933; May 25, 1934; Feb. 21, 1935, 1937; Jan. 8, 1938; Aug. 30, 1938</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Sleeper, Albert E, 1862-1934.</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 18, 1908; Dec. 23, 1915; Apr. 17, 1917; May 4, 1917</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Smith, Henry Cassorte, 1859-1911.</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 1, 1901; Sept. 27, 1901; Oct. 8, 1901</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Smith, John, 1853-1923.</persname>
+        <ref>
+          <list type="simple">
+            <item>1907, 1910; Jan. 4, 1911; Aug. 9, 1911; Mar. 16, 1912; June 24, 1912; Jan. 7, 1915; Dec. 25, 1915, 1916; Oct. 12, 1917; Apr. 15, 1918; June 24, 1918; July 5, 1921; Mar. 5, 1923</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Smith, Shirley Wheeler, 1875-1959.</persname>
+        <ref>
+          <list type="simple">
+            <item>Correspondence throughout</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Smith, William Alden, 1859-1932.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 18, 1905; Feb. 19, 1907, 1908; Apr. 25, 1910; Oct. 22, 1910; June 14, 1911; June 27, 1911; May 7, 1912; June 15, 1912, 1914; Mar. 25, 1915; Mar. 26, 1915; Feb. 12, 1916; Apr. 30, 1917; Dec. 9, 1917; Aug. 6, 1918</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Spaulding, Thomas Marshall, 1882-</persname>
+        <ref>
+          <list type="simple">
+            <item>Undated; May 8, 1911; May 23, 1911; Mar. 5, 1923; Dec. 21, 1924; Apr. 10, 1925; Dec. 18, 1925; Feb. 11, 1926; Nov. 1, 1926, 1927-1928; Jan. 23, 1929; Feb. 6, 1930; Jan. 7, 1931; Jan. 9, 1932; Mar. 22, 1932</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Stone, Ralph, 1868-1956.</persname>
+        <ref>
+          <list type="simple">
+            <item>1924-1937; Aug. 5, 1938; Jan. 28, 1939; Oct. 17, 1940</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Taft, William Howard, 1857-1930.</persname>
+        <ref>
+          <list type="simple">
+            <item>Letters regarding his renomination in 1912; also regarding support for the Canadian Reciprocity Treaty; June 1911; December 30, 1911; March 1912; April 1912</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Townsend, Charles E. (Charles Elroy), 1856-1924.</persname>
+        <ref>
+          <list type="simple">
+            <item>1904; Dec. 9, 1905, 1908; Jan. 12, 1909; Feb. 7, 1910; Dec. 31, 1910; July 24, 1911; May 7, 1912; May 9, 1912; July 8, 1913; Nov. 2, 1913; Dec. 26, 1914; Feb. 22, 1915, 1916; May 12, 1917, 1921-1922</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Tyler, Moses Coit, 1835-1900</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 22; 1898</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>U.S. Fuel Administration.</persname>
+        <ref>
+          <list type="simple">
+            <item>1918-1919</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Vandenberg, Artbur Hendrick, 1862-1937.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 14, 1915; Jan. 19, 1915; Apr. 22, 1918; June 28, 1921; Apr. 6, 1928; June 4, 1928; Aug. 15, 1929; Apr. 22, 1932, 1933; Nov. 13, 1934; Mar. 22, 1935; Sept. 4, 1935; Feb. 17, 1937; July 8, 1938; July 26, 1938</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Vaughan, Coleman C., 1857-</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 19, 1902; Feb. 1, 1908; Feb. 15, 1908; Nov. 17, 1909; Sept. 19, 1910, 1914-1915; Apr. 11, 1916; Dec. 26, 1916, 1917; July 27, 1920; Feb. 18, 1924</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Vaughan, Victor Clarence, 1851-1929.</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 10, 1908; Dec. 1, 1908; Mar. 31, 1909; Sept. 25, 1909; Nov. 30, 1909; Apr. 11, 1910; Feb. 16, 1914; Oct. 26, 1914; Oct. 26, 1914; Sept. 7, 1915</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Warner, Fred Maltby, 1865-1923.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 3, 1901; Nov. 15; 1904, 1905; 1908-1910; Jan. 11, 1915; Dec. 17, 1917, 1918, 1920, 1922</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Washington, Booker Taliferro, 1858-1915.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 2, 1915; Oct. 14, 1915</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Watkins, Lucius Whitney, 1873-</persname>
+        <ref>
+          <list type="simple">
+            <item>July 8, 1909; July 19, 1909; Aug. 7, 1910; Apr. 9.1912; Apr. 26, 1912; Feb. 6, 1915; Mar. 24, 1915; Apr. 4, 1923; Dec. 11, 1939</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wedemeyer, William Walter, 1873-1913.</persname>
+        <ref>
+          <list type="simple">
+            <item>1910-1912</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wenley, Robert Mark, 1861-1929.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 11, 1904; Feb. 2, 1909; Oct. 28, 1909; June 10, 1915; Nov. 15, 1917; Sept. 22, 1922; Jan. 11, 1926; Mar. 2, 1926; Jan. 11, 1927; Mar. 28, 1929</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>White, William Allen, 1868-1944.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 28, 1929</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wilson, Woodrow, 1856-1924.</persname>
+        <ref>
+          <list type="simple">
+            <item>(Letters concerning support for Wilson as president of the University of Michigan);   June 23, 1909; Aug. 2, 1909; August 13, 1909; November 11, 1909</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wood, Leonard, 1860-1927.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 16, 1922</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Worcester, Dean Conant, 1866-1924.</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 24, 1911; Nov. 15, 1912; Oct. 14, 1914</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Yost, Fielding Harris, 1871-1946.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 3, 1917, 1921; May 16, 1922; Jan. 30, 1924; Mar. 17, 1925; Jan. 25, 1926; Oct. 3, 1927; June 19, 1928; June 25, 1929; Sept. 18, 1930; Jan. 8, 1931, 1935</item>
+          </list>
+        </ref>
+      </indexentry>
+    </index>
+  </descgrp>
+</archdesc>
+</ead>

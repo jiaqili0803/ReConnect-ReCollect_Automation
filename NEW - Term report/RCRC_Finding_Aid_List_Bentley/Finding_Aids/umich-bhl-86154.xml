@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>umich-bhl-86154</eadid><filedesc><titlestmt><titleproper>Finding aid for John A. Bobb Camp No. 45 (United Spanish War Veterans) records, 1919-1954</titleproper><author>Finding aid created by Michigan Historical Collections staff</author></titlestmt><publicationstmt><publisher>Bentley Historical Library</publisher><p><date>2008</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-10-07 12:33:31 -0400</date>.</creation><langusage>The finding aid is written in <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc><revisiondesc><change><date>2008-02-28</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change><change><date>2016-11-21</date><item>Updated Conditions Governing Use Note</item></change></revisiondesc></eadheader><frontmatter><titlepage><publisher>Bentley Historical Library <lb/>University of Michigan</publisher><titleproper>Finding aid for John A. Bobb Camp No. 45 (United Spanish War Veterans) records, 1919-1954</titleproper><author>Finding aid created by Michigan Historical Collections staff</author></titlepage></frontmatter><archdesc level="recordgrp">
+  <did>
+    <repository>
+      <corpname>Bentley Historical Library</corpname>
+      <extptr actuate="onload" href="bhladd" show="embed"/>
+    </repository>
+    <unittitle>John A. Bobb Camp No. 45 (United Spanish War Veterans) records</unittitle>
+    <origination label="creator">
+      <corpname source="lcnaf">United Spanish War Veterans. John A. Bobb Camp no. 45 (Ironwood, Mich.)</corpname>
+    </origination>
+    <unitid type="call number">86154 Be 2</unitid>
+    <physdesc>
+      <extent>1 linear foot</extent>
+    </physdesc>
+    <unitdate normal="1919/1954" type="inclusive">1919-1954</unitdate>
+    <langmaterial id="aspace_5be906148fdfe2503702641b674d3b01">The material is in <language encodinganalog="041" langcode="eng">English</language></langmaterial>
+    <abstract id="aspace_0e9e16b27cc136a01bb43c96fc908ffd">Chapter of the United Spanish War Veterans; organizational records, 1919-1954</abstract>
+  </did>
+  <descgrp type="admin">
+    <acqinfo><p>The record group was the gift of Victor Lemmer (donor no. <num encodinganalog="541$e" type="donor">2643</num>)</p></acqinfo>
+    <accruals><p>No further additions to the records not expected.</p></accruals>
+    <accessrestrict><p>The record group is open to research.</p></accessrestrict>
+    <userestrict><p>Copyright is held by the Regents of the University of Michigan but the collection may contain third-party materials for which copyright is not held. Patrons are responsible for determining the appropriate use or reuse of materials.</p></userestrict>
+    <prefercite><p>[item], folder, box, John A. Bobb Camp No. 45 (United Spanish War Veterans) records, Bentley Historical Library, University of Michigan</p></prefercite>
+  </descgrp>
+  <bioghist><p>The United Spanish War Veterans Organization is open to veterans of three wars: the Spanish-American War, the Philippine Insurrection, and the Boxer Rebellion. In 1918-19, in the Ironwood area of Michigan's Upper Peninsula, veterans of these campaigns organized to form the John A. Bobb Camp No. 45 of the United Spanish War Veterans Organization. The purpose of the organization was both fraternal and social, as well as to petition members of Congress on behalf of veterans pension legislation.</p></bioghist>
+  <scopecontent><p>The record group is composed of a single series of Organizational records, including minutes, correspondence, membership material, reports, and financial records.</p></scopecontent>
+  <controlaccess>
+    <p>
+      <extptr actuate="onload" href="accnote" show="embed"/>
+    </p>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n85064191" source="lcsh">Ironwood (Mich.)</geogname>
+    <subject source="lcsh">Veterans -- Michigan -- Ironwood -- Societies, etc.</subject>
+    <subject source="lcsh">Spanish-American War, 1898.</subject>
+  </controlaccess>
+  <dsc type="combined"><c01 id="aspace_4387f0b083450db40702459424868e8d" level="series"><did><unittitle>Organizational records</unittitle></did><c02 id="aspace_e5737ac25560d128c2dcf280b8d68c36" level="file"><did><unittitle>Correspondence</unittitle><physdesc><extent>13 folders</extent></physdesc><unitdate type="inclusive">undated</unitdate><unitdate normal="1919/1954" type="inclusive">1919-1954</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_04285b2c8b8e6e5e74793d92f4483b48" level="file"><did><unittitle>Other papers</unittitle><physdesc><extent>5 folders</extent></physdesc><unitdate type="inclusive">undated</unitdate><unitdate normal="1920/1952" type="inclusive">1920-1952</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_3f81f3e830fef9582a9c8e089d1bc63a" level="file"><did><unittitle>Reports</unittitle><physdesc><extent>2 folders</extent></physdesc><unitdate normal="1923/1954" type="inclusive">1923-1954</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_4f28232a34951f78d67a2dc662b30de5" level="file"><did><unittitle>Minutes</unittitle><physdesc><extent>6 folders</extent></physdesc><unitdate normal="1924/1953" type="inclusive">1924-1953</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_ef2f9c20cefb466aefe9a2d2db31ac02" level="file"><did><unittitle>By-laws</unittitle><unitdate normal="1931/1931" type="inclusive">1931</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_eab43566f304771a699e7bfd844375b1" level="file"><did><unittitle>Forms</unittitle><physdesc><extent>2 folders</extent></physdesc><container label="Box" type="box">1</container></did></c02><c02 id="aspace_584c61680b3f2ba55c6da01715fbd9d4" level="file"><did><unittitle>Cash book</unittitle><unitdate normal="1928/1954" type="inclusive">1928-1954</unitdate><container label="Box" type="box">1</container></did></c02></c01></dsc>
+</archdesc>
+</ead>

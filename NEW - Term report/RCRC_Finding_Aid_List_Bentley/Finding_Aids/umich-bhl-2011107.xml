@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>umich-bhl-2011107</eadid><filedesc><titlestmt><titleproper>Finding aid for the Grant Kohn Goodman research files</titleproper><author>Finding aid created by Bentley Historical Library staff</author></titlestmt><publicationstmt><publisher>Bentley Historical Library</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-10-07 12:27:50 -0400</date>.</creation><langusage>The finding aid is written in <language langcode="eng">English</language></langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>2017-02-13</date><item>Original encoding from MARC record</item></change><change><date>2018-01-24</date><item>Added 2012 accession</item></change></revisiondesc></eadheader><frontmatter><titlepage><publisher>Bentley Historical Library <lb/>University of Michigan</publisher><titleproper>Finding aid for the Grant Kohn Goodman research files</titleproper><author>Finding aid created by Bentley Historical Library staff</author></titlepage></frontmatter><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Bentley Historical Library</corpname>
+      <extptr actuate="onload" href="bhladd" show="embed"/>
+    </repository>
+    <unittitle>Grant Kohn Goodman research files</unittitle>
+    <origination label="creator">
+      <persname source="local">Goodman, Grant Kohn, 1924-2014</persname>
+    </origination>
+    <unitid type="call number">2011107 Aa 2</unitid>
+    <physdesc>
+      <extent>3.4 linear feet</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" certainty="approximate" era="ce" type="inclusive">ca. 1900-ca. 1990s</unitdate>
+    <langmaterial id="aspace_ebf0f0eb9c91c2e82de70b6dd888c080">The material is in <language langcode="eng">English</language>. Some material is in <language langcode="jap">Japanese</language>.</langmaterial>
+  </did>
+  <descgrp type="admin">
+    <accessrestrict><p>The collection is open for research use.</p></accessrestrict>
+    <prefercite><p>[item], folder, box, Grant Kohn Goodman research files, Bentley Historical Library, University of Michigan.</p></prefercite>
+    <acqinfo><p>Donated by Grant K. Goodman (donor no. <num type="donor">8647</num>) in 2011 and in 2012.</p></acqinfo>
+    <userestrict><p>Copyright status is unknown. Patrons are responsible for determining the appropriate use or reuse of materials.</p></userestrict>
+  </descgrp>
+  <bioghist><p>Grant Kohn Goodman was born in 1924 in Cleveland, Ohio. He was a student at the University of Michigan's Army Intensive Japanese Language School (AIJLS) from 1943 to 1944. The AIJLS was created by the United States War Department in order to build an elite corps of Japanese-speaking officers, who were to do intelligence work and provide support for combat troops. The school was an intensive course, consisting of intensive Japanese language and culture classes, as well as military drills, inspections, and typical army exercises characteristic of U.S. military training camps.</p><p> Goodman's class (Company A, 3651st Service Unit), graduated from AIJLS on January 4, 1944, and continued on to complete further training at the Military Intelligence Service Language School in Minnesota (MISLS). There, they underwent courses in the more technical and complicated aspects of intelligence work, and graduated on November 18, 1944. The soldiers were then sent to basic training at Fort McClellan in Alabama, and went on to join combat units in China, Burma, India, New Guinea, the Philippines, Australia, and Hawaii, where they served as translators and interrogators for Japanese prisoners of war. After the surrender, most of the AIJLS graduates became part of the Japanese occupation forces.</p><p> After the war Goodman returned to the University of Michigan where he received his masters degree in Far Eastern Studies under Professor Joseph Yamagiwa in 1939 and a PHD.</p><p> Goodman worked as a professor of Japanese history at the University of Kansas for thirty years, and spent time in the late 1980s and early 1990s at the International Research Center for Japanese Studies in Kyoto, Japan.</p><p> Goodman is the author of "Amerika no Nippon Gannen (America's Japan: The First Year)", published in 1990.</p><p> Goodman was instrumental in organizing reunions for students in the first two AIJLS courses at Ann Arbor. In May 1990 the last major reunion of the Ann Arbor AIJLS students was held in Ann Arbor.
+ 
+ Grant K. Goodman passed away on April 6, 2014.</p></bioghist>
+  <scopecontent><p>Collected documents and research notes. Materials include correspondence, memoranda, and news and periodical articles relating to Japanese-Philippine relations, as well as Japanese-Indian relations. Many of the papers relating to the career and activities of Manuel Quezon, including copies of original documents. The collection includes documents transcribed in the 1950s from Quezon's papers.</p></scopecontent>
+  <controlaccess>
+    <p>
+      <extptr actuate="onload" href="accnote" show="embed"/>
+    </p>
+    <subject source="lcsh">Antisemitism -- Japan.</subject>
+    <subject source="lcsh">Comfort women -- Southeast Asia.</subject>
+    <geogname source="lcsh">India -- Relations -- Japan.</geogname>
+    <geogname source="lcsh">Japan -- Relations -- Philippines.</geogname>
+    <geogname source="lcsh">Philippines -- History -- 1898-1946.</geogname>
+    <geogname source="lcsh">Philippines -- Relations -- Japan.</geogname>
+    <subject source="lcsh">World War, 1939-1945 -- India -- Foreign relations.</subject>
+    <subject source="lcsh">World War, 1939-1945 -- Japan -- Foreign relations.</subject>
+    <subject source="lcsh">World War, 1939-1945 -- Philippines -- Foreign relations.</subject>
+    <persname source="local">Quezon, Manuel Luis, 1878-1944.</persname>
+    <corpname rules="dacs" source="lcnaf">Japan. Constitution.</corpname>
+  </controlaccess>
+  <dsc type="combined"><c01 id="aspace_205495d3178f1a88379f426ed69f9ceb" level="series"><did><unittitle>Grant Kohn Goodman research files</unittitle><unitdate calendar="gregorian" certainty="approximate" era="ce" type="inclusive">ca. 1900-ca. 1990s</unitdate></did><c02 id="aspace_284f4f175fbbec77939f76faa50acf4b" level="file"><did><unittitle>Box 1</unittitle><container label="Box" type="box">1</container></did></c02><c02 id="aspace_573412eda00b813598932fd85934a487" level="file"><did><unittitle>Box 2</unittitle><container label="Box" type="box">2</container></did></c02><c02 id="aspace_f0feeeda6555ea9125b2c2f8c5171d10" level="file"><did><unittitle>Box 3</unittitle><container label="Box" type="box">3</container></did></c02><c02 id="aspace_b3b237f553735b1c73e516ec682d2f32" level="file"><did><unittitle>Box 4</unittitle><container label="Box" type="box">4</container></did></c02></c01></dsc>
+</archdesc>
+</ead>

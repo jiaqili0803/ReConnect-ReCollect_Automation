@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>umich-bhl-2014032</eadid><filedesc><titlestmt><titleproper>Finding aid for Commerce and Industry of Michigan Web Archives, 2010-2014</titleproper><author>Finding aid created by Maria Smith, February 2014</author></titlestmt><publicationstmt><publisher>Bentley Historical Library</publisher><p><date>2013</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-10-07 12:16:51 -0400</date>.</creation><langusage>The finding aid is written in <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc><revisiondesc><change><date>2014-03-14</date><item>Original encoding from Word 2007 file using Word macros and Xmetal.</item></change><change><date>2016-11-21</date><item>Updated Conditions Governing Use Note</item></change></revisiondesc></eadheader><frontmatter><titlepage><publisher>Bentley Historical Library <lb/>University of Michigan</publisher><titleproper>Finding aid for Commerce and Industry of Michigan Web Archives, 2010-2014</titleproper><author>Finding aid created by Maria Smith, February 2014</author></titlepage></frontmatter><archdesc level="recordgrp">
+  <did>
+    <repository>
+      <corpname>Bentley Historical Library</corpname>
+      <extptr actuate="onload" href="bhladd" show="embed"/>
+    </repository>
+    <unittitle>Commerce and Industry of Michigan Web Archives</unittitle>
+    <origination label="creator">
+      <corpname source="lcnaf">Bentley Historical Library (collector)</corpname>
+    </origination>
+    <unitid type="call number">2014025 Aa 3 [2014032]</unitid>
+    <physdesc>
+      <extent>23 archived websites (online; multiple captures)</extent>
+    </physdesc>
+    <unitdate normal="2010/2014" type="inclusive">2010-2014</unitdate>
+    <langmaterial id="aspace_6eeb011a6c102e11c863215198a39d94">The material is in <language encodinganalog="041" langcode="eng">English</language></langmaterial>
+    <abstract id="aspace_059998bc540f1657ef56a0bba560a83a">Web collection of websites created by various organizations and individuals whose focus is commerce and industry in the State of Michigan, archived by the Bentley Historical Library using the California Digital Library Web Archiving Service crawler from 2010-2015 and the Archive-It web archiving service beginning in 2015.</abstract>
+  </did>
+  <descgrp type="admin">
+    <acqinfo><p>Websites gathered from 2010-2015 using the California Digital Library Web Archiving Service web crawler and using the Archive-It web archiving service beginning in 2015.</p></acqinfo>
+    <accruals><p>Periodic additions to the records are expected.</p></accruals>
+    <accessrestrict><p>The collection is open to research.</p></accessrestrict>
+    <userestrict><p>Content owners have not transferred any applicable copyright to the Regents of the University of Michigan. Patrons are responsible for determining the appropriate use or reuse of materials.</p></userestrict>
+    <prefercite><p>[Name of website], Commerce and Industry of Michigan Web Archives, Bentley Historical Library, University of Michigan. https://archive-it.org/organizations/934</p></prefercite>
+  </descgrp>
+  <bioghist><p>Michigan's commerce and industry is among Bentley Historical Library's most important topical collection priorities. The topic's priority is based on the Bentley Library's mission as established by the University of Michigan Board of Regents to document "the state, its institutions, and its social, economic, and intellectual development," the historical collecting patterns of the library, and overall collection development priorities in all formats. The process of setting collecting priorities is described by Christine Weideman's "A New Map for Field Work: Impact of Collections Analysis on the Bentley Historical Library" (<title render="italic">American Archivist</title>, Winter 1991, Vol. 54 Issue 1, pp. 54-60.) and Judith E. Endelman's "Looking Backward to Plan for the Future: Collection Analysis for Manuscript Repositories." (<title render="italic">American Archivist</title>, Summer 1987, Vol. 50 Issue 3, pp. 340-355.)</p><p> In selecting web content for permanent preservation, the Bentley Historical Library seeks:</p>  <list type="ordered">
+    <item>Websites of organizations or individuals whose archives the Library is committed to preserve.</item>
+    <item>Website that fill gaps in existing collections.</item>
+    <item>Websites with unique content that documents the work and/or thought process of a person or organization.</item>
+    <item>Websites that periodically incorporate new content or feature regular updates.</item>
+    <item>Websites with content that is not likely to be duplicated in an individual or organization's paper records.</item>
+  </list>
+<p>As of 2013, the Bentley Library will concentrate efforts on documenting the transformation of Michigan's economy with a focus on the auto industry, emerging industries and the revitalization of Detroit. In addition to these priorities the MHC remains open to the consideration of material with great research potential in any area of Michigan's industrially diverse history.</p><p> To learn more about the Bentley Historical Library's Web Archives visit https://archive-it.org/organizations/934.</p></bioghist>
+  <scopecontent><p>The Web Archive of Michigan's Commerce and Industry collection contains archived websites created by various businesses and industry driven organizations of the State of Michigan. The websites have been archived by the Bentley Historical Library, using the California Digital Library Web Archiving Service crawler from 2010-2015 and the Archive-It web archiving service beginning in 2015. Access to all websites archived by the Bentley Historical Library is available at: https://archive-it.org/organizations/934.</p><p> Web Archives include websites of corporations, small businesses, and nonprofit organizations who call the state of Michigan home. The collection is especially strong in documenting economic development efforts in Detroit and all of Michigan, historic businesses and industries, and distinguished individuals who belong to these communities.</p><p> The year that appears next to the website title in the contents list indicates the date that the website was first archived. Archived versions of the site from later dates may also be available.</p></scopecontent>
+  <controlaccess>
+    <p>
+      <extptr actuate="onload" href="accnote" show="embed"/>
+    </p>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n79022219" source="lcsh">Ann Arbor (Mich.)</geogname>
+    <geogname source="lcsh">Ann Arbor (Mich.) -- Economic conditions.</geogname>
+    <subject source="lcsh">Art and popular culture -- Michigan.</subject>
+    <geogname source="lcsh">Bay Harbor (Mich.)</geogname>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n81129560" source="lcsh">Benton Harbor (Mich.)</geogname>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n84026616" source="lcsh">Big Sky (Mont.)</geogname>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/nr2002007277" source="lcsh">Brighton (Utah)</geogname>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n81086464" source="lcsh">Boyne Falls (Mich.)</geogname>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n2004076178" source="lcsh">Carrabassett Valley (Me. : Town)</geogname>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n88645439" source="lcsh">Crystal Mountain (Wash.)</geogname>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n79045539" source="lcsh">Detroit (Mich.)</geogname>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n80040520" source="lcsh">Gatlinburg (Tenn.)</geogname>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n83187817" source="lcsh">Harbor Springs (Mich.)</geogname>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n99044828" source="lcsh">Lincoln (N.H.)</geogname>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n81139923" source="lcsh">Mackinac Island (Mich.)</geogname>
+    <geogname source="lcsh">Marshall (Mich.) -- Restaurants.</geogname>
+    <geogname source="lcsh">Michigan -- Economic conditions.</geogname>
+    <geogname source="lcsh">Michigan -- Social life and customs.</geogname>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n92022202" source="lcsh">Newry (Me.)</geogname>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n2008065551" source="lcsh">Snoqualmie Pass (Wash.)</geogname>
+    <geogname source="lcsh">Washtenaw County (Mich.)</geogname>
+    <geogname source="lcsh">Wayne County (Mich.)</geogname>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n88258275" source="lcsh">West Vancouver (B.C.)</geogname>
+    <subject source="lcsh">African Americans -- Michigan -- Detroit.</subject>
+    <subject source="lcsh">Architectural firms -- Michigan -- Detroit.</subject>
+    <subject source="lcsh">Arab American business enterprises -- Michigan.</subject>
+    <subject source="lcsh">Arab Americans -- Michigan.</subject>
+    <subject source="lcsh">Architecture -- United States.</subject>
+    <subject source="lcsh">Asian Americans -- Michigan.</subject>
+    <subject source="lcsh">Automobile industry and trade.</subject>
+    <subject source="lcsh">Automobiles -- Design and construction -- Research.</subject>
+    <subject source="lcsh">Bankruptcy -- Michigan -- Detroit.</subject>
+    <subject source="lcsh">Boards of trade -- Michigan.</subject>
+    <subject source="lcsh">Business information services -- Michigan -- Benton Harbor.</subject>
+    <subject source="lcsh">Businesspeople -- Michigan -- Ann Arbor.</subject>
+    <subject source="lcsh">Charity organizations -- Michigan.</subject>
+    <subject source="lcsh">Cities and towns -- Growth -- Michigan.</subject>
+    <subject source="local">Commerce and industry.</subject>
+    <subject source="lcsh">Corporations -- Michigan -- Detroit.</subject>
+    <subject source="lcsh">Digital divide.</subject>
+    <subject source="lcsh">Digital media -- Job vacancies -- Michigan -- Detroit.</subject>
+    <subject source="lcsh">Downhill skiing.</subject>
+    <subject source="lcsh">Entrepreneurs -- Training of -- Michigan -- Ann Arbor.</subject>
+    <subject source="lcsh">Environmental protection -- Michigan.</subject>
+    <subject source="lcsh">Filipino Americans -- Michigan.</subject>
+    <subject source="lcsh">Golf.</subject>
+    <subject source="lcsh">Golf resorts.</subject>
+    <subject source="lcsh">Hotels -- Michigan -- Mackinac Island.</subject>
+    <subject source="lcsh">Information superhighway.</subject>
+    <subject source="lcsh">Land use -- Michigan -- Planning.</subject>
+    <subject source="lcsh">Liquidation -- Michigan -- Detroit.</subject>
+    <subject source="lcsh">Manufactures -- Michigan.</subject>
+    <subject source="lcsh">Manufacturing industries -- Government policy -- Michigan.</subject>
+    <subject source="lcsh">Manufacturing industries -- Michigan.</subject>
+    <subject source="lcsh">New business enterprises -- Michigan.</subject>
+    <subject source="lcsh">Nonprofit organizations -- Michigan -- Ann Arbor.</subject>
+    <subject source="lcsh">Nonprofit organizations -- Michigan -- Benton Harbor.</subject>
+    <subject source="lcsh">Pacific Islander Americans -- Michigan.</subject>
+    <subject source="lcsh">Popular music -- United States.</subject>
+    <subject source="lcsh">Recreation.</subject>
+    <subject source="lcsh">Restaurants -- Michigan -- Marshall.</subject>
+    <subject source="lcsh">Russian Americans -- Michigan -- Directories.</subject>
+    <subject source="lcsh">Ski resorts.</subject>
+    <subject source="lcsh">Sports -- Michigan.</subject>
+    <subject source="lcsh">Women journalists -- Michigan.</subject>
+    <genreform source="aat">Blogs.</genreform>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2012023195" source="lcnaf">Brown, Al, 1947-</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/nr97013546" source="lcnaf">Albert Kahn Associates.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/no2002021938" source="lcnaf">American Arab Chamber of Commerce.</corpname>
+    <corpname source="lcnaf">Ann Arbor SPARK.</corpname>
+    <corpname source="lcnaf">Asian Pacific American Chamber of Commerce.</corpname>
+    <corpname source="lcnaf">Automation Alley.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/no2014142504" source="lcnaf">Big Sky Resort.</corpname>
+    <corpname source="lcnaf">Boyne USA.</corpname>
+    <corpname source="lcnaf">Boyne Highlands.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n80157107" source="lcnaf">Boyne Mountain.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/no2012085640" source="lcnaf">Center for Automotive Research (Ann Arbor, Mich.)</corpname>
+    <corpname source="lcnaf">Chrysler LLC.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/no00097967" source="lcnaf">Community Foundation for Southeast Michigan.</corpname>
+    <corpname source="lcnaf">Cornerstone Alliance (Organization)</corpname>
+    <corpname source="lcnaf">Cypress Mountain.</corpname>
+    <corpname source="lcnaf">Detroit Digital Justice Coalition.</corpname>
+    <corpname source="lcnaf">Gatlinburg Sky Lift.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79079577" source="lcnaf">General Motors Corporation.</corpname>
+    <corpname source="lcnaf">Grand Hotel.</corpname>
+    <corpname source="lcnaf">Inn at Bay Harbor.</corpname>
+    <corpname source="lcnaf">Jenner &amp; Block LLP.</corpname>
+    <corpname source="lcnaf">Loon Mountain.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/no00017663" source="lcnaf">Michigan Economic Development Corporation.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/no98075266" source="lcnaf">Michigan Land Use Institute.</corpname>
+    <corpname source="lcnaf">Michigan Manufacturer's Association.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n84181417" source="lcnaf">Motown Record Corporation -- History.</corpname>
+    <corpname source="lcnaf">New Economy Initiative for Southeast Michigan.</corpname>
+    <corpname source="lcnaf">Philippine Chamber of Commerce - Michigan.</corpname>
+    <corpname source="lcnaf">Schuler's Restaurant &amp; Pub.</corpname>
+    <corpname source="lcnaf">Sugarloaf.</corpname>
+    <corpname source="lcnaf">Sunday River Resort.</corpname>
+    <corpname source="lcnaf">Summit at Snoqualmie.</corpname>
+  </controlaccess>
+  <dsc type="combined"><c01 id="aspace_26a202a2e66c77e72da2b73c5f818b78" level="series"><did><unittitle>Commerce and Industry of Michigan Web Archives</unittitle></did><c02 id="aspace_df33c23f0025676e44a61f90fd157201" level="file"><did><unittitle>Absolute Michigan</unittitle><unitdate normal="2010/2010" type="inclusive">2010</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://absolutemichigan.com/" show="new" title="Absolute Michigan 2010"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_eb4b6b697b9c90e77285c2b1950b6dc5" level="file"><did><unittitle>Albert Kahn Associates</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.albertkahn.com/" show="new" title="Albert Kahn Associates 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_db22323ee59dccf4c24f1696e7025d73" level="file"><did><unittitle>American Arab Chamber of Commerce</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://americanarab.com/" show="new" title="American Arab Chamber of Commerce 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_8c271744a1aa6c4efd159de415770c3a" level="file"><did><unittitle>Ann Arbor SPARK</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.annarborusa.org/" show="new" title="Ann Arbor SPARK 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_4c72bca4bfab85278f9ca3652abd6ad7" level="file"><did><unittitle>Asian Pacific American Chamber of Commerce</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.apacc.net/mc/page.do?sitePageId=33955" show="new" title="Asian Pacific American Chamber of Commerce 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_caecfc9817af929d4ca301e20887885c" level="file"><did><unittitle>Automation Alley</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.automationalley.com/" show="new" title="Automation Alley 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_0a91e4456029ce5efa758b8d0601e3ed" level="file"><did><unittitle>Boyne USA Resorts</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.boyneresorts.com/" show="new" title="Boyne USA Resorts 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_d68a7e2cbc7148a4831774f544e0ad7e" level="file"><did><unittitle>Center for Automation Research</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://cargroup.org/" show="new" title="Center for Automation Research 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_83b94e75db0986bd1e2a537d96c023bd" level="file"><did><unittitle>Chrysler LLC Bankruptcy Collection</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://dm.epiq11.com/CHR/docket/Default.aspx?rc=1" show="new" title="Chrysler LLC Bankruptcy Collection 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_055243f5c591a16cb86ab6d2a6b82c53" level="file"><did><unittitle>Detroit Digital Justice Coalition</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://detroitdjc.org/" show="new" title="Detroit Digital Justice Coalition 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_c9a3df624feb14053dbe81976f155d6c" level="file"><did><unittitle>General Motors Bankruptcy Collection</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.motorsliquidationdocket.com" show="new" title="General Motors Bankruptcy Collection 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_83399080ed2a8c69590819aa087a073e" level="file"><did><unittitle>Grand Hotel, Mackinac Is</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.grandhotel.com/index.php" show="new" title="Grand Hotel, Mackinac Island 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_1c050f7a64c55c2c26adb89f3c09943c" level="file"><did><unittitle>Hype&amp;Sou!-The Motown History</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://hypeandsoul.blogspot.com/" show="new" title="Hype&amp;amp;Sou!-The Motown History 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_f556341a8ea62bad2e5276ad13d65075" level="file"><did><unittitle>Michelle Krebs @AutoObserver.com</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.edmunds.com/about/authors/michelle-krebs.html" show="new" title="Michelle Krebs @AutoObserver.com 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_20c5f19b97d590bc0505c8f7ed5b5fd7" level="file"><did><unittitle>Michigan Economic Development Corporation</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.michiganbusiness.org/#home-intro" show="new" title="Michigan Economic Development Corporation 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_69db2d1401d0057096c4d38cbf1b4249" level="file"><did><unittitle>Michigan Land Use Institute</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.mlui.org/" show="new" title="Michigan Land Use Institute 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_2d4b6c8b2361da19fb4b5e162f05ef58" level="file"><did><unittitle>Michigan Manufacturers Association</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://mimfg.org/" show="new" title="Michigan Manufacturers Association 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_fbd321d87a0a6bb549cb1fa870094e32" level="file"><did><unittitle>New Economy Initiative for Southeast Michigan</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://neweconomyinitiative.org/" show="new" title="New Economy Initiative for Southeast Michigan 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_7eb133638e311c5ce414774a74fa5443" level="file"><did><unittitle>Philippine Chamber of Commerce</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.pccmichigan.org/" show="new" title="Philippine Chamber of Commerce 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_780fb126fedb711e152e455b3901e894" level="file"><did><unittitle>Russian Michigan Yellow Pages</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://yellowpages.russianmichigan.com/" show="new" title="Russian Michigan Yellow Pages 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_8301863b88d2bc377f8305a9eb0b4796" level="file"><did><unittitle>Schuler's Restaurant &amp; Pub</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.schulersrestaurant.com/" show="new" title="Schuler's Restaurant &amp;amp; Pub 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02><c02 id="aspace_d2a5962cce62401d0923afa5921b2c9a" level="file"><did><unittitle>Southeast Michigan Startup</unittitle><unitdate normal="2011/2011" type="inclusive">2011</unitdate><dao actuate="onrequest" href="https://wayback.archive-it.org/5486/*/http://www.semichiganstartup.com/Default.aspx" show="new" title="Southeast Michigan Startup 2011"><daodesc><p>[view website]</p></daodesc></dao><physloc>Online</physloc></did></c02></c01></dsc>
+</archdesc>
+</ead>

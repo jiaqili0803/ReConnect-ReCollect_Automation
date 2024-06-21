@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>umich-bhl-2012185</eadid><filedesc><titlestmt><titleproper>Finding aid for the Jock Netzorg interviewed by Michael P. Onorato</titleproper><author>Finding aid created by Bentley Historical Library staff</author></titlestmt><publicationstmt><publisher>Bentley Historical Library</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-10-07 12:33:20 -0400</date>.</creation><langusage>The finding aid is written in <language langcode="eng">English</language></langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc><revisiondesc><change><date>2017-02-13</date><item>Original encoding from MARC record</item></change></revisiondesc></eadheader><frontmatter><titlepage><publisher>Bentley Historical Library <lb/>University of Michigan</publisher><titleproper>Finding aid for the Jock Netzorg interviewed by Michael P. Onorato</titleproper><author>Finding aid created by Bentley Historical Library staff</author></titlepage></frontmatter><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Bentley Historical Library</corpname>
+      <extptr actuate="onload" href="bhladd" show="embed"/>
+    </repository>
+    <unittitle>Jock Netzorg interviewed by Michael P. Onorato</unittitle>
+    <origination label="creator">
+      <persname source="local">Netzorg, Morton J.</persname>
+    </origination>
+    <unitid type="call number">2012185 Aa 2;</unitid>
+    <physdesc>
+      <extent>2 sound cassettes</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" era="ce" normal="1987-03-04/1987-03-04" type="inclusive">1987 March 4</unitdate>
+    <langmaterial id="aspace_e91c113863e26ce66c94d3a81b4600e9">The material is in <language langcode="eng">English</language></langmaterial>
+  </did>
+  <descgrp type="admin">
+    <accruals><p>Further accruals are not expected.</p></accruals>
+    <accessrestrict><p>The collection is open for research use.</p></accessrestrict>
+    <userestrict><p>Copyright in the recording has been assigned to the Regents of the University of Michigan. Copyright in the transcription of the interview is owned by Pacific Rim Books.</p></userestrict>
+    <prefercite><p>[item], folder, box, Jock Netzorg interviewed by Michael P. Onorato, Bentley Historical Library, University of Michigan.</p></prefercite>
+    <originalsloc><p>Sound casettes located with Jock Netzorg audio interviews in the Netzorg family papers sound recordings series (Collection: 2012143 Aa 2, Box 36).</p></originalsloc>
+    <acqinfo><p>Donated by Michael P. Onorato (donor no. <num type="donor">10803</num>)</p></acqinfo>
+  </descgrp>
+  <bioghist><p>Morton J. (Jock) Netzorg was a bibliographer of the Philippines and owner, with his wife Petra Fuld Netzorg, of the Cellar Book Shop in Detroit, Mich. Michael P. Onorato was an oral historian and faculty member at California State University-Fullerton.</p></bioghist>
+  <scopecontent><p>Interview transcribed and published in the book Jock Netzorg: Manila Memories (Laguna Beach, Calif. : Pacific Rim Books, 1988).</p></scopecontent>
+  <controlaccess>
+    <p>
+      <extptr actuate="onload" href="accnote" show="embed"/>
+    </p>
+    <geogname source="lcsh">Manila (Philippines) -- Biography.</geogname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85245286" source="lcnaf">Netzorg, Morton J -- Interviews.</persname>
+    <persname role="ctb" source="local">Onorato, Michael Paul, 1934-</persname>
+  </controlaccess>
+  <dsc type="combined"><c01 id="aspace_a05fde2d967a68c9105396f88b02bb4f" level="series"><did><unittitle>Jock Netzorg interviewed by Michael P. Onorato</unittitle><unitdate calendar="gregorian" era="ce" normal="1987-03-04/1987-03-04" type="inclusive">1987 March 4</unitdate></did><odd><p>(Sound casettes located with Jock Netzorg audio interviews in the Netzorg family papers sound recordings series (Collection: 2012143 Aa 2, Box 36).)</p></odd></c01></dsc>
+  <descgrp type="add">
+    <relatedmaterial><p>Bentley Historical Library holds <title href= "https://quod.lib.umich.edu/b/bhlead/umich-bhl-8955"> Morton J. Netzorg papers, 1980-1983</title> and <title href="https://quod.lib.umich.edu/b/bhlead/umich-bhl-2012143"> Netzorg family papers, late 1800s-2012 (bulk 1938-1998)</title></p></relatedmaterial>
+  </descgrp>
+</archdesc>
+</ead>

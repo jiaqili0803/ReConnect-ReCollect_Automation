@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>umich-bhl-851280</eadid><filedesc><titlestmt><titleproper>Finding aid for Hilmer Gellein papers, 1925-1946 and undated</titleproper><author>Finding aid created by Michigan Historical Collections staff</author></titlestmt><publicationstmt><publisher>Bentley Historical Library</publisher><p><date>2007</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-10-07 12:29:31 -0400</date>.</creation><langusage>The finding aid is written in <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc><revisiondesc><change><date>2007-05-08</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change><change><date>2016-11-21</date><item>Updated Conditions Governing Use Note</item></change></revisiondesc></eadheader><frontmatter><titlepage><publisher>Bentley Historical Library <lb/>University of Michigan</publisher><titleproper>Finding aid for Hilmer Gellein papers, 1925-1946 and undated</titleproper><author>Finding aid created by Michigan Historical Collections staff</author></titlepage></frontmatter><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Bentley Historical Library</corpname>
+      <extptr actuate="onload" href="bhladd" show="embed"/>
+    </repository>
+    <unittitle>Hilmer Gellein papers</unittitle>
+    <origination label="creator">
+      <persname source="lcnaf">Gellein, Hilmer.</persname>
+    </origination>
+    <unitid type="call number">851280 Aa 2</unitid>
+    <physdesc>
+      <extent>0.3 linear feet</extent>
+    </physdesc>
+    <unitdate normal="1925/1946" type="inclusive">1925-1946</unitdate>
+    <unitdate calendar="gregorian" era="ce" type="inclusive">undated</unitdate>
+    <langmaterial id="aspace_1695fd26c9fbb088cde7cf68658436ea">The material is in <language encodinganalog="041" langcode="eng">English</language></langmaterial>
+    <abstract id="aspace_7f91be7144d342d3b3d2c9b59210c426">Clerk of the Detroit (Michigan) Recorders Court and director of the state department of corrections during the gubernatorial administration of Frank Murphy. Reports and other papers concerning the Michigan state penal system; and material on the Sweet Murder Trial of 1925 and the career of Frank Murphy.</abstract>
+  </did>
+  <descgrp type="admin">
+    <acqinfo><p>The collection was the gift of Hilmer Gellein (donor no. <num encodinganalog="541$e" type="donor">4807</num>) and came to the library beginning in 1969.</p></acqinfo>
+    <accruals><p>Periodic additions to the records are not expected.</p></accruals>
+    <accessrestrict><p>The collection is open to research.</p></accessrestrict>
+    <userestrict><p>Copyright is held by the Regents of the University of Michigan but the collection may contain third-party materials for which copyright is not held. Patrons are responsible for determining the appropriate use or reuse of materials.</p></userestrict>
+    <prefercite><p>[item], folder, box, Hilmer Gellein papers, Bentley Historical Library, University of Michigan</p></prefercite>
+  </descgrp>
+  <bioghist><p>Hilmer Gellein was clerk of Detroit Recorder's Court presided over by Frank Murphy. During his time as court stenographer, Gellein was witness to perhaps the most significant case before Judge Murphy, the Ossian Sweet murder trials of 1925-26. Years later, following Murphy's election as governor of Michigan in 1936, Gellein was appointed commissioner of pardons and paroles.</p></bioghist>
+  <scopecontent><p>The collection contains reports and other papers concerning the Michigan state penal system. There is also material collected on the Ossian Sweet Murder Trial of 1925 and the career of Frank Murphy.</p></scopecontent>
+  <controlaccess>
+    <p>
+      <extptr actuate="onload" href="accnote" show="embed"/>
+    </p>
+    <subject source="lcsh">Crime.</subject>
+    <corpname source="lcnaf">Michigan. Dept. of Corrections.</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86025928" source="lcnaf">Murphy, Frank, 1890-1949.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n2003033602" source="lcnaf">Sweet, Ossian, 1895-1960.</persname>
+  </controlaccess>
+  <dsc type="combined"><c01 id="aspace_95d1413c7b1c160830364f9ec4334a58" level="series"><did><unittitle>Topical files</unittitle></did><c02 id="aspace_533bd39e3b52f816c05320dca770101c" level="file"><did><unittitle>Sweet Trial</unittitle><unitdate normal="1925/1925" type="inclusive">1925</unitdate><unitdate type="inclusive">undated</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_c46ef78000477e7d621961eec0772403" level="file"><did><unittitle>Frank Murphy</unittitle><unitdate normal="1926/1946" type="inclusive">1926-1946</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_aeea773f11ef0b083c3daacb2fe213b5" level="file"><did><unittitle>Frank Murphy Manuscript Biography</unittitle><unitdate type="inclusive">undated</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_85c46cb4413360feb42537c232384a36" level="file"><did><unittitle>State Department of Corrections</unittitle></did><c03 id="aspace_f8826df7611adf239c66b3646f56a8f7" level="file"><did><unittitle>Speeches</unittitle><unitdate normal="1938/1938" type="inclusive">1938</unitdate><unitdate type="inclusive">undated</unitdate><container label="Box" type="box">1</container></did></c03><c03 id="aspace_6e0aedceec5d28b611938d6353ffc7cd" level="file"><did><unittitle>Papers</unittitle><unitdate type="inclusive">undated</unitdate><unitdate normal="1936/1939" type="inclusive">1936-1939</unitdate><container label="Box" type="box">1</container></did><c04 id="aspace_694067ad0f4f568a3d3a7ebc09d2fdc7" level="file"><did><unitdate type="inclusive">undated</unitdate><container label="Box" type="box">1</container></did></c04><c04 id="aspace_f5f15a763109f983cc77a699af796eac" level="file"><did><unitdate normal="1936/1937" type="inclusive">1936-1937</unitdate><container label="Box" type="box">1</container></did></c04><c04 id="aspace_6cd8010b4d167f8189e2d596b41f6635" level="file"><did><unitdate normal="1938/1938" type="inclusive">1938</unitdate><container label="Box" type="box">1</container></did></c04><c04 id="aspace_b45126157bd944a9aa11ed683e74dd49" level="file"><did><unitdate normal="1939/1939" type="inclusive">1939</unitdate><container label="Box" type="box">1</container></did></c04></c03></c02></c01></dsc>
+</archdesc>
+</ead>

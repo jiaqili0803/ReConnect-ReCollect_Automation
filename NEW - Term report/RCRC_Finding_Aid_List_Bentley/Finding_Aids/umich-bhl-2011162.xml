@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>umich-bhl-2011162</eadid><filedesc><titlestmt><titleproper>Finding aid for the Frank C. Whitmore photographs</titleproper><author>Finding aid created by Steven Gentry, March 2020.</author></titlestmt><publicationstmt><publisher>Bentley Historical Library</publisher><p><date>2020</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-10-07 12:22:28 -0400</date>.</creation><langusage>The finding aid is written in <language langcode="eng">English</language></langusage><descrules>gihc</descrules></profiledesc><revisiondesc><change><date>2017-02-13</date><item>Original encoding from MARC record</item></change><change><date>2020-03-30</date><item>Finding aid created.</item></change><change><date>2020-04-16</date><item>exported</item></change></revisiondesc></eadheader><frontmatter><titlepage><publisher>Bentley Historical Library <lb/>University of Michigan</publisher><titleproper>Finding aid for the Frank C. Whitmore photographs</titleproper><author>Finding aid created by Steven Gentry, March 2020.</author></titlepage></frontmatter><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Bentley Historical Library</corpname>
+      <extptr actuate="onload" href="bhladd" show="embed"/>
+    </repository>
+    <unittitle>Frank C. Whitmore photographs</unittitle>
+    <origination label="creator">
+      <persname source="lcnaf">Whitmore, Frank C.</persname>
+    </origination>
+    <unitid type="call number">2011162 UAs</unitid>
+    <physdesc>
+      <extent>1 folder</extent>
+    </physdesc>
+    <unitdate normal="1945/1945" type="inclusive">1945</unitdate>
+    <langmaterial id="aspace_921504b49aeaf75cb1bfe33cc36f9e9e">The material is in <language langcode="eng">English</language>.</langmaterial>
+    <abstract id="aspace_d4c23116e8913d8e64e03216da838f6a">Frank C. Whitmore (1915-2012) was an American geologist and paleontologist known for his significant career in the United States Geological Survey (USGS). He served as a civilian consultant to the U.S. Army during World War II.
+
+Photographs taken in Manila in 1945.</abstract>
+  </did>
+  <descgrp type="admin">
+    <accessrestrict><p>The collection is open for research use.</p></accessrestrict>
+    <prefercite><p>[item], folder, Frank C. Whitmore photographs, Bentley Historical Library, University of Michigan.</p></prefercite>
+    <acqinfo><p>Donated by John Whitmore (donor no. <num encodinganalog="541$e" type="donor">
+10681</num>).</p></acqinfo>
+    <userestrict><p>Copyright status is unknown. Patrons are responsible for determining the appropriate use or reuse of materials.</p></userestrict>
+  </descgrp>
+  <bioghist><p>Frank Clifford Whitmore, Jr., was born in Cambridge, Mass. on November 17, 1915 to Frank Whitmore and Marion Gertrude (Mason) Whitmore. He received his B.A. from Amherst College in 1938, an M.S. from Pennsylvania State University in 1939, and an M.A. (1941) and Ph.D. (1942) from Harvard University.</p><p>After receiving his Ph.D., Whitmore began teaching at Rhode Island State College (now the University of Rhode Island) as an instructor of geology (1942-1944). He then served in the United States Geological Survey (USGS) in Washington D.C. Positions that he held at the USGS included geologist (1944-1984), chief of the USGS Military Geology Unit (1946-1959), and research paleontologist (1959-1984). </p><p>In 1945-1946, Whitmore served as a civilian scientific consultant to the U.S. Army in the Philippines, Korea, and Japan. He was first posted to Manila, arriving September 1945; then to Tokyo in October 1945 where he took part in the Occupation.</p><p>
+Whitemore was a research associate at the Smithsonian Institution (1967-1997), and a member of the National Geographic Society's Committee for Research and Exploration (1970-1996). </p><p>Whitmore received numerous awards over the course of his career, including the Medal of Freedom (1946), U.S. Department of the Interior Meritorious Service Award (1981), and the Arnold Guyot Memorial Award (1993). He was also a fellow or honorary member of several organizations, including the American Association for the Advancement of Science (AAAS). </p><p>Frank C. Whitmore passed away in 2012, in Silver Spring, Md.</p></bioghist>
+  <scopecontent><p>The collection consists of photographs taken during his stay in Manila in 1945. Images include city views, ruins of buildings damaged in the war, and political and military personages (notably, Douglas MacArthur). Most images include Whitmore's descriptions and comments.</p></scopecontent>
+  <controlaccess>
+    <p>
+      <extptr actuate="onload" href="accnote" show="embed"/>
+    </p>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n79056525" source="lcsh">Manila (Philippines)</geogname>
+    <geogname source="lcsh">Manila (Philippines) -- Buildings, structures, etc.</geogname>
+    <geogname source="lcsh">Manila (Philippines) -- History -- Japanese occupation, 1942-1945.</geogname>
+    <genreform source="gmgpc">Photographs.</genreform>
+    <persname source="local">MacArthur, Douglas, 1880-1964.</persname>
+    <persname source="lcnaf">Whitmore, Frank C.</persname>
+  </controlaccess>
+  <dsc type="combined"><c01 id="aspace_74468da395ae4916056f4b710a86edf9" level="series"><did><unittitle>Frank C. Whitmore photographs</unittitle><container label="Folder" type="folder">1</container></did></c01></dsc>
+  <descgrp type="add">
+    <relatedmaterial><p>For related materials, see the Smithsonian Institution Archives's Frank C. Whitmore Papers.</p></relatedmaterial>
+  </descgrp>
+</archdesc>
+</ead>

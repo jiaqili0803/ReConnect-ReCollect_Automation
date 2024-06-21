@@ -1,0 +1,1276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>umich-bhl-86466</eadid><filedesc><titlestmt><titleproper>Finding aid for Jesse Siddall Reeves Papers, 1853-1942</titleproper><author>Finding aid created by Michigan Historical Collections staff, 1942</author></titlestmt><publicationstmt><publisher>Bentley Historical Library</publisher><p><date>2005</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-10-07 12:33:08 -0400</date>.</creation><langusage>The finding aid is written in <language langcode="eng">English</language></langusage></profiledesc><revisiondesc><change><date>2005-04-28</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change><change><date>2016-11-21</date><item>Updated Conditions Governing Use Note</item></change></revisiondesc></eadheader><frontmatter><titlepage><publisher>Bentley Historical Library <lb/>University of Michigan</publisher><titleproper>Finding aid for Jesse Siddall Reeves Papers, 1853-1942</titleproper><author>Finding aid created by Michigan Historical Collections staff, 1942</author></titlepage></frontmatter><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Bentley Historical Library</corpname>
+      <extptr actuate="onload" href="bhladd" show="embed"/>
+    </repository>
+    <unittitle>Jesse Siddall Reeves Papers</unittitle>
+    <origination label="creator">
+      <persname source="lcnaf">Reeves, Jesse Siddall, 1871-1942</persname>
+    </origination>
+    <unitid type="call number">86466 Aa 2; UAm</unitid>
+    <physdesc>
+      <extent>14 linear feet</extent>
+    </physdesc>
+    <physdesc>
+      <extent>1 oversize folder</extent>
+    </physdesc>
+    <unitdate normal="1853/1942" type="inclusive">1853-1942</unitdate>
+    <unitdate normal="1901/1942" type="bulk">1901-1942</unitdate>
+    <langmaterial id="aspace_0e92c394e9a752f6b038f41f66c10368">The material is in <language encodinganalog="041" langcode="eng">English</language></langmaterial>
+    <abstract id="aspace_b811b0b7fa46ac68dffe1309d01a52fd">Chairman of the department of political science at University of Michigan. Correspondence, reports, manuscript articles, book reviews, lecture notes, and miscellaneous papers concerning family affairs and his academic interests in political science and international law.</abstract>
+  </did>
+  <descgrp type="admin">
+    <acqinfo><p>The collection came from the estate of Jesse S. Reeves in 1942 (Donor no. <num encodinganalog="541$e" type="donor">1300</num>); a smaller portion was the gift of Mr. Arthur Reeves (donor no. <num encodinganalog="541$e" type="donor">3642</num>) in 1960.</p></acqinfo>
+    <accessrestrict><p>The collection is open to research.</p></accessrestrict>
+    <userestrict><p>Donor(s) have not transferred any applicable copyright to the Regents of the University of Michigan. Patrons are responsible for determining the appropriate use or reuse of materials.</p></userestrict>
+    <prefercite><p>[item], folder, box, Jesse Siddall Reeves Papers , Bentley Historical Library, University of Michigan</p></prefercite>
+  </descgrp>
+  <bioghist><p>Jesse S. Reeves, professor and chairman of the department of political science of the University of Michigan, was born January 27, 1872. He was student at Kenyon College in Ohio before graduating from Amherst College in 1891 with a B.S. He received his Ph.D. from Johns Hopkins University in 1894. He practiced law for a time before deciding on a career as an academic. He taught at Johns Hopkins (1905-06) and Dartmouth (1907-1910) before accepting a position as professor and chairman of the newly created department of political science at the University of Michigan in 1910. He held this position until his retirement in 1937. In 1931, he was appointed W.W. Cook professor of American institutions, which position he held until his automatic retirement from the faculty in February 1942.</p><p> Reeves was an authority on international law who was often called upon to serve on numerous commissions. For two years, beginning in 1925, he served as the American member of the Pan-American Commission of Jurists for the codification of international law. And in 1930, he was technical advisor to the American delegation to the Hague Conference for the Codification of International Law. Reeves was a member of various professional organizations and the author of books and articles in his area of expertise. Reeves died July 7, 1942.</p></bioghist>
+  <scopecontent><p>The Reeves papers largely concern JSR's activities as professor (also chairman) of the University of Michigan Department of Political Science from his appointment in 1910 until his retirement in 1937. The great bulk of the collection consists of Reeves' correspondence. With this is a smaller series of such other materials as lectures, research materials, professional organizational materials. As an aid to accessing the correspondence, a selective index of correspondents and subjects has been prepared and is appended to the following containing listing.</p></scopecontent>
+  <controlaccess>
+    <p>
+      <extptr actuate="onload" href="accnote" show="embed"/>
+    </p>
+    <geogname source="lcsh">Alpena (Mich.)</geogname>
+    <subject source="lcsh">Fascism.</subject>
+    <subject source="lcsh">International law.</subject>
+    <geogname source="lcsh">Nicaragua -- Description and travel.</geogname>
+    <geogname source="lcsh">Panama -- Description and travel.</geogname>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n82004295" source="lcsh">Panama Canal (Panama)</geogname>
+    <geogname source="lcsh">Philippines -- History -- 1898-1946.</geogname>
+    <subject source="lcsh">Presidents -- United States -- Election -- 1904.</subject>
+    <subject source="lcsh">Presidents -- United States -- Election -- 1908.</subject>
+    <subject source="lcsh">Presidents -- United States -- Election -- 1912.</subject>
+    <subject source="lcsh">Presidents -- United States -- Election -- 1920.</subject>
+    <subject source="lcsh">Presidents -- United States -- Election -- 1924.</subject>
+    <subject source="lcsh">Presidents -- United States -- Election -- 1928.</subject>
+    <subject source="lcsh">Presidents -- United States -- Election -- 1932.</subject>
+    <subject source="lcsh">Presidents -- United States -- Election -- 1936.</subject>
+    <subject source="lcsh">Presidents -- United States -- Election -- 1940.</subject>
+    <subject source="lcsh">Russo-Japanese War, 1904-1905.</subject>
+    <subject source="lcsh">Automobile travel -- United States.</subject>
+    <subject source="lcsh">Voyages and travels.</subject>
+    <subject source="lcsh">World War, 1914-1918 -- Education and the war.</subject>
+    <subject source="lcsh">World War, 1914-1918 -- Michigan -- Ann Arbor.</subject>
+    <subject source="lctgm">Camping -- 1911-1920.</subject>
+    <subject source="lctgm">Canoes.</subject>
+    <genreform source="aat">Photographs.</genreform>
+    <corpname source="lcnaf">International Commission on Jurists (1906)</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2001028340" source="lcnaf">Reeves, Jesse Siddall, 1872-1942.</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- Buildings.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n82098946" source="lcnaf">University of Michigan. School of Education.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n85129645" source="lcnaf">University of Michigan. School of Dentistry.</corpname>
+    <corpname source="lcnaf">University of Michigan. Dept. of Germanic Languages and Literatures.</corpname>
+    <corpname source="lcnaf">University of Michigan. Dept. of Political Science.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n88629496" source="lcnaf">University of Michigan. Engineering Research Institute.</corpname>
+    <corpname source="lcnaf">University of Michigan. Institute of Public Administration.</corpname>
+    <corpname source="lcnaf">University of Michigan. Library.</corpname>
+    <corpname source="lcnaf">University of Michigan. President.</corpname>
+    <corpname source="lcnaf">University of Michigan. Senate.</corpname>
+    <corpname source="lcnaf">University of Michigan. University College.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79076108" source="lcnaf">American Association of University Professors.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79066255" source="lcnaf">American Political Science Association.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n50061301" source="lcnaf">Kenyon College.</corpname>
+    <corpname source="lcnaf">Michigan School of Religion.</corpname>
+    <corpname source="lcnaf">Society for International Law.</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2003107796" source="lcnaf">Gomberg, Moses, 1866-1947.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86869592" source="lcnaf">Hobbs, William Herbert, 1864-1952.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2001028340" source="lcnaf">Reeves, Jesse Siddall, 1872-1942.</persname>
+    <corpname source="lcnaf">University of Michigan. Summer Session on International Law.</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50046690" source="lcnaf">Van Tyne, Claude Halstead, 1869-1930.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50036838" role="ctb" source="lcnaf">Adams, Charles Francis, 1835-1915.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n89613731" role="ctb" source="lcnaf">Adams, Randolph Greenfield, 1892-1951.</persname>
+    <persname role="ctb" source="lcnaf">Anderson, William P., 1888-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no90002065" role="ctb" source="lcnaf">Angell, James Burrill, 1829-1916.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no97001042" role="ctb" source="lcnaf">Angell, James Rowland, 1869-1949.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86114582" role="ctb" source="lcnaf">Baker, Newton Diehl, 1871-1937.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2001090656" role="ctb" source="lcnaf">Bates, Henry Moore, 1869-1949.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008182928" role="ctb" source="lcnaf">Beakes, Samuel Willard, 1861-1927.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008186663" role="ctb" source="lcnaf">Beal, Junius E. (Junius Emery), 1860-1942.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n80013006" role="ctb" source="lcnaf">Bemis, Samuel Flagg, 1891-1973.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50008537" role="ctb" source="lcnaf">Blakeslee, George Hubbard, 1871-1954.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no92004670" role="ctb" source="lcnaf">Bonner, Campbell, 1876-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50063490" role="ctb" source="lcnaf">Borchard, Edwin Montefiore, 1884-1951.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79021976" role="ctb" source="lcnaf">Brooks, Van Wyck, 1886-1963.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no00029125" role="ctb" source="lcnaf">Brown, Everett Somerville, 1886-1964.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86013648" role="ctb" source="lcnaf">Brown, Philip Marshall, 1875-1966.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2007125178" role="ctb" source="lcnaf">Brown, Prentiss M. (Prentiss Marsh), 1889-1973.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n94105471" role="ctb" source="lcnaf">Brucker, Wilber Marion, 1894-1968.</persname>
+    <persname role="ctb" source="lcnaf">Bryan, William Jennings, 1860-1925.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n88650119" role="ctb" source="lcnaf">Burton, Marion Le Roy, 1874-1925.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86034218" role="ctb" source="lcnaf">Carr, Wilbur J. (Wilbur John), 1870-1942.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/nr94018515" role="ctb" source="lcnaf">Clements, William L. (William Lawrence), 1861-1934.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79109360" role="ctb" source="lcnaf">Collier, William Miller, 1867-1956.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008182100" role="ctb" source="lcnaf">Comstock, William Alfred, 1877-1949.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n80056984" role="ctb" source="lcnaf">Cooley, Charles Horton, 1864-1929.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n84804477" role="ctb" source="lcnaf">Cooley, Mortimer E. (Mortimer Elwyn), 1855-1944.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50032078" role="ctb" source="lcnaf">Cooley, Thomas McIntyre, 1824-1898.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79017935" role="ctb" source="lcnaf">Corwin, Edward Samuel, 1878-1963.</persname>
+    <persname role="ctb" source="lcnaf">Coudert, Frederic R. (Frederic René), 1871-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86070545" role="ctb" source="lcnaf">Couzens, James, 1872-1936.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85273526" role="ctb" source="lcnaf">Crane, Robert Treat, 1880-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n84805969" role="ctb" source="lcnaf">D'Ooge, Martin Luther, 1839-1915.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2007084988" role="ctb" source="lcnaf">Effinger, John R. (John Robert), 1869-1933.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n2013064058" role="ctb" source="lcnaf">Eggert, Carl Edgar, 1868-1944.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n87901667" role="ctb" source="lcnaf">Farrand, Max, 1869-1945.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no92021426" role="ctb" source="lcnaf">Field, Oliver Peter, 1897-1953.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50003225" role="ctb" source="lcnaf">Fite, Emerson David, 1874-1953.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79055385" role="ctb" source="lcnaf">Ford, Henry, 1863-1947.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50024841" role="ctb" source="lcnaf">Ford, Worthington Chauncey, 1858-1941.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n96008408" role="ctb" source="lcnaf">Garfield, Harry Augustus, 1863-1942.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n87856690" role="ctb" source="lcnaf">Garner, James Wilford, 1871-1938.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2003107796" role="ctb" source="lcnaf">Gomberg, Moses, 1866-1947.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n87833702" role="ctb" source="lcnaf">Guthe, Karl Eugen, 1866-1915.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50032646" role="ctb" source="lcnaf">Hart, Albert Bushnell, 1854-1943.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85252398" role="ctb" source="lcnaf">Hayden, Joseph Ralston, 1887-1945.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86012004" role="ctb" source="lcnaf">Hays, Will H. (Will Harrison), 1879-1954.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n88002824" role="ctb" source="lcnaf">Hershey, Amos Shartle, 1867-1933.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n89661076" role="ctb" source="lcnaf">Hinsdale, Mary L.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86869592" role="ctb" source="lcnaf">Hobbs, William Herbert, 1864-1952.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50033171" role="ctb" source="lcnaf">Hudson, Manley O. (Manley Ottmer), 1886-1960.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79006704" role="ctb" source="lcnaf">Hughes, Charles Evans, 1862-1948.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86012032" role="ctb" source="lcnaf">Hull, Cordell, 1871-1955.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85800958" role="ctb" source="lcnaf">Huntington, E. V. (Edward Vermilye), 1874-1952.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n88002366" role="ctb" source="lcnaf">Hutchins, Harry B. (Harry Burns), 1847-1930.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50028990" role="ctb" source="lcnaf">Jameson, J. Franklin (John Franklin), 1859-1937.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/nr93026685" role="ctb" source="lcnaf">Johnson, Allan Chester, 1881-1955.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86111142" role="ctb" source="lcnaf">Kellogg, Frank B. (Frank Billings), 1856-1937.</persname>
+    <persname role="ctb" source="lcnaf">Kelsey, Francis W. (Francis Willey), 1858-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/nr94002823" role="ctb" source="lcnaf">Knudsen, William S., 1879-1948.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n82037904" role="ctb" source="lcnaf">Koch, Theodore Wesley, 1871-1941.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no89011611" role="ctb" source="lcnaf">Korff, S. A., Baron (Sergei Aleksandrovich), 1876-1924.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50042676" role="ctb" source="lcnaf">Korzybski, Alfred, 1879-1950.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85805555" role="ctb" source="lcnaf">Kraus, Edward Henry, 1875-1973.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79018424" role="ctb" source="lcnaf">Laski, Harold Joseph, 1893-1950.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no99089612" role="ctb" source="lcnaf">Latane, John Holladay, 1869-1932.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50042556" role="ctb" source="lcnaf">Leacock, Stephen, 1869-1944.</persname>
+    <persname role="ctb" source="lcnaf">Little, Clarence C. (Clarence Cook), 1888-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n87126725" role="ctb" source="lcnaf">Lloyd, Alfred H. (Alfred Henry), 1864-1927.</persname>
+    <persname role="ctb" source="lcnaf">McLaren, Walter Wallace.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n80090331" role="ctb" source="lcnaf">McLaughlin, Andrew Cunningham, 1861-1947.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2001038264" role="ctb" source="lcnaf">McLeod, Clarence John, 1895-1959.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50035979" role="ctb" source="lcnaf">Merriam, Charles Edward, 1874-1953.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n2002022232" role="ctb" source="lcnaf">Michener, Earl C. (Earl Cory), 1876-1957.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n82090890" role="ctb" source="lcnaf">Munro, William Bennett, 1875-1957.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008183306" role="ctb" source="lcnaf">Murfin, James Orin, 1875-1940.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86025928" role="ctb" source="lcnaf">Murphy, Frank, 1890-1949.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50026550" role="ctb" source="lcnaf">Murrow, Edward R.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n89125977" role="ctb" source="lcnaf">Newberry, Truman Handy, 1864-1945.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50028724" role="ctb" source="lcnaf">Ogg, Frederic Austin, 1878-1951.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50009688" role="ctb" source="lcnaf">Perkins, Dexter, 1889-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n94057548" role="ctb" source="lcnaf">Pollock, James K. (James Kerr), 1898-1968.</persname>
+    <persname role="ctb" source="lcnaf">Ray, P. Orman (Perley Orman), 1875-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50048409" role="ctb" source="lcnaf">Root, Elihu, 1845-1937.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n88071293" role="ctb" source="lcnaf">Rowe, Leo S., 1871-1946.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n87828171" role="ctb" source="lcnaf">Ruthven, Alexander Grant, 1882-1971.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n87113626" role="ctb" source="lcnaf">Sanders, Henry A. (Henry Arthur), 1868-1956.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no89019986" role="ctb" source="lcnaf">Sayre, Francis Bowes, 1885-1972.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50006744" role="ctb" source="lcnaf">Schmitt, Bernadotte Everly, 1886-1969.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n82134292" role="ctb" source="lcnaf">Sforza, Carlo, Conte, 1872-1952.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50022932" role="ctb" source="lcnaf">Shotwell, James Thomson, 1874-1965.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008187805" role="ctb" source="lcnaf">Smith, Shirley Wheeler, 1875-1959.</persname>
+    <persname role="ctb" source="lcnaf">Stone, Ralph, 1868-1956.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008188960" role="ctb" source="lcnaf">Townsend, Charles E. (Charles Elroy), 1856-1924.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50045033" role="ctb" source="lcnaf">Vandenberg, Arthur H. (Arthur Hendrick), 1884-1951.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50046677" role="ctb" source="lcnaf">Van Loon, Hendrik Willem, 1882-1944.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50046690" role="ctb" source="lcnaf">Van Tyne, Claude Halstead, 1869-1930.</persname>
+    <persname role="ctb" source="lcnaf">Vollenhaven, C. V.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50002952" role="ctb" source="lcnaf">Welles, Sumner, 1892-1961.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n78096905" role="ctb" source="lcnaf">White, William Allen, 1868-1944.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n88030093" role="ctb" source="lcnaf">Wickersham, George W. (George Woodward), 1858-1936.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n82217363" role="ctb" source="lcnaf">Wilson, George Grafton, 1863-1951.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n89622786" role="ctb" source="lcnaf">Winter, John Garrett, 1881-1956.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n80056647" role="ctb" source="lcnaf">Wright, Quincy, 1890-1970.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no95054273" role="ctb" source="lcnaf">Yntema, Hessel E.</persname>
+  </controlaccess>
+  <dsc type="combined"><c01 id="aspace_aa42089d02a35f087c51a1906d34b40f" level="series"><did><unittitle>Correspondence and related papers</unittitle></did><scopecontent><p>Reeves' correspondence and related papers are arranged chronologically. It is subdivided into several time spans roughly reflecting major periods in Reeves' career: 1953-1912, 1913-1917, 1918,1919-1926, 1927-1942.</p></scopecontent><c02 id="aspace_74d0dc97b28fcd3a5ab53df26dd439c5" level="subseries"><did><unitdate normal="1853/1912" type="inclusive">1853-1912</unitdate></did><scopecontent><p>The papers for 1853-1912 consist largely of personal and family correspondence. Much of Reeves' correspondence is with his brother Will, professor of English at Kenyon College. Reeves made a trip to Panama and Nicaragua in 1897 and his letters home contain excellent descriptions of the construction of the canal. The negotiations relating to Reeves' acceptance of a position at the University of Michigan professorship will be found in the folder for March 1910.</p></scopecontent><c03 id="aspace_6dcbbb0aae3ada00153ac57069cc9432" level="file"><did><physdesc><extent>33 folders</extent></physdesc><unitdate normal="1853/1912" type="inclusive">1853-1912</unitdate><container label="Box" type="box">1</container></did></c03></c02><c02 id="aspace_04c4e62c9e6ea0694f2cd7ede60de293" level="subseries"><did><unitdate normal="1913/1917" type="inclusive">1913-1917</unitdate></did><scopecontent><p>In addition to departmental information, the letters for 1913-1917 include family correspondence (mainly letters exchanged with his brother Will). There are also papers dealing with his association with the American Political Science Association. Of interest are letters detailing the reaction of the academic community to the First World War.</p></scopecontent><c03 id="aspace_18a0880b9c62ef5f9ad56a8b25cb6c16" level="file"><did><physdesc><extent>47 folders</extent></physdesc><unitdate normal="1913/1914-03" type="inclusive">1913-March 1914</unitdate><container label="Box" type="box">1</container></did></c03><c03 id="aspace_94d394635bc346ab7e442227b7d47a9e" level="file"><did><physdesc><extent>86 folders</extent></physdesc><unitdate normal="1914-04/1917" type="inclusive">April 1914-1917</unitdate><container label="Box" type="box">2</container></did></c03></c02><c02 id="aspace_5d4d563b5c265365b35b3919e454b0e8" level="subseries"><did><unitdate normal="1918/1918" type="inclusive">1918</unitdate></did><scopecontent><p>The 1918 papers here deal almost exclusively with Reeves' service as a captain in the United States Signal Corps and as a member of its examining board. Much of the correspondence is with his brother Will.</p></scopecontent><c03 id="aspace_a239a000f854716470c0f99fa0f1bcf8" level="file"><did><physdesc><extent>11 folders</extent></physdesc><unitdate normal="1918/1918" type="inclusive">1918</unitdate><container label="Box" type="box">3</container></did></c03></c02><c02 id="aspace_a7fc42cfb08bce007c0825a0beaf0f44" level="subseries"><did><unitdate normal="1919/1926" type="inclusive">1919-1926</unitdate></did><scopecontent><p>During the 1919-1926 period Reeves was particularly active in the American Political Science Association and was also a leading figure in the Williamsburg Institute.</p></scopecontent><c03 id="aspace_d9187c99fa9187cebfa6c64335a9959b" level="file"><did><physdesc><extent>55 folders</extent></physdesc><unitdate normal="1919/1922-10" type="inclusive">1919-October 1922</unitdate><container label="Box" type="box">3</container></did></c03><c03 id="aspace_6ea026aef5588c547f83d2b3c8d9c59a" level="file"><did><physdesc><extent>72 folders</extent></physdesc><unitdate normal="1922-11/1925-04" type="inclusive">November 1922-April 1925</unitdate><container label="Box" type="box">4</container></did></c03><c03 id="aspace_34c967b92f2d77e9e2da7bfdbeb0d9f0" level="file"><did><physdesc><extent>65 folders</extent></physdesc><unitdate normal="1925-05/1926-12" type="inclusive">May 1925-December 1926</unitdate><container label="Box" type="box">5</container></did></c03></c02><c02 id="aspace_ac1d89036cb74441f3d73137baf1dfaf" level="subseries"><did><unitdate normal="1927/1942" type="inclusive">1927-1942</unitdate></did><scopecontent><p>The papers for 1927-1942 are particularly rich. The correspondence for 1927 includes excellent letters written to his wife and brother (as well as official papers) dealing with his mission as a delegate to the International Commission of Jurists meeting in Buenos Aires. In addition, the correspondence with colleagues in Europe and the Philippines is particularly interesting. There are comments on Mussolini's Italy, the Stavisky affair in France, the early months of the Hitler regime, etc. written by political scientist living in the countries at the time. There is also a large body of correspondence dealing with the placing of refugee scholars in the United States, and illuminating the difficulties associated with this activity.</p></scopecontent><c03 id="aspace_653117b5bca2744ed816507521494417" level="file"><did><physdesc><extent>18 folders</extent></physdesc><unitdate normal="1927-01/1927-06" type="inclusive">January-June 1927</unitdate><container label="Box" type="box">5</container></did></c03><c03 id="aspace_14a67f17c55c037cd10a22020238138f" level="file"><did><physdesc><extent>85 folders</extent></physdesc><unitdate normal="1927-07/1929-03" type="inclusive">July 1927-March 1929</unitdate><container label="Box" type="box">6</container></did></c03><c03 id="aspace_bef94517cb19ed793bd2e7fdb4832bff" level="file"><did><physdesc><extent>85 folders</extent></physdesc><unitdate normal="1929-04/1930" type="inclusive">April 1929-1930</unitdate><container label="Box" type="box">7</container></did></c03><c03 id="aspace_f1a8bb7b935c9e9cdb6bf76b2c3f3f25" level="file"><did><physdesc><extent>89 folders</extent></physdesc><unitdate normal="1931/1932" type="inclusive">1931-1932</unitdate><container label="Box" type="box">8</container></did></c03><c03 id="aspace_9891288352424bee56393d3a0e325039" level="file"><did><physdesc><extent>95 folders</extent></physdesc><unitdate normal="1933/1935-04" type="inclusive">1933-April 1935</unitdate><container label="Box" type="box">9</container></did></c03><c03 id="aspace_871f89aedfbd869fbae1822a7e4337e2" level="file"><did><physdesc><extent>92 folders</extent></physdesc><unitdate normal="1935-05/1937-09" type="inclusive">May 1935-September 1937</unitdate><container label="Box" type="box">10</container></did></c03><c03 id="aspace_1a2fee89c8470bd318438d29d27f0b11" level="file"><did><physdesc><extent>96 folders</extent></physdesc><unitdate normal="1937-10/1940-07" type="inclusive">October 1937-July 1940</unitdate><container label="Box" type="box">11</container></did></c03><c03 id="aspace_95cca396c2735a52656366f902959d38" level="file"><did><physdesc><extent>38 folders</extent></physdesc><unitdate normal="1940-08/1941" type="inclusive">August 1940-1941</unitdate><unitdate type="inclusive">undated</unitdate><container label="Box" type="box">12</container></did></c03></c02></c01><c01 id="aspace_2c99618eca9251b3d944c1b9f2da1625" level="series"><did><unittitle>Other Papers</unittitle></did><scopecontent><p>The series titled Other Papers consists of miscellaneous lectures, research notes, and files relating to professional meetings and conferences.</p></scopecontent><c02 id="aspace_f40b78709aa79ee0e400c4a4d061a770" level="file"><did><unittitle>8th American Scientific Congress</unittitle><physdesc><extent>4 folders</extent></physdesc><unitdate normal="1940/1941" type="inclusive">1940-1941</unitdate><container label="Box" type="box">12</container></did></c02><c02 id="aspace_0c576c419eff8aa018eff3fc08347f91" level="file"><did><unittitle>Research notes concerning Hugo Grotius</unittitle><physdesc><extent>10 folders, 1 volume</extent></physdesc><unitdate type="inclusive">undated</unitdate><container label="Box" type="box">12</container></did></c02><c02 id="aspace_f87b32f17f3f4945131e447611a8bf2a" level="file"><did><unittitle>Lectures on international relations</unittitle><unitdate normal="1894/1928" type="inclusive">1894-1928</unitdate><container label="Box" type="box">12</container></did></c02><c02 id="aspace_265f62abb06be71c74dca9ae41477429" level="file"><did><unittitle>Lecture concerning the codification of international law</unittitle><unitdate normal="1922/1922" type="inclusive">1922</unitdate><container label="Box" type="box">12</container></did></c02><c02 id="aspace_2c26449240ef8bede1935d9995b8a08e" level="file"><did><unittitle>Paper entitled, "Anglo-German aggression vs. Venezuela in 1902,"</unittitle><unitdate normal="1916/1916" type="inclusive">1916</unitdate><container label="Box" type="box">12</container></did></c02><c02 id="aspace_891d1b21f43e4abae301533a4da43cd2" level="file"><did><unittitle>Lectures concerning international society</unittitle><unitdate type="inclusive">undated</unitdate><container label="Box" type="box">12</container></did></c02><c02 id="aspace_832fa6e683268ac6318d0c705c9568da" level="file"><did><unittitle>Papers concerning Antarctica</unittitle><unitdate normal="1930/1939" type="inclusive">1930-1939</unitdate><container label="Box" type="box">12</container></did></c02><c02 id="aspace_b65826da644452a4dbaffcb7cf68be8b" level="file"><did><unittitle>Historical sketches of the Ann Arbor Scientific Club</unittitle><unitdate normal="1914/1914" type="inclusive">1914</unitdate><unitdate normal="1932/1932" type="inclusive">1932</unitdate><container label="Box" type="box">12</container></did></c02><c02 id="aspace_2e219d7ae29b2c4899af5072d24b2394" level="file"><did><unittitle>Speeches</unittitle><unitdate type="inclusive">undated</unitdate><container label="Box" type="box">12</container></did></c02><c02 id="aspace_0c385faf09f44e0e6945614701d94246" level="file"><did><unittitle>Lectures concerning American Government course</unittitle><physdesc><extent>12 folders</extent></physdesc><unitdate type="inclusive">undated</unitdate><container label="Box" type="box">13</container></did></c02><c02 id="aspace_a6c793671e2eaa2daed01e7a9d095d03" level="file"><did><unittitle>Lectures concerning American Government course</unittitle><physdesc><extent>9 folders</extent></physdesc><unitdate normal="1916/1916" type="inclusive">1916</unitdate><container label="Box" type="box">13</container></did></c02><c02 id="aspace_c18ce09d2b5ef383501a8fa8fcfac2e0" level="file"><did><unittitle>Notes for Constitutional Law course</unittitle><container label="Box" type="box">13</container></did></c02><c02 id="aspace_8729b64a8bae2e8817541df9373d3f7a" level="file"><did><unittitle>International Commission of Jurists meeting</unittitle><unitdate normal="1927/1927" type="inclusive">1927</unitdate><container label="Box" type="box">13</container></did></c02><c02 id="aspace_913291be42ccab533c85be0467cbf9b3" level="file"><did><unittitle>Miscellaneous</unittitle><container label="Box" type="box">13</container></did></c02><c02 id="aspace_84b1878e5fbacc8bf2c6ac3c08697208" level="file"><did><unittitle>Newspaper clippings</unittitle><unitdate normal="1905/1932" type="inclusive">1905-1932</unitdate><container label="Box" type="box">14</container></did></c02><c02 id="aspace_b86ce5490377fa266c88ab9fda03d48f" level="file"><did><unittitle>Data sheets of nominees for the presidency of the University of Michigan</unittitle><unitdate normal="1925/1925" type="inclusive">1925</unitdate><container label="Box" type="box">14</container></did></c02><c02 id="aspace_ff18f4ed0c6c7ce7585b9843b351055a" level="file"><did><unittitle>Lecture entitled, "The present state of international law,"</unittitle><unitdate normal="1926/1926" type="inclusive">1926</unitdate><container label="Box" type="box">14</container></did></c02><c02 id="aspace_2eeb90800c5e4c334f20c9617d499e26" level="file"><did><unittitle>Lectures concerning the history of American foreign policy</unittitle><unitdate normal="1930/1931" type="inclusive">1930-1931</unitdate><container label="Box" type="box">14</container></did></c02><c02 id="aspace_3fee2744ddca4dfe78a06ec02ef68cfc" level="file"><did><unittitle>Report from the meeting of the International Commission of Jurists</unittitle><unitdate normal="1927/1927" type="inclusive">1927</unitdate><container label="Box" type="box">14</container></did></c02><c02 id="aspace_ec7310af77962ded28a019bd14a8ec3c" level="file"><did><unittitle>Diary from the meeting of the International Commission of Jurists</unittitle><unitdate normal="1927/1927" type="inclusive">1927</unitdate><container label="Box" type="box">14</container></did></c02><c02 id="aspace_34fa4b460d040fae4f1037d5f7043b34" level="file"><did><unittitle>Booklet from the meeting of the International Commission of Jurists</unittitle><unitdate calendar="gregorian" era="ce" normal="1927/1927" type="inclusive">1927</unitdate><container label="Oversize Folder" type="folder">UAm folder</container></did></c02></c01><c01 id="aspace_23d1e59a31756d501ac11e52d2b0c7c0" level="series"><did><unittitle>Photographs</unittitle></did><c02 id="aspace_3cf69679e4b0fc59d669f1b3571aa963" level="file"><did><unittitle>Various, include portraits; photographs of international law classes and meetings; and photographs of camping trips (1911-1913) in Ontario with other University of Michigan faculty members</unittitle><physdesc><extent>4 folders</extent></physdesc><container label="Box" type="box">14</container></did><odd><p>(also oversize folder, UAm)</p></odd></c02></c01></dsc>
+  <descgrp type="add">
+    <index id="aspace_05bd33e129ce06e26ffc82d7120906f9">
+      <head>Partial Index to Correspondents and Subjects</head>
+      <indexentry>
+        <persname>Adams, Charles Francis, 1835-1915.</persname>
+        <ref>
+          <list type="simple">
+            <item>February 20, 1913 and October 24, 1913</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Adams, Randolph Greenfield, 1892-1951.</persname>
+        <ref>
+          <list type="simple">
+            <item>1925-1941 (scattered correspondence, much of it of a routine nature)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <geogname>Alpena (Mich.)</geogname>
+        <ref>
+          <list type="simple">
+            <item>Letters, Nov. 10 and 20, 1913, from William Comstock on charter revision in Alpena.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>American Association of University Professors.</corpname>
+        <ref>
+          <list type="simple">
+            <item>Papers on the founding of the American Association of University Professors, November 1914-January 1915</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>American Political Science Association.</corpname>
+        <ref>
+          <list type="simple">
+            <item>Letters throughout, especially in 1928 when Reeves was APSA president</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Anderson, William P., 1888-</persname>
+        <ref>
+          <list type="simple">
+            <item>1928, 1930-1933</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Angell, James Burrill, 1829-1916.</persname>
+        <ref>
+          <list type="simple">
+            <item>Correspondence July-Sept. 1926 and Jan. 1927 re the papers of James B. Angell and the biographical sketch of Angell which Reeves was preparing for the Dictionary of American Biography</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Angell, James Rowland, 1869-1949.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 5, 1917, Apr. 12, 1921, Oct. 4, 1926</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Automobile travel--United States</subject>
+        <ref>
+          <list type="simple">
+            <item>An excellent exchange of letters, summer of 1922, between Reeves and his brother Will discussing the hazards and joys of automobile travel including a trip to the East coast and several jaunts in Ohio.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Baker, Newton Diehl, 1871-1937.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 12, 1930 and June 20, 1934</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bates, Henry Moore, 1869-1949.</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 12, 1915, Sept. 4, 1917, Jan. 21, May 7, and Dec. 10, 20, and 23, 1918, Jan. 14, Apr. 22, and Dec. 5, 1925, Feb. 19, 1926, Mar. 16, 1929, Dec. 1, 1931, Nov. 22, 1933, May 19, 1938, Mar. 9, 1938; also comments about Bates in a letter of Alfred Lloyd to Reeves, Jan. 21, 1918.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Beakes, Samuel Willard, 1861-1927.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 26, 1915, Feb. 10, 1916</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Beal, Junius E. (Junius Emery), 1860-1942.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 8, 1928, May 13, 1929</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bemis, Samuel Flagg, 1891-1973.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 7 and 22, 1925, July 29, 1937, June 2, 1941</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Blakeslee, George Hubbard, 1871-1954.</persname>
+        <ref>
+          <list type="simple">
+            <item>Letter, Oct. 10, 1913, and correspondence, 1922-1931, when both were connected with the Institute of International Relations at Williamstown.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bonner, Campbell, 1876.</persname>
+        <ref>
+          <list type="simple">
+            <item>Letter, Sept. 13, 1915 discussing Theodore Koch and his librarianship.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Borchard, Edwin Montefiore, 1884-1951.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 6, June 15, 1923; July 2, Dec. 11, 1925; Mar, Apr. 1931; Dec. 30, 1932; Feb. 2, May 3, 1933; Nov. 1934; Jan. 1935; Jan 2. 1937; Apr. 22, Dec. 1, 1939; May 9, 1940, Apr. 18, 1941</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Brooks, Van Wyck, 1886-1963.</persname>
+        <ref>
+          <list type="simple">
+            <item>Mar. 20, 1941</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Brown, Everett Somerville, 1886-1964.</persname>
+        <ref>
+          <list type="simple">
+            <item>Considerable correspondence with Everett Brown, 1920-1927, 1920-1930; good letters from Europe in 1938, especially April 17, 1938; Jan. 27, 1942</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Brown, Philip Marshall, 1875-</persname>
+        <ref>
+          <list type="simple">
+            <item>1913-1941</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Brown, Prentiss Marsh, 1889-1973.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 20, 1937; also comments on Brown in letters to Brown and Everett S. Brown in March 1938</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Brucker, Wilber Marion, 1894-1968.</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 30, 1931</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bryan, William Jennings, 1860-1925.</persname>
+        <ref>
+          <list type="simple">
+            <item>Typescript, Mar. 4, 1916, of a speech on the U.S. peace mediation offer by William Jennings Bryan, autographed by Bryan.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Burton, Marion LeRoy, 1874-1925.</persname>
+        <ref>
+          <list type="simple">
+            <item>Letters, March 27 and Nov. 1920; Mar. 7 and Apr. 9, 1923; of Marion LeRoy Burton; also letter, Sept. 3, 1924, of R.T. Crane to Reeves containing candid remarks on Burton.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Carr, Wilbur J. (Wilbur John), 1870-1942.</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. and Oct. 1927</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Clements, William L. (William Lawrence), 1861-1934.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 8, 1924, June and July 1925, Feb. 8, 1926, Apr. 27, 1929, Dec. 30, 1931, June 8, 1932, Jan. 7, 1933</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <geogname>Coldwater (Mich.)</geogname>
+        <ref>
+          <list type="simple">
+            <item>Letter, Apr. 7, 1914, from H.H. Barlow to Reeves on Coldwater's election of a charter commission.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Collier, William Miller, 1867-1956.</persname>
+        <ref>
+          <list type="simple">
+            <item>Letters, Aug. 12, 1927, Oct. 18, 1927, of William Collier, ambassador to Chile.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Comstock, William Alfred, 1877-1949.</persname>
+        <ref>
+          <list type="simple">
+            <item>Letters, Nov. 10 and 20, 1913, from William Comstock on charter revision in Alpena; letter, Nov. 24, 1915.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Cooley, Charles Horton, 1864-1929.</persname>
+        <ref>
+          <list type="simple">
+            <item>March 4, 1913, Sept. 29, 1927</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Cooley, Mortimer Elwyn, 1855-1944.</persname>
+        <ref>
+          <list type="simple">
+            <item>Letters in the fall of 1924 containing comments on Cooley's campaign for the Senate.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Cooley, Thomas McIntyre, 1824-1898.</persname>
+        <ref>
+          <list type="simple">
+            <item>Correspondence between H.M. Bates and Andrew McLaughlin re McLaughlin's doing a new edition of Cooley, Oct. 1907.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Corwin, Edward Samuel, 1878-1963.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 18, 1916, Feb. 27, 1919, Apr. 22, 1919, Mar. 25, 1921, Feb. 10, 1922, Jan. 15, 1923, Mar.-May, 1923, 1925, 1926, Apr. 1930, May 10, 1930, Aug. 12, 1930, Jan. 19, 1931</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Coudert, Frederick R. (Frederick Rene), 1871-</persname>
+        <ref>
+          <list type="simple">
+            <item>May 15 and 31, 1935; May 26, 1936, Oct. 11, 1937</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Courts -- U.S.</subject>
+        <ref>
+          <list type="simple">
+            <item>Correspondence with Prentiss Brown and Arthur H. Vandenberg, February 20, 1937, re Franklin D. Roosevelt's attempt to reorganize U.S. Supreme Court.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Couzens, James Joseph, 1872-1936.</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 7, 1932 James Couzens.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Crane, Robert Treat, b. 1880.</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 3, 1924 letter containing candid remarks about President Marion Burton.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>D'Ooge, Martin Luther, 1839-1915.</persname>
+        <ref>
+          <list type="simple">
+            <item>Letter, Sept. 13, 1915, of Campbell Bonner commenting fully on the death and last illness of D'Ooge.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Effinger, John Robert, 1869-1933.</persname>
+        <ref>
+          <list type="simple">
+            <item>Routine correspondence between Reeves and Effinger during Effinger's deanship; also letters, March 20 and July 28, 1928, from Effinger when he was living in Europe.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Eggert, Carl Edgar, 1868-</persname>
+        <ref>
+          <list type="simple">
+            <item>Letter, Oct. 16, 1917, of Jesse Reeves to his wife and including enclosure, discussing firing of Eggert for purported German sympathies during World War I.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Farrand, Max, 1869-1945.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 19, 1922, Jan. 10, 1923, Dec. 1936, and May 29 1937</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Fascism</persname>
+        <ref>
+          <list type="simple">
+            <item>1930s letters from colleagues commenting on the rise of fascism and the march toward war</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Field, Oliver Peter, 1897-1953.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 1, 1923 and Feb. 25, 1926</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Fite, Emerson David, 1874-1953.</persname>
+        <ref>
+          <list type="simple">
+            <item>June 5, 1928</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ford, Henry, 1863-1947.</persname>
+        <ref>
+          <list type="simple">
+            <item>July 7, 1937; also extensive clippings in June 1919 on Ford's libel suit with the Chicago Tribune in which Reeves testified as an expert witness on anarchism.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ford, Worthington Chauncey, 1858-1941.</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 20, 1936, Oct. 24, 1937</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Garfield, Harry Augustus, 1863-1942.</persname>
+        <ref>
+          <list type="simple">
+            <item>1920-1933</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Garner, James Wilford, 1871-1938.</persname>
+        <ref>
+          <list type="simple">
+            <item>1913-1927; also correspondence on the illness and death of Garner in Dec. 1938.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Gomberg, Moses, 1866-1947.</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 16, 1928, also letter, Aug. 25, 1942, from Gomberg on the occasion of Reeves retirement and discussing their long association.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Guthe, Karl Eugen, 1866-1915.</persname>
+        <ref>
+          <list type="simple">
+            <item>1913-1914; also letter of Campbell Bonner, Sept. 13, 1915, telling about Guthe's death.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hart, Albert Bushnell, 1854-1943.</persname>
+        <ref>
+          <list type="simple">
+            <item>Mar. 17, 1913, Sept. 26, 1921, May 11, 1926.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hayden, Joseph Ralston, 1887-1945.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 12, 1917, Jan. 13, 1922, Feb. 13, 1922, May 5, 1922, May 10, 1922, May 14, 1922, Oct. 14, 1922, June 8, 1922, June 21, 1922, Oct. 11, 1922, Nov. 25, 1922, Nov. 27, 1922, Dec. 18, 1922, Jan. 6, 1923, Feb. 2, 1923, June 5, 1923, July 30, 1923, Aug. 13, 1923, Aug. 18, 1925, June 15, 1926, June 26, 1926, Aug. 9, 1926, Jan. 31, 1930, Nov. 26, 1930, Jan. 23, 1931, March 28, 1931, April 14, 1931, Dec. 1933, Feb. 9, 1934, Feb. 12, 1934, April 2, 1934, June 14, 1934, June 26, 1934, July 23, 1934, March 5, 1935, May 12, 1935, May 20, 1935, Feb. 3, 1942, Jan. 26, 1943.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hays, Will H. (Will Harrison), 1879-1954.</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 17, 1920</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hershey, Amos Shartle, 1867-1933.</persname>
+        <ref>
+          <list type="simple">
+            <item>July 24, 1928</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hinsdale, Mary L.</persname>
+        <ref>
+          <list type="simple">
+            <item>1917</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hobbs, William Herbert, 1864-1952.</persname>
+        <ref>
+          <list type="simple">
+            <item>Mar. 3, 1922 to Claude Van Tyne containing pungent comments on Hobbs.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hudson, Manley Ottmar, 1886-</persname>
+        <ref>
+          <list type="simple">
+            <item>ca. 1928-1937</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hughes, Charles Evans, 1862-1948.</persname>
+        <ref>
+          <list type="simple">
+            <item>1923; also letter, Jan. 25, 1924, appointing Reeves a delegate to conference on codification of International Law.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hull, Cordell, 1871-1955.</persname>
+        <ref>
+          <list type="simple">
+            <item>July 25, 1924, Oct. 25, 1939</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Huntington, E. V. (Edward Vermilye), 1874-1952.</persname>
+        <ref>
+          <list type="simple">
+            <item>Long letter, and other correspondence in 1928, on apportionment.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hutchins, Harry B. (Harry Burns), 1847-1930.</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 1910, 1913-1915</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Jameson, J. Franklin (John Franklin), 1859-1937.</persname>
+        <ref>
+          <list type="simple">
+            <item>ca. 1913-1922, Apr. 7, 1936</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Johnson, Allan Chester, 1881-1955.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 12, 1920; Apr. 6, 10, 15, 1926; Jan. 10, 1927; Sept. 20, 1928; Feb. 18 and March 18, 1929</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Kellogg, Frank B. (Frank Billings), 1856-1937.</persname>
+        <ref>
+          <list type="simple">
+            <item>June 20, 1928 to Reeves appointing him a member of the cooperating committee on the 7th American Scientific Congress.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Kelsey, Francis W. (Francis Willey), 1858.</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 2, 1913, Jan. 17, 1914, Nov. 2, 1914, May 22, 1919, Aug. 1919, Dec. 1919; also correspondence concerning Grotius' study in 1921; also correspondence, 1922-1926</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Kenyon College.</corpname>
+        <ref>
+          <list type="simple">
+            <item>Correspondence between Reeves and his brother Will who was a professor of English at Kenyon from 1900 to 1942.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Knudsen, William S., 1879-1948.</persname>
+        <ref>
+          <list type="simple">
+            <item>July 7, 1938</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Koch, Theodore Wesley, 1871-1941.</persname>
+        <ref>
+          <list type="simple">
+            <item>1914, 1915, Nov. 6 and 8, 1916, 1921, 1923, 1924, May 8, 1925, 1928, 1929, and 1936; also correspondence about Koch's dismissal from Michigan in correspondence of Sept. 1915.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Korff, S. A., (Sergei Aleksandrovich), baron, 1876-1924.</persname>
+        <ref>
+          <list type="simple">
+            <item>Mar. 7, June 6, Sept. 28, 1922; Jan. 1, Apr. 3 and May 19, 1923; Jan. 30, 1924</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Korzybski, Alfred, 1879-1950.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 24, 1923</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Kraus, Edward Henry, 1875-</persname>
+        <ref>
+          <list type="simple">
+            <item>1913 on routine university business</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Laksi, Harold Joseph, 1893-1950.</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 29, 1926; copy of a letter of Oct. 1926, attached to letter of Jan. 13, 1927; Apr. 29, 1933, June 26, 1934; also comments on and quotations of Laski in a letter of July 6, 1936, by Thomas Heneman, one of his students.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Latane, John Holladay, 1869-1932.</persname>
+        <ref>
+          <list type="simple">
+            <item>1913-1928.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Leacock, Stephen, 1869-1944.</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 14, 1920</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Little, Clarence C. (Clarence Cook), 1888.</persname>
+        <ref>
+          <list type="simple">
+            <item>March 29, 1927, March 26, 1928, Apr. 16, 1928; also free comments on Little in a letter, Apr. 28, 1927, of Robert T. Crane; also papers on his acceptance of the U. of M. presidency, July 1925.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Lloyd, Alfred H. (Alfred Henry), 1864-1927.</persname>
+        <ref>
+          <list type="simple">
+            <item>Routine official correspondence with Lloyd during his deanship; also comments on his death in the correspondence for June 1927.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>McLaren, Walter Wallace.</persname>
+        <ref>
+          <list type="simple">
+            <item>1929-1931</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>McLaughlin, Andrew Cunningham, 1861-1947.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. and Dec. 1917 re war and prewar diplomacy; also letters, Oct. 13, 1921 and Jan. 29, 1923; also among Reeves papers for Oct. 1907, is correspondence between H.M. Bates and McLaughlin re a new edition of Cooley.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>McLeod, Clarence John, 1895-1959.</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 10, 1926</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Merriam, Charles Edward, 1874-1953.</persname>
+        <ref>
+          <list type="simple">
+            <item>December 11, 1922 and April 30, 1926</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Michener, Earl C. (Earl Cory), 1876-1957.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 11, 1923, Feb. 11, 1928, Apr. 9, 1928, Apr. 1, 1932, Feb. 22, 1937, March 8, 1938</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Michigan School of Religion.</corpname>
+        <ref>
+          <list type="simple">
+            <item>Plans for the future of the Michigan School of Religion in the papers of June 9, 1927.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Munro, William Bennett, 1875-1957.</persname>
+        <ref>
+          <list type="simple">
+            <item>1921, 1925-1926, March 1928</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Murfin, James Orin, 1875-1940.</persname>
+        <ref>
+          <list type="simple">
+            <item>March 12, 1928</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Murphy, Frank, 1890-1949.</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 10 and Dec. 3, 1935, May 4, 1937, and Jan. 29, 1940; also excellent comments on the work habits and personality of Murphy in a letter, Feb. 9, 1934, of Hayden to Reeves.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Murrow, Edward R.</persname>
+        <ref>
+          <list type="simple">
+            <item>1934, Jan. 22 and 25, May 10 and 23, 1935, about displaced persons</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Newberry, Truman Handy, 1864-1945.</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 26, 1922 discussing the soldier's bonus</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ogg, Frederic Austin, 1878-1951.</persname>
+        <ref>
+          <list type="simple">
+            <item>1917-1934.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Panama Canal.</persname>
+        <ref>
+          <list type="simple">
+            <item>Full descriptions of work on the canal in letters, 1897, of Reeves to his brother.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Perkins, Dexter, 1889-</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 14, 1926</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <geogname>Philippines--History--1898-1946</geogname>
+        <ref>
+          <list type="simple">
+            <item>Correspondence, especially with Joseph Hayden, 1922-1923, 1926, 1930-1931, 1933-1934</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Pollock, James Kerr, 1898-</persname>
+        <ref>
+          <list type="simple">
+            <item>1921-1922, 1925, June 4, 1927, Jan. 29, 1928, Jan. 1929.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Presidents--United States--Election--1904.</subject>
+        <ref>
+          <list type="simple">
+            <item>Comments on the election of 1904 in the correspondence between Reeves and his brother Will in Oct. and Nov. of that year.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Presidents--United States--Election--1908.</subject>
+        <ref>
+          <list type="simple">
+            <item>Oct. 13 and 28, 1908, making extensive comments on the Taft-Bryan campaign.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Presidents--United States--Election--1912.</subject>
+        <ref>
+          <list type="simple">
+            <item>July 1912</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Presidents--United States--Election--1920.</subject>
+        <ref>
+          <list type="simple">
+            <item>March 1920 on the Hoover for president movement; also comments on the election in the correspondence of Oct.-Nov. 1920.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Presidents--United States--Election--1928.</subject>
+        <ref>
+          <list type="simple">
+            <item>Dec. 10, 1927; comments in letters of Reeves to James Pollock commenting on Hoover, Coolidge, etc.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Presidents--United States--Election--1932.</subject>
+        <ref>
+          <list type="simple">
+            <item>Feb. 14, 1932 and Nov. 20, 1932.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Presidents--United States--Election--1936.</subject>
+        <ref>
+          <list type="simple">
+            <item>Correspondence with his brother Will in Oct. and Nov. 1936.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Presidents--United States--Election--1940.</subject>
+        <ref>
+          <list type="simple">
+            <item>May-Nov. 1940</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ray, P. Orman (Perley Orman), 1875.</persname>
+        <ref>
+          <list type="simple">
+            <item>1920-1926.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Root, Elihu, 1845-1937.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 28, 1927</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Rowe, Leo S., 1871-1946.</persname>
+        <ref>
+          <list type="simple">
+            <item>1923-1931</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Russo-Japanese War, 1904-1905.</subject>
+        <ref>
+          <list type="simple">
+            <item>Oct. 22, 1904, letter from A. Gerber in Germany.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ruthven, Alexander Grant, 1882-</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 1925, May 1 and Dec. 18, 1930; Jan. 12, Feb. 27, Apr. 17, 1931; Apr. 18, Nov. 30, 1932; Apr. 22, 1933, May 26 and 31, 1933</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Sanders, Henry A. (Henry Arthur), 1868-1956.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 27, 1929</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Sayre, Francis Bowes, 1885-1972.</persname>
+        <ref>
+          <list type="simple">
+            <item>Telegram, Oct. 16, 1925; letter, Oct. 19, 1925</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Schmitt, Bernadotte Everly, 1886-1969.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 4, 1922, June 4, 1923, Nov. 8, 1923, Dec. 8, 1923; Oct. 4, 1924</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Sforza, Carlos, conte, 1872-1952.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 8, 1932, March 1933</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Shotwell, James Thomson, 1874-1965.</persname>
+        <ref>
+          <list type="simple">
+            <item>June 24, 1925</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Smith, Shirley Wheeler, 1875-1959.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 16, 1931</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Society for International Law.</corpname>
+        <ref>
+          <list type="simple">
+            <item>ca. 1920-1942</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Stone, Ralph, 1868-1956.</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 10, 1928</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Townsend, Charles E. (Charles Elroy), 1856-1924.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 12, 1923</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>University of Michigan--Buildings.</corpname>
+        <ref>
+          <list type="simple">
+            <item>Information on projected University building needs in papers for 1927 when Reeves was a member of the Committee on University Needs</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>University of Michigan. School of Dentistry.</corpname>
+        <ref>
+          <list type="simple">
+            <item>Correspondence, March 1928, with Marcus Ward, dean of the dental school, concerning dental school admission requirements.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>University of Michigan. School of Education.</corpname>
+        <ref>
+          <list type="simple">
+            <item>Letter of Feb. 16, 1916 of John Effinger on the department of education; report and recommendation on the department, Mar. 14, 1916; and report, Dec. 1920 on its future.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>University of Michigan. Dept. of Germanic Languages and Literatures.</corpname>
+        <ref>
+          <list type="simple">
+            <item>Letter, Feb. 8, 1928, of John Effinger to Reeve discussing the chairmanship of the department German and its reorganization.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>University of Michigan. Engineering Research Institute.</persname>
+        <ref>
+          <list type="simple">
+            <item>Proposal for an engineering research institute made to the committee on special needs of the University, in letter March 18, 1929</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>University of Michigan. Institute of Public Administration.</corpname>
+        <ref>
+          <list type="simple">
+            <item>Many papers of the bureau of government after its organization at Reeves' instigation in Feb. 1913, especially for the first years of its existence, also letter, Apr. 27, 1933, on development of the bureau</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>University of Michigan. Senate.</corpname>
+        <ref>
+          <list type="simple">
+            <item>Papers on the plan for reorganizing the University Senate, 1930-1931</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>University of Michigan. University College.</corpname>
+        <ref>
+          <list type="simple">
+            <item>Correspondence and other papers, 1928, dealing with the proposal for establishing a University College</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Vandenberg, Arthur H. (Arthur Hendrick), 1884-1951.</persname>
+        <ref>
+          <list type="simple">
+            <item>Letters, Jan. 9, 1929, Apr. 8, 1932, Apr. 13, 1932, Feb. 1, 1934, Mar. 4, 1934, Mar. 17, 1934, and Feb. 20, 1937; also correspondence in Sept. 1936 concerning Reeves finding among his students a young assistant for Vandenberg</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>VanLoon, Hendrik Wilhelm, 1882-1944.</persname>
+        <ref>
+          <list type="simple">
+            <item>March 24, 1914, May 2, 1914, March 13, 1915, March 20, 1915, Apr. 12, 1915</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>VanTyne, Claude Halstead, 1869-1930.</persname>
+        <ref>
+          <list type="simple">
+            <item>Letters, Sept. 17, 1913 (on Van Tyne's European trip) and Mar. 18, 1924</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Vollenhoven, C. V.</persname>
+        <ref>
+          <list type="simple">
+            <item>1925-1926</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>Voyages and travel--United States</subject>
+        <ref>
+          <list type="simple">
+            <item>A wealth of letters by Reeves, his colleagues, and friends, commenting fully on their various travels in Europe, the Philippines, South America, and providing eye-witness accounts of political development especially the letters of the 1930's on the rise of fascism and the march toward World War.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Welles, Sumner, 1892.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 21, 1938 and Dec. 1939</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>White, William Allen, 1868-1944.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 18, 1925, of William Allen White regarding the University presidency.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wickersham, George W. (George Woodward), 1858-1936.</persname>
+        <ref>
+          <list type="simple">
+            <item>June 15, 1925; May 6 and 19, 1926</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wilson, George Grafton, 1863-1951.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 25, June 3, 1925; May 5, 1926; Mar. and Apr. 1937; Nov. 21, 1938; Dec. 12, 1938</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Winter, John Garrett, 1881-1956.</persname>
+        <ref>
+          <list type="simple">
+            <item>Mar. 1, 1937 written while Winter was traveling in France.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <subject>World War, 1914-1918--Education and the war</subject>
+        <ref>
+          <list type="simple">
+            <item>Excellent letters from Germans and allied scholars on the war, especially Aug. 16, 1914, Sept. 1914, Nov. 27, 1914, Jan. 9, 1915, Feb. 22, 1915, Apr. 12, 1915, May 13, 1916, Aug. 12, 1916, Nov. 1, 1916, Dec. 12, 1917, Jan. 10, 1917; also letters of Reeves on his experiences as an officer in U.S. Signal Corps, especially in letters to his brother in 1917-1918; letter, Oct. 16, 1917, of Jesse Reeves to his wife discussing firing of Eggert from the University of Michigan faculty for alleged German sympathies during World War I.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wright, Quincy, 1890-1970.</persname>
+        <ref>
+          <list type="simple">
+            <item>Letters, Jan. 5, 1922, Aug. 1, 1923, June 17, 1925, Jan. 13, May 26, July 23, 1926, Apr. 3, 1929, Apr. 19, 1929, May 1, 1930, May 8 and 23, 1930, and Oct. 1931, from Quincy Wright.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Yntema, Hessel E.</persname>
+        <ref>
+          <list type="simple">
+            <item>Letters, 1915-1917, from Hessel Yntema who was then studying at Oxford and containing full comments on the European war.</item>
+          </list>
+        </ref>
+      </indexentry>
+    </index>
+  </descgrp>
+</archdesc>
+</ead>

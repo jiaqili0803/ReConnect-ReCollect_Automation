@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>umich-bhl-2018001</eadid><filedesc><titlestmt><titleproper>Finding aid for the Philippine American War photograph collection, 1899-1902.</titleproper><author>Finding aid created by Olga Virakhovskaya, January 2018.</author></titlestmt><publicationstmt><publisher>Bentley Historical Library</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-10-07 12:42:48 -0400</date>.</creation><langusage>The finding aid is written in <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc><revisiondesc><change><date>2018-01-11</date><item>Original encoding</item></change></revisiondesc></eadheader><frontmatter><titlepage><publisher>Bentley Historical Library <lb/>University of Michigan</publisher><titleproper>Finding aid for the Philippine American War photograph collection, 1899-1902.</titleproper><author>Finding aid created by Olga Virakhovskaya, January 2018.</author></titlepage></frontmatter><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Bentley Historical Library</corpname>
+      <extptr actuate="onload" href="bhladd" show="embed"/>
+    </repository>
+    <unittitle>Philippine American War photograph collection</unittitle>
+    <unitid type="call number">2018001 Aa 2</unitid>
+    <physdesc>
+      <extent>0.1 linear feet (19 items)</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" certainty="inferred" era="ce" normal="1899/1902" type="inclusive">1899-1902</unitdate>
+    <langmaterial id="aspace_72c37a881001552d42ad422e27a3cf1c">The material is in <language langcode="eng">English</language></langmaterial>
+  </did>
+  <descgrp type="admin">
+    <accessrestrict><p>This collection is open without restriction.</p></accessrestrict>
+    <acqinfo><p>Donated by the University of Illinois at Urbana-Champaign  Archives (donor no. <num type="donor">11818</num>) in January 2018.</p></acqinfo>
+    <accruals><p>No further additions to the records are expected.</p></accruals>
+    <userestrict><p>Copyright is not held by the Regents of the University of Michigan.  Patrons are responsible for determining the appropriate use or reuse of materials.</p></userestrict>
+    <prefercite><p>[item], box, Philippine American War photograph collection, Bentley Historical Library, University of Michigan.</p></prefercite>
+  </descgrp>
+  <scopecontent><p>Nineteen undated 2.12 x 3 photographs, mounted on cardboard, taken during the Philippine American War, 1899-1902. Images include American troops, battlefield scenes, and picturesque views.</p></scopecontent>
+  <controlaccess>
+    <p>
+      <extptr actuate="onload" href="accnote" show="embed"/>
+    </p>
+    <subject source="lctgm">Campaigns and battles -- Philippines.</subject>
+    <geogname source="lcsh">Philippines -- History -- Philippine American War, 1899-1902.</geogname>
+    <genreform source="aat">Photographs.</genreform>
+  </controlaccess>
+  <dsc type="combined"><c01 id="aspace_28027c020053c40454f3cbd4c0500e4b" level="series"><did><unittitle>Photographs</unittitle><container label="Box" type="box">1</container></did></c01></dsc>
+</archdesc>
+</ead>

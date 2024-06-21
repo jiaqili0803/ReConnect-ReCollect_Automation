@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>umich-bhl-86422</eadid><filedesc><titlestmt><titleproper>Finding aid for the Almeda Girod papers</titleproper><author>Finding aid created by Bentley Historical Library staff</author></titlestmt><publicationstmt><publisher>Bentley Historical Library</publisher></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-10-07 12:07:18 -0400</date>.</creation><langusage>The finding aid is written in <language langcode="eng">English</language></langusage><descrules>appm</descrules></profiledesc><revisiondesc><change><date>2017-02-13</date><item>Original encoding from MARC record</item></change><change><date>2020-05-27</date><item>finding aid created</item></change></revisiondesc></eadheader><frontmatter><titlepage><publisher>Bentley Historical Library <lb/>University of Michigan</publisher><titleproper>Finding aid for the Almeda Girod papers</titleproper><author>Finding aid created by Bentley Historical Library staff</author></titlepage></frontmatter><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Bentley Historical Library</corpname>
+      <extptr actuate="onload" href="bhladd" show="embed"/>
+    </repository>
+    <unittitle>Almeda Girod papers</unittitle>
+    <origination label="creator">
+      <persname source="local">Girod, Almeda.</persname>
+    </origination>
+    <unitid type="call number">86422 Aa 1</unitid>
+    <physdesc>
+      <extent>1 folder (25 items)</extent>
+    </physdesc>
+    <unitdate normal="1962/1963" type="inclusive">1962-1963</unitdate>
+    <langmaterial id="aspace_a0020b5a6bd12cb0e217a5650ed3bcf6">The material is in <language langcode="eng">English</language></langmaterial>
+    <abstract id="aspace_b995a51463645135e417e61dc82699f2">Ann Arbor, Michigan resident. With her husband, she was stationed on a U.S. Naval base at Subic Bay, Philippines.
+
+Letters home describe daily life and activities on the base.</abstract>
+  </did>
+  <descgrp type="admin">
+    <prefercite><p>[item], folder, box, Almeda Girod papers, Bentley Historical Library, University of Michigan.</p></prefercite>
+    <acqinfo><p>Donated by Almeda Girod (donor no. <num type="donor">6195</num>)</p></acqinfo>
+    <accessrestrict><p>The collection is open without restriction.</p></accessrestrict>
+    <userestrict><p>Copyright status is unknown. Patrons are responsible for determining the appropriate use or reuse of materials.</p></userestrict>
+  </descgrp>
+  <bioghist><p>Almeda Girod of Ann Arbor, Michigan, was born in 1937. She and her husband Albert P. Girod, Jr., an American naval officer, were stationed at Subic Bay.</p></bioghist>
+  <scopecontent><p>Correspondence written while Girod was living in the Philippines concerning living conditions and medical care. Letters describe Girod's daily life on the American base and her impressions of the Philippines.</p></scopecontent>
+  <controlaccess>
+    <p>
+      <extptr actuate="onload" href="accnote" show="embed"/>
+    </p>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n79022219" source="lcsh">Ann Arbor (Mich.)</geogname>
+    <geogname source="lcsh">Philippines -- History -- 1946-1986.</geogname>
+  </controlaccess>
+  <dsc type="combined"><c01 id="aspace_8e92bd2fcd5b52a73a375f5dbecd3d95" level="series"><did><unittitle>Almeda Girod papers</unittitle><unitdate normal="1962/1963" type="inclusive">1962-1963</unitdate><container label="Folder" type="folder">1</container></did></c01></dsc>
+</archdesc>
+</ead>

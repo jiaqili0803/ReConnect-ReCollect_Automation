@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>umich-bhl-851718</eadid><filedesc><titlestmt><titleproper>Finding aid for Victor Hugo Lane Papers, 1897-1929</titleproper><author>Finding aid created by Michigan Historical Collections staff</author></titlestmt><publicationstmt><publisher>Bentley Historical Library</publisher><p><date>20050824</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-10-07 12:47:36 -0400</date>.</creation><langusage>The finding aid is written in <language langcode="eng">English</language></langusage></profiledesc><revisiondesc><change><date>2005-08-11</date><item>Original encoding from Word 6.0 file using Word macros and Xmetal.</item></change><change><date>2016-11-21</date><item>Updated Conditions Governing Use Note</item></change></revisiondesc></eadheader><frontmatter><titlepage><publisher>Bentley Historical Library <lb/>University of Michigan</publisher><titleproper>Finding aid for Victor Hugo Lane Papers, 1897-1929</titleproper><author>Finding aid created by Michigan Historical Collections staff</author></titlepage></frontmatter><archdesc level="recordgrp">
+  <did>
+    <repository>
+      <corpname>Bentley Historical Library</corpname>
+      <extptr actuate="onload" href="bhladd" show="embed"/>
+    </repository>
+    <unittitle>Victor Hugo Lane papers</unittitle>
+    <origination label="creator">
+      <persname source="lcnaf">Lane, Victor Hugo.</persname>
+    </origination>
+    <unitid type="call number">851718 Aa 2</unitid>
+    <physdesc>
+      <extent>4.3 linear feet</extent>
+    </physdesc>
+    <unitdate normal="1897/1929" type="inclusive">1897-1929</unitdate>
+    <langmaterial id="aspace_acba5a15a9153a7019092d49c1e907f1">The material is in <language encodinganalog="041" langcode="eng">English</language></langmaterial>
+    <abstract id="aspace_0830e9161a074af8ca40ca06b3169f53">Law professor at the University of Michigan, papers include correspondence relating to his law school activities, his interest in the Presbyterian churches of Adrian, and Ann Arbor, Michigan, the University Student Religious Association, the Young Men's Christian Association the Western Intercollegiate Conference, the Michigan Law Review, and the Uncle Sam Macaroni Co. of Tecumseh, Michigan; and photographs; letter, June 1, 1903, from Gustavus Ohlinger on the Philippines.</abstract>
+  </did>
+  <descgrp type="admin">
+    <acqinfo><p>The collection was donated by Victor Hugo Lane, Jr. (donor no. <num encodinganalog="541$e" type="donor">48</num>) in 1936.</p></acqinfo>
+    <accessrestrict><p>The collection is open to research.</p></accessrestrict>
+    <userestrict><p>Copyright is held by the Regents of the University of Michigan but the collection may contain third-party materials for which copyright is not held. Patrons are responsible for determining the appropriate use or reuse of materials.</p></userestrict>
+    <prefercite><p>[item], folder, box, Victor Hugo Lane papers, Bentley Historical Library, University of Michigan</p></prefercite>
+  </descgrp>
+  <bioghist><p>Victor Hugo Lane was the Fletcher Professor of Law at the University of Michigan from 1897-1928. Previously he served a judge of the Michigan First Judicial Circuit Court from 1888-1897.</p><p> Lane was born May 27, 185 in Geneva, Ohio to Henry and Clotilda Catherine Sawyer Lane. The family moved to Hudson, Michigan in 1866. Lane enrolled in the University of Michigan in 1879, earning a degree in civil engineering in 1874. After two years of practice, he returned to the university and received a law degree in 1878. While in law school, Lane married Ida M. Knowlton, sister of professor and future dean of the Law School Jerome C. Knowlton. Lane established his first practice in Hudson and later moved to Adrian, from where he was appointed to the circuit court bench.</p><p> In addition to his teaching role, Lane was appointed law librarian and served the university in many other capacities including member and chairman of the Board in Control of Intercollegiate Athletics, President of the University Alumni Association and President of the University Y.M.C.A. He was also an active member, serving as elder, of the First Presbyterian Church of Ann Arbor.</p><p> Lane died January 24, 1930. He is buried in Forest Hills cemetery in Ann Arbor.</p></bioghist>
+  <scopecontent><p>The Victor Hugo Lane papers include correspondence relating to his law school activities, his interest in the Presbyterian churches of Adrian and Ann Arbor, the University Student Religious Association, the Young Men's Christian Association, the Western Intercollegiate Conference, the Michigan Law Review, and the Uncle Sam Macaroni Co. of Tecumseh; also letter from Gustavus Ohlinger on the Philippine Islands, June 1, 1903</p><p> The papers are organized in to five series; Correspondence, 1898-1929; Intercollegiate Conference Athletic Association; First Presbyterian Church (Ann Arbor, Mich.); and Visual Materials.</p><p> The Intercollegiate Conference Athletic Association series consists of correspondence, 1906-1907, from Lane's term as Michigan's faculty representative to the conference. It was during this time that a series of reforms, initially proposed by U-M president James B. Angell, led to Michigan's withdrawal from the conference.</p></scopecontent>
+  <controlaccess>
+    <p>
+      <extptr actuate="onload" href="accnote" show="embed"/>
+    </p>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n83163898" source="lcsh">Adrian (Mich.)</geogname>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n79022219" source="lcsh">Ann Arbor (Mich.)</geogname>
+    <subject source="lcsh">Judges -- Michigan.</subject>
+    <subject source="lcsh">Law.</subject>
+    <subject source="lcsh">Michigan law review.</subject>
+    <geogname source="lcsh">Philippines -- History -- 1898-1946.</geogname>
+    <subject source="lcsh">Young Men's Christian Associations.</subject>
+    <corpname source="lcnaf">First Presbyterian Church (Adrian, Mich.)</corpname>
+    <corpname source="lcnaf">First Presbyterian Church (Ann Arbor, Mich.)</corpname>
+    <corpname source="lcnaf">Intercollegiate Conference of Faculty Representatives.</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2002048914" source="lcnaf">Lane, Victor Hugo, 1852-1930.</persname>
+    <corpname source="lcnaf">Presbyterian Church -- Michigan -- Adrian.</corpname>
+    <corpname source="lcnaf">Presbyterian Church -- Michigan -- Ann Arbor.</corpname>
+    <corpname source="lcnaf">Student Christian Association (University of Michigan)</corpname>
+    <corpname source="lcnaf">Uncle Sam Macaroni Company (Tecumseh, Mich.)</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- Faculty.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- Law School.</corpname>
+    <persname role="ctb" source="lcnaf">Baird, Charles, 1870-1944.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2001090656" role="ctb" source="lcnaf">Bates, Henry Moore, 1869-1949.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86114210" role="ctb" source="lcnaf">Chapin, Roy D. (Roy Dikeman), 1880-1936.</persname>
+    <persname role="ctb" source="lcnaf">Fletcher, Frank Ward, 1853-1922.</persname>
+    <persname role="ctb" source="lcnaf">Grant, Claudius Buchanan, 1835-1921.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n88002366" role="ctb" source="lcnaf">Hutchins, Harry B. (Harry Burns), 1847-1930.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008186689" role="ctb" source="lcnaf">Knappen, Loyal Edwin, 1854-1930.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008186694" role="ctb" source="lcnaf">Moore, Joseph B., 1845-1930.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2009028230" role="ctb" source="lcnaf">Ohlinger, Gustavus, 1877-1972.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008183271" role="ctb" source="lcnaf">Sawyer, Walter H. (Walter Hulme), 1861-1931.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50014727" role="ctb" source="lcnaf">Small, Albion Woodbury, 1854-1926.</persname>
+    <persname role="ctb" source="lcnaf">Smith, Henry Cassorte, 1859-1911.</persname>
+    <persname role="ctb" source="lcnaf">Stone, Ralph, 1868-1956.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n80010489" role="ctb" source="lcnaf">Turner, Frederick Jackson, 1861-1932.</persname>
+  </controlaccess>
+  <dsc type="combined"><c01 id="aspace_7c6c64c76842833ed0e238bb294d0b7a" level="series"><did><unittitle>Correspondence</unittitle></did><c02 id="aspace_545bc426b2d02a5b95098006397d9c9b" level="file"><did><physdesc><extent>54 folders</extent></physdesc><unitdate normal="1898/1905-06" type="inclusive">1898-June 1905</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_a889136213157622a26bae9da775d58b" level="file"><did><physdesc><extent>37 folders</extent></physdesc><unitdate normal="1905-07/1912-04" type="inclusive">July 1905-April 1912</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_9672dc73c284d28b2c8fc6d9ac65a031" level="file"><did><physdesc><extent>50 folders</extent></physdesc><unitdate normal="1912-05/1918-12" type="inclusive">May 1912-December 1918</unitdate><container label="Box" type="box">3</container></did></c02><c02 id="aspace_b478b589703f501219d986caf3c045bb" level="file"><did><physdesc><extent>36 folders</extent></physdesc><unitdate normal="1919-01/1929-12" type="inclusive">January 1919-December 1929</unitdate><container label="Box" type="box">4</container></did></c02></c01><c01 id="aspace_b636729a8f512dde5576d32601c7defb" level="series"><did><unittitle>Intercollegiate Conference Athletic Association</unittitle></did><c02 id="aspace_4b49e9b3c7e92fceca68491c189cb27a" level="file"><did><unittitle>Correspondence</unittitle><physdesc><extent>9 folders</extent></physdesc><unitdate normal="1906/1907-11" type="inclusive">1906-November 1907</unitdate><container label="Box" type="box">4</container></did></c02></c01><c01 id="aspace_0ebc6e19d99a3379098a25691068ef3f" level="series"><did><unittitle>First Presbyterian Church (Ann Arbor, Mich.)</unittitle></did><c02 id="aspace_216d0e1165df911392ab50704c345b66" level="file"><did><unittitle>Correspondence</unittitle><physdesc><extent>6 folders</extent></physdesc><unitdate normal="1910-01/1911-12" type="inclusive">January 1910-December 1911</unitdate><container label="Box" type="box">4</container></did></c02></c01><c01 id="aspace_1596dcdf397e0b283ed6302ecc512bf3" level="series"><did><unittitle>Visual Materials</unittitle></did><c02 id="aspace_d1f1faacbba003f5f495907e35bd3329" level="file"><did><unittitle>Photograph/autograph album presented to Victor H. Lane by the First Presbyterian Sabbath School of Adrian</unittitle><container label="Box" type="box">5</container></did></c02></c01></dsc>
+  <descgrp type="add">
+    <index id="aspace_fd22bd380ca8570720a6a317ebb3762b">
+      <head>Partial Index to Correspondence</head>
+      <indexentry>
+        <persname>Baird, Charles, 1870-1944</persname>
+        <ref>
+          <list type="simple">
+            <item>ca. 1920-1929</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bates, Henry Moore, 1869-1949</persname>
+        <ref>
+          <list type="simple">
+            <item>July 3, 17, 28, Aug. 24, 1903</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Chapin, Roy Dikeman, 1880-1936</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 28, 1923</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Fletcher, Frank Ward, 1853-1922</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 10, 1908</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Grant, Claudius Buchanan, 1835-1921</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 6, 9, 14, 1905</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hutchins, Harry Burns, 1847-1930</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 2, 14, 1901, Aug. 21, 1909, Dec. 29, 1910</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Knappen, Loyal Edwin, 1854-1930</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan.-Feb. 1907</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Moore, Joseph B, 1845-1930</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 23, 1901</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ohlinger, Gustavus, 1877-</persname>
+        <ref>
+          <list type="simple">
+            <item>June 1, 1903</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Sawyer, Walter Hulme, 1861-1931</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 9, 1901; Jan. 27, Feb. 17, 1905; Oct. 8, 1907; Jan. 1, May 31, 1911</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Small, Albion Woodbury, 1854-1926</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 18, 23, 28, 29, 1907</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Smith, Henry Cassorte, 1859-1911</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 21, Apr. 28, 1900, May 5, 1911</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Stone, Ralph, 1868-1956</persname>
+        <ref>
+          <list type="simple">
+            <item>ca. 1921-1929</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Turner, Frederick Jackson, 1861-1932</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 19, 1907</item>
+          </list>
+        </ref>
+      </indexentry>
+    </index>
+  </descgrp>
+</archdesc>
+</ead>

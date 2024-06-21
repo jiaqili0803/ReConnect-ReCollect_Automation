@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>umich-bhl-87490</eadid><filedesc><titlestmt><titleproper>Finding aid for Salvador Araneta papers, 1921-1972</titleproper><author>Finding aid created by California State University Archives</author></titlestmt><publicationstmt><publisher>Bentley Historical Library</publisher><p><date>2008</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-10-07 12:45:17 -0400</date>.</creation><langusage>The finding aid is written in <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc><revisiondesc><change><date>2008-08-26</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change><change><date>2016-11-21</date><item>Updated Conditions Governing Use Note</item></change><change><date>2021-03-31</date><item>Per Reference request: added reel 2 (was not in the original finding aid)</item></change></revisiondesc></eadheader><frontmatter><titlepage><publisher>Bentley Historical Library <lb/>University of Michigan</publisher><titleproper>Finding aid for Salvador Araneta papers, 1921-1972</titleproper><author>Finding aid created by California State University Archives</author></titlepage></frontmatter><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Bentley Historical Library</corpname>
+      <extptr actuate="onload" href="bhladd" show="embed"/>
+    </repository>
+    <unittitle>Salvador Araneta papers</unittitle>
+    <origination label="creator">
+      <persname authfilenumber="http://id.loc.gov/authorities/names/n50022471" source="lcnaf">Araneta, Salvador.</persname>
+    </origination>
+    <unitid type="call number">87490 Aa microcopy, Aa1</unitid>
+    <physdesc>
+      <extent>2 microfilms</extent>
+    </physdesc>
+    <physdesc>
+      <extent>1 folder</extent>
+    </physdesc>
+    <unitdate normal="1921/1972" type="inclusive">1921-1972</unitdate>
+    <langmaterial id="aspace_f68a3268a9a726754c591c5eca5036e9">The material is in <language encodinganalog="041" langcode="eng">English</language></langmaterial>
+    <abstract id="aspace_4009222167c316216c137f6ba72f84ec">Philippines public servant, delegate to the 1934 and 1972 constitutional conventions. Articles, speeches, and scrapbook; include materials relating to convention activities.</abstract>
+  </did>
+  <descgrp type="admin">
+    <acqinfo><p>The collection was made available to the California State University Archives for microfilming by Salvador Araneta.</p></acqinfo>
+    <accruals><p>No further additions to the records are expected.</p></accruals>
+    <accessrestrict><p>The collection is open to research.</p></accessrestrict>
+    <userestrict><p>Copyright is not held by the Regents of the University of Michigan. Patrons are responsible for determining the appropriate use or reuse of materials.</p></userestrict>
+    <prefercite><p>[item], folder, box, Salvador Araneta papers, Bentley Historical Library, University of Michigan</p></prefercite>
+  </descgrp>
+  <bioghist><p>Salvador Araneta was a Philippines lawyer and public servant. He was a delegate to both the 1934 and 1972 constitutional convention.</p></bioghist>
+  <scopecontent><p>The Salvador Araneta papers consist mainly of materials relating to his participation as a delegate to the Philippine Constitutional Convention, 1971-1972. Also included are various articles and speeches he made in the period of 1921 to 1955.</p></scopecontent>
+  <controlaccess>
+    <p>
+      <extptr actuate="onload" href="accnote" show="embed"/>
+    </p>
+    <geogname source="lcsh">Philippines -- History -- 1946-1986.</geogname>
+    <geogname source="lcsh">Philippines -- History -- 1898-1946.</geogname>
+    <genreform source="aat">Scrapbooks.</genreform>
+  </controlaccess>
+  <dsc type="combined"><c01 id="aspace_641453c40ff590850986d43ca7dd5ed0" level="series"><did><unittitle>Career papers</unittitle></did><c02 id="aspace_00989b3db54374d1b0085619b8d9a22f" level="file"><did><unittitle>Philippine Constitutional Convention</unittitle><unitdate normal="1971/1972" type="inclusive">1971-1972</unitdate></did><c03 id="aspace_9c62caf3fc79ea55fae2aa387ba171f3" level="file"><did><unittitle>Resolutions filed by Araneta</unittitle><container label="Roll" type="reel">1</container></did></c03><c03 id="aspace_6283bd4578e681c7d11a06f60c4d050e" level="file"><did><unittitle>Speeches delivered by Araneta</unittitle><container label="Roll" type="reel">1</container></did></c03><c03 id="aspace_507c9e7a5e2e37adbb40f3c1f722b39e" level="file"><did><unittitle>Proposed Amendments made by Araneta to the Committee Reports</unittitle><container label="Roll" type="reel">1</container></did></c03></c02><c02 id="aspace_059364eb9e1da8c33de0eb39c087402d" level="file"><did><unittitle>Articles and speeches</unittitle></did><c03 id="aspace_30d33963c8cdc6ea5916059cedbec204" level="file"><did><unittitle>Agricultural and economic subjects</unittitle><container label="Roll" type="reel">1</container></did></c03><c03 id="aspace_b00e33f8993ade63339598840e1ad9f2" level="file"><did><unitdate normal="1921/1935" type="inclusive">1921-1935</unitdate><container label="Roll" type="reel">1</container></did><odd><p>(most relate to the economic future of the Philippine Islands, the Hare-Hawes-Cutting Act controversy in the Philippines, and the problems of independence from the United States)</p></odd></c03><c03 id="aspace_dd2f896b0dea08e7f8ef5557f649d86f" level="file"><did><unitdate normal="1934/1938" type="inclusive">1934-1938</unitdate><container label="Roll" type="reel">1</container></did><odd><p>(most relate to the first constitutional convention in which Salvador Araneta was a delegate, United States trade relations with the Philippines, and future relations with the United States after independence)</p></odd></c03><c03 id="aspace_23024b0d0a47227c5addfad3eaeb9d37" level="file"><did><unitdate normal="1935/1941" type="inclusive">1935-1941</unitdate><container label="Roll" type="reel">1</container></did><odd><p>(most relate to the economic consequences of independence, the reexamination of the independence question, and the first constitutional convention)</p></odd></c03><c03 id="aspace_41c224476e8767666d468e966d9aeaae" level="file"><did><unitdate normal="1946/1955" type="inclusive">1946-1955</unitdate><container label="Roll" type="reel">1</container></did><odd><p>(speeches)</p></odd><odd><p>(most relate to economic nationalism in the postwar era)</p></odd></c03><c03 id="aspace_bc4249553c7adb364b3fffd165892041" level="file"><did><unittitle>Transcript of radio program "Gregorio Araneta Memorial Roundtable Conference"</unittitle><unitdate normal="1970/1970" type="inclusive">1970</unitdate><container label="Roll" type="reel">1</container></did><odd><p>(series of spontaneous and unrehearsed broadcasts held on the eve of the Constitutional Convention)</p></odd></c03><c03 id="aspace_cde7cdf4b4367502eeed627adaf878c7" level="file"><did><unittitle>Transcript of radio program "Gregorio Araneta Memorial Roundtable Conference" (cont.)</unittitle><unitdate calendar="gregorian" era="ce" normal="1970/1970" type="bulk">1970</unitdate><container label="Roll" type="reel">2</container></did></c03></c02><c02 id="aspace_d6639b35441acd5db8b12d40e1ff6439" level="file"><did><unittitle><genreform normal="Scrapbook">Scrapbook</genreform> (miscellaneous)</unittitle><container label="Roll" type="reel">2</container></did></c02><c02 id="aspace_bdf71d77bd68adfe761119d316fddfe6" level="file"><did><unittitle><genreform normal="Scrapbook">Scrapbook</genreform> of the Constitutional Convention</unittitle><unitdate normal="1970-02/1972-09" type="inclusive">February 1970-September 1972</unitdate><container label="Roll" type="reel">2</container></did></c02><c02 id="aspace_d9b0453d4a2acebf950c2528085c043f" level="file"><did><unittitle>Segunda Interview Con El Presidente Quezon Pos S. Araneta</unittitle><unitdate normal="1939/1939" type="inclusive">1939</unitdate><container label="Folder" type="folder">1</container></did><odd><p>(Transcription of a document that was mistakenly left out of the microfilm edition.)</p></odd></c02></c01></dsc>
+</archdesc>
+</ead>
