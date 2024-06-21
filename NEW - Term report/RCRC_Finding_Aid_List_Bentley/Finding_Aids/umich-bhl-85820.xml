@@ -1,0 +1,2676 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>umich-bhl-85820</eadid><filedesc><titlestmt><titleproper>Finding Aid for Ralph A. Sawyer Papers</titleproper><author>Finding aid prepared by: Bentley Historical Library staff</author></titlestmt><publicationstmt><publisher>Bentley Historical Library</publisher><p><date>1999</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-10-07 12:43:23 -0400</date>.</creation><langusage>The finding aid is written in <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc><revisiondesc><change><date>2008-02-01</date><item>Added name indexes.</item></change><change><date>2003-10-10</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change><change><date>1999-06</date><item>converted to new container style</item></change><change><date>1999-01-26</date><item>Original encoding from Word 6.0 file with some hand-tagging</item></change><change><date>2016-11-21</date><item>Updated Conditions Governing Use Note</item></change></revisiondesc></eadheader><frontmatter><titlepage><publisher>Bentley Historical Library <lb/>University of Michigan</publisher><titleproper>Finding Aid for Ralph A. Sawyer Papers</titleproper><author>Finding aid prepared by: Bentley Historical Library staff</author></titlepage></frontmatter><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Bentley Historical Library</corpname>
+      <extptr actuate="onload" href="bhladd" show="embed"/>
+    </repository>
+    <unittitle>Ralph A. Sawyer Papers</unittitle>
+    <origination label="creator">
+      <persname authfilenumber="http://id.loc.gov/authorities/names/n85814346" source="lcnaf">Sawyer, Ralph A. (Ralph Alanson), 1895-1978</persname>
+    </origination>
+    <unitid type="call number">85820 Aa/2</unitid>
+    <physdesc>
+      <extent>11.3 linear feet</extent>
+    </physdesc>
+    <physdesc>
+      <extent>1 film reels</extent>
+    </physdesc>
+    <unitdate normal="1918/1978" type="inclusive">1918-1978</unitdate>
+    <abstract id="aspace_9d2299ca443df74a4b4ce022ae51fb61">Physicist, University of Michigan professor, dean of the graduate school; correspondence, writings, speeches, organizational files, audio-visual materials.</abstract>
+    <langmaterial id="aspace_3cc77423601818d2c4984ad1d9f3ac9b">The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+  </did>
+  <descgrp type="admin">
+    <acqinfo><p>The collection was the gift of Dean Ralph A. Sawyer and came to the library in several accessions beginning in 1964. Donor no. <num encodinganalog="541$e" type="donor">4106</num></p></acqinfo>
+    <accessrestrict><p>The collection is open for research.</p></accessrestrict>
+    <userestrict><p>Donor(s) have transferred any applicable copyright to the Regents of the University of Michigan but the collection may contain third-party materials for which copyright was not transferred. Patrons are responsible for determining the appropriate use or reuse of materials.</p></userestrict>
+    <prefercite><p>item, folder title, box no., Ralph A. Sawyer Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+  </descgrp>
+  <bioghist><p>Ralph A. Sawyer was a University of Michigan physicist, distinguished for his research in spectroscopy, radiometry, and various forms of spectrographic analysis, and later in atomic energy research. While at the University of Michigan, and in different administrative positions, Sawyer was responsible for the growth of the University's research program in the 1950s and 1960s.</p><p> Sawyer was born in 1895 in Atkinson, New Hampshire. After graduating from Dartmouth in 1915, Sawyer enrolled at the University of Chicago, becoming an assistant in physics in 1917. In 1918 he entered the Navy and designed optical instruments for the Bureau of Ordnance. After leaving the Navy in 1919, he received is Ph.D. degree from Chicago and joined the physics department of the University of Michigan. Sawyer rose to the rank of full professor by 1930. During his career he became a specialist in the fields of spectroscopy, radiometry, extreme ultraviolet spectra, series analysis of line spectra, hyperfind structure of spectral lines and quantitative spectrographic analysis.</p><p> During World War II, Sawyer was on leave to serve in the United States Naval Reserve. He was first commissioned as a lieutenant commander and placed in charge of experimental laboratories of the Naval Proving Ground in Dahlgren, Virginia. In 1943, he was promoted to commander, assuming charge of the testing and research laboratory.</p><p> When released from the Navy in 1945, Sawyer was appointed head of the ordnance division of the naval ordnance test station at Iyokern, California. In April 1946, he became civilian technical director of the Bikini atom bomb tests (known as known as Joint Task Force One) where he supervised and co-ordinated the activities of more than 500 scientists.</p><p> Following the tests, also in 1946, Sawyer was chosen dean of the Horace H. Rackham School of Graduate School of the University of Michigan where he served until 1964. He also served the university as director of the Michigan Memorial Phoenix Project established to explore the peaceful uses of atomic energy from 1951-1959. And in 1959, he was appointed to be university vice president for research.</p><p> During this period Sawyer also served as chairman of the governing board and acting director of the American Institute of Physics and president of the Optical Society of America, as well as a member of many boards and panels of both civilian and military research groups. After his retirement from the university in 1964, Sawyer continued to work as a consultant. Sawyer died in 1978.</p></bioghist>
+  <arrangement><p>The Sawyer papers have been arranged into seven series: Biographical/personal; Correspondence; Publications; Speeches; Organizational Files; Visual Materials; and Sound Recordings.</p></arrangement>
+  <scopecontent><p>Although the Ralph A. Sawyer collection includes materials relating to all phases of his career, beginning with his studies at the University of Chicago in 1918-1919, the strength of the files are for those activities outside of the University of Michigan, notably his work with the U.S. Navy laboratories, Joint Task Force One, the American Institute of Physics, and the Optical Society of America. Files dealing with his University of Michigan activities are less complete as these materials will be found with the records of those units which Sawyer headed.</p></scopecontent>
+  <controlaccess>
+    <p>
+      <extptr actuate="onload" href="accnote" show="embed"/>
+    </p>
+    <subject source="lcsh">Atomic bomb.</subject>
+    <geogname source="lcsh">Brazil.</geogname>
+    <geogname source="lcsh">China -- History -- Republic, 1912-1949.</geogname>
+    <geogname source="lcsh">Germany.</geogname>
+    <subject source="lcsh">Physicists -- Michigan -- Ann Arbor.</subject>
+    <subject source="lcsh">World War, 1939-1945.</subject>
+    <geogname source="lcsh">Bikini Atoll (Marshall Islands)</geogname>
+    <subject source="lctgm">Explosions.</subject>
+    <subject source="lctgm">Nuclear weapons.</subject>
+    <subject source="lctgm">Ordnance testing.</subject>
+    <subject source="lctgm">Scientific equipment.</subject>
+    <geogname source="lcsh">Germany (West)</geogname>
+    <subject source="lcsh">Physics.</subject>
+    <genreform source="gmgpc">Motion pictures.</genreform>
+    <genreform source="aat">Photographs.</genreform>
+    <genreform source="aat">Sound recordings.</genreform>
+    <genreform source="aat">Videotapes.</genreform>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79078128" source="lcnaf">American Institute of Physics.</corpname>
+    <corpname source="lcnaf">Horace H. Rackham School of Graduate Studies.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n84055147" source="lcnaf">Michigan Memorial Phoenix Project.</corpname>
+    <corpname source="lcnaf">National Academy of Sciences (U.S.)</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n82091895" source="lcnaf">Optical Society of America.</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85814346" source="lcnaf">Sawyer, Ralph A. (Ralph Alanson), 1895-1978.</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021148" source="lcnaf">United States. National Bureau of Standards.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79059051" source="lcnaf">United States. Navy.</corpname>
+    <corpname source="lcnaf">University of Michigan. Dept. of Physics.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n88629496" source="lcnaf">University of Michigan. Engineering Research Institute.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- Faculty.</corpname>
+    <corpname source="lcnaf">University of Michigan. Vice-President for Research.</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85814346" source="lcnaf">Sawyer, Ralph A. (Ralph Alanson), 1895-1978.</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79059051" source="lcnaf">United States. Navy.</corpname>
+    <corpname source="lcnaf">University of Michigan. Dept. of Physics.</corpname>
+    <corpname source="lcnaf">University of Michigan. Summer Session. Symposium in Theoretical Physics.</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85814346" source="lcnaf">Sawyer, Ralph A. (Ralph Alanson), 1895-1978.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n95110643" role="ctb" source="lcnaf">Astin, Allen Varley, 1904-1984.</persname>
+    <persname role="ctb" source="lcnaf">Abbitt, W. H.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50036889" role="ctb" source="lcnaf">Ackley, Gardner.</persname>
+    <persname role="ctb" source="lcnaf">Adams, James P. (James Pickwell), 1895-1969.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008190075" role="ctb" source="lcnaf">Barker, Ernest F. (Ernest Franklin), 1886-1970.</persname>
+    <persname role="ctb" source="lcnaf">Beselson, Bernard R., 1912-</persname>
+    <persname role="ctb" source="lcnaf">Bradbury, Norris Edwin, 1909-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n96033501" role="ctb" source="lcnaf">Brode, Robert B. (Robert Bigham), 1900-1986.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86862037" role="ctb" source="lcnaf">Brode, Wallace R. (Wallace Reed), 1900-1974.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n88657401" role="ctb" source="lcnaf">Dennison, David M. (David Mathias), 1900-1976.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/nr93013151" role="ctb" source="lcnaf">Dow, William G. (William Gould), 1895-1999.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85035075" role="ctb" source="lcnaf">Fajans, Kasimir, 1887-1975.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86819677" role="ctb" source="lcnaf">Griffin, Clare E. (Clare Elmer), 1892-1979.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/nr90022702" role="ctb" source="lcnaf">Haber, William, 1899-1988.</persname>
+    <persname role="ctb" source="lcnaf">Hansen, Gerhard.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50025871" role="ctb" source="lcnaf">Harrison, George Russell, 1898-1979.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2004086597" role="ctb" source="lcnaf">Kelly, E. Lowell (Everett Lowell), 1905-1986.</persname>
+    <persname role="ctb" source="lcnaf">Keniston, Hayward, 1883-</persname>
+    <persname role="ctb" source="lcnaf">Knowles, Hugh Shaler, 1904-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008190108" role="ctb" source="lcnaf">Meader, George, 1907-1994.</persname>
+    <persname role="ctb" source="lcnaf">Paschen, F.</persname>
+    <persname role="ctb" source="lcnaf">Penney, William George, Sir, 1909-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50027474" role="ctb" source="lcnaf">Price, Derek J. de Solla (Derek John de Solla), 1922-1983.</persname>
+    <persname role="ctb" source="lcnaf">Randall, Harrison M. (Harrison McAllister), 1870-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n87828171" role="ctb" source="lcnaf">Ruthven, Alexander Grant, 1882-1971.</persname>
+    <persname role="ctb" source="lcnaf">Seitz, Frederick, 1911-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n80014802" role="ctb" source="lcnaf">Snow, C. P. (Charles Percy), 1905-1980.</persname>
+    <persname role="ctb" source="lcnaf">Stratton, Thomas F.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50010523" role="ctb" source="lcnaf">Struve, Otto, 1897-1963.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50008435" role="ctb" source="lcnaf">Taylor, William Randolph, 1895-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85803680" role="ctb" source="lcnaf">Van Vleck, J. H. (John Hasbrouck), 1899-1980.</persname>
+    <persname role="ctb" source="lcnaf">Varney, Robert Nathan, 1910-</persname>
+    <persname role="ctb" source="lcnaf">Vivian, Weston Edward, 1924-</persname>
+    <persname role="ctb" source="lcnaf">White, Albert Easton, 1884-1956.</persname>
+  </controlaccess>
+  <dsc type="combined"><c01 id="aspace_7d291106a30bb672714b907e494b810e" level="series"><did><unittitle>Biographical/personal</unittitle></did><scopecontent><p>The Biographical/personal series includes transcripts of oral interview given by Sawyer under the auspices of the American Institute of Physics and the Office of Naval History.</p></scopecontent><c02 id="aspace_e871634b154d0a42cd8240994b0ed6ed" level="file"><did><unittitle>Biographical material</unittitle><container label="Box" type="box">1</container></did></c02><c02 id="aspace_1f3e11620a3ad778a93038315f4ceee5" level="file"><did><unittitle>Oral interview concerning professional career</unittitle><unitdate normal="1967-03-16/1967-03-16" type="inclusive">March 16, 1967</unitdate><unitdate normal="1970-09-24/1970-09-24" type="inclusive">September 24, 1970</unitdate><container label="Box" type="box">1</container></did><odd><p>(American Institute of Physics Interview</p></odd></c02><c02 id="aspace_2b9b86b9db6f600d71558dcfc7720582" level="file"><did><unittitle>Oral interview largely concerning association with U.S. Navy, the Naval Proving Ground at Dahlgren, Va., etc.</unittitle><unitdate normal="1967-05/1967-05" type="inclusive">May 1967</unitdate><container label="Box" type="box">1</container></did><odd><p>(Office of Naval History Interview)</p></odd></c02><c02 id="aspace_c54f9b0513d4e2ee02cddfbcce4c1d37" level="file"><did><unittitle>Reminiscence</unittitle><container label="Box" type="box">1</container></did></c02><c02 id="aspace_85712eb4812787ad0621e8490fb298a6" level="file"><did><unittitle>Military service material</unittitle></did><c03 id="aspace_bb250b69f679c2e38cf51a44a8d59065" level="file"><did><unittitle>World War I</unittitle><container label="Box" type="box">1</container></did></c03><c03 id="aspace_c442d1bc60a9f24d3518f7db467f8345" level="file"><did><unittitle>World War II</unittitle><container label="Box" type="box">1</container></did></c03></c02></c01><c01 id="aspace_dee5100f72759bdc68e72a5c97d4bd4d" level="series"><did><unittitle>Correspondence</unittitle></did><scopecontent><p>Correspondence includes files arranged both by name and by date. Correspondents include professional and university colleagues on topics of research and university business.</p></scopecontent><c02 id="aspace_d147e5138293e301b1fcf2cfac8066d6" level="file"><did><unittitle>Abbitt, W. H.</unittitle><unitdate normal="1947/1960" type="inclusive">1947-1960</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_36e7657c28fe458c858de6061243a69c" level="file"><did><unittitle>Brooks, Jack</unittitle><unitdate normal="1974/1974" type="inclusive">1974</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_402cd0e9764205a9207f35c4d1913adb" level="file"><did><unittitle>Conference on Administration of Research</unittitle><unitdate normal="1951/1952" type="inclusive">1951-1952</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_a37fee84bdf4e2567c15ae5f53cd3893" level="file"><did><unittitle>Darrow, Karl K.</unittitle><unitdate normal="1961/1966" type="inclusive">1961-1966</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_537a11257ac1d6bcd7c51b3d66626720" level="file"><did><unittitle>Dyjack, Art</unittitle><unitdate normal="1971/1971" type="inclusive">1971</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_56c59441f07222873b97e6d859285865" level="file"><did><unittitle>Fajans, Kasimir</unittitle><unitdate normal="1966/1967" type="inclusive">1966-1967</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_3c97992387eb609bda1c16d9059ccd93" level="file"><did><unittitle>Guggenheim Foundation</unittitle><unitdate normal="1937/1941" type="inclusive">1937-1941</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_1346a49d871da1d4188d770a851d2057" level="file"><did><unittitle>National Bureau of Standards</unittitle><unitdate normal="1947/1953" type="inclusive">1947-1953</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_6078c98645e192ddb1369128b380b90d" level="file"><did><unittitle>National Research Council</unittitle><unitdate normal="1949/1953" type="inclusive">1949-1953</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_6507daaa2fd4780f5b9a5dbcff32eef5" level="file"><did><unittitle>Paschen, F.</unittitle><unitdate normal="1926/1936" type="inclusive">1926-1936</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_0af8875743e5c827e7f5b108eea80a34" level="file"><did><unittitle>Phelps, Fred</unittitle><unitdate normal="1968/1976" type="inclusive">1968-1976</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_49551efdf53fd87a20d2aeff4b90ba05" level="file"><did><unittitle>Sawyer, George</unittitle><unitdate normal="1974/1974" type="inclusive">1974</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_ffd5075e73e63c805563f03e716223d9" level="file"><did><unittitle>Stratton, Tom</unittitle><unitdate normal="1965/1965" type="inclusive">1965</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_25ee226a8495a2c08d9bd315e83c1b35" level="file"><did><unittitle>General</unittitle></did><c03 id="aspace_6a7939f0352282bc0fbea3dfbbe23c29" level="file"><did><unittitle>[A-Z]</unittitle><physdesc><extent>8 folders</extent></physdesc><unitdate normal="1946/1964" type="inclusive">1946-1964</unitdate><container label="Box" type="box">1</container></did></c03><c03 id="aspace_368e96c6f13bec36f2b6ecd0765fa6b3" level="file"><did><unitdate normal="1965/1968" type="inclusive">1965-1968</unitdate><container label="Box" type="box">1</container></did></c03><c03 id="aspace_60e21474048706898e32971272129500" level="file"><did><unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate><container label="Box" type="box">1</container></did></c03><c03 id="aspace_501b0f06c42f23b76cef211b1aaed8d6" level="file"><did><unitdate normal="1971/1978" type="inclusive">1971-1978</unitdate><container label="Box" type="box">1</container></did></c03></c02></c01><c01 id="aspace_d69e059d316bed1ea7078f385e137193" level="series"><did><unittitle>Publications</unittitle></did><scopecontent><p>Publications is a small series that includes drafts and reprints of writings. Several folders in this series pertain to his book Experimental Spectroscopy. There is correspondence about the book, reviews, and publicity.</p></scopecontent><c02 id="aspace_37e43599bf8cb8b9eddbe1c8f96061f2" level="file"><did><unittitle>Bibliography</unittitle><container label="Box" type="box">1</container></did></c02><c02 id="aspace_96d5ea0d4e487c35b7aa576ab1c3a456" level="file"><did><unittitle><title render="italic">Book, Experimental Spectroscopy</title></unittitle></did><c03 id="aspace_a6f201f061fb19f804d1ba4723c95504" level="file"><did><unittitle>Correspondence</unittitle><physdesc><extent>3 folders</extent></physdesc><unitdate normal="1937/1953" type="inclusive">1937-1953</unitdate><container label="Box" type="box">1</container></did></c03></c02><c02 id="aspace_6e66f126dc79d20f66e30163d870f07e" level="file"><did><unittitle><title render="italic">Book, Experimental Spectroscopy</title></unittitle></did><c03 id="aspace_96c71612e8cc72da5c11eb18e475e113" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1954/1963" type="inclusive">1954-1963</unitdate><container label="Box" type="box">2</container></did></c03><c03 id="aspace_ad31932b05cec42e1a8db1cd387c85fc" level="file"><did><unittitle>Reviews</unittitle><container label="Box" type="box">2</container></did></c03><c03 id="aspace_ba68b3f2d8c20b447b51f538074d2fc0" level="file"><did><unittitle>Publicity</unittitle><container label="Box" type="box">2</container></did></c03><c03 id="aspace_51a2e0a843b135e10833816423338d6e" level="file"><did><unittitle>Corrections</unittitle><container label="Box" type="box">2</container></did></c03><c03 id="aspace_fb83292bd5dc098a1da57a98d83bb063" level="file"><did><unittitle>Miscellanea</unittitle><container label="Box" type="box">2</container></did></c03></c02><c02 id="aspace_bab533d1dc9875ba5278565052eb175e" level="file"><did><unittitle>Short articles</unittitle></did><c03 id="aspace_7d417749a59f41a0c9ae9a40b4774e0c" level="file"><did><unittitle>Brode, W.R., biographical sketch</unittitle><container label="Box" type="box">2</container></did></c03><c03 id="aspace_5e100c331ee00c7c383efa94f6699e5b" level="file"><did><unittitle>Lyman, Theodore, for <title render="italic">Dictionary of Scientific Biography</title></unittitle><container label="Box" type="box">2</container></did></c03><c03 id="aspace_0b5aad403f08b1f8331e5614105a7d53" level="file"><did><unittitle>Lyman, Theodore, for <title render="italic">Dictionary of American Biography</title></unittitle><container label="Box" type="box">2</container></did></c03><c03 id="aspace_bb0521dc4a4453dace2882c62a5d89a0" level="file"><did><unittitle>Randall, H.M., for <title render="italic">Journal of the Optical Society of America</title></unittitle><container label="Box" type="box">2</container></did></c03><c03 id="aspace_c293c0ab68f0964e50020ce1b567af5d" level="file"><did><unittitle>Six articles for <title render="italic">British Dictionary of Physics</title></unittitle><container label="Box" type="box">2</container></did></c03><c03 id="aspace_9739a7539114fa0c73a947221f02cb10" level="file"><did><unittitle>Spectroscopy for <title render="italic">Physics Today</title></unittitle><container label="Box" type="box">2</container></did></c03><c03 id="aspace_fdcef478296bcad600d4d7cdf1ade746" level="file"><did><unittitle>Miscellanea</unittitle><container label="Box" type="box">2</container></did></c03></c02><c02 id="aspace_7af6b405dbbbb0f769ecf124062d3c6b" level="file"><did><unittitle>Chapter from unpublished book on Analytical Spectroscopy</unittitle><container label="Box" type="box">2</container></did></c02><c02 id="aspace_ed480051e2a1f0347f6b541003feab24" level="file"><did><unittitle>Unidentified manuscript</unittitle><container label="Box" type="box">2</container></did></c02><c02 id="aspace_bb1af7aed32503996928d4a310a7fe68" level="file"><did><unittitle>Journal articles</unittitle><physdesc><extent>5 folders</extent></physdesc><unitdate normal="1918/1971" type="inclusive">1918-1971</unitdate><container label="Box" type="box">2</container></did></c02></c01><c01 id="aspace_29cb658b3ac773d0c051b0e62f03d022" level="series"><did><unittitle>Speeches</unittitle></did><scopecontent><p>The Speeches series includes addresses given on the occasion of Sawyer receiving an award or honorary degree. There are also general speeches that have been arranged chronologically, 1948-1972.</p></scopecontent><c02 id="aspace_4daef3eefa0382ad3dcb07eab488afb5" level="file"><did><unittitle>Michigan Tech Honorary Degree</unittitle><unitdate normal="1959/1959" type="inclusive">1959</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_8af6855b95e2197b8852283b7b286ec3" level="file"><did><unittitle>Alpheus Smith Lecture</unittitle><unitdate normal="1962/1962" type="inclusive">1962</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_330a3ff624db843726a4c69a0ef07415" level="file"><did><unittitle>Ives Medal Address</unittitle><unitdate normal="1963/1963" type="inclusive">1963</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_83e0f136e69325d8b11df2e8a1196280" level="file"><did><unittitle>New York Applied Spectroscopy Medal, Address</unittitle><unitdate normal="1966/1966" type="inclusive">1966</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_f15db893d1fc3194f985d70de5231471" level="file"><did><unittitle>Compton Medal Address</unittitle><unitdate normal="1971/1971" type="inclusive">1971</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_6ebee640da4b8d113d9aa133fb27df85" level="file"><did><physdesc><extent>5 folders</extent></physdesc><unitdate type="inclusive">Undated</unitdate><unitdate normal="1936/1959" type="inclusive">1936-1959</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_0dedccc3fa3fa2828b39a7fa7799ae1e" level="file"><did><physdesc><extent>4 folders</extent></physdesc><unitdate normal="1960/1972" type="inclusive">1960-1972</unitdate><container label="Box" type="box">3</container></did></c02><c02 id="aspace_c1ee46c88fa2f3dcbbee4684801ce67e" level="file"><did><unittitle>Masters' Breakfast Speeches</unittitle><unitdate normal="1953/1964" type="inclusive">1953-1964</unitdate><container label="Box" type="box">3</container></did></c02><c02 id="aspace_3ac93b01cab1c595548882207ff8b8f0" level="file"><did><unittitle>Programs</unittitle><container label="Box" type="box">3</container></did></c02></c01><c01 id="aspace_1b1727342d37609e4241b1e5c85c1905" level="series"><did><unittitle>Organizational files</unittitle></did><scopecontent><p>Organizational Files is the largest series in the collection. The materials in this series have been brought together from the files accumulated by Sawyer in his capacity as member, officer, and participant in diverse professional organizations and programs. The largest subseries within this series are American Institute of Physics, Joint Task Force One (the Bikini tests), University of Michigan activities (Filed under Michigan, University of), the National Academy of Sciences, Sawyer's various activities with the United States Navy (filed under Navy), and the Optical Society of America. In this series under Travel are files pertaining to Sawyer's 1954 trip to Germany for the U.S. State Department.</p></scopecontent><c02 id="aspace_0c393884413fd0f9155a1bf2f8a314d9" level="subseries"><did><unittitle>Air Force Research and Development Command</unittitle></did><c03 id="aspace_17c8b9cd62792727bc3226666d031916" level="file"><did><unitdate normal="1949/1958" type="inclusive">1949-1958</unitdate><container label="Box" type="box">3</container></did></c03></c02><c02 id="aspace_a6db33c366b3bdf3d48621b9316e25cf" level="subseries"><did><unittitle>Alaska, University of; Geophysical Institute</unittitle></did><c03 id="aspace_7bfdae136f1a7457cb032afac33b7816" level="file"><did><physdesc><extent>2 folders</extent></physdesc><unitdate normal="1961/1970" type="inclusive">1961-1970</unitdate><container label="Box" type="box">3</container></did></c03></c02><c02 id="aspace_d8ef1874ddae7e1da31657cb7c71535e" level="subseries"><did><unittitle>American Association for the Advancement of Science</unittitle></did><c03 id="aspace_d8c2efca156e018d656a00c900bbdd56" level="file"><did><physdesc><extent>2 folders</extent></physdesc><unitdate normal="1961/1965" type="inclusive">1961-1965</unitdate><container label="Box" type="box">3</container></did></c03></c02><c02 id="aspace_736e7f6fda7571e68d3489e97349faf1" level="subseries"><did><unittitle>American Institute of Physics</unittitle></did><c03 id="aspace_3aa238880b564aec1ba3419855b4d72d" level="file"><did><unittitle>Minutes</unittitle><physdesc><extent>2 volumes</extent></physdesc><unitdate normal="1954/1960" type="inclusive">1954-1960</unitdate><container label="Box" type="box">3</container></did></c03><c03 id="aspace_7a21190a703518cc6dca82ec59d2d8ee" level="file"><did><unittitle>Minutes</unittitle><physdesc><extent>1 volume, 8 folders</extent></physdesc><unitdate normal="1961/1971" type="inclusive">1961-1971</unitdate><container label="Box" type="box">4</container></did></c03><c03 id="aspace_4254891b93ffa28a28a6f4c1a8c7e43c" level="file"><did><unittitle>Correspondence and miscellanea</unittitle><physdesc><extent>10 folders</extent></physdesc><unitdate normal="1954/1964" type="inclusive">1954-1964</unitdate><container label="Box" type="box">4</container></did></c03><c03 id="aspace_ef48ccd54e6f606324f953ebee63367f" level="file"><did><unittitle>Correspondence and miscellanea</unittitle><physdesc><extent>7 folders</extent></physdesc><unitdate normal="1965/1975" type="inclusive">1965-1975</unitdate><container label="Box" type="box">5</container></did></c03><c03 id="aspace_2724104b4ef2490f2946af7d3b01eabd" level="file"><did><unittitle>Budget and Financial statements</unittitle><unitdate normal="1964/1970" type="inclusive">1964-1970</unitdate><container label="Box" type="box">5</container></did></c03><c03 id="aspace_7e088c16af6e7d4c6ab3d6083f41d96e" level="file"><did><unittitle>Center for History of Physics</unittitle><container label="Box" type="box">5</container></did></c03><c03 id="aspace_ee0da049ec2ecb8c9653588f105c3036" level="file"><did><unittitle>Constitution</unittitle><container label="Box" type="box">5</container></did></c03><c03 id="aspace_86886cea026cef136193e12942b1f44a" level="file"><did><unittitle>Directorship Search Committee</unittitle><unitdate normal="1965/1966" type="inclusive">1965-1966</unitdate><container label="Box" type="box">5</container></did></c03><c03 id="aspace_b53fc32ff21b38c47f07a940178a40c9" level="file"><did><unittitle>History and Philosophy of Physics</unittitle><physdesc><extent>2 folders</extent></physdesc><container label="Box" type="box">5</container></did></c03><c03 id="aspace_0a0f8aae08b2ed0d9aa2c46c7442883d" level="file"><did><unittitle>Information Systems</unittitle><physdesc><extent>2 folders</extent></physdesc><container label="Box" type="box">5</container></did></c03><c03 id="aspace_0624a71ca182542dfa9e1295e36944ce" level="file"><did><unittitle>Publications</unittitle><physdesc><extent>4 folders</extent></physdesc><container label="Box" type="box">5</container></did></c03><c03 id="aspace_c241b4bf4cd3fec9a934907cb9474e53" level="file"><did><unittitle>Retirement</unittitle><container label="Box" type="box">5</container></did></c03><c03 id="aspace_16651d184695ab419ca39407998793b3" level="file"><did><unittitle>Taxation of non-profit journals</unittitle><container label="Box" type="box">5</container></did></c03></c02><c02 id="aspace_5698eb6d42ff09b2a0c589b063966449" level="subseries"><did><unittitle>Graduate Physics Program Inspection Visits</unittitle></did><c03 id="aspace_80ec23bc0c8902e8d890c402f6d97868" level="file"><did><unittitle>Clark University</unittitle><unitdate normal="1965/1965" type="inclusive">1965</unitdate><container label="Box" type="box">5</container></did></c03><c03 id="aspace_4590c6bbe5a8f2069b0ad7188e589135" level="file"><did><unittitle>Florida, University of</unittitle><unitdate normal="1959/1959" type="inclusive">1959</unitdate><container label="Box" type="box">5</container></did></c03><c03 id="aspace_e921dd142af22e6240b993a4330c8109" level="file"><did><unittitle>Maine, University of</unittitle><unitdate normal="1966/1966" type="inclusive">1966</unitdate><container label="Box" type="box">5</container></did></c03><c03 id="aspace_e3dfc11f69807d5a1413c1f0666196fa" level="file"><did><unittitle>Tennessee, University of</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container label="Box" type="box">5</container></did></c03><c03 id="aspace_aaaa69eb98e46d93a00052bdd8f1d313" level="file"><did><unittitle>Virginia Polytechnic Institute</unittitle><unitdate normal="1965/1965" type="inclusive">1965</unitdate><container label="Box" type="box">5</container></did></c03><c03 id="aspace_c385bf0c62abd244cede86b30529b420" level="file"><did><unittitle>Virginia, University of</unittitle><unitdate normal="1965/1965" type="inclusive">1965</unitdate><container label="Box" type="box">5</container></did></c03></c02><c02 id="aspace_4a1c1639160041639060d9d7acfcc9ad" level="subseries"><did><unittitle>Graduate Schools, Ranking</unittitle></did><c03 id="aspace_6d53783d191307a76da9f2c2a23537b1" level="file"><did><unittitle>General</unittitle><physdesc><extent>2 folders</extent></physdesc><container label="Box" type="box">5</container></did></c03></c02><c02 id="aspace_90670a2f0bbd9712078869313cee23b5" level="subseries"><did><unittitle>Institute for Defense Analysis</unittitle></did><c03 id="aspace_a651aa8f9f891666713a0bb758440856" level="file"><did><unittitle>General</unittitle><unitdate normal="1961/1964" type="inclusive">1961-1964</unitdate><container label="Box" type="box">5</container></did></c03></c02><c02 id="aspace_043830ce3ec1e49c582b096e7c21f8ef" level="subseries"><did><unittitle>International Commission for Optics, U.S. National Committee</unittitle></did><c03 id="aspace_5a1835f211abee77c48729db086f25a2" level="file"><did><unittitle>General</unittitle><unitdate normal="1954/1959" type="inclusive">1954-1959</unitdate><container label="Box" type="box">6</container></did></c03></c02><c02 id="aspace_fbc39dd5185906dcc253fb2d44b36133" level="subseries"><did><unittitle>International Union of Pure and Applied Physics</unittitle></did><c03 id="aspace_9d200804a8a35616dfbe89d160eebbb5" level="file"><did><unittitle>General</unittitle><unitdate normal="1960/1960" type="inclusive">1960</unitdate><container label="Box" type="box">6</container></did></c03></c02><c02 id="aspace_c9e604b783be33aac187338be30cf36f" level="subseries"><did><unittitle>Joint Task Force One</unittitle></did><c03 id="aspace_a40f751237a0c8ee96957fef7b88f4f1" level="file"><did><unittitle>Correspondence</unittitle><physdesc><extent>7 folders</extent></physdesc><unitdate type="inclusive">Undated</unitdate><unitdate normal="1945-12/1946-09" type="inclusive">December 1945-September 1946</unitdate><container label="Box" type="box">6</container></did></c03><c03 id="aspace_4ba62044cda9c9eb66d164c0e3d07dc0" level="file"><did><unittitle>Notebook</unittitle><container label="Box" type="box">6</container></did></c03><c03 id="aspace_c015e01e945fdf87fab4b305476ff9d6" level="file"><did><unittitle>Memoranda</unittitle><physdesc><extent>5 folders</extent></physdesc><unitdate type="inclusive">Undated</unitdate><unitdate normal="1946-02/1946-10" type="inclusive">February 1946-October 1946</unitdate><container label="Box" type="box">6</container></did></c03><c03 id="aspace_8119d9f3550eda903717532ff6b7970c" level="file"><did><unittitle>Newsletters</unittitle><container label="Box" type="box">6</container></did></c03><c03 id="aspace_8bf2d76073164d85eb54c8f41ff1172a" level="file"><did><unittitle>Miscellanea</unittitle><container label="Box" type="box">6</container></did></c03></c02><c02 id="aspace_9de90f27a970a7a175c9a0dbd42cd372" level="subseries"><did><unittitle>Los Alamos, Scientific Laboratory</unittitle></did><c03 id="aspace_3f298b0e9e91535d719ed3da9505843b" level="file"><did><unittitle>General</unittitle><container label="Box" type="box">6</container></did></c03></c02><c02 id="aspace_27666a9e710c9811ea4961096981ab87" level="subseries"><did><unittitle>Michigan, University of</unittitle></did><c03 id="aspace_d7e6c3f27fa7beda449ff763b052a1f8" level="otherlevel" otherlevel="sub-subseries"><did><unittitle>Department of Engineering Research, Research Projects</unittitle><unitdate normal="1925/1941" type="inclusive">1925-1941</unitdate></did><c04 id="aspace_f4733a09687f252abaf6e1c8e9cf7ca4" level="file"><did><unittitle>Correspondence and miscellanea</unittitle><container label="Box" type="box">6</container></did></c04><c04 id="aspace_7a3181c3f9117cf0e7569f9b3b44ed61" level="file"><did><unittitle>Reports</unittitle><physdesc><extent>3 folders, 4 volumes</extent></physdesc><container label="Box" type="box">6</container></did></c04><c04 id="aspace_405a651bc9d9c13cf41e4d7587c46cf7" level="file"><did><unittitle>Data and Findings</unittitle><physdesc><extent>7 folders</extent></physdesc><container label="Box" type="box">6</container></did></c04></c03><c03 id="aspace_57835193fa67f14a862ed8db1e98e4d7" level="otherlevel" otherlevel="sub-subseries"><did><unittitle>Physics department</unittitle><unitdate normal="1919/1966" type="inclusive">1919-1966</unitdate></did><c04 id="aspace_a9d432d862ef11930a9d0d1f47a4f315" level="file"><did><unittitle>General correspondence</unittitle><physdesc><extent>2 folders</extent></physdesc><container label="Box" type="box">6</container></did></c04><c04 id="aspace_c87c3f7f2835fd186715c5ccefcf96ca" level="file"><did><unittitle>Emeritus Professors</unittitle><container label="Box" type="box">6</container></did></c04><c04 id="aspace_7c3d5e6686b997c6e7a8e0d4cae72f84" level="file"><did><unittitle>Hansen, G.</unittitle><container label="Box" type="box">6</container></did></c04><c04 id="aspace_df7fe0827ccbcf1116f47ea2d3d74ca2" level="file"><did><unittitle>Pitt Conference</unittitle><unitdate normal="1941/1941" type="inclusive">1941</unitdate><container label="Box" type="box">6</container></did></c04><c04 id="aspace_0dd61074402fcfbc05d15f98bda4b406" level="file"><did><unittitle>Quadrangle</unittitle><container label="Box" type="box">6</container></did></c04><c04 id="aspace_d86468764e900ac340b6abd8560712c4" level="file"><did><unittitle>Recommendations</unittitle><container label="Box" type="box">6</container></did></c04><c04 id="aspace_0005114cbe1032e058e748c8100964e1" level="file"><did><unittitle>Research proposals</unittitle><container label="Box" type="box">6</container></did></c04><c04 id="aspace_2e0e399168da37651865ce90a7ce0980" level="file"><did><unittitle>Studies by Sawyer's Students</unittitle><physdesc><extent>2 folders</extent></physdesc><container label="Box" type="box">6</container></did></c04></c03><c03 id="aspace_3dd9cc6747f8cb48ac2613d6de0a8403" level="otherlevel" otherlevel="sub-subseries"><did><unittitle>Horace H. Rackham School of Graduate Studies</unittitle><unitdate normal="1945/1971" type="inclusive">1945-1971</unitdate></did><c04 id="aspace_8b1daebda752a9370f235887c300c6d5" level="file"><did><unittitle>Administration, Appointment</unittitle><container label="Box" type="box">7</container></did></c04><c04 id="aspace_fcf72c00dcf31cab378c7e493982ef6e" level="file"><did><unittitle>Bretsch, Howard, Reports on Doctoral Degrees</unittitle><unitdate normal="1961/1961" type="inclusive">1961</unitdate><unitdate normal="1965/1965" type="inclusive">1965</unitdate><container label="Box" type="box">7</container></did></c04><c04 id="aspace_41e3acc663cb3a200ecfe01a73e0cc29" level="file"><did><unittitle>Committee on Courses report</unittitle><unitdate normal="1935/1935" type="inclusive">1935</unitdate><container label="Box" type="box">7</container></did></c04><c04 id="aspace_af47734d6ccd9de26e5f7e574a016d5e" level="file"><did><unittitle>Committees</unittitle><container label="Box" type="box">7</container></did></c04><c04 id="aspace_922f262bf6cbe7e2798a9b9510f82e9e" level="file"><did><unittitle>Government and Universities</unittitle><container label="Box" type="box">7</container></did></c04><c04 id="aspace_9beeafa5b4e0e56698c37705ada39dc2" level="file"><did><unittitle>Hyma, Albert</unittitle><container label="Box" type="box">7</container></did></c04><c04 id="aspace_217f6ab22c0dbf6a77513b86988c7a2e" level="file"><did><unittitle>Miscellanea</unittitle><container label="Box" type="box">7</container></did></c04><c04 id="aspace_05db57f6f1c8647a6486cfad49c1d425" level="file"><did><unittitle>Regents' appointment of successor</unittitle><container label="Box" type="box">7</container></did></c04><c04 id="aspace_0e7352fa4a35ae6ba54bf79ba93ece57" level="file"><did><unittitle>Retirement</unittitle><container label="Box" type="box">7</container></did></c04><c04 id="aspace_13202298a3ac92eb6d736dfad3f9b2f6" level="file"><did><unittitle>Sawyer Seminar</unittitle><container label="Box" type="box">7</container></did></c04><c04 id="aspace_851a810f9410d06cb6aef80902a58fe3" level="file"><did><unittitle>Senate committee reports</unittitle><unitdate normal="1965/1971" type="inclusive">1965-1971</unitdate><container label="Box" type="box">7</container></did></c04><c04 id="aspace_1bd73b3d01106b5fea7b470ce8cc7007" level="file"><did><unittitle>Statistics</unittitle><container label="Box" type="box">7</container></did></c04><c04 id="aspace_32aec48f58015d8ef9bde0dd0a687ab3" level="file"><did><unittitle>Stroke, George W.</unittitle><container label="Box" type="box">7</container></did></c04><c04 id="aspace_44acedfd7cdc75a14169ad6959add207" level="file"><did><unittitle>Surveys</unittitle><container label="Box" type="box">7</container></did></c04><c04 id="aspace_fa4b2b310203630a8fa558da307cf7c7" level="file"><did><unittitle>University Microfilms conflict of interest controversy</unittitle><container label="Box" type="box">7</container></did></c04></c03><c03 id="aspace_c5e160a54073ad98ae92ac5ceb65c979" level="otherlevel" otherlevel="sub-subseries"><did><unittitle>Office of Research Administration</unittitle><unitdate normal="1958/1972" type="inclusive">1958-1972</unitdate></did><c04 id="aspace_4606dc26951755e7cdd7dc2d9b61ee5a" level="file"><did><unittitle>Correspondence and reports</unittitle><physdesc><extent>11 folders</extent></physdesc><unitdate type="inclusive">undated</unitdate><unitdate normal="1967/1972" type="inclusive">1967-1972</unitdate><container label="Box" type="box">7</container></did></c04><c04 id="aspace_6b213953fc507792a7505ab241cd6555" level="file"><did><unittitle>Indirect costs on government contracts</unittitle><physdesc><extent>3 folders</extent></physdesc><unitdate normal="1958/1962" type="inclusive">1958-1962</unitdate><container label="Box" type="box">7</container></did></c04><c04 id="aspace_565d74cfb8d849f0e21741f91220ffa0" level="file"><did><unittitle>Indirect costs on government contracts</unittitle><physdesc><extent>3 folders</extent></physdesc><unitdate normal="1963/1972" type="inclusive">1963-1972</unitdate><container label="Box" type="box">8</container></did></c04><c04 id="aspace_5c2e5ec986d8debc6c41f36a75cd1e7f" level="file"><did><unittitle>Willow Run Overhead Rate</unittitle><container label="Box" type="box">8</container></did></c04><c04 id="aspace_ff4b593ddeaccb524b17d5be849584f1" level="file"><did><unittitle>Faculty compensation for sponsored research</unittitle><container label="Box" type="box">8</container></did></c04><c04 id="aspace_ae2827267268444373d9fbc05873a0d1" level="file"><did><unittitle>Auditor's reports</unittitle><container label="Box" type="box">8</container></did></c04></c03><c03 id="aspace_604d22215b43eb634f93532383e557cf" level="otherlevel" otherlevel="sub-subseries"><did><unittitle>Institute of Science and Technology</unittitle></did><c04 id="aspace_1993970d92a205c5f2af28cc92a2ac3a" level="file"><did><unittitle>General</unittitle><container label="Box" type="box">8</container></did></c04></c03><c03 id="aspace_50a0c19e708ccb6c9f0d15f720234147" level="otherlevel" otherlevel="sub-subseries"><did><unittitle>Phoenix project</unittitle></did><c04 id="aspace_1eccad63ff561990ec1ac9c74eb9bc68" level="file"><did><unittitle>General</unittitle><container label="Box" type="box">8</container></did></c04></c03></c02><c02 id="aspace_2f6c13f9e5c1533bb9868438d3f56fa1" level="subseries"><did><unittitle>NASA Goddard Space Flight Center</unittitle></did><c03 id="aspace_53b5e3edd423ed5b1b4e285e05a95d88" level="file"><did><unittitle>General</unittitle><unitdate normal="1961/1965" type="inclusive">1961-1965</unitdate><container label="Box" type="box">8</container></did></c03></c02><c02 id="aspace_6920147c5cf8a6244aedbfb1a12f76e7" level="subseries"><did><unittitle>National Academy of Sciences</unittitle></did><c03 id="aspace_943bae373590cd129ebbfe63b834f58a" level="otherlevel" otherlevel="sub-subseries"><did><unittitle>U.S.-Brazil Joint Study Group on Norms Standards, and Testing</unittitle></did><c04 id="aspace_152852f6e86c7991db750ea737bd96de" level="file"><did><unittitle>Correspondence and memoranda</unittitle><physdesc><extent>7 folders</extent></physdesc><unitdate type="inclusive">Undated</unitdate><unitdate normal="1964/1969" type="inclusive">1964-1969</unitdate><container label="Box" type="box">8</container></did></c04><c04 id="aspace_8102744789e491ae3d9429ddf3cfba13" level="file"><did><unittitle>Notes</unittitle><container label="Box" type="box">8</container></did></c04><c04 id="aspace_9c04334aea3e1975541bc8d50156521e" level="file"><did><unittitle>Reports</unittitle><physdesc><extent>3 volumes</extent></physdesc><container label="Box" type="box">8</container></did></c04></c03><c03 id="aspace_afe93aa7975877bb5f3cdcbd704a02ae" level="otherlevel" otherlevel="sub-subseries"><did><unittitle>Technical. Advisory Committees to National Bureau of Standards</unittitle></did><c04 id="aspace_e7027144e8714441f97299035214c89f" level="file"><did><unittitle>Correspondence and reports</unittitle><physdesc><extent>8 folders</extent></physdesc><unitdate normal="1955/1967" type="inclusive">1955-1967</unitdate><container label="Box" type="box">8</container></did></c04><c04 id="aspace_83379610dcbda8f944fe4b7c4ef28897" level="file"><did><unittitle>Correspondence and reports</unittitle><physdesc><extent>4 folders</extent></physdesc><unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate><container label="Box" type="box">9</container></did></c04></c03><c03 id="aspace_b605509bccbb73b38103dd0a73ddbcb5" level="otherlevel" otherlevel="sub-subseries"><did><unittitle>National Research Council, Division of Physical Sciences</unittitle></did><c04 id="aspace_9c7bc12855f9e856b468471d518656fa" level="file"><did><unittitle>General</unittitle><physdesc><extent>2 folders</extent></physdesc><unitdate normal="1957/1971" type="inclusive">1957-1971</unitdate><container label="Box" type="box">9</container></did></c04></c03></c02><c02 id="aspace_4271c74af41516337c2687c2903dfbbc" level="subseries"><did><unittitle>National Research Council, Commission on Human Resources and Advanced Training</unittitle></did><c03 id="aspace_9fabee74cd6b43d467f6ed74fc18b12c" level="file"><did><unittitle>General</unittitle><physdesc><extent>1 folder, 1 volume</extent></physdesc><unitdate normal="1948/1954" type="inclusive">1948-1954</unitdate><container label="Box" type="box">9</container></did></c03></c02><c02 id="aspace_cc92e95a18347b7cacd516a9978d11e9" level="subseries"><did><unittitle>National Science Foundation, General Commission on Science, the Federal Government, and the Academic Institution</unittitle></did><c03 id="aspace_cef2b6fea26f79e34bf4c45d2f7d6513" level="file"><did><unittitle>General</unittitle><unitdate normal="1963/1964" type="inclusive">1963-1964</unitdate><container label="Box" type="box">9</container></did></c03></c02><c02 id="aspace_2ddc408a39ab5b890538c4327980083b" level="subseries"><did><unittitle>Navy (U.S.)</unittitle></did><c03 id="aspace_ac6e3b57be791abc6739e17d9ac2692a" level="file"><did><unittitle>Director of Naval Laboratories, Advisory Committee</unittitle><container label="Box" type="box">9</container></did><c04 id="aspace_f97c49db3cb0be9891678f2cc73ec2df" level="file"><did><unittitle>Papers</unittitle><physdesc><extent>3 folders</extent></physdesc><unitdate normal="1965/1968" type="inclusive">1965-1968</unitdate><container label="Box" type="box">9</container></did></c04><c04 id="aspace_5e9b1836d73319e91096c736e1136e4a" level="file"><did><unittitle>Printed materials and reports</unittitle><physdesc><extent>2 folders, 1 volume</extent></physdesc><container label="Box" type="box">9</container></did></c04></c03><c03 id="aspace_562e7b6899c34c98a415d84b62f6c957" level="file"><did><unittitle>Naval Ordnance Laboratory, Silver Spring, Md.</unittitle><unitdate normal="1950/1963" type="inclusive">1950-1963</unitdate><container label="Box" type="box">9</container></did></c03><c03 id="aspace_0a0362f1b319c0e7b3efe65a130d807d" level="file"><did><unittitle>Naval Ordnance Test Station, China Lake, Calif.</unittitle></did><c04 id="aspace_fd460f60c7aec89447a4fc47b2d7a4fb" level="file"><did><unittitle>Papers</unittitle><physdesc><extent>3 folders</extent></physdesc><unitdate normal="1944/1967" type="inclusive">1944-1967</unitdate><container label="Box" type="box">9</container></did></c04><c04 id="aspace_5b9bed219ad87453d6110fa800e8fd99" level="file"><did><unittitle>Aircraft Fire Control Advisory Panel</unittitle><container label="Box" type="box">9</container></did></c04></c03><c03 id="aspace_ae94fa23ac285613bb58c1d2c0b0f68f" level="file"><did><unittitle>Naval Proving Ground (Naval Weapons Laboratory), Dahlgren, Va.</unittitle></did><c04 id="aspace_8495def436b7388dc2ca7ff34b88caa2" level="file"><did><unittitle>Oral history interview with Sawyer regarding his work at NPG</unittitle><unitdate normal="1974/1974" type="inclusive">1974</unitdate><container label="Box" type="box">10</container></did></c04><c04 id="aspace_4a731f7233fc135e35e7f74694ea332b" level="file"><did><unittitle>Correspondence</unittitle><physdesc><extent>3 folders</extent></physdesc><unitdate normal="1941/1965" type="inclusive">1941-1965</unitdate><container label="Box" type="box">10</container></did></c04><c04 id="aspace_a771740a9b02a3ec73757873ddf95445" level="file"><did><unittitle>Advisory Council minutes</unittitle><physdesc><extent>2 folders</extent></physdesc><unitdate normal="1953/1965" type="inclusive">1953-1965</unitdate><container label="Box" type="box">10</container></did></c04><c04 id="aspace_081f49429469988830ed21fb1bd37bcd" level="file"><did><unittitle>History.</unittitle><unitdate normal="1918/1945" type="inclusive">1918-1945</unitdate><container label="Box" type="box">10</container></did></c04><c04 id="aspace_6914f1de37491cc97d4e3f6f980f36f6" level="file"><did><unittitle>Rosters and directory</unittitle><container label="Box" type="box">10</container></did></c04><c04 id="aspace_78413dfaae81d53f8dfc245c9ed894e8" level="file"><did><unittitle>Promotion material</unittitle><container label="Box" type="box">10</container></did></c04><c04 id="aspace_6572a161869c32ad78aacbc5de5d10a0" level="file"><did><unittitle>Memoranda. etc.</unittitle><physdesc><extent>3 folders</extent></physdesc><container label="Box" type="box">10</container></did></c04><c04 id="aspace_fa0dd43fcb61668f58109982f1425940" level="file"><did><unittitle>Armor and Projectile Laboratory reports</unittitle><physdesc><extent>2 folders</extent></physdesc><container label="Box" type="box">10</container></did></c04><c04 id="aspace_ba236ff95993ac307f047d7603804526" level="file"><did><unittitle>Printed material and miscellanea</unittitle><container label="Box" type="box">10</container></did></c04></c03><c03 id="aspace_90323510776dce351029e6b132a8730e" level="file"><did><unittitle>Naval Reserve</unittitle><unitdate normal="1948/1958" type="inclusive">1948-1958</unitdate><container label="Box" type="box">10</container></did></c03><c03 id="aspace_cb8e331e68459dc73c7f8f04971c8f05" level="file"><did><unittitle>Naval War College</unittitle><unitdate normal="1954/1954" type="inclusive">1954</unitdate><unitdate normal="1960/1960" type="inclusive">1960</unitdate><container label="Box" type="box">10</container></did></c03><c03 id="aspace_39d254b3c3a6efcfaaedce88e3f2c1f5" level="file"><did><unittitle>Subsurface Warfare Conference</unittitle><unitdate normal="1948/1948" type="inclusive">1948</unitdate><container label="Box" type="box">10</container></did></c03><c03 id="aspace_2719a8431b0bf9961f06d133adeb0b58" level="file"><did><unittitle>Naval Technical mission in Europe Notebook and miscellanea</unittitle><container label="Box" type="box">10</container></did></c03><c03 id="aspace_dbb262e37053a6296944d68fbeff0a6c" level="file"><did><unittitle>Miscellanea</unittitle><container label="Box" type="box">10</container></did></c03></c02><c02 id="aspace_9aa9d2249b6e0fe7c58542457ce024f3" level="subseries"><did><unittitle>New York University Hall of Fame</unittitle></did><c03 id="aspace_9b0ff721e310b9600acd7acb57fa8d3e" level="file"><did><unittitle>General</unittitle><unitdate normal="1970/1970" type="inclusive">1970</unitdate><container label="Box" type="box">10</container></did></c03></c02><c02 id="aspace_98094e077d95423a8b853f9c6129941b" level="subseries"><did><unittitle>Nuclear Power</unittitle></did><c03 id="aspace_e1b68834d741b55d123a7d686452a7c8" level="file"><did><unittitle>General</unittitle><physdesc><extent>2 folders</extent></physdesc><unitdate normal="1947/1955" type="inclusive">1947-1955</unitdate><unitdate normal="1970/1973" type="inclusive">1970-1973</unitdate><container label="Box" type="box">10</container></did></c03></c02><c02 id="aspace_32b1fb7d1c42c0514375bfa1a8ba6cea" level="subseries"><did><unittitle>Optical Society of America</unittitle></did><c03 id="aspace_688f008be075fda41fb709cdc2b60a55" level="file"><did><unittitle>Correspondence</unittitle><physdesc><extent>4 folders</extent></physdesc><unitdate normal="1940/1942" type="inclusive">1940-1942</unitdate><unitdate normal="1951/1956-04" type="inclusive">1951-April 1956</unitdate><container label="Box" type="box">10</container></did></c03><c03 id="aspace_31564e6793dda6ebac46f9455fddc969" level="file"><did><unittitle>Correspondence</unittitle><physdesc><extent>9 folders</extent></physdesc><unitdate normal="1956-05/1973" type="inclusive">May 1956-1973</unitdate><container label="Box" type="box">11</container></did></c03><c03 id="aspace_754de89198060807a26e8dae8d415288" level="file"><did><unittitle>Awards committee</unittitle><physdesc><extent>2 folders</extent></physdesc><unitdate normal="1967/1972" type="inclusive">1967-1972</unitdate><container label="Box" type="box">11</container></did></c03><c03 id="aspace_9cfb795e2f80aa871ceb140e9a0527f2" level="file"><did><unittitle>Detroit Meeting committee</unittitle><unitdate normal="1966/1967" type="inclusive">1966-1967</unitdate><container label="Box" type="box">11</container></did></c03><c03 id="aspace_8fc5d050d7e8006f47f9d84bea97356f" level="file"><did><unittitle>Ives Medal committee</unittitle><unitdate normal="1964/1966" type="inclusive">1964-1966</unitdate><container label="Box" type="box">11</container></did></c03><c03 id="aspace_557131fa36d1fe9223d7af2d49b7ed35" level="file"><did><unittitle>Lomb Medal committee</unittitle><unitdate normal="1950/1959" type="inclusive">1950-1959</unitdate><container label="Box" type="box">11</container></did></c03><c03 id="aspace_69284b40a82a9241e095c924ef1e9dca" level="file"><did><unittitle>Minutes</unittitle><unitdate normal="1953/1958" type="inclusive">1953-1958</unitdate><container label="Box" type="box">11</container></did></c03><c03 id="aspace_f68dd5df646326bfd107274e1fba06e5" level="file"><did><unittitle>Reports</unittitle><physdesc><extent>2 folders</extent></physdesc><container label="Box" type="box">11</container></did></c03></c02><c02 id="aspace_3e7cf4391c902bab26b5c233a5ede6e8" level="subseries"><did><unittitle>Travel</unittitle></did><c03 id="aspace_d958d64a5370d774af80ff45c76eb64f" level="otherlevel" otherlevel="sub-subseries"><did><unittitle>German trip</unittitle><unitdate normal="1954/1954" type="inclusive">1954</unitdate></did><c04 id="aspace_418fe88eb787b96c6cee12aaf8803c7f" level="file"><did><unittitle>Correspondence</unittitle><container label="Box" type="box">11</container></did></c04><c04 id="aspace_ab351b5dd1722041732ee5635c021cba" level="file"><did><unittitle>Speeches</unittitle><physdesc><extent>3 folders</extent></physdesc><container label="Box" type="box">11</container></did></c04><c04 id="aspace_464984aceea65ddb225d2c5781c39795" level="file"><did><unittitle>Newsclippings and miscellanea</unittitle><container label="Box" type="box">11</container></did></c04></c03><c03 id="aspace_8a18bd2cc24aa0229f2cc3288c4ad622" level="otherlevel" otherlevel="sub-subseries"><did><unittitle>Taiwan trip</unittitle><unitdate normal="1959/1959" type="inclusive">1959</unitdate></did><c04 id="aspace_32b3e8d3fcdbc411cac42bb25c3cfddc" level="file"><did><unittitle>General</unittitle><container label="Box" type="box">11</container></did></c04></c03></c02><c02 id="aspace_b2066dd187a0ca479d789f928788546d" level="subseries"><did><unittitle>Washington colloquium on Science and Society</unittitle><unitdate normal="1966/1966" type="inclusive">1966</unitdate></did><c03 id="aspace_a4615af4f496de846873267ecdab6ccd" level="file"><did><unittitle>General</unittitle><container label="Box" type="box">11</container></did></c03></c02><c02 id="aspace_1f15804fabdff3b20b497f5ae0ad04fe" level="subseries"><did><unittitle>Miscellaneous</unittitle></did><c03 id="aspace_2cdda9afcbdab4b2cdf2718ee159c434" level="file"><did><unittitle>Newsclippings</unittitle><physdesc><extent>2 folders</extent></physdesc><container label="Box" type="box">11</container></did></c03><c03 id="aspace_7a3483fbab555d3842d8441fe316b149" level="file"><did><unittitle>Miscellanea</unittitle><container label="Box" type="box">11</container></did></c03><c03 id="aspace_eb7d67a2f82cbe91a1e3d3ea94593f3a" level="file"><did><unittitle>Miscellaneous notebooks</unittitle><container label="Box" type="box">11</container></did></c03></c02></c01><c01 id="aspace_0a1783d3b561995ffbe547a7ea0dac51" level="series"><did><unittitle>Visual Materials</unittitle></did><scopecontent><p>Visual Materials includes photographs and motion picture films. The photographs consist of portraits and group portraits of Sawyer with professional associations, notably the University of Michigan's Summer Symposium in Theoretical Physics. There are also photographs accumulated from the period when he was associated with the Bikini Atoll bomb tests in 1946. The motion pictures are also of the Bikini testing. For research use, a videotape (U-matic format) has been made of the motion pictures.</p></scopecontent><c02 id="aspace_e03476106c8765d7263e008ed717ae34" level="subseries"><did><unittitle><genreform>Photographs</genreform></unittitle></did><c03 id="aspace_1a893a94c7779d1516810dac37b482e0" level="file"><did><unittitle>Apparatus</unittitle><container label="Box" type="box">12</container></did></c03><c03 id="aspace_713a308d55910b0d085bc499c42d9eb6" level="file"><did><unittitle>Bikini atom bomb tests</unittitle><unitdate normal="1946/1946" type="inclusive">1946</unitdate><container label="Box" type="box">12</container></did></c03><c03 id="aspace_7bde58128ed22d6daf42e5a5ab02655c" level="file"><did><unittitle>German trip</unittitle><unitdate normal="1954/1954" type="inclusive">1954</unitdate><container label="Box" type="box">12</container></did></c03><c03 id="aspace_b7374670eaf20c494fbe8ac8d1ef5934" level="file"><did><unittitle>Groups</unittitle></did><c04 id="aspace_3ae1999324b9d1809610437e8c319272" level="file"><did><unittitle>AIP governing board</unittitle><container label="Box" type="box">12</container></did></c04><c04 id="aspace_9b775bdd3473114c5ce25ca3beabd6a1" level="file"><did><unittitle>Michigan State Teachers of Physics</unittitle><unitdate normal="1920/1920" type="inclusive">1920</unitdate><container label="Box" type="box">12</container></did></c04><c04 id="aspace_0fd6154d43a90b97ebf72a054d0592d6" level="file"><did><unittitle>Miscellaneous</unittitle><container label="Box" type="box">12</container></did></c04></c03><c03 id="aspace_13c299b1ee9edd376502a85ca2fb64e9" level="file"><did><unittitle>Navy and Naval Proving Grounds, Dahlgren, Virginia</unittitle><container label="Box" type="box">12</container></did></c03><c03 id="aspace_8af4a909babd1de63d42b2dfae3b49a5" level="file"><did><unittitle>Portraits, etc.</unittitle><container label="Box" type="box">12</container></did></c03><c03 id="aspace_bfd6decbf8564567c35a6767ca9e21c4" level="file"><did><unittitle>Retirement dinner</unittitle><unitdate normal="1964-09-11/1964-09-11" type="inclusive">September 11, 1964</unitdate><container label="Box" type="box">12</container></did></c03><c03 id="aspace_21228837f2a1b81f127d1c75f36cf6a9" level="file"><did><unittitle>Summer Symposium in Theoretical Physics</unittitle><container label="Box" type="box">12</container></did></c03><c03 id="aspace_e779c81248a3e4d9ef625ca60d402bc9" level="file"><did><unittitle>Visit of Dr. H. Kaiser to Ann Arbor</unittitle><unitdate normal="1963/1963" type="inclusive">1963</unitdate><container label="Box" type="box">12</container></did></c03><c03 id="aspace_04f060c2f52625fca984672780b28dbf" level="file"><did><unittitle>Visit of Major General Beach, Willow Run</unittitle><unitdate normal="1961/1961" type="inclusive">1961</unitdate><container label="Box" type="box">12</container></did></c03></c02><c02 id="aspace_ce7384fdfc4a871183f973917726ae92" level="subseries"><did><unittitle><genreform normal="Motion pictures">Films</genreform></unittitle></did><c03 id="aspace_adfe69a995fc953527bdfda56b56ca43" level="file"><did><unittitle>Bikini atom bomb tests</unittitle><physdesc><extent>2 reels, 1 videotape (U-matic)</extent></physdesc><unitdate normal="1946/1946" type="inclusive">1946</unitdate><container label="Box" type="box">12</container></did><odd><p>(1 oversize film Separately located)</p></odd></c03></c02></c01><c01 id="aspace_5ba94e83e8dfca6f39696a1cd6cbb973" level="series"><did><unittitle><genreform normal="Sound recordings">Sound Recordings</genreform></unittitle></did><scopecontent><p>Sound Recordings is a small series of two reel-to-reel tapes speeches made by Sawyer over German radio in 1954. The speeches are in German. Sawyer had been selected by the U.S. State Department to tour Germany as part of President Eisenhower's program to share atomic energy information with friendly nations.</p></scopecontent><c02 id="aspace_6da20fd066f182490cfdacb6a0d15e70" level="file"><did><unittitle>Recordings of speeches made over German radio</unittitle><physdesc><extent>2 audiotapes (reel-to-reel tapes)</extent></physdesc><unitdate normal="1954/1954" type="inclusive">1954</unitdate><container label="Box" type="box">12</container></did><odd><p>(in German)</p></odd></c02></c01></dsc>
+  <descgrp type="add">
+    <relatedmaterial>
+      <head>Related Material</head>
+<p>Other materials in the library of related interest include files of the Horace H. Rackham School of Graduate Studies from the period when Sawyer was dean, and records of the Michigan Memorial Phoenix Project during Sawyer's directorship.</p>    </relatedmaterial>
+    <index id="aspace_0caa55c0bbc0760fcc04d899e7c548b5">
+      <head>Selective Index to Correspondence</head>
+<p>This index refers to the "General" section of the Correspondence series except when noted otherwise in an index entry. The index was compiled by Bentley Library staff and a researcher.</p>      <indexentry>
+        <persname>Abbitt, W. H.</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 19, 1960; May 12, 1958; March 11, 1957; July 1, 1957; Dec. 10, 1956; Jan. 21, 1954; March 10, 1954; Aug. 5, 1950; Nov. 7, 1950; April 26, 1949; Jan. 21, 1948; Feb. 9, 1947; Nov. 24, 1947</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ackley, Gardner, 1915</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 19, 1959 (in the Office of Research Administration files of the University of Michigan)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Adams, James Pickwell, 1895-1969.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 23, 1946; July 10, 1946; July 12, 1946; June 6, 1951 (in the Michigan University Rackham Appointment file)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Adams, Marchk F.</persname>
+        <ref>
+          <list type="simple">
+            <item>July 24, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Air Force Cambridge Res. Lab. Office of Aerospace Research</corpname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 5, 1966</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Allen, E. C.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 6, 1960</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>American Institute of Physics</corpname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 7, 1957; Jan. 16 1957</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>American Society for Testing Materials</corpname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 9, 1953</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Archer, Hugh M.</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 16, 1970</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ardis, Evart W.</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 28, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Astin, Allen Varley, 1904</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 25, 1964; March 24, 1965; Sept. 16, 1966; Sept. 19, 1966; July 25, 1967; Jan. 30, 1968; Feb. 16, 1968; May 7, 1968 (in the National Academy of Sciences - National Research Council correspondence)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Attwood, Stephan</persname>
+        <ref>
+          <list type="simple">
+            <item>Jun 19, 1964</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bailey, G.W.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 15, 1959; March 30, 1959; Aug. 5, 1958; Dec. 3, 1958</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Baird Associates</corpname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 15, 1943</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Baits, Vera</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 28, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Baker, Charlene</persname>
+        <ref>
+          <list type="simple">
+            <item>(no date)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ballard, Stanley S.</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 25, 1978; Oct.19, 1970; Jun 23, 1948</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bardócz, A.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jun 17, 1957</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Barker, Dale</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 9, 1964</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Barker, Ernest Franklin, 1886-1970.</persname>
+        <ref>
+          <list type="simple">
+            <item>April 25, 1945; Oct. 30, 1945; Dec. 26, 1945 (in the Michigan University Physics Department correspondence). July 5, 1946 (in the Michigan University Rackham Appointment file)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Barnes, Clifford A.</persname>
+        <ref>
+          <list type="simple">
+            <item>July 26, 1966</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Bausch &amp; Lomb Optical Co.</corpname>
+        <ref>
+          <list type="simple">
+            <item>Oct.12, 1943</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bennett, Ralph D. (U.S. Naval Ord. Lab)</persname>
+        <ref>
+          <list type="simple">
+            <item>May 26, 1948; July 2, 1948; July 27, 1948</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Benson, Albin</persname>
+        <ref>
+          <list type="simple">
+            <item>July 16, 1964</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Berelson, Bernard R, 1912</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 10, 1958; Feb. 5, 1958; Feb. 14, 1958; Jan. 19, 1960; Feb. 18, 1960 (in the Michigan University Rackham Surveys file)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Beutler, Hans</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 3, 1941; April 23, 1941; April 28; Aug. 4, [1940]; Dec. 9; Dec. 7, 1938</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Blaisdell, Warren</persname>
+        <ref>
+          <list type="simple">
+            <item>March 29, 1950</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Boland, William A.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 6, 1951; Jun 18, 1951; Jun 20, 1951; July 18, 1951; Aug. 22, 1951</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bott, William J.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jun 9, 1964</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bowles, Gordon T.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 28, 1949</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Boydston, R.W.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jun 1, 1957</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bradbury, Norris Edwin, 1909-</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 4, 1963; May 14, 1964; Feb. 18, 1965 (in the Naval Proving Ground correspondence)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bradley, Albert</persname>
+        <ref>
+          <list type="simple">
+            <item>May 31, 1955</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bradley, George</persname>
+        <ref>
+          <list type="simple">
+            <item>May 4, 1966</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Brady, Joe</persname>
+        <ref>
+          <list type="simple">
+            <item>May 26, 1964; Jun 3, 1964</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Brady, Joseph V.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct.5, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bro, Albin C.</persname>
+        <ref>
+          <list type="simple">
+            <item>April 15-16, 1948; March 25, 1948; Nov. 13, 1947; Dec. 30, 1947</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Brode, Robert B, 1900-</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 17, 1949; May 23, 1949; June 3, 1949; March 23, 1954; April 6, 1954; April 13, 1954 (the last 3 in the Naval Ordnance Test Station correspondence)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Brode, Wallace Reed, 1900-1974.</persname>
+        <ref>
+          <list type="simple">
+            <item>Sep 7, 1960; Feb. 20, 1960; March 27, 1964 Feb. 20, 1960; March 27, 1964; and March 14, 1957 (in the National Academy of Sciences - National Bureau of Standards correspondence); Feb. 1, 1952; Feb. 8, 1952; Feb. 24, 1955; March 30, 1955; April 19, 1956; Sept. 11 1956; Sept. 27, 1956; Jan. 24, 1957; Jan. 29, 1957; Feb. 5, 1957; May 15, 1957; Dec. 2, 1957 (in the Optical Society of America files)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bronk, Detlev W.</persname>
+        <ref>
+          <list type="simple">
+            <item>April 7, 1953</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Brooks, Jack</persname>
+        <ref>
+          <list type="simple">
+            <item>March 6, 1974</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Brown, Michael</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 2, 1958</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Burke, Arleigh</persname>
+        <ref>
+          <list type="simple">
+            <item>March 11, 1959; Jun 2, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Burns, Keivin</persname>
+        <ref>
+          <list type="simple">
+            <item>Jun 14, 1944</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Butts, Joseph S.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 12, 1955</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Cadwell, Sidney</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 26, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Calder, Allen B.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 5, 1969</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Carl Zeiss, Inc.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 22, 1940; Dec. 2, 1940</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Carnegie Endowment for International Peace</corpname>
+        <ref>
+          <list type="simple">
+            <item>April 10, 1950; April 18, 1950</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Cattell, Jacques</persname>
+        <ref>
+          <list type="simple">
+            <item>April 27, 1949</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Central Bank of the Philippines</persname>
+        <ref>
+          <list type="simple">
+            <item>Jun 15, 1964</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Chalklin, F. C.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 24, 1948; March 18, 1948</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>John D. Chase</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 27, 1968</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Chung, Mrs. Won-Yang</persname>
+        <ref>
+          <list type="simple">
+            <item>April 15, 1963</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Church, Deborah</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 24, 1968; Jan. 28, 1969</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Clark, C. E. Frazer</persname>
+        <ref>
+          <list type="simple">
+            <item>May 23, 1958</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Conf. Board of Assoc. Research Councils</corpname>
+        <ref>
+          <list type="simple">
+            <item>April 7, 1953; April 23, 1953; Oct.31, 1952</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Conf. on Administration of Research</corpname>
+        <ref>
+          <list type="simple">
+            <item>Oct.4, 1951</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Cook, Albert B.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jun 30, 1950</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Corcos, Joseph M.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 1, 1967</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Cowley, M. Allen &amp; C.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct.26, 1970</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Cress, Earl H.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct.5, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Crow, Allan B.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 23, 1948</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Crowe, Marguerite O'Loghlin</persname>
+        <ref>
+          <list type="simple">
+            <item>March 4, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Cunningham, S.B.</persname>
+        <ref>
+          <list type="simple">
+            <item>April 22, 1941; Sept. 25, 1941</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Damaso, Connie</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 2, 1961</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Darrow, Karl K.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct.16, 1966; Jan. 11, 1962; Jan. 15, 1962; Jan. 20, 1962; Dec. 28, 1961</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Dartmouth College</corpname>
+        <ref>
+          <list type="simple">
+            <item>March 26, 1969; April 7, 1969</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Davis, James M.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 11, 1969</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Dennison, David Mathias, 1900-1976.</persname>
+        <ref>
+          <list type="simple">
+            <item>July 7, 1946 (in the Michigan University Physics Dept. correspondence)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Dickey, John S.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 25, 1962</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Dorr, Harold M.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jun 29, 1964</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Dorry, Gertrude Nye</persname>
+        <ref>
+          <list type="simple">
+            <item>Jun 1, 1963; April 1957</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>RSA Dougherty (Beth Steel)</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 19, 1979</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Dow Chemical Company</corpname>
+        <ref>
+          <list type="simple">
+            <item>Oct.14, 1964</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Dow, William Gould, 1895-</persname>
+        <ref>
+          <list type="simple">
+            <item>July 7, 1960 (in the Michigan University Office of Research Administration files)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Drake, J. F.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 15, 1958</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Eastman Kodak Co.</corpname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 14, 1952; May 8, 1951; April 27, 1951; Jan. 17, 1951; Jun 22, 1950; Oct.20, 1943</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Eaton, Mildred (Dept. of Commerce)</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 4, 1951</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Edds, Joyce</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 17, 1947</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Edmonson, J.B.</persname>
+        <ref>
+          <list type="simple">
+            <item>March 6, 1952</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Eisenhower, Edgar N.</persname>
+        <ref>
+          <list type="simple">
+            <item>April 30, 1964</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Engleman, Chris L.</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 31, 1948</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Fajans, Kasimir, 1887-1975.</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 8, 1966; Dec. 15, 1966; Nov. 30, 1967</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Fischer, O. O.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 31, 1947</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Fisher, Russell A.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 5, 1955</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Fleming, G.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct.6, 1952</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Folsum, Dick</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct.6, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Försterling, Karl</persname>
+        <ref>
+          <list type="simple">
+            <item>May 20, 1950</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Forsythe, W. E.</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 3, 1928</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Foust, Judson W.</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 29, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Frank, Henry S.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 20, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Freund, C. J.</persname>
+        <ref>
+          <list type="simple">
+            <item>April 4, 1950</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Gaertner Scientific Corp.</corpname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 16, 1943; Nov. 24, 1943; May 28, 1940</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Gemmell, Lee</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 8, 1948; Sept. 13, 1948</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Gilfillan, Edward S.</persname>
+        <ref>
+          <list type="simple">
+            <item>March 10, 1947; March 20, 1947; April 2, 1947</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Goodridge, Edwin T.</persname>
+        <ref>
+          <list type="simple">
+            <item>April 28, 1948</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Gillieson, A. H.</persname>
+        <ref>
+          <list type="simple">
+            <item>July 22, 1948</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Goldberg, Leo</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 28, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Gomberg, Henry J.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 9, 1954</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Gosling, L. A. Peter</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 9, 1974</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Goudsmit, Sam A.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 6, 1947</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Griffin, Clare Elmer, 1892-</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct.9, 1947; Nov. 22, 1947</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Guggenheim Foundation</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 19, 1941; Nov. 30, 1937</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Gunn, Rose</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 22, 1956</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Haber, William, 1899-</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 25, 1951 (in the National Research Council, Commission on Human Resources file)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hanau, Richard</persname>
+        <ref>
+          <list type="simple">
+            <item>March 17, 1952</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hansen, Gerhard</persname>
+        <ref>
+          <list type="simple">
+            <item>May 25, 1946; Nov. 30, 1959; Aug. 18, 1960; Nov. 15, 1960; Jan. 20, 1961; July 28, 1961; Dec. 15, 1947 (in Michigan. University. Physics Dept. correspondence); Jan. 1, 1954; and Aug. 28, 1954 (in the Travel-Germany correspondence)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Harnwell, G. P.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct.13, 1950</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Harrison, George R</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 20, 1948; April 22, 1948; May 4, 1948; May 17, 1948; June 1, 1948; and Dec. 14, 1950 Aug. 5, 1940; Oct. 15, 1940; Oct. 28, 1941; Feb. 7, 1942; Jan. 31, 1957; and March 1, 1957 (in the Optical Society of America files); Jan. 29, 1942</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hawley, Amos H</persname>
+        <ref>
+          <list type="simple">
+            <item>May 15, 1964</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Haynes, Phillip R.</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 30, 1964</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hayward, Sidney C.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 2, 1947</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Heineman, D. N.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 22, 1961</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Heneman, H. J.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jun 1, 1954; Aug. 11, 1954</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Herrberg, Gerhard</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 1971</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Herzberg, G.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 1, 1961</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hess, R.E.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct.6, 1953</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Heston, William</persname>
+        <ref>
+          <list type="simple">
+            <item>July 3, 1963</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hilberry, Clarence B.</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 17, 1959; Feb. 5, 1954</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Adam Hilger LTD (Optical Instrumt. Makers)</corpname>
+        <ref>
+          <list type="simple">
+            <item>Jun 7, 1940</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>von Hippel, A.</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 2, 1946</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hobbs, Lindsey M.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 1, 1960; Jan. 20, 1960</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hobbs, William H.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct.22, 1948</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Howe, Harold</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct.8, 1964; Oct.22, 1964; Nov. 7, 1964</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Howlett, B.A.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jun 3, 1949</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hoyt, Gordon</persname>
+        <ref>
+          <list type="simple">
+            <item>April 9, 1953; undated</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hughes, A.L.</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 24, 1947</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hughes, T.P.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 12, 1961</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hulburt, Ed</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 1, 1953; Feb. 3, 1947</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hussey, G. F., Jr.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 6, 1946; Dec. 21, 1946</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hutchisson, Elmer</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 2, 1962; Jan. 5, 1962; Jan. 15, 1962; Jan. 19, 1962; Jan. 3, 1962; Nov. 16, 1961; Oct.11, 1946</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ihrig, Harry K.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 2, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Irish, P. R. (Beth. Steel)</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 3, 1952; Dec. 29, 1952</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Jarrell, Richard F.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct.11, 1943; Oct.27, 1943</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Jenkins, F.A.</persname>
+        <ref>
+          <list type="simple">
+            <item>April 11, 1941; Jun 1, 1941; Jun 10, 1941; Jun 20, 1941; March 12, 1941; Aug. 28, 1941; July 19, 1937</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Johns Hopkins Univ.</corpname>
+        <ref>
+          <list type="simple">
+            <item>Oct.25, 1948</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Johnson, G. W.</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 4, 1950; Sept. 20, 1950; April 19, 1948; Jun 27, 1948</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Johnson, Jerry</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 1, 1952</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Jones, Donald W.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jun 21, 1950</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Jones, Herbert W.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 5, 1965</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Jones, Keven R.</persname>
+        <ref>
+          <list type="simple">
+            <item>April 17, 1950</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Jones &amp; Laughlin Steel Corp.</corpname>
+        <ref>
+          <list type="simple">
+            <item>May 19, 1969</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Journal of the Optical Society of America</corpname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 10, 1973; Nov. 20, 1973; Nov. 27, 1968</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Kahn, Reuben L.</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 28, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Keeley, Joseph</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 21, 1964</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Kelleher, Alfred</persname>
+        <ref>
+          <list type="simple">
+            <item>Jun 15, 1964; March 10</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Kelly, Everett Lowell, 1905-</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 27, 1959; Jan. 30, 1959; and July 8, 1960 (in the Michigan. University. Office of Research Administration files)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Keniston, Hayward, 1883-1970.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 13, 1947 and July 1957 (in the Graduate Schools, Ranking file); July 2, 1946 (in the Joint Task Force 1 correspondence)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Kennard, D. C. Jr.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 17, 1968</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Kleffel, O.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct.21, 1954</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Klein, Elias</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 1968</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Klopsteg, Paul E.</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 8, 1967</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Knowles, Hugh Shaler, 1904-</persname>
+        <ref>
+          <list type="simple">
+            <item>June 14, 1954 (in the American Institute of Physics files)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Knudsen, Vern O.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 3, 1947</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Koch, Harlan C.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jun 19, 1964</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Kock, Winston E.</persname>
+        <ref>
+          <list type="simple">
+            <item>July 17, 1964</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Kraus, Edward H.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jun 12, 1944</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Kruger, P. G.</persname>
+        <ref>
+          <list type="simple">
+            <item>March 14, 1950; Dec. 6, 1949</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ladney, Michael, Jr.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 22, 1963</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Lathem, Edward Connery</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 9, 1964; July 28, 1955; Aug. 10, 1955; Aug. 25, 1955</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Lake Superior State College</corpname>
+        <ref>
+          <list type="simple">
+            <item>April 16, 1970</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Lee, John J.</persname>
+        <ref>
+          <list type="simple">
+            <item>April 29, 1964</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Leeds &amp; Northrup Co.</corpname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 7, 1940</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Line, Winfield</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 12, 1954</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Los Alamos Scientific Lab.</corpname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 13, 1947; Feb. 7, 1947 (LG Hawkins); Feb. 21, 1947; Jan. 8, 1947 (AE Deyre); Sept. 27, 1946; Nov. 6, 1946 (MA O'Brien); Nov. 27, 1946 (JE Harris); Dec. 4, 1946 (RC Smith); Dec. 6, 1946 (S Newburger, Jr.)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>MacAdam, David L.</persname>
+        <ref>
+          <list type="simple">
+            <item>April 2, 1969; March 26, 1971</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>MacBeth Corporation</corpname>
+        <ref>
+          <list type="simple">
+            <item>Jun 17, 1958</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>McMath, Robert R.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct.6, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>McMillin, J. B.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 6, 1951</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>McQuesten, Mrs. Herbert E.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 29, 1964; Oct.17, 1952; Dec. 4, 1952</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Mack, Mrs. Julian E.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 5, 1968; Feb. 5, 1954</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Majumdar, K.</persname>
+        <ref>
+          <list type="simple">
+            <item>April 15, 1970</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Marley, Faye</persname>
+        <ref>
+          <list type="simple">
+            <item>July 1, 1960</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Masterson, Keith D.</persname>
+        <ref>
+          <list type="simple">
+            <item>March 16, 1966; Feb. 28, 1966</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Meader, George, 1907-</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 25, 1960; April 11, 1961; March 28, 1962; and May 21, 1962 (in the Michigan University Office of Research Administration files); Oct.9, 1954</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Meggers, William F.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct.4, 1944</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Mendenhall, W. K., Jr.</persname>
+        <ref>
+          <list type="simple">
+            <item>March 8, 1958</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Metropolis, Nicholas</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 18, 1943</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Meyer, Charles F.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 29, 1944</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Mich. College of Mining &amp; Tech.</corpname>
+        <ref>
+          <list type="simple">
+            <item>Jun 5, 1959; Jun 3, 1959; May 28, 1959; May 7, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Mich. State College</corpname>
+        <ref>
+          <list type="simple">
+            <item>April 4, 1952; April 18, 1952</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Miller, Bruce J.</persname>
+        <ref>
+          <list type="simple">
+            <item>April 3, 1953; April 21, 1953</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Miller, Freeman D.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 30, 1977</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Minn.-Honeywell Regulator Co.</corpname>
+        <ref>
+          <list type="simple">
+            <item>Jun, 9, 1958</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Henry Allen Moe</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 1, 1966; Dec. 13, 1965; Jun 30, 1964; March 11, 1953; March 23, 1953</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Moore, A. D.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 3, 1947</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Mulder, Harlan J.</persname>
+        <ref>
+          <list type="simple">
+            <item>April 18, 1966</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Mulliken, R. S.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 19, 1942</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Murphy, Irene</persname>
+        <ref>
+          <list type="simple">
+            <item>May 15, 1960</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Murphy, John E.</persname>
+        <ref>
+          <list type="simple">
+            <item>April 3, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>National Bureau of Standards</corpname>
+        <ref>
+          <list type="simple">
+            <item>Jun 5, 1951; Jan. 30, 1950; Feb. 26, 1947</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>National Research Council</corpname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 12, 1958; Feb. 4, 1949</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>National Science Foundation</corpname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 13, 1963</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Naval Surface Weapons Ctr.</corpname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 6, 1978; Dec. 10, 1970</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Nelson, Donald F.</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 8, 1965</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Newburn, H. K.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 14, 1949</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Niehuss, Marvin L.</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 26, 1959; Aug. 30, 1956</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Norman, A. G.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jun 18, 1965</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>NW Univ. College of Liberal Arts, Dept. of Physics</corpname>
+        <ref>
+          <list type="simple">
+            <item>May 8, 1930; Jun 2, 1930; Jun 7, 1930</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>O'Connor, T. J.</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 28, 1961</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Olson, William C.</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 23, 1971</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Optical Society of America</corpname>
+        <ref>
+          <list type="simple">
+            <item>May 6, 1971</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Oregon State University</corpname>
+        <ref>
+          <list type="simple">
+            <item>July 15, 1970</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Otero, Jose M</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 14, 1961</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Owens, James S.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jun 8, 1971; Sept. 29, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Paganelli, E.</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 6, 1948</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Page, Thornton</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 25, 1948</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Parker, J. W.</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 26, 1947</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Parsons, Carey Evlya</persname>
+        <ref>
+          <list type="simple">
+            <item>March 7, 1953</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Parsons, W. S.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 11, 1946; Dec. 15, 1947</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Paschen, F.</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 15, 1926; Dec. 2, 1927; May 12, 1928; May 16, 1928; Oct. 7, 1929; June 20, 1936; July 20, 1936; Dec. 4, 1927; Sept. 16, 1926</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Pasvolsky, Leo</persname>
+        <ref>
+          <list type="simple">
+            <item>May 19, 1947</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Peckham, Donald C.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 9, 1964</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Peet, Bert W.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 4, 1946</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Peet, Max M</persname>
+        <ref>
+          <list type="simple">
+            <item>July 21, 1948</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Pendill, Claudius G.</persname>
+        <ref>
+          <list type="simple">
+            <item>July 6, 1950</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Penney, William George, 1909-</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 22, 1946 (in the Joint Task Force 1 correspondence file)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Pergamon Institute</corpname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 10, 1956</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Perkins, John A.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 7, 1958</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Phelps, Fred</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 29, 1977</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Phinney, Elizabeth</persname>
+        <ref>
+          <list type="simple">
+            <item>Jun 10, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Platt, John</persname>
+        <ref>
+          <list type="simple">
+            <item>April 13, 1955; Jan. 9, 1955; May 3, 1946</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Prentice Hall Inc.</corpname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 18, 1953; July 11, 1952; Aug. 28, 1951; Jan. 12, 1951; Jan. 10, 1951; March 21, 1951; April 10, 1951; April 24, 1951; Jun 20, 1950; Feb. 24, 1950; July 21, 1950; Nov. 8, 1950; July 13, 1950; July 21, 1950; July 31, 1950; Aug. 9, 1950; Dec. 16, 1949; Feb. 9, 1950; March 13, 1950; May 9, 1950; May 19, 1950; Nov. 22, 1949; Aug. 4, 1948; Sept. 20, 1948; May 17, 1948; May 21, 1948; April 2, 1948; March 13, 1948; April 6, 1948; April 14, 1948; May 27, 1948; July 9, 1948; July 30, 1948; Jun 23, 1947; April 17, 1946; April 2, 1946; March 3, 1945; Oct.15, 1945; Dec. 15, 1944; Nov. 9, 1944; July 27, 1943; Aug. 31, 1944; Jan. 31, 1944; Oct.5, 1944; Sept. 14, 1944; Sept. 28, 1944; Jun 15, 1944; Jun 19, 1944; Oct.20, 1944; March 3, 1944; Feb. 5, 1944; Feb. 11, 1944; Jan. 19, 1944; Feb. 3, 1944; May 7, 1943; Dec. 7, 1943; July 21, 1943; March 15, 1943; Jan. 21, 1942; Jan. 26, 1942; Feb. 13, 1942; March 31, 1942; Dec. 30, 1942; May 15, 1937; March 6, 1941; Jan. 15, 1941; July 16, 1940; May 8, 1939; July 26, 1938; Oct.28, 1938; April 15, 1977; March 11, 1937; Feb. 26, 1937</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Price, Derek John deSolla, 1922-</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 20, 1965</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Putzold, E.Y.</persname>
+        <ref>
+          <list type="simple">
+            <item>March 14, 1955; March 23, 1955</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Prine, Arthur C.</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 30, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Pryor, Millard H.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jun 18, 1953</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Radford School, El Paso</corpname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 24, 1949; May 25, 1949</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Radock, Michael</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 6, 1963</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Randall, Harrison McAllister, 1870-1969.</persname>
+        <ref>
+          <list type="simple">
+            <item>July 7, 1919; July 25, 1919; Aug. 21, 1919; May 24, 1921; and June 30, 1927 (in the Michigan. University Physics Dept. correspondence file) Nov. 4, 1963 (in the Michigan. University. Rackham Retirement file)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Rassweiler, Gerald M.</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 15, 1972</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ratner, Sidney</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 20, 1957</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Reader, Joseph</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 24, 1970</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Regents of the Univ. of Michigan</corpname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 9, 1954</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Reitner, H. L.</persname>
+        <ref>
+          <list type="simple">
+            <item>March 1, 1958</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Republicans and Independents for Johnson</corpname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 13, 1964</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Richardson, Harold W.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 26, 1964</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Riddle, F.L.</persname>
+        <ref>
+          <list type="simple">
+            <item>July 18, 1950</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Rieser, Leonard</persname>
+        <ref>
+          <list type="simple">
+            <item>April 3, 1961</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Rollwagen, Walter</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 8, 1947</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Romney, George</persname>
+        <ref>
+          <list type="simple">
+            <item>March 23, 1964</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Rosenhaupt, Hans</persname>
+        <ref>
+          <list type="simple">
+            <item>Jun 15, 1964; Aug. 24, 1964</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ross, Gil</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct.2, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Rudnick, Isadore, Robert Satten, L.P. Delsasso</persname>
+        <ref>
+          <list type="simple">
+            <item>May 1964</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Rugg, Harold G.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct.30, 1948</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ruthven, Alexander Grant, 1882-1971.</persname>
+        <ref>
+          <list type="simple">
+            <item>July 10, 1946 (in the Michigan. University. Rackham Appointment file)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Sasscer, Harrison</persname>
+        <ref>
+          <list type="simple">
+            <item>July 21, 1964</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Sawyer, George A.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 20, 1954</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Schmidt, Frank K.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jun 10, 1964</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Schoeffel, M. F.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct.21, 1954</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Scribner, Bourdon F.</persname>
+        <ref>
+          <list type="simple">
+            <item>March 10, 1961</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Seitz, Frederick, 1911-</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 24, 1961; March 14, 1961; Jan. 3, 1962¬; Jan. 15, 1962; Oct. 8, 1962; June 22, 1967; July 11, 1967; Oct. 10, 1967; Oct. 12, 1967; Jan. 6, 1970; June 6, 1970. Oct. 2, 1956; Nov. 7, 1956; Dec. 7, 1956; May 17, 1961; Dec. 13, 1961; March 19, 1962 and Jan. 10, 1964 (in the American Institute of Physics correspondence file) Nov. 10, 1964; Oct. 20, 1965; Nov. 15, 1965; July 19, 1968; and Nov. 15, 1968 (in the National Academy of Sciences, National Bureau of Standards correspondence file);</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Shankland, R.S.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 7, 1966</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Shapiro, Rubin</persname>
+        <ref>
+          <list type="simple">
+            <item>Jun 3, 1952; July 7, 1952</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Shilling, C. W.</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 18, 1957</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Siegel, Keeve M.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 4, 1973</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Sleyak, Edward J.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 12, 1964; Sept. 29, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Smith, Walter Bedell</persname>
+        <ref>
+          <list type="simple">
+            <item>March 7, 1955</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Smith, Ralph Carlisle</persname>
+        <ref>
+          <list type="simple">
+            <item>May 15, 1950</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Smyth, Henry D.</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 28, 1954</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Snow, Charles Percy, 1905-</persname>
+        <ref>
+          <list type="simple">
+            <item>July 8, 1960 and July 25, 1960 (in the American Institute of Physics correspondence file)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Solberg, T. A.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 17, 1950</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Spight, Lon D.</persname>
+        <ref>
+          <list type="simple">
+            <item>March 2, 1976</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Spurr, Stephen H.</persname>
+        <ref>
+          <list type="simple">
+            <item>March 11, 1969</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Steding, H. Richard</persname>
+        <ref>
+          <list type="simple">
+            <item>May 9, 1960</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Steere, William C.</persname>
+        <ref>
+          <list type="simple">
+            <item>March 31, 1949</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Stevenson, William E.</persname>
+        <ref>
+          <list type="simple">
+            <item>July 27, 1949; May 28, 1948</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Stewart, G. W.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 6, 1948</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Stirton, W. E.</persname>
+        <ref>
+          <list type="simple">
+            <item>April 22, 1959; Sept. 25, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Stratton,Thomas F</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 15, 1965</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Struve, Otto, 1898-1963.</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 19, 1960 (in the Michigan. University. Office of Research Administration correspondence)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Swets &amp; Zeitlinger</corpname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 18, 1960; March 14, 1959; May 14, 1959; Jun 17, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Takamine, T.</persname>
+        <ref>
+          <list type="simple">
+            <item>March 22, 1950; Dec. 23, 1949</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Taylor, J. H.</persname>
+        <ref>
+          <list type="simple">
+            <item>March 5, 1965; Oct.14, 1965</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Taylor, William Randolph, 1895</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 15, 1946; Aug. 5, 1948; and Aug. 17, 1948; Jan. 30, 1947</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Thailand Embassy</corpname>
+        <ref>
+          <list type="simple">
+            <item>May 7, 1955</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Thompson, Charles C.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 27, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Thatcher, Everett W.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 24, 1947; March 17, 1947; Jun 20, 1947</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Thompson, L.T.E., Dr.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 15, 1964</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>van Tongeren, W.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 20, 1948</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Townsend and Bottum, Inc.</corpname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 23, 1944</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Uehlinger, A.E.</persname>
+        <ref>
+          <list type="simple">
+            <item>undated</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Ultra Carbon Corp.</corpname>
+        <ref>
+          <list type="simple">
+            <item>Jun 10, 1963</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Umphrey, James R.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jun 3, 1964</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>United Airlines</corpname>
+        <ref>
+          <list type="simple">
+            <item>July 15, 1963; Aug. 30, 1963</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>Univ. of California Los Alamos Scientific Laboratory</corpname>
+        <ref>
+          <list type="simple">
+            <item>April 25, 1969</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>University of Detroit</corpname>
+        <ref>
+          <list type="simple">
+            <item>April 2, 1951</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Upthegrove, Nelson</persname>
+        <ref>
+          <list type="simple">
+            <item>May 17, 1948</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Urey, Harold C.</persname>
+        <ref>
+          <list type="simple">
+            <item>March 17, 1948</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <corpname>U.S. Naval Weapons Laboratory</corpname>
+        <ref>
+          <list type="simple">
+            <item>March 28, 1966</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Van Pelt, J. R.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct.28, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Van Vleck, John Hasbrouck, 1899-</persname>
+        <ref>
+          <list type="simple">
+            <item>April 16, 1969</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Varney, Robert Nathan, 1910-</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 11, 1948; March 25, 1948; April 14, 1948; April 15, 1948; and Sept. 14, 1949. Aug. 29, 1941; Sept. 11, 1941; Oct. 24, 1941; Nov. 24, 1941; Jan. 15, 1942; Feb. 9, 1942 (in the Naval Proving Ground correspondence); Sept. 4, 1949</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Vely, C.J.</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 14, 1964</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Vivian, Weston Edward, 1924</persname>
+        <ref>
+          <list type="simple">
+            <item>May 5, 1965 (in the Michigan. University. Office of Research Administration. Indirect costs file)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Van Vleck, J. H.</persname>
+        <ref>
+          <list type="simple">
+            <item>April 16, 1969</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Walker, L. Cisler</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 26, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Walter, Erich A.</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 29, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Warga, Mary E.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 13, 1968; March 14, 1944</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Weaver, Bennett</persname>
+        <ref>
+          <list type="simple">
+            <item>April 30, 1964</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Weber, Louis R.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 9, 1969</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wedemeyer, George</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 29, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>White, Albert Easten, 1884-1956.</persname>
+        <ref>
+          <list type="simple">
+            <item>July 1, 1941; Aug. 20, 1941; and Jan. 23, 1942 (in the Naval Proving Ground correspondence file)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>White, Elsie S.</persname>
+        <ref>
+          <list type="simple">
+            <item>April 11, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>White, Leonard D.</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 10, 1957; April 26, 1948</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>White, Marsh W.</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 7, 1967</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Whitney, W. R.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct.25, 1948; Oct.30, 1948</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Whittemore, Richard</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 2, 1948</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wille, Don M.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 19, 1964</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Williams, Dudley</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 30, 1960</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wilson, Art L.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 22, 1958; March 7, 1958</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wilson, Chas. W.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 26, 1970</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wilson, Leslie J.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 5, 1963</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wittman, N. O.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct.10, 1961</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wolfle, Dael</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 29, 1954</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wood, William R.</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 14, 1963</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Youngblood, Curtis T.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 9, 1947</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Youty, P. N.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct.21, 1963</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Zink, Theodore H.</persname>
+        <ref>
+          <list type="simple">
+            <item>July 15, 1958</item>
+          </list>
+        </ref>
+      </indexentry>
+    </index>
+  </descgrp>
+</archdesc>
+</ead>

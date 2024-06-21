@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>umich-bhl-9580</eadid><filedesc><titlestmt><titleproper>Finding aid for Carlos P. Romulo sound recording</titleproper><author>Finding aid created by Tricia Chua, 2016</author></titlestmt><publicationstmt><publisher>Bentley Historical Library</publisher><p><date>2016</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-10-07 12:13:36 -0400</date>.</creation><langusage>The finding aid is written in <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc><revisiondesc><change><date>2016-02-09</date><item>Original encoding from Word 10.0 file using Word macros and Xmetal.</item></change></revisiondesc></eadheader><frontmatter><titlepage><publisher>Bentley Historical Library <lb/>University of Michigan</publisher><titleproper>Finding aid for Carlos P. Romulo sound recording</titleproper><author>Finding aid created by Tricia Chua, 2016</author></titlepage></frontmatter><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Bentley Historical Library</corpname>
+      <extptr actuate="onload" href="bhladd" show="embed"/>
+    </repository>
+    <unittitle>Carlos P. Romulo sound recording</unittitle>
+    <origination label="creator">
+      <persname source="lcnaf">Romulo, Carlos P. (Carlos Peña), 1899-1985</persname>
+    </origination>
+    <unitid type="call number">9580 Aa 2</unitid>
+    <physdesc>
+      <extent>1.25 GB</extent>
+    </physdesc>
+    <physdesc>
+      <extent>1 audiotape (analog, 7 1/2 ips; 7 inches; reel-to-reel tapes)</extent>
+    </physdesc>
+    <unitdate calendar="gregorian" era="ce" normal="1957-05-07/1957-05-07" type="inclusive">May 7, 1957</unitdate>
+    <langmaterial id="aspace_57c16a8cb953057bbe03002030156a01">The material is in <language encodinganalog="041" langcode="eng">English</language></langmaterial>
+    <abstract id="aspace_44a6dc1557e115cf84924e3f1f457ad4">Philippine statesman, general, and journalist; advocate of the United Nations. Address to the Detroit School of Government discussing Philippine foreign policy and the threat of communism and audiotape describing 1954 shooting on floor of U.S.Congress.</abstract>
+  </did>
+  <descgrp type="admin">
+    <acqinfo><p>Donated by Wilber M. Brucker, Jr. (donor no. <num encodinganalog="541$e" type="donor">3767</num>).</p></acqinfo>
+    <accruals><p>No further additions to the collection are expected.</p></accruals>
+    <accessrestrict><p>The collection is open for research.</p><p> The collection contains audio tapes from which digital copies have been made. Source tapes are for staff use only. Audio files are only available in the Bentley Historical Library reading room on designated Bentley Library computers.</p></accessrestrict>
+    <prefercite><p>[item], folder, box, Carlos P. Romulo sound recording, Bentley Historical Library, University of Michigan</p></prefercite>
+    <altformavail><p><emph render="bold">Digitization:</emph> The Library has undertaken the digitization of a number of sound recordings within this collection. The resulting audio files are available for playback only in the Bentley Library Reading Room. Links to item images and additional information are available within this finding aid. Original sound recordings are only available for staff use.</p></altformavail>
+    <processinfo><p><extptr actuate="onload" href="digitalproc" show="embed"/></p></processinfo>
+  </descgrp>
+  <bioghist><p>Carlos Peña Romulo (1899 January 14--1985 December 15) was a Philippine military general, diplomat, and journalist. He graduated from the University of Philippines, A.B. 1918 and Columbia University, M.A. in 1921.</p><p> Romulo started his newspaper career while attending the University of the Philippines. He worked his way up to editor-in-chief of TVT Publications in the early 1930s and later publisher of DMHM newspapers in 1937. During World War II, his radio broadcasts were widely known as the "Voice of Freedom." Indeed, he became the first non-American to win the Pulitzer Prize in Correspondence in 1942. He has held a number of noteworthy positions, president of the General Assembly of the United Nations (1949--50), president of the University of the Philippines (1962--68), and ambassador to the United States (named in 1952). He has also served the president of the Philippines as secretary (1968--78), and later, minister, of foreign affairs (1978--84).</p><p> He had four sons through his forty-four year marriage to Virginia Llamas (1924--1968), which ended abruptly when she died of leukemia. In 1978 he remarried to Beth Day, the widow of General Donald Day, former Philippine Ambassador to the United States.</p><p> References:</p><p> "Carlos P. Romulo".<title render="italic">Encyclopædia Britannica. Encyclopædia Britannica Online.</title> Encyclopædia Britannica Inc., 2016. Web [http://www.britannica.com/biography/Carlos-P-Romulo].</p><p> "Biography."<title render="italic">General Carlos P. Romulo</title> . Carlos P. Romulo Foundation, 2009. Web [http://carlospromulo.org/bio/]</p></bioghist>
+  <scopecontent><p>Address to the Detroit School of Government discussing Philippine foreign policy and the threat of communism.</p></scopecontent>
+  <controlaccess>
+    <p>
+      <extptr actuate="onload" href="accnote" show="embed"/>
+    </p>
+    <geogname source="lcsh">Philippines -- Foreign relations.</geogname>
+    <genreform source="aat">Sound recordings.</genreform>
+    <persname source="lcnaf">Romulo, Carlos P. (Carlos Peña), 1899-1985.</persname>
+  </controlaccess>
+  <dsc type="combined"><c01 id="aspace_7f11187d1bb7d0da5f8f5a02ebf2e1f5" level="series"><did><unittitle>Sound Recording</unittitle></did><accessrestrict><p>[Digitized audio files are only available in the Bentley Historical Library reading room on designated Bentley Library computers.]</p></accessrestrict><c02 id="aspace_082718aec813723870322a96a4dbbd6d" level="otherlevel" otherlevel="item-main"><did><unittitle>Address to the Detroit School of Government</unittitle><unitdate type="inclusive">1957 May 07</unitdate><physdesc><physfacet id="aspace_ff408971c02fd570f669bb3e1581d51f">Audio Reel-to-Reel, 7 inch, 7 ½ ips</physfacet></physdesc><container label="Sound Recordings Box" type="box">SR-3</container></did><accessrestrict><p>[Digitized audio files are only available in the Bentley Historical Library reading room on designated Bentley Library computers.]</p></accessrestrict><c03 id="aspace_7bc863159475fdfa5027110453fec44b" level="otherlevel" otherlevel="item-part"><did><unittitle>[Part 1]</unittitle><unitid>[9580-SR-1-1]</unitid><abstract id="aspace_ef16abb1ccac983d96d0e2b3964d0baa">(Romulo discussing Philippine foreign policy and the threat of communism.)</abstract><dao actuate="onrequest" href="https://bentley.mivideo.it.umich.edu/media/1_nw838s0z" show="new" title="[Part 1]"><daodesc><p>[access item]</p></daodesc></dao><physloc>Online</physloc></did><accessrestrict><p>[Digitized audio files are only available in the Bentley Historical Library reading room on designated Bentley Library computers.]</p></accessrestrict></c03></c02></c01></dsc>
+</archdesc>
+</ead>

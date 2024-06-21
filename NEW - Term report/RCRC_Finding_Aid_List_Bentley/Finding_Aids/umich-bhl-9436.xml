@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>umich-bhl-9436</eadid><filedesc><titlestmt><titleproper>Finding Aid for Harry H. Bandholtz Papers, 1890-1937 (Microfilm Edition)</titleproper><author>Finding aid prepared by: Thomas E. Powers</author></titlestmt><publicationstmt><publisher>Bentley Historical Library</publisher><p><date>1994</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-10-07 12:29:00 -0400</date>.</creation><langusage>The finding aid is written in <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc><revisiondesc><change><date>2005-08-11</date><item>Added 2005 accession</item></change><change><date>2003-10-01</date><item>Converted to EAD2002 using Word macro and Xmetal.</item></change><change><date>1999-04-05</date><item>Original encoding in EAD Ver. 1.0 from Word 6.0 file using Word macros and some hand tagging.</item></change><change><date>2016-11-21</date><item>Updated Conditions Governing Use Note</item></change></revisiondesc></eadheader><frontmatter><titlepage><publisher>Bentley Historical Library <lb/>University of Michigan</publisher><titleproper>Finding Aid for Harry H. Bandholtz Papers, 1890-1937 (Microfilm Edition)</titleproper><author>Finding aid prepared by: Thomas E. Powers</author></titlepage></frontmatter><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Bentley Historical Library</corpname>
+      <extptr actuate="onload" href="bhladd" show="embed"/>
+    </repository>
+    <unittitle>Harry H. Bandholtz Papers (Microform)</unittitle>
+    <origination label="creator">
+      <persname authfilenumber="http://id.loc.gov/authorities/names/n2001023829" source="lcnaf">Bandholtz, Harry Hill, 1864-1925</persname>
+    </origination>
+    <unitid type="call number">9436 mf 255</unitid>
+    <physdesc>
+      <extent>12 microfilms</extent>
+    </physdesc>
+    <physdesc>
+      <extent>1 maps</extent>
+    </physdesc>
+    <physdesc>
+      <extent>2 oversize folders</extent>
+    </physdesc>
+    <physdesc>
+      <extent>10 folders</extent>
+    </physdesc>
+    <unitdate normal="1890/1937" type="inclusive">1890-1937</unitdate>
+    <unitdate normal="1899/1925" type="bulk">1899-1925</unitdate>
+    <abstract id="aspace_4c9e2918a1e6a7517e39d822b02b85df">Career military officer, served in the Philippines ca. 1900-1913, chief of the Philippine Constabulary, 1907-1913; papers include correspondence, constabulary reports, diaries, topical files, visual materials, and scrapbooks.</abstract>
+    <langmaterial id="aspace_671a4e35a16210913c554021e963f129">The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+  </did>
+  <descgrp type="admin">
+    <acqinfo><p>The collection came to the library in three accessions, the first in 1965 from Grafton Cook who had purchased the papers from Mrs. Bandholtz. (Donor no. <num encodinganalog="541$e" type="donor">4271</num>) The second in 1994 came from the estate of Mary M. Connelly, a friend of Mrs. Bandholtz. (Donor no. <num encodinganalog="541$e" type="donor">8258</num>). A small additional accession was received from Grafton Cook (Donor no. <num encodinganalog="541$e" type="donor">4271</num>) in 2005</p></acqinfo>
+    <accessrestrict><p>The collection is open for research.</p></accessrestrict>
+    <userestrict><p>The unpublished writings of Harry Hill Bandholtz are in the public domain. Patrons are responsible for determining the appropriate use or reuse of materials.</p></userestrict>
+    <altformavail><p>The originals of the Bandholtz papers are held by the Bentley Historical Library. Researchers will normally be expected to use the microfilm edition.</p></altformavail>
+    <prefercite><p>item, folder title, box no., Harry H. Bandholtz Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+  </descgrp>
+  <bioghist><p>Harry Hill Bandholtz, a lifelong military man, was born in Constantine, Michigan on December 18, 1864. He graduated from the United States Military Academy at West Point in 1890, and then for the next thirty-three years he served his country in more than a dozen different assignments and posts. Bandholtz early demonstrated his competence as an officer with leadership abilities, and he was continuously rewarded with a steady series of promotions to different challenging assignments. He was a front-line officer, a teacher of the military arts, an administrator within the military hierarchy, and a skilled and respected diplomat.</p><p> Following some early assignments, Bandholtz in 1896 was selected to teach military science and tactics at Michigan Agricultural College (now Michigan State University). He was a teacher for two years when, with the outbreak of war with Spain in 1898, he returned to active duty. In Cuba he served in the Santiago campaign with the 7th U.S. Infantry, receiving a Silver Star citation for his participation. Between 1898 and 1900, he held different positions in the United States and Cuba. In July 1900, he left Cuba for the Philippine Islands where he served for the next thirteen years. Bandholtz' first responsibility was to help establish peace in the Islands which was then being disturbed by various local insurgent armies, notably in Central Luzon and on the Island of Marinduque and in Tayabas Province.</p><p> Bandholtz quickly earned the respect of the Philippine people. In 1902, he was elected governor of Tayabas Province, the only regular army officer to be elected to so high a position. In 1903, he was appointed assistant chief of Philippine Constabulary with the temporary rank of colonel and placed in command of the District of Southern Luzon. Bandholtz was an effective commander who arranged for the unconditional surrender of insurgent general Simeon Ola and his forces in Albay. In 1905, he was transferred to the District of Central Luzon where he similarly apprehended Philippine bandit leaders. In 1907, he was appointed chief of Philippine Constabulary with the temporary rank of brigadier general. He held this position until relieved on September 1, 1913.</p><p> Upon returning to the United States, Bandholtz was put in command of Fort Porter at Buffalo, New York (1914-1915) and a battalion of the 30th Infantry at Plattsburg Barracks, N.Y. (1915-1916). With this command, he served on the Mexican border for six months in 1916. During World War I, Bandholtz served on the Western Front, receiving promotion to brigadier general with command of the 58th Infantry Brigade of the 29th Division. In September 1918, General Pershing appointed Bandholtz to be provost marshal general of the American Expeditionary Forces where his duties included reorganizing the military police corps and managing the guarding of German prisoners of war.</p><p> From August 1919 to February 1920, Bandholtz served as American representative on the Interallied Military Mission sent to Hungary by the Supreme Council to control the unauthorized Rumanian occupation of that country. Bandholtz later served as the first United States Commissioner to Hungary. He returned to the United States in 1920, receiving promotion to permanent brigadier general with command of the 13th Infantry Brigade at Camps Funston and Meade. In August 1921, Bandholtz was assigned the duty of organizing and commanding the newly authorized District of Washington. Shortly thereafter, he was sent to West Virginia when the state authorities requested federal aid in maintaining the peace during a strike of coal miners. Bandholtz retired from military service in 1923 with the rank of major general. He died in his hometown of Constantine, May 7, 1925.</p></bioghist>
+  <scopecontent><p>The Bandholtz collection, covering the period of ca. 1890 to 1925 (with some later papers of his wife Inez Bandholtz), consists mainly of materials accumulated while Bandholtz was stationed in the Philippines, 1900-1913. Except for this time in the Far East, Bandholtz was always on the move with ever changing assignments, and consequently his files covering his work on the Mexican border, for example, or in the West Virginia coal miners strike are substantially thinner. But in the Philippines, because he was a provincial governor and head of the indigenous military force, Bandholtz was at the center of affairs in this period of Philippine history. And beyond that, he made an effort to maintain and preserve as much documentation from his service here as he could.</p><p> The Bandholtz papers came to the library in three separate accessions in 1965, 1994 and 2005. The first accession includes the following series: Correspondence (1899-1913), Invitations, Miscellaneous, Published Materials, and Philippine Constabulary Reports (1906-1913). The second accession includes the following series: Biographical-Personal, Correspondence (1895-1925), Diaries (1900-1923), Topical Files, Visual Materials, Scrapbooks, and Inez Bandholtz papers. Although there is some overlap (especially in the two Correspondence series), the two accessions have been kept separate, and not interfiled, so that researchers who examined the first accession might read from the new material without having to go through the entire collection. This encoded finding aid treats the correspondence as a single series although it has not been interfiled. the third accession consists of correspondence (1903-1912), chiefly confidential letters between Bandholtz and Luke Wright and Leonard Wood, concerning major military an political issues in the Philippines.</p></scopecontent>
+  <controlaccess>
+    <p>
+      <extptr actuate="onload" href="accnote" show="embed"/>
+    </p>
+    <subject source="lcsh">Freemasonry -- Michigan.</subject>
+    <geogname source="lcsh">Hungary -- History -- Revolution, 1918-1919.</geogname>
+    <geogname source="lcsh">Philippines -- History -- 1898-1946.</geogname>
+    <geogname source="lcsh">Philippines -- Foreign relations -- Japan.</geogname>
+    <subject source="lcsh">Postage-stamps.</subject>
+    <subject source="lcsh">Presidents -- United States -- Election -- 1908.</subject>
+    <subject source="lcsh">Presidents -- United States -- Election -- 1912.</subject>
+    <subject source="lcsh">Tariff -- United States.</subject>
+    <geogname source="lcsh">United States -- Foreign relations -- Japan.</geogname>
+    <geogname source="lcsh">United States -- Politics and government -- 1901-1909.</geogname>
+    <geogname source="lcsh">United States -- Politics and government -- 1909-1913.</geogname>
+    <geogname source="lcsh">United States -- Politics and government -- 1897-1901.</geogname>
+    <subject source="lcsh">World War, 1914-1918.</subject>
+    <subject source="lcsh">Spanish-American War, 1898.</subject>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n79091691" source="lcsh">Budapest (Hungary)</geogname>
+    <geogname authfilenumber="http://id.loc.gov/authorities/names/n85064127" source="lcsh">Constantine (Mich.)</geogname>
+    <subject source="lctgm">Dwellings -- Michigan -- Constantine.</subject>
+    <subject source="lctgm">Military officers.</subject>
+    <subject source="lctgm">Military art and science.</subject>
+    <geogname source="lcsh">Philippines -- History -- 1898-1946.</geogname>
+    <geogname source="lcsh">Philippines -- History -- Philippine American War, 1899-1902.</geogname>
+    <geogname source="lcsh">Philippines -- History -- 1898-1946.</geogname>
+    <subject source="lcsh">World War, 1914-1918 -- France.</subject>
+    <genreform source="aat">Drawings.</genreform>
+    <genreform source="aat">Photographs.</genreform>
+    <genreform source="aat">Scrapbooks.</genreform>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50040351" source="lcnaf">Aguinaldo, Emilio, 1869-1964.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n2001023829" source="lcnaf">Bandholtz, Harry Hill, 1864-1925.</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n83163731" source="lcnaf">Democratic Party (Mich.)</corpname>
+    <corpname source="lcnaf">Inter-allied Military Mission to Hungary, 1919-1920.</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n92120793" source="lcnaf">Malcolm, George A. (George Arthur), 1881-1961.</persname>
+    <persname source="lcnaf">Osmeña, Sergio, 1878-1961.</persname>
+    <corpname source="lcnaf">Progressive Party (1912)</corpname>
+    <persname source="lcnaf">Quezon, Manuel Luis, 1878-1944.</persname>
+    <corpname source="lcnaf">Republican Party (Mich.)</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79022244" source="lcnaf">Taft, William H. (William Howard), 1857-1930.</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79063202" source="lcnaf">United States. Army.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n81038421" source="lcnaf">United States. Congress. House. Committee on Military Affairs.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n82070032" source="lcnaf">United Spanish War Veterans.</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79046299" source="lcnaf">Wilson, Woodrow, 1856-1924.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n2001023829" source="lcnaf">Bandholtz, Harry Hill, 1864-1925.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50016500" source="lcnaf">Geronimo, Apache chief, 1829-1909.</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n50082162" source="lcnaf">Philippine Constabulary.</corpname>
+    <corpname source="lcnaf">United States Military Academy. Class of 1890.</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85062962" role="ctb" source="lcnaf">Allen, Henry T. (Henry Tureman), 1859-1930.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n98021891" role="ctb" source="lcnaf">Bell, James Franklin, 1856-1919.</persname>
+    <persname role="ctb" source="lcnaf">Bigelow, Poultney, 1855-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n96006766" role="ctb" source="lcnaf">Bliss, Tasker Howard, 1853-1930.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2010146674" role="ctb" source="lcnaf">Bumpus, Hermon Carey, 1862-1943.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no95042265" role="ctb" source="lcnaf">Burrows, Julius C. (Julius Caesar), 1837-1915.</persname>
+    <persname role="ctb" source="lcnaf">Carpenter, Frank W. (Frank Watson), 1871-1938.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50043492" role="ctb" source="lcnaf">Coolidge, Calvin, 1872-1933.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n83328805" role="ctb" source="lcnaf">Forbes, W. Cameron (William Cameron), 1870-1959.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n84017628" role="ctb" source="lcnaf">Funston, Frederick, 1865-1917.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50016500" role="ctb" source="lcnaf">Geronimo, Apache chief, 1829-1909.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n91089347" role="ctb" source="lcnaf">Gilbert, Newton W. (Newton Whiting), 1862-1939.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86011979" role="ctb" source="lcnaf">Harbord, James G. (James Guthrie), 1866-1947.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2009178591" role="ctb" source="lcnaf">Hersey, Mark Leslie, 1863-1934.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n00119321" role="ctb" source="lcnaf">Ide, Henry Clay, 1844-1921.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n97118553" role="ctb" source="lcnaf">Kahn, Julius, 1861-1924.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n2010036185" role="ctb" source="lcnaf">McIntyre, Frank, 1865-1944.</persname>
+    <persname role="ctb" source="lcnaf">Mills, Albert Leopold, 1854-1916.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50009048" role="ctb" source="lcnaf">Pershing, John J. (John Joseph), 1860-1948.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85386446" role="ctb" source="lcnaf">Polk, Frank L. (Frank Lyon), 1871-1943.</persname>
+    <persname role="ctb" source="lcnaf">Rivers, William Cannon, 1866-1943.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79027239" role="ctb" source="lcnaf">Roosevelt, Theodore, 1858-1919.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n00065660" role="ctb" source="lcnaf">Smith, James Francis, 1859-1928.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n83194987" role="ctb" source="lcnaf">Swope, Herbert Bayard, 1882-1958.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008188960" role="ctb" source="lcnaf">Townsend, Charles E. (Charles Elroy), 1856-1924.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n88030093" role="ctb" source="lcnaf">Wickersham, George W. (George Woodward), 1858-1936.</persname>
+    <persname role="ctb" source="lcnaf">Wood, Leonard, 1860-1927.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n97067632" role="ctb" source="lcnaf">Wright, Luke E., 1846-1922.</persname>
+  </controlaccess>
+  <dsc type="combined"><c01 id="aspace_2eb0079f8f0fe2e681c7e4b68e3fadba" level="series"><did><unittitle>Correspondence</unittitle><physdesc><extent>2.8 linear feet</extent></physdesc><unitdate normal="1895/1925" type="inclusive">1895-1925</unitdate></did><scopecontent><p>The Correspondence series (1895-1925; 2.8 linear feet) is significant for those exchanges with individuals (American and Filipino) important to Philippine history in the period after the 1898 war. This correspondence came to the library in two accessions. There is a selective index to the significant correspondents in each accession Additional Descriptive Data section of this finding aid.</p></scopecontent><c02 id="aspace_59de185f9b6deb4c17be7c2212f86ed5" level="file"><did><unitdate normal="1899/1907-04-10" type="inclusive">1899-April 10, 1907</unitdate></did><c03 id="aspace_7c347055bd1b00a5f5dcfcae9d73b45b" level="file"><did><unitdate normal="1899/1907-04-10" type="inclusive">1899-April 10, 1907</unitdate><container label="Roll" type="reel">1</container></did></c03><c03 id="aspace_179a1d7284e0e4978325846697af688d" level="file"><did><unitdate normal="1907-04-11/1909-05-10" type="inclusive">April 11, 1907-May 10, 1909</unitdate><container label="Roll" type="reel">2</container></did></c03><c03 id="aspace_811c73be3e84a9e20fdfa827081bc09b" level="file"><did><unitdate normal="1909-05-11/1910-09" type="inclusive">May 11, 1909-September 1910</unitdate><container label="Roll" type="reel">3</container></did></c03><c03 id="aspace_3cf4d004c256d5f3450ab959a5168ecf" level="file"><did><unitdate normal="1910-10/1911-12-15" type="inclusive">October 1910-December 15, 1911</unitdate><container label="Roll" type="reel">4</container></did></c03><c03 id="aspace_09ab41a1152fdcbf91332e98b480a4ad" level="file"><did><unitdate normal="1911-12-16/1913-06" type="inclusive">December 16, 1911-June 1913</unitdate><container label="Roll" type="reel">5</container></did></c03><c03 id="aspace_b9b43ad0d50cf45fd1bce65620e3fa45" level="file"><did><unitdate type="inclusive">Undated</unitdate><container label="Roll" type="reel">5</container></did></c03></c02><c02 id="aspace_459feff632d2e5835b23ae7c8130a399" level="file"><did><unittitle>1895-1925</unittitle></did><odd><p>(received after the first accession of Bandholtz papers)</p></odd><scopecontent><p>Correspondence (1895-1925; .5 linear feet) includes messages exchanged with Bandholtz' friends and colleagues. Like the correspondence in the first accession, this file relates mainly to his lengthy service in the Philippines. Much of the post-1913 correspondence consists of "staying in touch" letters or relates to personal matters such as his stamp collection.</p></scopecontent><c03 id="aspace_6b55e9bd5bc5b48e7cbf329061f3ddd0" level="file"><did><unitdate type="inclusive">Undated</unitdate><container label="Roll" type="reel">7</container></did></c03><c03 id="aspace_5636ba35b81b5538cba105ec747642f1" level="file"><did><unitdate normal="1895/1922" type="inclusive">1895-1922</unitdate><container label="Roll" type="reel">7</container></did></c03><c03 id="aspace_2d498b4ad5bccc65f577d8822f44a5af" level="file"><did><unitdate normal="1923/1925" type="inclusive">1923-1925</unitdate><container label="Roll" type="reel">7</container></did></c03></c02><c02 id="aspace_c162e813c4bf598806cd0346551e67a0" level="file"><did><unittitle>By name</unittitle><container label="Roll" type="reel">8</container></did><scopecontent><p>A portion of the correspondence received in the second accession of Bandholtz papers was organized by correspondent, including Manuel Quezon, W. C. Rives, Herbert B. Swope and Leonard Wood.</p></scopecontent><c03 id="aspace_b4e706de707246b127a0171cdcfd1a34" level="file"><did><unittitle>Quezon, Manuel</unittitle><container label="Roll" type="reel">8</container></did></c03><c03 id="aspace_536a3d2c7bef526583c333a80ba0a8fe" level="file"><did><unittitle>Rives, W.C</unittitle><container label="Roll" type="reel">8</container></did></c03><c03 id="aspace_8e26690d89e3706982ea4c8e810a6e49" level="file"><did><unittitle>Swope, Herbert B</unittitle><container label="Roll" type="reel">8</container></did></c03><c03 id="aspace_4f0a8b583956bebc8f5e63ace25c3a58" level="file"><did><unittitle>Wood, Leonard</unittitle><container label="Roll" type="reel">8</container></did></c03></c02></c01><c01 id="aspace_d0e0cf3634615b3c04dd7e52cb8e465f" level="series"><did><unittitle>Invitations</unittitle></did><c02 id="aspace_1b8ca91728b7f8307af81056b2574689" level="file"><did><unitdate normal="1906/1913" type="inclusive">1906-1913</unitdate><container label="Roll" type="reel">5</container></did></c02></c01><c01 id="aspace_7343311eb6c9fbff8d044753fee732b9" level="series"><did><unittitle>Miscellaneous</unittitle></did><c02 id="aspace_d453e1a0eed8b1ef63046d47d0bbfc17" level="file"><did><unittitle>Flyers, programs, etc</unittitle><container label="Roll" type="reel">5</container></did></c02></c01><c01 id="aspace_7acfe21b89d48457e4292ecff49173ec" level="series"><did><unittitle>Published Material</unittitle></did><c02 id="aspace_3359b433b9188b30a5361f492f24ae72" level="file"><did><physdesc><extent>3 folders</extent></physdesc><unitdate normal="1911/1919" type="inclusive">1911-1919</unitdate><container label="Roll" type="reel">5</container></did></c02></c01><c01 id="aspace_b148d26a4cd2a6cd0fc02d53a9a4ede2" level="series"><did><unittitle>Philippine Constabulary Reports</unittitle><physdesc><extent>4 volumes</extent></physdesc><unitdate normal="1906/1913" type="inclusive">1906-1913</unitdate></did><scopecontent><p>Philippine Constabulary Reports (1906-1913; 4 volumes). The volumes, although labeled Philippine Constabulary Reports, actually include different kinds of records, some collected by Bandholtz rather than created by him. Volume 1 (dated 1906-1909) in fact dates back to 1898 and consists entirely of reports and memoranda concerning the Japan-Philippine Island relationship. Groupings of documents within this volume bear the title "Compilation of Papers on Japanese Propagandism." There is a partial index to the contents of this volume at the end. Volume 2 (1910), Volume 3 (1911), and Volume 4 (1912-June 1913) continue the memoranda and reports of the first volume and the theme of Japanese involvement in the Philippines.</p></scopecontent><c02 id="aspace_896aebbadc5b032f662e9fedaba21a92" level="file"><did><unitdate normal="1906/1913-06" type="inclusive">1906-June 1913</unitdate><container label="Roll" type="reel">6</container></did></c02></c01><c01 id="aspace_4f7c787615eebc4fa25ea373498a19e1" level="series"><did><unittitle>Biographical Material/personal</unittitle></did><c02 id="aspace_82720b638bd64590b31f6b3592e1e425" level="file"><did><unittitle>Biographical sketches, service record, clippings, etc</unittitle><container label="Roll" type="reel">7</container></did><odd><p>(see also citation in UAm oversize folder)</p></odd></c02><c02 id="aspace_390b79690b5ef33a2b1b7d1c572bb2d8" level="file"><did><unittitle>Family Miscellanea (including earlier letters from family members)</unittitle><container label="Roll" type="reel">7</container></did></c02><c02 id="aspace_cfdf250ba74ce5d8b175f499e62b557e" level="file"><did><unittitle>Address books</unittitle><container label="Roll" type="reel">7</container></did></c02><c02 id="aspace_f58b89cc4624e2c40b40880dba175af7" level="file"><did><unittitle>Speeches</unittitle><container label="Roll" type="reel">7</container></did></c02></c01><c01 id="aspace_870a37cdbc6be855d1bb72efe828d084" level="series"><did><unittitle><genreform normal="Diaries">Diaries</genreform></unittitle><physdesc><extent>23 volumes</extent></physdesc><unitdate normal="1900/1923" type="inclusive">1900-1923</unitdate></did><scopecontent><p>Diaries (1900-1923; 23 volumes) contains Bandholtz' often detailed comments on his life as a career officer. The diaries are small and usually written in pencil.</p></scopecontent><c02 id="aspace_d70ce2a5d8e2f46a4991cfaee1e1a34a" level="file"><did><unitdate normal="1900/1911" type="inclusive">1900-1911</unitdate><container label="Roll" type="reel">8</container></did></c02><c02 id="aspace_ddfd4e9d4daec2b669192764913cbbc1" level="file"><did><unitdate normal="1912/1923" type="inclusive">1912-1923</unitdate><container label="Roll" type="reel">9</container></did></c02></c01><c01 id="aspace_6201b683d3658a1242662e1882186176" level="series"><did><unittitle>Topical Files</unittitle><physdesc><extent>0.5 linear feet</extent></physdesc><unitdate normal="1890/1925" type="inclusive">1890-1925</unitdate></did><scopecontent><p>Topical Files (1890-1925; .5 linear feet) consists of subject-related material on such topics as Bandholtz' investment in the Polillo Land Company, the West Virginia coal miners strike of 1921, and his interest in the Hungary Society of America. This series also contains income tax returns and his service orders. The earliest item is a course notebook, ca. 1890, when Bandholtz attended West Point Military Academy.</p></scopecontent><c02 id="aspace_33599576435d80dc716410641978ce45" level="file"><did><unittitle>American Expeditionary Force, Provost Marshal General</unittitle><unitdate normal="1918/1919" type="inclusive">1918-1919</unitdate><container label="Roll" type="reel">9</container></did></c02><c02 id="aspace_49c2b59789635ff6388891bab041ba88" level="file"><did><unittitle>Bandholtz, May (hospitalization)</unittitle><unitdate normal="1920/1921" type="inclusive">1920-1921</unitdate><container label="Roll" type="reel">9</container></did></c02><c02 id="aspace_fbf586eba4bdb521910f8f39f008230d" level="file"><did><unittitle>Bandholtz, May (HHB divorce from)</unittitle><unitdate normal="1921/1921" type="inclusive">1921</unitdate><container label="Roll" type="reel">9</container></did></c02><c02 id="aspace_58366ab75d7f519eecdf6c6e94fe22f5" level="file"><did><unittitle>Hungary miscellaneous</unittitle><container label="Roll" type="reel">9</container></did></c02><c02 id="aspace_64599176c98d194ddcd16ee1a079a261" level="file"><did><unittitle>Hungary Society of America</unittitle><container label="Roll" type="reel">9</container></did></c02><c02 id="aspace_6ae29c25d71453a403f2cce96063ace8" level="file"><did><unittitle>Income tax files and related</unittitle><container label="Roll" type="reel">9</container></did></c02><c02 id="aspace_cd29e5d2faab9ba7d37650b2fd1b3fc0" level="file"><did><unittitle>Interallied Military Mission to Hungary</unittitle><unitdate normal="1919/1919" type="inclusive">1919</unitdate></did><c03 id="aspace_f070215870f49db7807511dbc1d5df51" level="file"><did><unittitle>General</unittitle><container label="Roll" type="reel">9</container></did></c03><c03 id="aspace_5c51d5263a998caedd384216a1cfeb01" level="file"><did><unittitle>Draft of <title render="italic">Undiplomatic Diary</title>; also excerpts from official report</unittitle><container label="Roll" type="reel">9</container></did></c03><c03 id="aspace_6ca68a86006dad8ca13e86059a597be6" level="file"><did><unittitle>Memoranda, reports, and other documents regarding Hungarians held as prisoners of war by Roumanians</unittitle><unitdate normal="1919/1919" type="inclusive">1919</unitdate><container label="Roll" type="reel">10</container></did></c03></c02><c02 id="aspace_e508e436c07dce090ce1b8e8486e287a" level="file"><did><unittitle>Invitations (from emperor of Japan and others)</unittitle><container label="Roll" type="reel">10</container></did></c02><c02 id="aspace_30e63799a285f4a45f36d42c39a00c46" level="file"><did><unittitle>Masonic miscellaneous</unittitle><container label="Roll" type="reel">10</container></did></c02><c02 id="aspace_c18bfe2676f7400165cf90f1847d2b9a" level="file"><did><unittitle>Philippines</unittitle></did><c03 id="aspace_7e65ad950a069212b308b10daf6490ab" level="file"><did><unittitle>Volume containing carbon copies of orders given by HHB</unittitle><unitdate normal="1900/1901" type="inclusive">1900-1901</unitdate><container label="Roll" type="reel">10</container></did></c03><c03 id="aspace_f80426bd55d8c0e613d4601c50c67d48" level="file"><did><unittitle>Miscellaneous documents containing Bandholtz references</unittitle><container label="Roll" type="reel">10</container></did></c03><c03 id="aspace_7369f555a02c97dd6c77ed4f7bfb78db" level="file"><did><unittitle>Miscellaneous documents (in Spanish)</unittitle><container label="Roll" type="reel">10</container></did></c03><c03 id="aspace_d26767c4b58f7de5c82113e4f27a9449" level="file"><did><unittitle>Miscellanea</unittitle><container label="Roll" type="reel">10</container></did></c03></c02><c02 id="aspace_c5bfa28b4803a6d73da7800be18de9b8" level="file"><did><unittitle>Polillo Land Company</unittitle><unitdate normal="1904/1907" type="inclusive">1904-1907</unitdate><container label="Roll" type="reel">10</container></did><odd><p>(see also map cataloged and stored with map collection)</p></odd></c02><c02 id="aspace_affc44eed5e8450a986a8a923ec18116" level="file"><did><unittitle>Service orders, etc</unittitle><container label="Roll" type="reel">10</container></did></c02><c02 id="aspace_4a778a3f4f5fd168a52024a16bde53e7" level="file"><did><unittitle>Taylor (Wallace) appointment materials</unittitle><unitdate normal="1914/1914" type="inclusive">1914</unitdate><container label="Roll" type="reel">10</container></did></c02><c02 id="aspace_7f1d330411bc03a08b09f3f9800ff645" level="file"><did><unittitle>Travel: Memoranda of trip from Manila to Java (author unknown)</unittitle><unitdate normal="1911/1911" type="inclusive">1911</unitdate><container label="Roll" type="reel">10</container></did></c02><c02 id="aspace_aff7db0d49925f15f46c498d4004eca6" level="file"><did><unittitle>War Department, Headquarters District of Washington (orders, memoranda, etc.)</unittitle><unitdate normal="1921/1922" type="inclusive">1921-1922</unitdate><container label="Roll" type="reel">10</container></did></c02><c02 id="aspace_bac6c1688298934ea1e6e4c417ebfe6f" level="file"><did><unittitle>West Point notebook</unittitle><unitdate certainty="approximate" normal="1890/1890" type="inclusive">circa 1890</unitdate><container label="Roll" type="reel">10</container></did><odd><p>(also class of 1890 program and Christmas cards)</p></odd></c02><c02 id="aspace_5593bd12b263801dd171ba0ba93e6d22" level="file"><did><unittitle>West Virginia Coal strike</unittitle><unitdate normal="1921/1921" type="inclusive">1921</unitdate><container label="Roll" type="reel">10</container></did></c02><c02 id="aspace_9f2337837f5d1296890a7100e721239e" level="file"><did><unittitle>Willard, C.E. (correspondence with family member in jail)</unittitle><container label="Roll" type="reel">10</container></did></c02><c02 id="aspace_9049b7752357d3ca4674618e00f3c25c" level="file"><did><unittitle>Worcester, Dean C.</unittitle><unitdate normal="1913/1913" type="inclusive">1913</unitdate><container label="Roll" type="reel">10</container></did><odd><p>(file regarding Worcester's "A Report on Slavery and Peonage in the Philippines")</p></odd></c02></c01><c01 id="aspace_41e91bb6097c228c99d331780811fbb4" level="series"><did><unittitle><genreform normal="Visual materials">Visual Materials</genreform></unittitle><physdesc><extent>1.3 linear feet, 2 oversize folders</extent></physdesc></did><scopecontent><p>Visual Materials (1890-1925 and 1937; 1.3 linear feet and 2 oversize folders) is a series that more thoroughly covers Bandholtz's career. It ranges from a sketchbook (ca. 1890) of drawings of his and his West Point classmates (including a drawing done by Geronimo in 1893) to extensive photographs (loose and in albums) relating to the work of the Philippine Constabulary (including the capture of different insurgent leaders). This series includes other photos from the period of his service in France during World War I and in Hungary with the Interallied Mission to Hungary, 1919-1920. Other photographs of interest are interior views of Bandholtz' Constantine, Michigan, home. The series also contains a photograph album, 1937, of the dedication of the Harry Hill Bandholtz statue in Budapest, Hungary.</p></scopecontent><c02 id="aspace_8b854bff016be540d651eda25e1f4c5a" level="subseries"><did><unittitle><genreform>Drawings</genreform></unittitle></did><c03 id="aspace_2d97611a4cf9d57216f5dfb9d141e14e" level="file"><did><unittitle>West Point sketchbook containing drawings of HHB's West Point classmates</unittitle><unitdate certainty="approximate" normal="1890/1890" type="inclusive">circa 1890</unitdate><container label="Roll" type="reel">10</container></did><odd><p>(volume includes a loose drawing, perhaps of HHB, drawn and signed by Geronimo while in custody at Mt. Vernon Barracks, Alabama, 1893)</p></odd></c03></c02><c02 id="aspace_30d9084c3d076075b50f0aadf4b37292" level="subseries"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did><c03 id="aspace_11579bab7097c6b489e82f7c14175c93" level="file"><did><unittitle>Portraits (include photograph of HHB statue in Budapest)</unittitle><container label="Roll" type="reel">10</container></did><odd><p>(see also oversize folder, UAl)</p></odd></c03><c03 id="aspace_b3f00bef9c22dafeb652f5bc180da481" level="file"><did><unittitle>Philippine views</unittitle><unitdate normal="1901/1901" type="inclusive">1901</unitdate><unitdate type="inclusive">undated</unitdate><container label="Roll" type="reel">11</container></did></c03><c03 id="aspace_22274f842267938b6ec2835d46455684" level="file"><did><unittitle>Philippine Constabulary</unittitle><unitdate certainty="approximate" normal="1900/1905" type="inclusive">circa 1900-1905</unitdate><container label="Roll" type="reel">11</container></did><odd><p>(see also oversize folder UAm)</p></odd></c03><c03 id="aspace_7f55f965549a9d7bb31825e838ba9259" level="file"><did><unittitle>Constantine (Michigan) home (also family (?) members)</unittitle><container label="Roll" type="reel">11</container></did></c03><c03 id="aspace_e0accecab23a4d01f933a3ddfd9db529" level="file"><did><unittitle>Miscellaneous and unidentified</unittitle><container label="Roll" type="reel">11</container></did></c03></c02><c02 id="aspace_7bc02fa4fb4517591edbc9ebb2c1ebfd" level="subseries"><did><unittitle>Photograph albums</unittitle></did><c03 id="aspace_6c12780c3b02520dacdb2df07349fd51" level="file"><did><unitdate certainty="approximate" normal="1903/1903" type="inclusive">circa 1903</unitdate><container label="Roll" type="reel">11</container></did><odd><p>(Philippine views, Philippine Constabulary, Manila)</p></odd></c03><c03 id="aspace_dd2556594a336a0971c3a2e3d21c7210" level="file"><did><unitdate certainty="approximate" normal="1900/1920" type="inclusive">circa 1900-1920</unitdate><container label="Roll" type="reel">11</container></did><odd><p>(Philippine views, Constantine, Michigan, 29th Infantry at Plattsburg, 1914, military life, 1914-1920)</p></odd></c03><c03 id="aspace_c6d85384b5ce14d34d88715a2fc18c63" level="file"><did><unitdate normal="1898/1923" type="inclusive">1898-1923</unitdate><container label="Roll" type="reel">11</container></did><odd><p>(Inez Bandholtz, portraits, military figures, Constantine, Michigan, home)</p></odd></c03><c03 id="aspace_a8c266b8e5f540c7d1a66902b1d6f368" level="file"><did><unitdate normal="1918/1919" type="inclusive">1918-1919</unitdate><container label="Roll" type="reel">11</container></did><odd><p>(France and the Western Front, Interallied Mission to Hungary, Hungary and Budapest views)</p></odd></c03><c03 id="aspace_ddd42f6c3872ccc42bd827b8aad01c06" level="file"><did><unitdate certainty="approximate" normal="1910/1910" type="inclusive">circa 1910</unitdate><container label="Roll" type="reel">11</container></did><odd><p>(China, Japan, informal photos of various acquaintances and friends)</p></odd></c03><c03 id="aspace_51732e07916e18b9aa0d7870f1f3ad0c" level="file"><did><unitdate normal="1937/1937" type="inclusive">1937</unitdate><container label="Roll" type="reel">11</container></did><odd><p>(HHB statue dedication in Budapest, Hungary)</p></odd></c03></c02></c01><c01 id="aspace_56dd2a6813618e877072c240fdd6c2f8" level="series"><did><unittitle><genreform>Scrapbooks</genreform></unittitle><physdesc><extent>0.5 linear feet</extent></physdesc><unitdate certainty="approximate" normal="1890/1925" type="inclusive">1890s-1925</unitdate></did><scopecontent><p>Scrapbooks (1890s-1925; .5 linear feet) contain newspaper coverage of HHB's career.</p></scopecontent><c02 id="aspace_0d09d50c7c53b5ec618d4145750e023f" level="file"><did><unitdate normal="1896/1909" type="inclusive">1896-1909</unitdate><container label="Roll" type="reel">11</container></did></c02><c02 id="aspace_9fa8d636748db9684ca40687b985a8e3" level="file"><did><unitdate normal="1901/1918" type="inclusive">1901-1918</unitdate><container label="Roll" type="reel">11</container></did><odd><p>(clippings not filed chronologically)</p></odd></c02><c02 id="aspace_82225437d33136af0f54064ff332f2ce" level="file"><did><unitdate normal="1919/1924" type="inclusive">1919-1924</unitdate><container label="Roll" type="reel">11</container></did><odd><p>(loose pages; probably Inez Bandholtz's scrapbook)</p></odd></c02><c02 id="aspace_b7bfd870fe515f6bac6e446701a4fec6" level="file"><did><unitdate certainty="approximate" normal="1890/1910" type="inclusive">1890s-1910</unitdate><container label="Roll" type="reel">11</container></did><odd><p>(scrapbook maintained by HHB's mother and relating to his career)</p></odd></c02><c02 id="aspace_9127d6ce852b05a8a0a217d408fa7cad" level="file"><did><unittitle>Newspaper clippings</unittitle><container label="Roll" type="reel">11</container></did></c02></c01><c01 id="aspace_17805407604a161579d34f97f3477544" level="series"><did><unittitle>Inez Bandholtz</unittitle><physdesc><extent>0.3 linear feet</extent></physdesc><unitdate normal="1924/1937" type="inclusive">1924-1937</unitdate></did><scopecontent><p>Inez Bandholtz (1924-1937; .3 linear feet) consists of one letter from Bandholtz to his wife, letters regarding his estate and the sale of his stamp collection, and files relating to the Bandholtz statue in Budapest and Inez Bandholtz' visit to Hungary.</p></scopecontent><c02 id="aspace_86a9aa41bc66fd47fba87e018f8ed789" level="file"><did><unittitle>Letters of condolence</unittitle><unitdate normal="1925/1925" type="inclusive">1925</unitdate><container label="Roll" type="reel">11</container></did></c02><c02 id="aspace_f8b88fb7b635b0cb1fbf574a978167a9" level="file"><did><unittitle>Sale of HHB stamp collection</unittitle><unitdate normal="1925/1925" type="inclusive">1925</unitdate><container label="Roll" type="reel">12</container></did></c02><c02 id="aspace_d0d7492170473d6e04ad461792a8e862" level="file"><did><unittitle>Visit to Hungary for the dedication of the HHB statue</unittitle><unitdate normal="1937/1937" type="inclusive">1937</unitdate><container label="Roll" type="reel">12</container></did></c02><c02 id="aspace_ef35701d3e03307986dc8cf630e0a97e" level="file"><did><unittitle>Correspondence with, and relating to, Col. Eugen Boross</unittitle><unitdate normal="1936/1941" type="inclusive">1936-1941</unitdate><container label="Roll" type="reel">12</container></did></c02><c02 id="aspace_01a4340e41dfd53a17b81082b0247b06" level="file"><did><unittitle>Harry Howland/Haan brothers correspondence</unittitle><unitdate normal="1925/1931" type="inclusive">1925-1931</unitdate><container label="Roll" type="reel">12</container></did></c02><c02 id="aspace_caff004a4eba94d7b4c4aca4c23818bb" level="file"><did><unittitle>Miscellaneous correspondence</unittitle><unitdate normal="1924/1937" type="inclusive">1924-1937</unitdate><container label="Roll" type="reel">12</container></did><odd><p>(including letter from HHB, 1924)</p></odd></c02><c02 id="aspace_171bb97597f508a55b45d2cb127e402f" level="file"><did><unittitle><genreform>Diary</genreform></unittitle><unitdate normal="1936/1936" type="inclusive">1936</unitdate><container label="Roll" type="reel">12</container></did></c02></c01><c01 id="aspace_549b17eb82d4407e69a1cb53a7d3c36c" level="series"><did><unittitle>Correspondence and Miscellanea</unittitle><unitdate normal="1903/1912" type="inclusive">1903-1912</unitdate></did><scopecontent><p>Correspondence (1903-1912, 0.2 linear ft.), chiefly confidential letters between Bandholtz and Luke Wright and Leonard Wood, concerns major political and military issues in the Philippines. A copy of J. G. Harbord's 1911 report on the Philippine Constabulary is also included. This material, received in the 2005 accession, has not been microfilmed.</p></scopecontent><c02 id="aspace_f8f23d209ad62b1dedcd71978a2b6c3b" level="file"><did><unitdate normal="1903/1912" type="inclusive">1903-1912</unitdate><container label="Box" type="box">8</container></did></c02><c02 id="aspace_0239b79dc031e483a14ff0b35da0e297" level="file"><did><unitdate type="inclusive">Miscellanea</unitdate><container label="Box" type="box">8</container></did></c02></c01></dsc>
+  <descgrp type="add">
+    <index id="aspace_817108d82179b06871e814683cec157a">
+      <head>Selective index to correspondents in 1965 accession</head>
+      <indexentry>
+        <persname>Allen, Henry Tureman, 1859-1930.</persname>
+        <ref>
+          <list type="simple">
+            <item>1903: Feb. 14, Sept. 17, Dec. 16 1904: May 6, May 11, May 28, Oct. 12, Oct. 23 1905: June 3, June 9, June 19, Oct. 14, Nov. 24, Dec. 14, Dec. 15 1906: Jan. 12 1907: Jan. 23, Mar. 23, Sept. 11 1908: Jan. 21, Dec. 19, Dec. 24 1909: Feb. 26, Mar. 8, May 6, May 17, Dec. 23 1910: Feb. 5, Feb. 9, Mar. 1, Mar. 8, Oct. 22 1911: April 12, Aug. 2 1912: Jan. 9, Feb. 16, Feb. 29 1913: Jan. 24, Mar. 1, Mar. 10, Apr. 16, May 24</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bell, James Franklin, 1856-1919.</persname>
+        <ref>
+          <list type="simple">
+            <item>1902: July 24, Oct. 16 1907: Sept. 5 1911: Oct. 23</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Burrows, Julius Caesar, 1837-1915.</persname>
+        <ref>
+          <list type="simple">
+            <item>1904: Feb. 15, Apr. 15, May 5, July 6 1907: Jan. 14 1909: June 3</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Carpenter, Frank W.</persname>
+        <ref>
+          <list type="simple">
+            <item>1909: Apr. 19, Sept. 3 1911: Nov 27</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Forbes, William Cameron, 1870-1959.</persname>
+        <ref>
+          <list type="simple">
+            <item>1905: June 7, June 16 1906: Aug 3 1907: July 6 1909: Apr. 21, July 29, Sept. 4, Dec. 7, Dec. 23, Dec. 28, Dec. 29 1910: Aug. 4 1911: Aug. 5 1913: Apr. 4</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Funston, Frederick, 1865-1917.</persname>
+        <ref>
+          <list type="simple">
+            <item>1912: Nov. 7, Nov. (?)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Gilbert, Newton Whiting, 1862-1939.</persname>
+        <ref>
+          <list type="simple">
+            <item>1907: May 13 1908: Jan. 23 1909: Apr. 21, June 13, July 3 1910: May 11 1911: Aug. 3 1912: Jan. 28, May 16, Oct. 14 1913: Mar. 25</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Harbord, James Guthrie, 1866-1947.</persname>
+        <ref>
+          <list type="simple">
+            <item>1905: Oct. 27, Oct. 31, Nov. 10, Nov. 22, Dec. 3, Dec. 16, Dec. 25, Dec. 26 1906: Jan. 2, Jan. 11, Jan. 16, Jan. 20, Jan. 22, Jan. 23, Jan. 29, Feb. 1, Feb. 6, Feb. 7, Feb. 10-11, Feb. 19, Feb. 26, Feb. 27, Mar. 3, Mar. 7, Mar. 9, Mar. 10, Mar. 13, Mar. 26, Mar. 28, Apr. 20, Sept. 1, Sept. 27, Oct. 7, Oct. 26 1907: Feb. 18, Mar. 13, Mar. 24, Apr. 3, Apr. 5, Apr. 24, Apr. 29, May 4, May 5, May 7, May 9, June 30, July 10, July 12, July 17, Aug. 4, Aug. 14, Aug. 19, Aug. 21, Aug. 24, Sept. 3, Sept. 4, Nov. 27, Dec. 10 1908: Jan. 10, Jan. 13, Jan. 27, Feb. 7, July 28 1909: Feb. 12, Apr. 2, Apr. 4, Apr. 7, May 6, May 28, June 6, June 13, June 21, July 5, July 7, July 19, July 22, July 30, Aug. 6, Aug. 17, Sept. 1, Sept. 7, Sept. 9, Sept. 14, Oct. 5, Oct. 13, Oct. 22, Oct. 27, Oct. 30, Nov. 7, Nov. 13 1910: Jan. 7, Feb. 18, Mar. 21, Apr. 11, May 30, Dec. 16 1911: Mar. 5, Mar. 7, May 5, May 24, June 14, Oct. 28, 1911, Dec. 14 1913: Mar. 10, May 18</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hersey, Mark Leslie, 1863-1934</persname>
+        <ref>
+          <list type="simple">
+            <item>1906: Oct. 4, Oct. 6 1907: June 21 1909: Mar. 23, May 4, May 6, June 6, July 2, Aug. 6 1910: Mar. 10, Mar. 17, Sept. 29, Oct. 18, Oct. 31, Nov. 10, Nov. 21, Dec. 6, Dec. 7 1911: May 9, July 11, Aug. 7, Aug. 10, Sept. 15, Oct. 6, Oct. 10, Oct. 17, Nov. 10, Nov. 18, Dec. 11, Dec. 12, and undated 1911 1913: Mar. 24, Apr. 1, June 13</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ide, Henry Clay, 1844-1921.</persname>
+        <ref>
+          <list type="simple">
+            <item>1905: July 6 1906: Feb. 16, Mar. 17, July 20, Aug. 29 1907: Mar. 22, May 27, July 8</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Kahn, Julius, 1861-1924.</persname>
+        <ref>
+          <list type="simple">
+            <item>1912: Nov. 2, Nov. 3 1913: Mar. 7, Apr. 16, Apr. 17</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Mills, Albert Leopold, 1854-1916.</persname>
+        <ref>
+          <list type="simple">
+            <item>1907: July 3 1909: Mar. 9, Mar. 10</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Osmena, Sergio, 1878-1961.</persname>
+        <ref>
+          <list type="simple">
+            <item>1907: July 1, July 5, July 12, Aug. 1, Aug. 2 1908: Dec. 15 1910: Dec. 16</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Pershing, John Joseph, 1860-1948.</persname>
+        <ref>
+          <list type="simple">
+            <item>1907: July 19 1910: Jan. 14, July 17 1911: Jan. 30, Mar. 1, Mar. 29, July 17, July 31 1913: Apr. 1</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Quezon, Manuel Luis, 1878-1944.</persname>
+        <ref>
+          <list type="simple">
+            <item>1906: Jan. 4, Jan. 23, Feb. 21, Feb. 23, Mar. 3, Mar. 5, Mar. 10, Mar. 14, Mar. 27, May 28, June 18, June 19, June 20, Aug. 23, Aug. 31, Dec. 18 1907: Jan. 23, Feb. 8, Feb. 18, Aug. 3 1909: Sept. 14, Nov. 21 1910: Apr. 26, June 30, Sept. 7, Dec. 22, Dec. 23, Dec. 28 1911: Jan. 5, Jan. 25, Feb. 25, Mar. 11, Apr. 12, July 8, Aug. 19, Aug. 29, Oct. 23, Oct. 28, Nov. 1, Nov. 3, Nov. 11, Nov. 25, Dec. 11 1913: Jan. 2, Jan. 25, Mar. 17, Apr. 15, Apr. 17, May 24</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Smith, James Francis, 1859-1928.</persname>
+        <ref>
+          <list type="simple">
+            <item>1909: May 10, July 6</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wood, Leonard, 1860-1927.</persname>
+        <ref>
+          <list type="simple">
+            <item>1908: Nov. 16 1909: Jan. 9, Feb. 13, Mar. 22, Apr. 30, July 22, Sept. 1, Oct. 13, Dec. 22, Dec. 23 1910: Jan. 31, Feb. 9, Mar. 11, Mar. 23, May 12, June 28, Aug. 12, Sept. 6, Sept. 13, Nov. 6, Nov. 23, Nov. 28, Dec. 6 1911: May 25 1912: May 14, Nov. 2, Nov. 7, Dec. 30 1913: Jan. 20, Feb. 3, Feb. 4, Feb. 21, Mar. 6, Apr. 2, Apr. 11, Apr. 18</item>
+          </list>
+        </ref>
+      </indexentry>
+    </index>
+    <index id="aspace_9afbc901977e3816dca847970420754d">
+      <head>Selective index to correspondents in 1994 accession</head>
+      <indexentry>
+        <persname>Bigelow, Poultney, 1855-1954.</persname>
+        <ref>
+          <list type="simple">
+            <item>1921: Nov. 8</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bliss, Tasker Howard, 1853-1930.</persname>
+        <ref>
+          <list type="simple">
+            <item>1919: Sept. 5</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bumpus, Hermon Carey, 1862-1943.</persname>
+        <ref>
+          <list type="simple">
+            <item>1906: Jan. 5, Jan. 31, Feb. 20, Mar. 15.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Coolidge, Calvin, 1872-1933.</persname>
+        <ref>
+          <list type="simple">
+            <item>1922: June 7.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Forbes, William Cameron, 1870-1959.</persname>
+        <ref>
+          <list type="simple">
+            <item>1907: July 6 1912: June 15 1915: Dec. 17 1917: May 22</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Harbord, James Guthrie, 1866-1947.</persname>
+        <ref>
+          <list type="simple">
+            <item>1921: Mar. 1, Mar. 2, Mar. 6 1924: June 24</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ide, Henry Clay, 1844-1921.</persname>
+        <ref>
+          <list type="simple">
+            <item>1907: May 27</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>McIntyre, Frank, 1865-1944.</persname>
+        <ref>
+          <list type="simple">
+            <item>1912: July 12 1913: Mar. 31, May 12, July 3, Aug. 11 1914: Jan. 6 1924: Jan. 3</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Pershing, John Joseph, 1860-1948.</persname>
+        <ref>
+          <list type="simple">
+            <item>1918: Nov. 29 1919: Mar. 28, Oct. 14 1923: June 29, Dec. 20</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Polk, Frank Lyon, 1871-1943.</persname>
+        <ref>
+          <list type="simple">
+            <item>1919: Oct. 17, Nov. 4, Nov. 15</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Quezon, Manuel Luis, 1878-1944.</persname>
+        <ref>
+          <list type="simple">
+            <item>See separate folder</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Rivers, William Cannon, 1866-1943.</persname>
+        <ref>
+          <list type="simple">
+            <item>See separate folder</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Roosevelt, Theodore, 1858-1919.</persname>
+        <ref>
+          <list type="simple">
+            <item>1917: June 21, June 28, July 20, Nov. 28</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Swope, Herbert Bayard, 1882-1958.</persname>
+        <ref>
+          <list type="simple">
+            <item>See separate folder</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Taft, William Howard, 1857-1930.</persname>
+        <ref>
+          <list type="simple">
+            <item>1903: Jan. 23 1908: July 31, Aug. 28 1911: May 13, Oct. 3</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Townsend, Charles E. (Charles Elroy), 1856-1924.</persname>
+        <ref>
+          <list type="simple">
+            <item>1912: July 13</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wickersham, George Woodward, 1858-1936.</persname>
+        <ref>
+          <list type="simple">
+            <item>1918: Mar. 8</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wright, Luke E., 1846-1922.</persname>
+        <ref>
+          <list type="simple">
+            <item>1902 throughout 1921: Apr. 28 1923: Feb. 8, June 12, June 13, Dec. 28</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wood, Leonard, 1860-1927.</persname>
+        <ref>
+          <list type="simple">
+            <item>See separate folder</item>
+          </list>
+        </ref>
+      </indexentry>
+    </index>
+    <index id="aspace_8a5966e371b3dcf76377a1a6687ec6fe">
+      <head>Selective index to correspondents in 2005 accession</head>
+      <indexentry>
+        <persname>Aguinaldo, Emilio, 1869-1964.</persname>
+        <ref>
+          <list type="simple">
+            <item>1911: Apr. 8</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ola, Simeon, 1865-</persname>
+        <ref>
+          <list type="simple">
+            <item>1905: Nov. 12 1907: Mar. 12</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wood, Leonard, 1860-1927.</persname>
+        <ref>
+          <list type="simple">
+            <item>1911: Aug. 3, Nov. 7, Dec. 4</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wright, Luke E., 1846-1922.</persname>
+        <ref>
+          <list type="simple">
+            <item>1907: Jan. 19, May 13 1908: Oct. 26 1909: Jan. 22</item>
+          </list>
+        </ref>
+      </indexentry>
+    </index>
+  </descgrp>
+</archdesc>
+</ead>

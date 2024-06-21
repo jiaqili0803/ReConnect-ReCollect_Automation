@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>umich-bhl-85696</eadid><filedesc><titlestmt><titleproper>Finding aid for Santiago Artiaga papers, 1914-1957</titleproper><author>Finding aid created by Michigan Historical Collections staff</author></titlestmt><publicationstmt><publisher>Bentley Historical Library</publisher><p><date>2008</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-10-07 12:45:27 -0400</date>.</creation><langusage>The finding aid is written in <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc><revisiondesc><change><date>2008-06-19</date><item>Original encoding from Word 2000 file using Word macros and Xmetal.</item></change><change><date>2016-11-21</date><item>Updated Conditions Governing Use Note</item></change></revisiondesc></eadheader><frontmatter><titlepage><publisher>Bentley Historical Library <lb/>University of Michigan</publisher><titleproper>Finding aid for Santiago Artiaga papers, 1914-1957</titleproper><author>Finding aid created by Michigan Historical Collections staff</author></titlepage></frontmatter><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Bentley Historical Library</corpname>
+      <extptr actuate="onload" href="bhladd" show="embed"/>
+    </repository>
+    <unittitle>Santiago Artiaga papers</unittitle>
+    <origination label="creator">
+      <persname source="lcnaf">Artiaga, Santiago, 1878-1962</persname>
+    </origination>
+    <unitid type="call number">85696 Aa 2</unitid>
+    <physdesc>
+      <extent>0.3 linear feet</extent>
+    </physdesc>
+    <unitdate normal="1914/1957" type="inclusive">1914-1957</unitdate>
+    <langmaterial id="aspace_ea42e7e0e56ea7bd7606491064212e37">The material is in <language encodinganalog="041" langcode="eng">English</language></langmaterial>
+    <abstract id="aspace_978b23249c3c189d381fb1364f08774e">City engineer in the Philippines; correspondence, biographical materials, and photographs.</abstract>
+  </did>
+  <descgrp type="admin">
+    <acqinfo><p>The collection was primarily the gift of Santiago Artiaga (donor no. <num encodinganalog="541$e" type="donor">3511</num>) and came to the library in 1948 and 1959.</p></acqinfo>
+    <accruals><p>No further additions to the papers are expected.</p></accruals>
+    <accessrestrict><p>The collection is open to research.</p></accessrestrict>
+    <userestrict><p>Donor(s) have not transferred any applicable copyright to the Regents of the University of Michigan. Patrons are responsible for determining the appropriate use or reuse of materials.</p></userestrict>
+    <prefercite><p>[item], folder, box, Santiago Artiaga papers, Bentley Historical Library, University of Michigan</p></prefercite>
+  </descgrp>
+  <bioghist><p>Santiago Artiaga was a 1904 graduate of the College of Engineering of the University of Michigan. With his degree in civil engineering, he returned to the Philippines. In 1920, he became Manila's City Engineer, serving until 1936. In addition, in 1923, he accepted the post of acting Mayor of Manila. Artiaga would later leave Manila, serving as Mayor of Zamboanga, Mayor of Davao, and Governor of Bukidnon Province.</p><p> Throughout his career, Artiaga maintained his association with the School of Engineering of The University of Michigan. As one of the first Philippine students to attend the University, Artiaga gained the attention of Dean Mortimer E. Cooley. The two became close friends and began a correspondence when Artiaga returned to the Philippines. In their letters these two engineers discussed the direction of their careers and specific engineering projects on which they were engaged. Artiaga's correspondence with Cooley provides interesting comments on his engineering career in the Philippines.</p></bioghist>
+  <scopecontent><p>A large part of Artiaga's papers concern his activities as Governor of Bukidnon Province. These materials, in both Spanish and English, include the minutes of the provincial board, official correspondence, miscellaneous technical reports, and some photographs. The remainder of his papers relate to The University of Michigan and his activities within The University of Michigan Alumni Club of the Philippines in the period of 1950-1957. In addition to his correspondence with Mortimer Cooley, there is a letter written in 1931 regarding the visit of Michigan Senator Arthur H. Vandenberg to the Philippines. There is also information about Frank Murphy, Governor General of the Philippines located in Artiaga's 1933 correspondence with Mortimer Cooley. Some of Artiaga's other correspondents are University of Michigan professors and administrators, including George G. Brown, Mortimer E. Cooley, Ivan C. Crawford, Joseph R. Hayden, James K. Pollock, Alexander G. Ruthven, Shirley W. Smith, and T. Hawley Tapping.</p></scopecontent>
+  <controlaccess>
+    <p>
+      <extptr actuate="onload" href="accnote" show="embed"/>
+    </p>
+    <geogname source="lcsh">Philippines -- History -- 1898-1946.</geogname>
+    <subject source="lcsh">World War, 1939-1945.</subject>
+    <genreform source="aat">Photographs.</genreform>
+    <persname source="lcnaf">Artiaga, Santiago, 1878-1962.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n84804477" source="lcnaf">Cooley, Mortimer E. (Mortimer Elwyn), 1855-1944.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86025928" source="lcnaf">Murphy, Frank, 1890-1949.</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n80094504" source="lcnaf">University of Michigan. College of Engineering.</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50045033" source="lcnaf">Vandenberg, Arthur H. (Arthur Hendrick), 1884-1951.</persname>
+    <persname source="lcnaf">Artiaga, Santiago, 1878-1962.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2003105939" role="ctb" source="lcnaf">Brown, George Granger, 1896-</persname>
+    <persname role="ctb" source="lcnaf">Crawford, Ivan Charles, 1886-1960.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85252398" role="ctb" source="lcnaf">Hayden, Joseph Ralston, 1887-1945.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n94057548" role="ctb" source="lcnaf">Pollock, James K. (James Kerr), 1898-1968.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n87828171" role="ctb" source="lcnaf">Ruthven, Alexander Grant, 1882-1971.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008187805" role="ctb" source="lcnaf">Smith, Shirley Wheeler, 1875-1959.</persname>
+    <persname role="ctb" source="lcnaf">Tapping, Theodore Hawley, 1889-1969.</persname>
+  </controlaccess>
+  <dsc type="combined"><c01 id="aspace_cc74f2341360e1da3825e7b000866796" level="series"><did><unittitle>Miscellaneous personal papers</unittitle></did><c02 id="aspace_f7fea926656d3881fab21123024a7492" level="file"><did><unittitle>Biographical Material</unittitle><container label="Box" type="box">1</container></did></c02><c02 id="aspace_8f9a143de13121b4a47c40bc719bd0f1" level="file"><did><unittitle>Papers</unittitle></did><c03 id="aspace_c58bfb4b33f223f91d3331df9df70896" level="file"><did><unitdate normal="1927/1927" type="inclusive">1927</unitdate><container label="Box" type="box">1</container></did></c03><c03 id="aspace_ec220543bd21db0e18d323e58d32b1bc" level="file"><did><unitdate normal="1936/1939" type="inclusive">1936-1939</unitdate><container label="Box" type="box">1</container></did><odd><p>(primarily October-December 1939)</p></odd></c03><c03 id="aspace_907f255ea55e88b1151a82ca1dde55bf" level="file"><did><physdesc><extent>4 folders</extent></physdesc><unitdate normal="1940/1940" type="inclusive">1940</unitdate><container label="Box" type="box">1</container></did></c03><c03 id="aspace_dc5c7ad08366690b31010caf02cdc5e2" level="file"><did><physdesc><extent>9 folders</extent></physdesc><unitdate normal="1941/1957" type="inclusive">1941-1957</unitdate><container label="Box" type="box">1</container></did></c03></c02><c02 id="aspace_4756f028a70b0448c8de0483c723414b" level="file"><did><unittitle>Correspondence with Mortimer E. Cooley</unittitle></did><odd><p>(primarily incoming letters from Cooley with occasional outgoing carbon copies by Artiaga)</p></odd><c03 id="aspace_e187e9546bf6e7952ffb7d505da40672" level="file"><did><physdesc><extent>4 folders</extent></physdesc><unitdate normal="1914/1945" type="inclusive">1914-1945</unitdate><container label="Box" type="box">1</container></did></c03></c02><c02 id="aspace_37991a7ce9c9cb1652c4decc4c891441" level="file"><did><unittitle>Christmas cards from Mortimer E. Cooley</unittitle><container label="Box" type="box">1</container></did></c02><c02 id="aspace_21eb45ccd4e2087554926bc8667847f4" level="file"><did><unittitle><genreform normal="Photographs">Photograph</genreform> of Artiaga</unittitle><container label="Box" type="box">1</container></did></c02></c01></dsc>
+  <descgrp type="add">
+    <index id="aspace_a50612c1622d04986fabdc70a4bb4cd7">
+      <head>Selective Index to Correspondents</head>
+      <indexentry>
+        <persname>Brown, George Granger, 1896-1957.</persname>
+        <ref>
+          <list type="simple">
+            <item>1951</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Crawford, Ivan Charles, 1886-1960.</persname>
+        <ref>
+          <list type="simple">
+            <item>1950s</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hayden, Joseph Ralston, 1887-1945.</persname>
+        <ref>
+          <list type="simple">
+            <item>1939, 1945</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Pollock, James Kerr, 1898-</persname>
+        <ref>
+          <list type="simple">
+            <item>1952</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ruthven, Alexander Grant, 1882-</persname>
+        <ref>
+          <list type="simple">
+            <item>1951, 1952</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Smith, Shirley Wheeler, 1875-1959.</persname>
+        <ref>
+          <list type="simple">
+            <item>1951, 1952</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Tapping, Theodore Hawley, 1889-1969.</persname>
+        <ref>
+          <list type="simple">
+            <item>1948-1955 (regarding U-M alumni affairs)</item>
+          </list>
+        </ref>
+      </indexentry>
+    </index>
+  </descgrp>
+</archdesc>
+</ead>

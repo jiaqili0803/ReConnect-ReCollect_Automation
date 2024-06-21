@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>umich-bhl-85710</eadid><filedesc><titlestmt><titleproper>Finding aid for Josephine Fellows Gomon papers, 1913-1975</titleproper><author>Finding aid created by Michigan Historical Collections staff</author></titlestmt><publicationstmt><publisher>Bentley Historical Library</publisher><p><date>2008</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-10-07 12:34:55 -0400</date>.</creation><langusage>The finding aid is written in <language langcode="eng" scriptcode="Latn">English</language></langusage><descrules>Finding aid prepared using Describing Archives: A Content Standard (DACS)</descrules></profiledesc><revisiondesc><change><date>2013-12-23</date><item>Reconstructed material added to collection.</item></change><change><date>2008-11-21</date><item>Original encoding from Word 2003 file using Word macros and Xmetal.</item></change><change><date>2016-11-21</date><item>Updated Conditions Governing Use Note</item></change></revisiondesc></eadheader><frontmatter><titlepage><publisher>Bentley Historical Library <lb/>University of Michigan</publisher><titleproper>Finding aid for Josephine Fellows Gomon papers, 1913-1975</titleproper><author>Finding aid created by Michigan Historical Collections staff</author></titlepage></frontmatter><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Bentley Historical Library</corpname>
+      <extptr actuate="onload" href="bhladd" show="embed"/>
+    </repository>
+    <unittitle>Josephine Fellows Gomon papers</unittitle>
+    <origination label="creator">
+      <persname source="lcnaf">Gomon, Josephine Fellows, 1892-1975</persname>
+    </origination>
+    <unitid type="call number">85710 Aa 2; AC</unitid>
+    <physdesc>
+      <extent>10 linear feet</extent>
+    </physdesc>
+    <physdesc>
+      <extent>2 oversize volumes</extent>
+    </physdesc>
+    <unitdate normal="1913/1975" type="inclusive">1913-1975</unitdate>
+    <langmaterial id="aspace_e1a1f99a1a0a3c7c82e6b3fa9ed0ef71">The material is in <language encodinganalog="041" langcode="eng">English</language></langmaterial>
+    <abstract id="aspace_f13a7229ed0657d114c646d8a87bc0d7">Executive secretary to Detroit Mayor Frank Murphy, 1930-1933, chairwoman of the Mayor's Unemployment Committee, later director of the Detroit Housing Commission, candidate for Detroit public office, and director of women personnel at the Willow Run Bomber Plant during World War II. Correspondence and diaries concerning the Murphy mayoralty, Clarence Darrow and the Ossian Sweet Murder Trial of 1925, and local Detroit politics; and photographs.</abstract>
+  </did>
+  <descgrp type="admin">
+    <acqinfo><p>The collection was donated by Josephine Gomon (Donor No. <num encodinganalog="541$e" type="donor">5511</num>) in several installments beginning in 1974. Additional donations have since been made by family members.</p></acqinfo>
+    <accruals><p>No further additions to the records are expected.</p></accruals>
+    <accessrestrict><p>The collection is open to research.</p></accessrestrict>
+    <userestrict><p>Donor(s) have transferred any applicable copyright to the Regents of the University of Michigan but the collection may contain third-party materials for which copyright was not transferred. Patrons are responsible for determining the appropriate use or reuse of materials.</p></userestrict>
+    <prefercite><p>[item], folder, box, Josephine Fellows Gomon papers, Bentley Historical Library, University of Michigan</p></prefercite>
+  </descgrp>
+  <bioghist><p>Josephine Fellows Gomon was born in Ann Arbor of Mary Walsh and Augustus W. Fellows and lived there until 1913, when she graduated from the University of Michigan with a degree in mathematics. She taught mathematics and physics at the College of the City of Detroit, now Wayne State University. In 1916, she married R. Louis Gomon, a University of Michigan engineering graduate. They had five children, including Bobby Lou (Mrs. Frederick Dewey); William; Howard Garner, who was killed in World War II; Jeanne (Mrs. Guy Nunn); and R. Louis, Jr. While raising her family, Mrs. Gomon taught throughout the Detroit public school system, wrote a child education column for <title render="italic">The Detroit News</title>, and worked for the local Planned Parenthood league.</p><p> In the 1920s, Mrs. Gomon met Clarence Darrow, and their friendship continued throughout the Ossian Sweet trial in Detroit and up until the time of his death. The Recorders Court Judge who presided over that trial was Frank Murphy, who was also a graduate of the University of Michigan. In 1930, Mrs. Gomon worked on Murphy's campaign for mayor of Detroit and upon his election to that office became his executive secretary and chaired the Mayor's Unemployment Committee.</p><p> When Murphy went to the Philippines in 1933, Mrs. Gomon was appointed the director of the newly established Detroit Housing Commission by Acting Mayor John Smith. Brewster and Parkside Houses were built during her term in office. She left that position in 1938, and worked in private business until 1941, when she was appointed by Harry Bennett of the Ford Motor Company as Director of Women Personnel at the newly constructed Willow Run bomber plant. In this capacity she fought for industrial safety, day care centers, and helped in the planning and construction of war workers' housing. In 1929, 1935, and 1941, Mrs. Gomon ran for elective office in the city of Detroit, the first election for the Board of Education and the other two for Common Council. Although she met defeat in every campaign, she received substantial electoral support throughout the city and was one of the first women to run for public office in Detroit.</p><p> From 1945 to 1948, she conducted a radio program on WKMH called "Opinion Unlimited." In 1948, her husband, R. Louis Gomon, died. Until her death in 1975, Mrs. Gomon participated in campaigns for social welfare and human rights through her memberships in the Americans for Democratic Action, NAACP, and the American Civil Liberties Union.</p><p> In 1960, she was honored at a tribute dinner which was attended by nearly every well-known political and governmental figures in the state of Michigan. A year later, Wayne State University gave Mrs. Gomon an honorary degree commemorating her long years of service to the city and the state.</p><p> In her later years, Mrs. Gomon attempted to write two major works. The first was a biography of Frank Murphy. The second project dealt with Henry Ford and Harry Bennett.</p></bioghist>
+  <scopecontent><p>The Josephine Gomon papers have been divided into the following series: Correspondence; Clippings/Scrapbooks; Notebooks of news items; Diaries; Biographical/Personal; Materials concerning Frank Murphy; Materials related to Gomon's projected biography of Frank Murphy; Ford Motor Company materials; Photographs.</p></scopecontent>
+  <controlaccess>
+    <p>
+      <extptr actuate="onload" href="accnote" show="embed"/>
+    </p>
+    <subject source="lcsh">Depressions -- 1929 -- Michigan -- Detroit.</subject>
+    <geogname source="local">Michigan -- Politics and government -- 1929-1938.</geogname>
+    <subject source="lcsh">Women in politics -- Michigan.</subject>
+    <subject source="lcsh">World War, 1939-1945.</subject>
+    <geogname source="lcsh">Michigan -- Politics and government -- 1837-1950.</geogname>
+    <subject source="lcsh">African Americans -- Michigan.</subject>
+    <subject source="lctgm">Banquets.</subject>
+    <subject source="lctgm">Crowds.</subject>
+    <geogname source="lctgm">Detroit (Mich.) -- Mayors.</geogname>
+    <geogname source="lctgm">Detroit (Mich.) -- 1935.</geogname>
+    <subject source="lctgm">Dwellings -- Michigan -- Harbor Beach.</subject>
+    <subject source="lctgm">Governors -- Michigan.</subject>
+    <geogname source="lctgm">Harbor Beach (Mich.) -- Dwellings.</geogname>
+    <subject source="lctgm">Horseback riding.</subject>
+    <subject source="lctgm">Housing.</subject>
+    <subject source="lctgm">Mayors -- Michigan -- Detroit.</subject>
+    <subject source="lctgm">Political elections.</subject>
+    <subject source="lctgm">Smoking.</subject>
+    <subject source="lctgm">Women -- Political life.</subject>
+    <genreform source="aat">Diaries.</genreform>
+    <genreform source="aat">Photographs.</genreform>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79026987" source="lcnaf">Darrow, Clarence, 1857-1938.</persname>
+    <corpname source="lcnaf">Detroit (Mich.). Housing Commission.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n85185363" source="lcnaf">Detroit (Mich.). Mayor.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n92063913" source="lcnaf">Detroit (Mich.). Mayor's Unemployment Relief Committee.</corpname>
+    <persname source="lcnaf">Gomon, Josephine Fellows, 1892-1975.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n2003033602" source="lcnaf">Sweet, Ossian, 1895-1960.</persname>
+    <corpname source="lcnaf">Willow Run Bomber Plant.</corpname>
+    <persname source="lcnaf">Bennett, Harry Herbert, 1892-1979.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50018203" source="lcnaf">Coughlin, Charles E. (Charles Edward), 1891-1979.</persname>
+    <persname source="lcnaf">Gomon, Josephine Fellows, 1892-1975.</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79059059" source="lcnaf">Michigan. Legislature.</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86025928" source="lcnaf">Murphy, Frank, 1890-1949.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79144645" source="lcnaf">Roosevelt, Eleanor, 1884-1962.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50002199" role="ctb" source="lcnaf">Arnow, Harriette Louisa Simpson, 1908-1986.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79100184" role="ctb" source="lcnaf">Barnes, Harry Elmer, 1889-1968.</persname>
+    <persname role="ctb" source="lcnaf">Bowles, George Edward, 1915-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n82235728" role="ctb" source="lcnaf">Brickley, James E., 1927-</persname>
+    <persname role="ctb" source="lcnaf">Bumgardner, Eleanor M. (Eleanor Margaret)</persname>
+    <persname role="ctb" source="lcnaf">Carey, Ed.</persname>
+    <persname role="ctb" source="lcnaf">Cavanagh, Jerome Patrick, 1928-1979.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n91056684" role="ctb" source="lcnaf">Downs, Tom, 1916-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n78001406" role="ctb" source="lcnaf">Edwards, George, 1914-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2009000067" role="ctb" source="lcnaf">Ferency, Zolton A., 1922-1993.</persname>
+    <persname role="ctb" source="lcnaf">FitzGerald, Frank.</persname>
+    <persname role="ctb" source="lcnaf">Girardin, Ray, -1971.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n87870687" role="ctb" source="lcnaf">Griffin, Robert P. (Robert Paul), 1923-2015.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n87870675" role="ctb" source="lcnaf">Hart, Philip A. (Philip Aloysius), 1912-1976.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79026910" role="ctb" source="lcnaf">Humphrey, Hubert H. (Hubert Horatio), 1911-1978.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n88074740" role="ctb" source="lcnaf">Knight, John Shively, 1894-1981.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008152067" role="ctb" source="lcnaf">McNamara, Patrick Vincent, 1894-1966.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n80010387" role="ctb" source="lcnaf">Milliken, William G., 1922-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86025928" role="ctb" source="lcnaf">Murphy, Frank, 1890-1949.</persname>
+    <persname role="ctb" source="lcnaf">Murphy, George, 1897-1961.</persname>
+    <persname role="ctb" source="lcnaf">Ravitz, Mel, 1924-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50045219" role="ctb" source="lcnaf">Reuther, Walter, 1907-1970.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no91007047" role="ctb" source="lcnaf">Riegle, Donald W., 1938-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50048290" role="ctb" source="lcnaf">Romney, George W., 1907-1995.</persname>
+    <persname role="ctb" source="lcnaf">Romney, Lenore LaFount.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/ns2012004729" role="ctb" source="lcnaf">Souris, Theodore, 1925-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/nr89001910" role="ctb" source="lcnaf">Staebler, Neil, 1905-2000.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n87909927" role="ctb" source="lcnaf">Sugar, Maurice, 1891-1974.</persname>
+    <persname role="ctb" source="lcnaf">Taylor, Hobart, 1920-1981.</persname>
+    <persname role="ctb" source="lcnaf">Van Wagoner, Murray Delos, 1898-</persname>
+    <persname role="ctb" source="lcnaf">Woodcock, Leonard.</persname>
+  </controlaccess>
+  <dsc type="combined"><c01 id="aspace_617973270c611ec9f235c99de13c20df" level="series"><did><unittitle>Correspondence</unittitle></did><scopecontent><p>Mrs. Gomon's correspondence is very rich. The World War II period is particularly well documented by a series of almost daily letters written by Mrs. Gomon to her children. The letters of Mrs. Gomon's son-in-law, Guy Nunn, are also very informative about the situation in post-World War II Germany and the V.F.W. in the early 1950s.</p></scopecontent><c02 id="aspace_992cf9b74114a3d875c73fc9191b2ab6" level="file"><did><unittitle>By date</unittitle></did><c03 id="aspace_c2d33228d0a041ee29b2baeb5da913d6" level="file"><did><physdesc><extent>51 folders</extent></physdesc><unitdate normal="1915/1945" type="inclusive">1915-1945</unitdate><unitdate type="inclusive">undated</unitdate><container label="Box" type="box">1</container></did></c03><c03 id="aspace_181351499a3a7578c6af7075b51669e8" level="file"><did><physdesc><extent>55 folders</extent></physdesc><unitdate normal="1946/1965" type="inclusive">1946-1965</unitdate><container label="Box" type="box">2</container></did></c03><c03 id="aspace_f65e810e20d3812f6e80089e8310f899" level="file"><did><physdesc><extent>46 folders</extent></physdesc><unitdate normal="1966/1971" type="inclusive">1966-1971</unitdate><container label="Box" type="box">3</container></did></c03><c03 id="aspace_e1e2fd5a32ee0843b4c002e4c609894f" level="file"><did><physdesc><extent>14 folders</extent></physdesc><unitdate normal="1972/1975" type="inclusive">1972-1975</unitdate><container label="Box" type="box">4</container></did></c03></c02><c02 id="aspace_b279d15b7ce9fa0131082d1d6109c9ee" level="file"><did><unittitle>By name</unittitle></did><c03 id="aspace_040573a387448301ab56ffd2e961701c" level="file"><did><unittitle>Cline, Leonard</unittitle><unitdate certainty="approximate" normal="1920/1929" type="inclusive">1920s</unitdate><container label="Box" type="box">4</container></did></c03><c03 id="aspace_157a9aba7f2b3bb494eadd1ae9cc1f45" level="file"><did><unittitle>Moody, Blair</unittitle><unitdate certainty="approximate" normal="1930/1939" type="inclusive">1930s</unitdate><container label="Box" type="box">4</container></did></c03><c03 id="aspace_c21bc534878bb563acbec27f160abbf8" level="file"><did><unittitle>Prevost, Cliff</unittitle><unitdate certainty="approximate" normal="1930/1939" type="inclusive">1930s</unitdate><container label="Box" type="box">4</container></did></c03></c02></c01><c01 id="aspace_ef42b4b9fab478811c2637a581c32a12" level="series"><did><unittitle>Clippings/Scrapbooks</unittitle></did><scopecontent><p>The scrapbooks represent a very useful collection of newspaper clippings dealing with public housing in Detroit between 1933 and 1937 and, again, are particularly useful because no published indexes are available for the papers clipped.</p></scopecontent><c02 id="aspace_4b6e93c2118cee6d4fbab22d109738ac" level="file"><did><physdesc><extent>17 folders</extent></physdesc><unitdate normal="1930/1975" type="inclusive">1930-1975</unitdate><unitdate type="inclusive">undated</unitdate><container label="Box" type="box">4</container></did></c02><c02 id="aspace_bc6611e91a10d1a13a7236b36515494d" level="file"><did><unittitle>Scrapbooks primarily relating to public housing in Detroit</unittitle><unitdate normal="1933/1937" type="inclusive">1933-1937</unitdate><container label="Oversize Volume" type="volume">1</container></did></c02><c02 id="aspace_af2be78ce2e67b1a5187e555f54b8b77" level="file"><did><unittitle>Scrapbooks primarily relating to public housing in Detroit</unittitle><unitdate normal="1933/1937" type="inclusive">1933-1937</unitdate><container label="Oversize Volume" type="volume">2</container></did><odd><p>(continued)</p></odd></c02></c01><c01 id="aspace_fa6d4f97afb243b0d831402b7bf32da5" level="series"><did><unittitle>Notebooks of news items</unittitle></did><scopecontent><p>Mrs. Gomon took extensive notes on a variety of subjects that interested her. The notebooks she kept on various newspapers reporting about political and social events are particularly valuable since the newspapers in question are, with the exception of the <title render="italic">New York Times</title>, not indexed.</p></scopecontent><c02 id="aspace_2c95600f221a9ee09cb4c8e8e11c33c2" level="file"><did><unittitle><title render="italic">Detroit News</title></unittitle></did><c03 id="aspace_23076dbe9885244a047c88b93fb39a6e" level="file"><did><unitdate normal="1910/1910" type="inclusive">1910</unitdate><container label="Box" type="box">4</container></did><odd><p>(Mayoral election)</p></odd></c03><c03 id="aspace_aebb98914f0b15326090e422dd6365fd" level="file"><did><unitdate normal="1920/1920" type="inclusive">1920</unitdate><container label="Box" type="box">4</container></did><odd><p>(Recorders' Court, Edward J. Jeffries, Sr.)</p></odd></c03><c03 id="aspace_4e96d753ce024b60bcb17e9758c32dda" level="file"><did><unitdate normal="1921/1921" type="inclusive">1921</unitdate><container label="Box" type="box">4</container></did></c03><c03 id="aspace_2dd701e1defc72f9eb5245201121bd38" level="file"><did><unitdate normal="1923-01/1923-03" type="inclusive">January 1923-March 1923</unitdate><container label="Box" type="box">4</container></did><odd><p>("Big Four" election, cont.)</p></odd></c03><c03 id="aspace_805536542a58e4f7ffd7e4d49c952e6a" level="file"><did><unitdate normal="1923-07/1923-12" type="inclusive">July-December 1923</unitdate><container label="Box" type="box">4</container></did></c03><c03 id="aspace_5f2374bc1b130d6db245c658be84a8f0" level="file"><did><unitdate normal="1923-12/1924-02" type="inclusive">December 1923-February 1924</unitdate><container label="Box" type="box">4</container></did></c03><c03 id="aspace_a8aace462800b49964063372b482e5ff" level="file"><did><unitdate normal="1924-01/1924-07" type="inclusive">January-July 1924</unitdate><container label="Box" type="box">4</container></did></c03><c03 id="aspace_79b9ef54efae5f7e7ab2310fc9e44319" level="file"><did><unitdate normal="1924-11/1924-11" type="inclusive">November 1924</unitdate><container label="Box" type="box">4</container></did></c03><c03 id="aspace_42c627a7c37aa4c52516d7a9ecf9f557" level="file"><did><unitdate normal="1925-01/1925-11" type="inclusive">January-November 1925</unitdate><container label="Box" type="box">4</container></did><odd><p>(Ossian Sweet case)</p></odd></c03><c03 id="aspace_5bde576618fccd6d4fba174a0516568e" level="file"><did><unitdate normal="1925-11/1926-05" type="inclusive">November 1925-May 1926</unitdate><container label="Box" type="box">4</container></did></c03><c03 id="aspace_876d6bc307932016f2728dcc3c69ebb1" level="file"><did><unitdate normal="1929-09/1930-01" type="inclusive">September 1929-January 1930</unitdate><container label="Box" type="box">4</container></did></c03><c03 id="aspace_09df85c4ab3e899b6357698f3c7777cd" level="file"><did><unitdate normal="1930-01/1930-01" type="inclusive">January 1930</unitdate><container label="Box" type="box">4</container></did></c03><c03 id="aspace_3073f34311384c6df5ad042d1164ca64" level="file"><did><unitdate normal="1930-02/1930-04" type="inclusive">February-April 1930</unitdate><container label="Box" type="box">4</container></did></c03><c03 id="aspace_1588b8bbd8b24a54e1b8b07d3b2107c4" level="file"><did><unitdate normal="1930-04/1930-06" type="inclusive">April-June 1930</unitdate><container label="Box" type="box">4</container></did></c03><c03 id="aspace_4204f523d0fc196f636a9fe9e94434db" level="file"><did><unitdate normal="1930-05/1930-08" type="inclusive">May-August 1930</unitdate><container label="Box" type="box">4</container></did><odd><p>(Bowles recall; Buckley murder)</p></odd></c03><c03 id="aspace_8dd3322dd398806f6fd280b39b1f1c7d" level="file"><did><physdesc><extent>5 folders</extent></physdesc><unitdate normal="1930-06/1931-02" type="inclusive">June 1930-February 1931</unitdate><container label="Box" type="box">4</container></did></c03><c03 id="aspace_16b4c5199980b1f853ed501c83d1dbc2" level="file"><did><physdesc><extent>20 folders</extent></physdesc><unitdate normal="1931-02/1937-03" type="inclusive">February 1931-March 1937</unitdate><container label="Box" type="box">5</container></did><odd><p>(lacking 1934-1935)</p></odd></c03></c02><c02 id="aspace_d729f6c9dca4e58bf2acfecc32bfb298" level="file"><did><unittitle><title render="italic">Detroit Times</title></unittitle></did><c03 id="aspace_653f7d1452decb4e0eb5405357afdfb8" level="file"><did><physdesc><extent>22 folders</extent></physdesc><unitdate normal="1923-01/1932-06" type="inclusive">January 1923-June 1932</unitdate><container label="Box" type="box">5</container></did><odd><p>(July-September 1923 notebook includes March 1937)</p></odd></c03><c03 id="aspace_7a57a548a0ea331fd53a2e90151d120c" level="file"><did><physdesc><extent>4 folders</extent></physdesc><unitdate normal="1932-06/1937-01" type="inclusive">June 1932-January 1937</unitdate><container label="Box" type="box">6</container></did><odd><p>(lacking May 1933-August 1936; December 1936 notebook includes <title render="italic">Detroit News</title>, March 1933)</p></odd></c03></c02><c02 id="aspace_2bc91ac996d56464cd58a615f9b563e1" level="file"><did><unittitle><title render="italic">Detroit Free Press</title></unittitle></did><c03 id="aspace_ca6195b584e28f3a115169e4ea10b253" level="file"><did><unitdate normal="1930-03/1930-07" type="inclusive">March-July 1930</unitdate><container label="Box" type="box">6</container></did></c03><c03 id="aspace_414262fed36fd75b0c50c291214d06bb" level="file"><did><unitdate normal="1930-09/1930-10" type="inclusive">September-October 1930</unitdate><container label="Box" type="box">6</container></did></c03><c03 id="aspace_281fe68fd794c8e9dabdf78b5d5be051" level="file"><did><unitdate normal="1937/1937" type="inclusive">1937</unitdate><container label="Box" type="box">6</container></did></c03><c03 id="aspace_eea9036b0c7dcd4930f1a5748d0f465d" level="file"><did><unitdate normal="1937-05/1937-05" type="inclusive">May 1937</unitdate><container label="Box" type="box">6</container></did></c03></c02><c02 id="aspace_abd6da036f838d77987c2c846d579c56" level="file"><did><unittitle><title render="italic">Manila Bulletin</title></unittitle><unitdate normal="1933-04/1933-06" type="inclusive">April-June 1933</unitdate><container label="Box" type="box">6</container></did></c02><c02 id="aspace_5884873cefb271be0bc7dfa96006eb34" level="file"><did><unittitle><title render="italic">Manila Tribune</title></unittitle></did><c03 id="aspace_58363ae2c8a40e1e8848101bb72b7e8a" level="file"><did><physdesc><extent>6 folders</extent></physdesc><unitdate normal="1933-02/1936-06" type="inclusive">February 1933-June 1936</unitdate><container label="Box" type="box">6</container></did><odd><p>(lacking December 1934-January 1936)</p></odd></c03></c02><c02 id="aspace_2bd8aacba7e6b0f6bbe58afd2b9f15ee" level="file"><did><unittitle><title render="italic">New York Times</title></unittitle></did><c03 id="aspace_d5a97445fdee5f1d997fa1774833f3cf" level="file"><did><unitdate normal="1930/1930" type="inclusive">1930</unitdate><container label="Box" type="box">6</container></did></c03><c03 id="aspace_42c70783cf9423109badf5e5444df9a1" level="file"><did><unitdate normal="1937-02/1937-03" type="inclusive">February-March 1937</unitdate><container label="Box" type="box">6</container></did></c03><c03 id="aspace_cf29ff3cd5ea266933abd605a69ea87e" level="file"><did><physdesc><extent>2 folders</extent></physdesc><unitdate normal="1937-03/1937-04" type="inclusive">March-April 1937</unitdate><container label="Box" type="box">6</container></did></c03></c02></c01><c01 id="aspace_48a73a0699bde2ad672456ff44331477" level="series"><did><unittitle><genreform normal="Diaries">Diaries</genreform></unittitle></did><scopecontent><p>Mrs. Gomon began keeping a diary in 1913. While its quality varies from year to year, she continued it without interruption for almost 60 years. The diaries offer insight both into her character and the events in which she was involved.</p></scopecontent><c02 id="aspace_8e9ef0bb77009146247e878f64c72ba9" level="file"><did><unitdate normal="1912/1912" type="inclusive">1912</unitdate><container label="Box" type="box">6</container></did></c02><c02 id="aspace_3ce75990fe212e8af0747f92fc76f8c3" level="file"><did><physdesc><extent>2 volumes</extent></physdesc><unitdate normal="1913/1913" type="inclusive">1913</unitdate><container label="Box" type="box">6</container></did></c02><c02 id="aspace_f114f4b00fc3dfd8288cb0df5e6ce245" level="file"><did><unitdate normal="1914/1914" type="inclusive">1914</unitdate><container label="Box" type="box">6</container></did></c02><c02 id="aspace_0397ae2394a72d80d34ff9fb680f01b0" level="file"><did><unitdate normal="1915/1916" type="inclusive">1915-1916</unitdate><container label="Box" type="box">6</container></did></c02><c02 id="aspace_2fabd96e356bf3f938e50748b65b56d8" level="file"><did><unitdate normal="1918/1918" type="inclusive">1918</unitdate><container label="Box" type="box">6</container></did></c02><c02 id="aspace_0fc577e1149b0165e68811afbef6ef4c" level="file"><did><unitdate normal="1919/1920" type="inclusive">1919-1920</unitdate><container label="Box" type="box">6</container></did></c02><c02 id="aspace_b5c09ebb5de34e1de2f65f74931d8602" level="file"><did><unitdate normal="1922/1922" type="inclusive">1922</unitdate><container label="Box" type="box">6</container></did></c02><c02 id="aspace_2b60f52b8231b8fb69b15f04d6abbd5a" level="file"><did><unitdate normal="1925/1925" type="inclusive">1925</unitdate><container label="Box" type="box">6</container></did><odd><p>(comments concerning Clarence Darrow)</p></odd></c02><c02 id="aspace_ed4d6f84dbfaaa6c257e06e0033a6985" level="file"><did><unitdate normal="1925/1925" type="inclusive">1925</unitdate><container label="Box" type="box">6</container></did><odd><p>(concerning Sweet case)</p></odd></c02><c02 id="aspace_511cd8c57279a39d1e9c0caa274093fc" level="file"><did><unitdate normal="1925/1925" type="inclusive">1925</unitdate><container label="Box" type="box">6</container></did><odd><p>(Women's Campaign Committee)</p></odd></c02><c02 id="aspace_8b48522ece4d5e9b0e667106a317d6de" level="file"><did><physdesc><extent>11 folders</extent></physdesc><unitdate normal="1925-10/1932-11" type="inclusive">October 1925-November 1932</unitdate><container label="Box" type="box">6</container></did><odd><p>(lacking January 1928-December 1929)</p></odd></c02><c02 id="aspace_1f41d72868ad4350b5edbd16b9ef0661" level="file"><did><physdesc><extent>40 folders</extent></physdesc><unitdate normal="1932-05/1973" type="inclusive">May 1932-1973</unitdate><container label="Box" type="box">7</container></did><odd><p>(lacking 1928-1929, January-February 1932, June-July 1932, November 1953)</p></odd></c02><c02 id="aspace_334c8816a5d4b5c0593c101c1f7b53fc" level="file"><did><physdesc><extent>2 folders</extent></physdesc><unitdate normal="1974/1974" type="inclusive">1974</unitdate><container label="Box" type="box">8</container></did></c02></c01><c01 id="aspace_f3ab53563cc5436c1fe073f2118327a3" level="series"><did><unittitle>Biographical/Personal</unittitle></did><scopecontent><p>The Biographical/Personal series concerns awards and honors received, speeches given, miscellaneous writings, and family matters.</p></scopecontent><c02 id="aspace_e04df2629012acb2e004ab3ab90c80ea" level="file"><did><unittitle>Awards and Citations</unittitle><container label="Box" type="box">8</container></did></c02><c02 id="aspace_2f9bd9186026c3ff007da0166dafadfd" level="file"><did><unittitle>Funeral guest register</unittitle><unitdate normal="1975-11/1975-11" type="inclusive">November 1975</unitdate><container label="Box" type="box">8</container></did></c02><c02 id="aspace_ec5affa391cf95d8a067ada39249c30d" level="file"><did><unittitle>Gomon Political campaign materials</unittitle><container label="Box" type="box">8</container></did></c02><c02 id="aspace_31824ec6c8a23bbfbde9d220a1bb38c7" level="file"><did><unittitle>Gomon Marriage certificate</unittitle><container label="Box" type="box">8</container></did></c02><c02 id="aspace_51cee5d021bb945237f5d61b762ee5fa" level="file"><did><unittitle>Fellows family of Ann Arbor</unittitle><container label="Box" type="box">8</container></did></c02><c02 id="aspace_80a6bc39123ffc3f83f89361e4e232cc" level="file"><did><unittitle>Interview (UM-WSU Institute for Labor and Industrial Relations)</unittitle><unitdate normal="1959/1959" type="inclusive">1959</unitdate><container label="Box" type="box">8</container></did></c02><c02 id="aspace_bf785a590a6f201124d28fb057babbc4" level="file"><did><unittitle>Michigan Women's Hall of Fame (includes <genreform normal="Photographs">photographs</genreform>)</unittitle><unitdate normal="1983/1983" type="inclusive">1983</unitdate><container label="Box" type="box">8</container></did></c02><c02 id="aspace_ca42bb7288a3e3e377002b3668474d74" level="file"><did><unittitle>Miscellaneous papers</unittitle><container label="Box" type="box">8</container></did></c02><c02 id="aspace_09357e9ff101e92639cefb7482b4e00e" level="file"><did><unittitle>Notebooks of reviews of books</unittitle><physdesc><extent>3 items</extent></physdesc><container label="Box" type="box">8</container></did></c02><c02 id="aspace_e8d01d54a6b58b089e345deb55f21df6" level="file"><did><unittitle>Notebooks of miscellaneous materials, especially writings and random thoughts</unittitle><physdesc><extent>14 items</extent></physdesc><container label="Box" type="box">8</container></did></c02><c02 id="aspace_0d88a50d2db8db912434bcbd2344c8f1" level="file"><did><unittitle>Speech to the Michigan ACLU Sixth Annual Dinner</unittitle><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container label="Box" type="box">8</container></did></c02><c02 id="aspace_70bfad8cc548a4be9521ed446ec2d49a" level="file"><did><unittitle>Wayne State Univ. Honorary Degree</unittitle><unitdate normal="1961/1961" type="inclusive">1961</unitdate></did><c03 id="aspace_4490797601f588286ac0dd6f6f949a8f" level="file"><did><unittitle>Program and Degree</unittitle><container label="Box" type="box">8</container></did><odd><p>(includes <genreform normal="Photographs">photograph</genreform>)</p></odd></c03><c03 id="aspace_5ae71eac3284a91b70071ed752952a7b" level="file"><did><unittitle>Congratulatory Correspondence</unittitle><container label="Box" type="box">8</container></did></c03></c02><c02 id="aspace_9d51fe1f5ddc59e2c5664662d05549db" level="file"><did><unittitle>Writings</unittitle></did><c03 id="aspace_355e55ff78cd1b47f63efe5faf182012" level="file"><did><unittitle>Detroit</unittitle><container label="Box" type="box">8</container></did></c03><c03 id="aspace_f2944a9d9ee1619ac684e07dfd357168" level="file"><did><unittitle>Ford</unittitle><container label="Box" type="box">8</container></did></c03><c03 id="aspace_ac055cca4055d78753bd1a7f96564212" level="file"><did><unittitle>Lodge, John C.</unittitle><container label="Box" type="box">8</container></did></c03><c03 id="aspace_123f7cabe5a3f9236873a0602ef4c674" level="file"><did><unittitle>Murphy, Frank miscellaneous</unittitle><container label="Box" type="box">8</container></did></c03><c03 id="aspace_6142ca4e9d319f835c2a95e20a1872de" level="file"><did><unittitle>Miscellaneous writings</unittitle><container label="Box" type="box">8</container></did></c03></c02></c01><c01 id="aspace_c1f6e9922766415c4f156a8fcb5ae2d3" level="series"><did><unittitle>Materials concerning Frank Murphy</unittitle></did><scopecontent><p>Mrs. Gomon accumulated significant primary material from her association with Frank Murphy. This includes speeches of Frank Murphy, clippings about him, and other materials. Also included in this series is a group of nine intimate letters (1932-1933) addressed to Murphy from Louise Victoria (surname unknown). These letters had been torn in small pieces by someone and saved by Gomon. They were reconstructed by Bentley Library conservation staff in 2013.</p></scopecontent><c02 id="aspace_7844cd39689b25c5854540338d640673" level="file"><did><unittitle>Speeches</unittitle><unitdate normal="1930-08/1932-11" type="inclusive">August 1930-November 1932</unitdate><container label="Box" type="box">8</container></did></c02><c02 id="aspace_259a2bf6a8428c31334a59c310d75edc" level="file"><did><unittitle>Speeches , mayoral</unittitle><physdesc><extent>3 folders</extent></physdesc><unitdate type="inclusive">undated</unitdate><container label="Box" type="box">8</container></did></c02><c02 id="aspace_99a3d527dcf617733326ba9522b83830" level="file"><did><unittitle>Speeches , mayoral</unittitle><physdesc><extent>8 folders</extent></physdesc><unitdate type="inclusive">undated</unitdate><container label="Box" type="box">9</container></did></c02><c02 id="aspace_f375732f9d2eb6184fd811ea3cf84702" level="file"><did><unittitle>Materials Mayor's Unemployment Committee</unittitle><unitdate normal="1931/1931" type="inclusive">1931</unitdate><container label="Box" type="box">9</container></did></c02><c02 id="aspace_c91d7d30a64352628ab5c3d1fd5a1445" level="file"><did><unittitle>Materials United States Conference of Mayors in Detroit</unittitle><unitdate normal="1932/1932" type="inclusive">1932</unitdate></did><c03 id="aspace_3cc3222a55a0524f6c48172c832d6ceb" level="file"><did><unittitle>Proceedings</unittitle><container label="Box" type="box">9</container></did></c03><c03 id="aspace_7b577d049f5a4980eceb8cf536cea01f" level="file"><did><unittitle>Correspondence</unittitle><container label="Box" type="box">9</container></did></c03></c02><c02 id="aspace_3a39098c21871f901d620ecd826dada3" level="file"><did><unittitle>Materials Report into Causes of Strike at Briggs Manufacturing Co.</unittitle><unitdate normal="1933/1933" type="inclusive">1933</unitdate><container label="Box" type="box">9</container></did></c02><c02 id="aspace_87a70dd9acac96b322b6ac8072c44821" level="file"><did><unittitle>Miscellaneous papers regarding Mayoralty</unittitle><container label="Box" type="box">9</container></did></c02><c02 id="aspace_7cd67c4d622b68a83eeffd3427d08915" level="file"><did><unittitle>Speeches</unittitle><unitdate normal="1933/1938" type="inclusive">1933-1938</unitdate><container label="Box" type="box">9</container></did></c02><c02 id="aspace_569fbf47458bfb1d04c41535a531ea9a" level="file"><did><unittitle>Sit-down strike</unittitle><unitdate normal="1937/1937" type="inclusive">1937</unitdate><container label="Box" type="box">9</container></did></c02><c02 id="aspace_99a2b8e94474fa2bb9ed27780b46ea84" level="file"><did><unittitle>U.S. Senate Subcommittee hearing concerning appointment to Supreme Court</unittitle><container label="Box" type="box">9</container></did></c02><c02 id="aspace_f5b2f376d4cda54c00944a1f6609f865" level="file"><did><unittitle>Clippings</unittitle><container label="Box" type="box">9</container></did></c02><c02 id="aspace_a54c6c01ee6e5701c81eca1c4c06f922" level="file"><did><unittitle>Correspondence, reconstructed</unittitle><physdesc><extent>9 folders</extent></physdesc><unitdate normal="1932/1933" type="inclusive">1932-1933</unitdate><container label="Box" type="box">9</container></did></c02><c02 id="aspace_4a4aea0073c3d6acd54a74ddd45a9ee2" level="file"><did><unittitle>Correspondence, unreconstructed</unittitle><unitdate normal="1932/1933" type="inclusive">1932-1933</unitdate><container label="Box" type="box">9</container></did></c02></c01><c01 id="aspace_81720a3018603acc5394ed6d59b09ce3" level="series"><did><unittitle>Materials related to Gomon's projected biography of Frank Murphy (never published)</unittitle></did><scopecontent><p>The draft of Mrs. Gomon's projected biography of Frank Murphy is also found in the collection. This work is particularly strong in its discussion of Murphy's years in Detroit and his term of office as governor of Michigan.</p></scopecontent><c02 id="aspace_d7142fea23db43d86f2fd6baee3083a1" level="file"><did><unittitle>Correspondence from Curtis Brown, Ltd. (publisher)</unittitle><container label="Box" type="box">9</container></did></c02><c02 id="aspace_c8099ee06da4515e83b97c20eadb7c78" level="file"><did><unittitle>Correspondence from Murphy associates</unittitle></did><c03 id="aspace_197a518773c42b232f0d4051f458ba6b" level="file"><did><unitdate normal="1951-04/1951-04" type="inclusive">April 1951</unitdate><container label="Box" type="box">9</container></did></c03><c03 id="aspace_01edace63309070ba3beec3ed7294c42" level="file"><did><unitdate normal="1951-05/1951-11" type="inclusive">May-November 1951</unitdate><container label="Box" type="box">9</container></did></c03><c03 id="aspace_4132b09e535ee7cd1aeaf53b7a60f7a4" level="file"><did><unitdate normal="1952/1952" type="inclusive">1952</unitdate><container label="Box" type="box">9</container></did></c03></c02><c02 id="aspace_3030e33426854a7f0c2310531cc1d5db" level="file"><did><unittitle>Outline of biography</unittitle><container label="Box" type="box">9</container></did></c02><c02 id="aspace_9e77dddac851dedba23941a441c8adf0" level="file"><did><unittitle>Notes for biography</unittitle><physdesc><extent>3 folders</extent></physdesc><container label="Box" type="box">9</container></did></c02><c02 id="aspace_ba363e0e847b05554f422094384ad496" level="file"><did><unittitle>Drafts</unittitle></did><c03 id="aspace_00aec61d6bd5047ea03c3824044383ba" level="file"><did><unittitle>Early family history to "Big Four" Recorders' Court campaign</unittitle><unitdate normal="1924/1924" type="inclusive">1924</unitdate><container label="Box" type="box">9</container></did></c03><c03 id="aspace_9e8f1be4e60cc4b84a197683ea79f9d8" level="file"><did><unittitle>Ann Arbor-University of Michigan</unittitle><container label="Box" type="box">9</container></did></c03><c03 id="aspace_a6c22c82cdd463d959e1388862870527" level="file"><did><unittitle>Assistant District Attorney</unittitle><container label="Box" type="box">9</container></did></c03><c03 id="aspace_94449e50041a971be3f91dc93741e493" level="file"><did><unittitle>Recorders Court campaign</unittitle><container label="Box" type="box">9</container></did></c03><c03 id="aspace_52fea5da9e1240db665191f7dee3bd4d" level="file"><did><unittitle>Recorders Court campaign, Mrs. Lewen: The Twentieth Century Club</unittitle><container label="Box" type="box">9</container></did></c03><c03 id="aspace_2aaf1c19c1be36ef4c99b7ee523ec1e6" level="file"><did><unittitle>Recorders Court term: Sweet case</unittitle><container label="Box" type="box">9</container></did></c03><c03 id="aspace_ae77e7515e831086549bde2bb1469fbf" level="file"><did><unittitle>Miscellaneous regarding city politics in Detroit before Murphy mayoralty</unittitle><container label="Box" type="box">9</container></did></c03><c03 id="aspace_f9462dcdb029d4c8e54a238e6543e48e" level="file"><did><unittitle>Mayoralty campaign</unittitle><container label="Box" type="box">9</container></did></c03><c03 id="aspace_4facc2d9962d1c7a235a65c7416131aa" level="file"><did><unittitle>Mayoralty</unittitle><physdesc><extent>3 folders</extent></physdesc><container label="Box" type="box">9</container></did></c03><c03 id="aspace_258c766b376949a49d3dd2c7f690eb4f" level="file"><did><unittitle>Mayoral re-election</unittitle><physdesc><extent>4 folders</extent></physdesc><container label="Box" type="box">10</container></did></c03><c03 id="aspace_02b85083cdf699d6b9dead1db017c3a6" level="file"><did><unittitle>Mayoral Second Term</unittitle><container label="Box" type="box">10</container></did></c03><c03 id="aspace_20a70dea9e0e17f62bb8e52341ac5276" level="file"><did><unittitle>State Democratic Convention</unittitle><unitdate normal="1932/1932" type="inclusive">1932</unitdate><container label="Box" type="box">10</container></did></c03><c03 id="aspace_ea0d33734da57309b2f33a96c1c1bfdd" level="file"><did><unittitle>Mayoral Second Term: Briggs Strike</unittitle><container label="Box" type="box">10</container></did></c03><c03 id="aspace_9e2de8e33c13d4abe88c80c7023f469c" level="file"><did><unittitle>City Finances</unittitle><container label="Box" type="box">10</container></did></c03><c03 id="aspace_3be3f091df87d38b7e022a1b03956d55" level="file"><did><unittitle>Philippines</unittitle><container label="Box" type="box">10</container></did></c03><c03 id="aspace_90e0bae9f6a01ce792caf78876023243" level="file"><did><unittitle>Campaign for Governor</unittitle><container label="Box" type="box">10</container></did></c03><c03 id="aspace_cdadbafb57998659691128d88a8d5f1e" level="file"><did><unittitle>Governor</unittitle><container label="Box" type="box">10</container></did></c03><c03 id="aspace_41796ad08f149737fd6031298ec14c53" level="file"><did><unittitle>Governor: Sit down strike, General Motors</unittitle><container label="Box" type="box">10</container></did></c03><c03 id="aspace_9b040b6c27684fc9c6b6cfc739e25310" level="file"><did><unittitle>Governor: Sit down strike, pp.1-50</unittitle><container label="Box" type="box">10</container></did></c03><c03 id="aspace_eb91b1e0e1886220214e82e806141907" level="file"><did><unittitle>Governor: Sit down strike, pp. 51-114</unittitle><container label="Box" type="box">10</container></did></c03><c03 id="aspace_f3823e03001cb8dbe4777c2bfad4ac5a" level="file"><did><unittitle>Governor: More sit down strikes</unittitle><container label="Box" type="box">10</container></did></c03><c03 id="aspace_f2fa35cc4d5b3fbb73a82de700785ce5" level="file"><did><unittitle>Governor: Labor</unittitle><container label="Box" type="box">10</container></did></c03><c03 id="aspace_349f57242d85ada280998100c0286093" level="file"><did><unittitle>Supreme Court appointment</unittitle><container label="Box" type="box">10</container></did></c03><c03 id="aspace_7f3ed002f0d28cc16661e2e1ee7e3e14" level="file"><did><unittitle>Recall in Detroit</unittitle><container label="Box" type="box">10</container></did></c03><c03 id="aspace_dcf1d0c47a1137d62f7767c100a5a7f7" level="file"><did><unittitle>History of Michigan Politics</unittitle><container label="Box" type="box">10</container></did></c03></c02><c02 id="aspace_0b9a3bd3ede89bd62f57e7eb3912217a" level="file"><did><unittitle>"What Makes Frank Murphy Tick?"</unittitle><container label="Box" type="box">10</container></did></c02><c02 id="aspace_104d1ea96a8a718a3154e7c01ff7edca" level="file"><did><unittitle>"Matters Affecting the Democrat Party in Michigan"-Peter Fogan</unittitle><container label="Box" type="box">10</container></did></c02><c02 id="aspace_3f4bf50f4a304833d5e195485314cbc1" level="file"><did><unittitle>"Messiah or Mortal" (re: Frank Murphy)-Harry Meade</unittitle><container label="Box" type="box">10</container></did></c02><c02 id="aspace_62b072639182198da3647e67c393f866" level="file"><did><unittitle>"My Friend" (Frank Murphy); Recollections regarding prohibition in Detroit</unittitle><container label="Box" type="box">10</container></did></c02><c02 id="aspace_0dcecec1e57a07a40a42b1be15a76035" level="file"><did><unittitle>Outline of Murphy biography</unittitle><container label="Box" type="box">10</container></did></c02><c02 id="aspace_29b3a2f968c7a47ba8c5fae1ede74a37" level="file"><did><unittitle>"Frank Murphy and His Women"</unittitle><container label="Box" type="box">10</container></did></c02><c02 id="aspace_e9dd80ee7ee463e6081fc56326e368ac" level="file"><did><unittitle>Notes for biography</unittitle><physdesc><extent>3 folders</extent></physdesc><container label="Box" type="box">10</container></did></c02><c02 id="aspace_3539a47e2ea988f43995e95af4a3dacd" level="file"><did><unittitle>"Mr. Justice Murphy's Contribution to Law"-Thurgood Marshall</unittitle><container label="Box" type="box">10</container></did></c02><c02 id="aspace_85dc63803db40caa081ce9c4ec534f17" level="file"><did><unittitle>"Mr. Justice Murphy, Humanitarian, Administrator, Dissenting Jurist"-Hillmer Gellein</unittitle><container label="Box" type="box">10</container></did></c02></c01><c01 id="aspace_93314be26eda9a3b490e639f60c87e2f" level="series"><did><unittitle>Ford Motor Company materials</unittitle></did><scopecontent><p>Josephine Gomon also intended to publish a work about Henry Ford. It dealt with Ford during the World War II period while Mrs. Gomon was working at Willow Run. She was particularly close to Harry Bennett, and through him, Henry Ford. Her writing is particularly interesting because she is sympathetic to both Ford and Bennett.</p></scopecontent><c02 id="aspace_936e9867a0d517055a4d1064a5a99703" level="file"><did><unittitle>Reminiscences, especially relating to Harry Bennett</unittitle><physdesc><extent>3 folders</extent></physdesc><container label="Box" type="box">10</container></did></c02><c02 id="aspace_ecf36e524c2556f749d9997459305c32" level="file"><did><unittitle>"The Poor Mr. Ford" unpublished manuscript</unittitle><container label="Box" type="box">10</container></did></c02><c02 id="aspace_0252fd4f295e78c4134f3770066797ac" level="file"><did><unittitle>"The Poor Mr. Ford" drafts</unittitle><physdesc><extent>8 folders</extent></physdesc><container label="Box" type="box">10</container></did></c02></c01><c01 id="aspace_435f27a9ba81887263f0ad828995db76" level="series"><did><unittitle><genreform normal="Photographs">Photographs</genreform></unittitle></did><scopecontent><p>The photographs include portraits of Mrs. Gomon as well as posed and un-posed photos of guests at the 1960 dinner honoring her. Also included are miscellaneous photos from Frank Murphy's career.</p></scopecontent><c02 id="aspace_b3862276dd1706c30d996a1bc1908405" level="file"><did><unittitle>Portraits, formal and informal</unittitle><container label="Box" type="box">10</container></did></c02><c02 id="aspace_19da3d69ddc7c6e228d30e74c0bc4e73" level="file"><did><unittitle>Testimonial banquet</unittitle><physdesc><extent>2 folders</extent></physdesc><unitdate normal="1960-12-09/1960-12-09" type="inclusive">December 9, 1960</unitdate><container label="Box" type="box">10</container></did></c02><c02 id="aspace_db1b0d5dca809668188537e486c9d592" level="file"><did><unittitle>Miscellaneous (including photo of J. Gomon with Harry Bennett)</unittitle><container label="Box" type="box">10</container></did></c02><c02 id="aspace_34e79636eb1aedf9f7a5f65b2dc0cbab" level="file"><did><unittitle>Frank Murphy</unittitle></did><c03 id="aspace_a02713b48f30b876ee0a18a3d916865a" level="file"><did><unittitle>As mayor of Detroit</unittitle><container label="Box" type="box">10</container></did></c03><c03 id="aspace_46cee51a9b4a3ca95234fb3077476a27" level="file"><did><unittitle>As governor of Michigan</unittitle></did><c04 id="aspace_90a8d64f503c95d4ff5be4f6f98431b4" level="file"><did><unittitle>Photos relating to auto strike negotiations</unittitle><container label="Box" type="box">10</container></did></c04><c04 id="aspace_4a80381108333ae11fa6499c60e8a91a" level="file"><did><unittitle>Miscellaneous (including photos of Frank Murphy with Father Coughlin)</unittitle><container label="Box" type="box">10</container></did></c04><c04 id="aspace_af9d5f75bede46d82c2fd9b72700650b" level="file"><did><unittitle>Memorabilia</unittitle><container label="Box" type="box">10</container></did></c04><c04 id="aspace_9f0c0a6841674f50535a72c49c522bf3" level="file"><did><unittitle>Miscellaneous and undated</unittitle><container label="Box" type="box">10</container></did></c04></c03></c02><c02 id="aspace_11726622691ae9c9db923015478d7d40" level="file"><did><unittitle>Eleanor Roosevelt visit to Detroit</unittitle><unitdate normal="1935/1935" type="inclusive">1935</unitdate><container label="Box" type="box">10</container></did></c02></c01></dsc>
+  <descgrp type="add">
+    <index id="aspace_c2843877e60ebc0d61ad376d148354fa">
+      <head>Selective Index to Correspondents</head>
+      <indexentry>
+        <persname>Arnow, Harriette Louisa Simpson, 1908-1986.</persname>
+        <ref>
+          <list type="simple">
+            <item>June 15,1961; July 13,1961; Sept. 16,1961; Sept. 23,1961; 1962; Feb. 21,1963; June 6,1963; undated,1964; Jan. 12,1964; Aug. 8,1964; Jan. 12,1966; undated,1967; Feb.,1967; Apr. 4,1967; Nov. 18,1967; undated,1968; Aug. 3,1968.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Barnes, Harry Elmer, 1889-1968</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 2, 1963.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bowles, George Edward, 1915-</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 1, 1962; Jan. 27, 1968; May 2, 1968.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Brickley, James, 1927-</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 18, 1965; Feb. 4, 1965; Jan. 21, 1970.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bumgardner, Eleanor M. (Eleanor Margaret)</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 2, 1969.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Carey, Ed.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 18, 1964; Mar. 30, 1964.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Cavanagh, Jerome Patrick, 1928-1979.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 21,1964; Sept. 15,1964; Jan. 6,1965; June 22,1965; Aug. 18,1965; June 10,1966; Jan. 24,1967; Aug. 16,1967; Apr. 19,1968; May 9,1968; May 17,1968; May 29,1968; May 9,1969; Nov. 6,1969; Apr. 9,1973.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Darrow, Ruby</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 29, 1929.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Downs, Tom, 1916-</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 7, 1964; Sept. 18, 1964; Oct. 4, 1964; Nov. 5, 1966.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Edwards, George, 1914-</persname>
+        <ref>
+          <list type="simple">
+            <item>Mar. 29, 1964; Dec. 8, 1972.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ferency, Zolton A., 1922-</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 24, 1964; Apr. 14, 1970; June 11, 1970.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>FitzGerald, Frank</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 14, 1959.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Girardin, Ray, d. 1971.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 21, 1963; Oct. 7, 1964; Dec. 7, 1964; Oct. 17, 1967.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Griffin, Robert P. (Robert Paul), 1923-</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 30, 1968; Feb. 25, 1970; Apr. 13, 1970; Sept. 28,1973.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hart, Philip A. (Philip Aloysius), 1912-1976.</persname>
+        <ref>
+          <list type="simple">
+            <item>1963; Feb. 11,1964; Feb. 26,1964; May 29,1964; Feb. 12,1965; Apr. 2,1965; May 12,1967; Sept. 30,1968; Apr. 25,1968; June 25,1968; Aug. 3,1971; Sept. 24,1974.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Humphrey, Hubert H. (Hubert Horatio), 1911-1978.</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 20, 1963; May 19, 1964.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Knight, John Shively, 1894-1981.</persname>
+        <ref>
+          <list type="simple">
+            <item>July 30,1965; Nov. 24,1965; Dec. 31,1965; Sept. 9,1966; Oct. 24,1966; Nov. 10,1966; May 1,1967; July 8,1974; Mar. 13,1975.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>McNamara, Patrick Vincent, 1894-1966</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 29, 1963; Apr. 5, 1965; July 7, 1965; Nov. 16, 1965.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Milliken, William G., 1922-</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 19, 1971; Feb. 10, 1971; Mar. 21, 1972; Nov. 28, 1972; Sept. 11, 1974.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Murphy, Frank, 1890-1949</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 25,1929; Apr. 24,1933; Apr. 26,1933; May 6,1935; Aug. 5,1935; June 18,1936; July 14,1937; May 17,1937; May 28,1937; June 2,1937; Nov. 3,1937; Mar. 3,1938; Aug. 27,1941; Apr. 24,1948; Dec. 25,1948; June 6,1949.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Murphy, George, 1897-1961</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 17, 1955; Jan. 8, 1959; Feb. 6, 1959; Apr. 3, 1959.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ravitz, Mel, 1924-</persname>
+        <ref>
+          <list type="simple">
+            <item>Apr. 14, 1964; May 19, 1964; Feb. 6, 1967; Nov. 23, 1970; Dec. 11, 1970; July 8, 1970; Apr. 13, 1971.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Reuther, Walter, 1907-1970.</persname>
+        <ref>
+          <list type="simple">
+            <item>June 20, 1960.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Riegle, Donald W., 1938-</persname>
+        <ref>
+          <list type="simple">
+            <item>July 19, 1971; May 21, 1971; Dec. 23,1972.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Romney, George W., 1907-1995.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 11,1959; Nov. 3,1961; Nov. 17,1961; Dec. 29,1961; Feb. 19,1962; July 9,1963; Nov. 1,1963; Mar. 23,1964; Aug. 14,1964; June 2,1965; Aug. 27,1965; Sept. 2,1965; July 27,1966; Oct. 11,1966; Apr. 10,1967; Aug. 19,1968; Jan. 3,1973.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Romney, Lenore LaFount.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 4, 1970; Nov. 14, 1970; Sept. 10, 1972.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Souris, Theodore, 1925-</persname>
+        <ref>
+          <list type="simple">
+            <item>June 27,1960; Dec. 3,1960; Nov. 15,1961; Oct. 26,1964; Dec. 9,1964; Apr. 15,1968.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Staebler, Neil, 1905-</persname>
+        <ref>
+          <list type="simple">
+            <item>May 6, 1963; Mar. 5, 1964.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Sugar, Maurice, 1891-1974</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 15, 1970.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Taylor, Hobart, 1920-1981.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 21, 1965.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Van Wagoner, Murray Delos, 1898-</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 6, 1963.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Woodcock, Leonard.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 1, 1970; Feb. 25, 1975.</item>
+          </list>
+        </ref>
+      </indexentry>
+    </index>
+  </descgrp>
+</archdesc>
+</ead>

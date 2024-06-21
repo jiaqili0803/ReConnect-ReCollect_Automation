@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>umich-bhl-85831</eadid><filedesc><titlestmt><titleproper>Finding Aid for Joseph Beal Steere Papers</titleproper><author>Finding aid prepared by: Gael Graham and Elaine Watson</author></titlestmt><publicationstmt><publisher>Bentley Historical Library</publisher><p><date>2003</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-10-07 12:34:14 -0400</date>.</creation><langusage>The finding aid is written in <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc><revisiondesc><change><date>2003-10-10</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change><change><date>2003-08-29</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change><change><date>2016-11-21</date><item>Updated Conditions Governing Use Note</item></change></revisiondesc></eadheader><frontmatter><titlepage><publisher>Bentley Historical Library <lb/>University of Michigan</publisher><titleproper>Finding Aid for Joseph Beal Steere Papers</titleproper><author>Finding aid prepared by: Gael Graham and Elaine Watson</author></titlepage></frontmatter><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Bentley Historical Library</corpname>
+      <extptr actuate="onload" href="bhladd" show="embed"/>
+    </repository>
+    <unittitle>Joseph Beal Steere Papers</unittitle>
+    <origination label="creator">
+      <persname authfilenumber="http://id.loc.gov/authorities/names/no2007120169" source="lcnaf">Steere, Joseph Beal, 1842-1940</persname>
+    </origination>
+    <unitid type="call number">85831;AC;Aa;2;UAm</unitid>
+    <physdesc>
+      <extent>4 linear feet</extent>
+    </physdesc>
+    <physdesc>
+      <extent>1 oversize volume</extent>
+    </physdesc>
+    <physdesc>
+      <extent>1 oversize folder</extent>
+    </physdesc>
+    <unitdate normal="1861/1941" type="inclusive">1861-1941</unitdate>
+    <abstract id="aspace_46fdedd2ae86e9216f169f38760e7b19">Naturalist, professor of zoology and paleontology at the University of Michigan. Autobiography and biographical material; correspondence, diaries and travelogues, and writings concerning in part his collecting expeditions for the University Museum to South America, China, the Philippines, and other parts of the Far East; also papers reflecting his thoughts on science, religion, philosophy and evolution; and photographs.</abstract>
+    <langmaterial id="aspace_97068b5cbd0b80611894f6617aa5f96d">The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+  </did>
+  <descgrp type="admin">
+    <acqinfo><p>The collection came in three accessions. In 1973, the Museums Library (Donor No. <num encodinganalog="541$e" type="donor">2658</num>) transferred its holdings of Steere papers; in 1984, Mary Louise Steere donated additional material; in 1990, Betty Steere Abercrombie donated additional material left by her aunt, Mary Louise Steere (both accessions included in Donor No. <num encodinganalog="541$e" type="donor">7062</num>).</p></acqinfo>
+    <accessrestrict><p>The collection is open for research.</p></accessrestrict>
+    <userestrict><p>Donor(s) have transferred any applicable copyright to the Regents of the University of Michigan but the collection may contain third-party materials for which copyright was not transferred. Patrons are responsible for determining the appropriate use or reuse of materials.</p></userestrict>
+    <prefercite><p>item, folder title, box no., Joseph Beal Steere Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+  </descgrp>
+  <bioghist><p>Joseph Beal Steere was born February 9, 1842, in a house on Bean Creek, in the township of Rollin, Lenawee County, Michigan. His parents, William Millhouse Steere and Elizabeth Cleghorn Steere (nee Beal), were of pioneer Quaker stock. Both had brief careers as teachers before they married and turned to farming. In 1848 the Steere family moved by railroad and canal to Covington, Kentucky, on account of the father's poor health. In 1849 they moved again, to a spot twelve miles from Cincinnati.</p><p> After the entire family recovered from a bout with typhoid the next year, the Steeres returned to Michigan by wagon. In 1851, when Joseph was nine years old, he was sent to live with his uncle, to work to earn his keep.</p><p> In 1853 the Steeres moved to the "Miner Settlement" in Bloomer Center, Montcalm County. Steere recalled that school became important to him at this time. He had always enjoyed reading, but now he began to push himself to excel.</p><p> In 1858 Dr. George Pray, one of the earliest graduates from the University of Michigan, moved to a farm not far from the Steere home. Pray made a generous offer to prepare any interested student for college. Joseph Steere took up his offer, and he began to study with Dr. Pray on a weekly basis.</p><p> Steere was nineteen when the Civil War broke out. He wanted to enlist, but he was unable to, in part because of his father's opposition. So he remained at home and studied and taught school.</p><p> During the Civil War Steere moved to Ann Arbor, where he lived with Dr. Pray. Believing that he needed further formal education, Steere obtained permission to attend Ann Arbor High School. While two of his brothers did ultimately fight for the Union, Steere's enthusiasm to participate was tempered by his desire to receive an education. He never did enlist.</p><p> While in Ann Arbor, Steere became acquainted with the town's first botanist, Miss Mary Clark, who ran a girls' school. Steere had been interested in the workings of the natural world since childhood, but it is possible that his friendship with Miss Clark was instrumental in directing him toward a career in natural history.</p><p> After Steere was graduated from high school, he worked on his father's farm until he passed the University of Michigan entrance exam. He began his college education in September, 1864. Although he had become interested in natural history, he entered the University of Michigan Law School in 1868. He earned his degree two years later.</p><p> He did not practice law. Instead he embarked on an extensive world tour to gather collections for the University of Michigan Museum. His mother's cousin, Rice A. Beal--owner and publisher of the Ann Arbor Courier--agreed to pay for the expedition if Steere would write letters from his journey to be published in the Courier. Steere's travels lasted more than four years, taking him across the Andes (by horse and by foot) into Peru, and then east to China, Formosa (Taiwan), the Philippines, the Malaccas, and the Dutch Moluccas.</p><p> Steere shipped home thousands of specimens of birds, reptiles, mammals, and plants. On the Island of Marajo he excavated huge prehistoric burial mounds. He obtained rare manuscripts from Formosa, and he studied fifteen previously unknown tribes along the Amazon. He was especially interested in native dialects, and he compiled phonetic studies of several different languages.</p><p> His work in the Philippines was particularly notable. Many of the islands he visited had never been scientifically studied. He added at least sixty species of birds to the known Philippine avifauna, and he did extensive work on the distribution of animals throughout the archipelago.</p><p> In 1875, when Steere reached Singapore, he received word that he had received the University of Michigan's first honorary doctorate, in recognition of his scientific achievements. At the same time he was made an Assistant Professor.</p><p> The following year the Regents appointed Steere Assistant Professor of Paleontology and Curator of the Museum to which he had donated his collection. This was the first such museum to be built on the campus of a state university, and, consequently, a large variety of contributions began to pour into the new museum, including the Chinese collection that had been exhibited at the World's Industrial Fair, 1884-1885, in New Orleans. (In April of 1876, shortly after assuming his new responsibilities at the University of Michigan, Steere had spent some time in the British Museum collecting and perfecting data for his own collections.)</p><p> In 1879 Steere became a full Professor of Zoology and Paleontology. During that year he returned to the Amazon with a party of male university students. In the space of three months they collected over a thousand specimens of birds, mammals, reptiles, and fish.</p><p> In 1887 Steere requested a year's leave of absence, and again leading a party of five younger men, he returned to the Philippines. Three years later he went back to the Amazon, this time under the auspices of the Smithsonian Institution. He studied the Hypurinas, Jamadi, and Paumari Indians.</p><p> Steere resigned from the University in 1894. He had been asked to resign by the Regents, possibly, as he maintained, because his outspoken stance on temperance had angered the local German community.</p><p> After retiring, Steere spent the rest of his life on his farm near Ypsilanti. In 1901, however, he was again in the Amazon region, collecting for the Smithsonian's exhibition for the International Exposition in Buffalo. He continued to take an interest in scientific trends, and he carried on correspondence with his former colleagues and with people working for Prohibition.</p><p> Steere was an intensely religious man. He was active in the Methodist Sunday School and in the temperance movement. He sided with the Darwinists in the great nineteenth century debate over evolution versus creationism, but he was a strong proponent of what he called "argument from design." He believed that the natural world provided ample proof of the existence of a Designer, for he felt that life was too meticulously formed and intricately linked to be merely the result of fortuitous and random accidents.</p><p> Steere's later writings reflect his thoughts on religion, philosophy, and evolution. He began an autobiography when he was 89 years old, a work that showed a fine memory for detail, particularly details from his childhood years. He wrote some verse and numerous moralistic children's stories--many of them with animals living in authentic woodland settings.</p><p> Steere married Helen Buzzard on September 30, 1879. Before their marriage she had been the principal of the first ward school of Ann Arbor. The couple had five daughters and four sons.</p><p> Steere died on December 7, 1940. He was ninety-eight years old. Accolades for his lifetime accomplishments came from, among others, the University of Michigan, from the community of natural sciences, and from the Philippine National Council.</p></bioghist>
+  <scopecontent><p>The papers of Joseph Beal Steere consist of four feet of manuscript and visual material, one oversize volume, and one oversize folder covering the years 1861-1941. The collection is organized into seven series: Autobiography/Biography, Professional and Published Correspondence, Diaries and Travelogues, Writings, Photographs, and Correspondence with family and friends (1861-1926).</p></scopecontent>
+  <controlaccess>
+    <p>
+      <extptr actuate="onload" href="accnote" show="embed"/>
+    </p>
+    <geogname source="lcsh">Amazon River.</geogname>
+    <geogname source="lcsh">China -- History -- 1861-1912.</geogname>
+    <geogname source="lcsh">China -- History -- Republic, 1912-1949.</geogname>
+    <subject source="lcsh">Evolution -- Religious aspects.</subject>
+    <geogname source="lcsh">East Asia.</geogname>
+    <subject source="lcsh">Naturalists -- Religious life -- Michigan -- Ann Arbor.</subject>
+    <geogname source="lcsh">Philippines -- History -- 1812-1898.</geogname>
+    <subject source="lcsh">Philosophy.</subject>
+    <subject source="lcsh">Scientific expeditions.</subject>
+    <geogname source="lcsh">South America.</geogname>
+    <subject source="lcsh">Travelers.</subject>
+    <subject source="lcsh">Voyages and travels.</subject>
+    <subject source="lcsh">Zoology.</subject>
+    <subject source="lctgm">Expeditions and surveys.</subject>
+    <subject source="lcsh">Indians of South America.</subject>
+    <geogname source="lcsh">Philippines -- History -- 1812-1898.</geogname>
+    <geogname source="lcsh">South America.</geogname>
+    <genreform source="aat">Photographs.</genreform>
+    <genreform source="aat">Diaries.</genreform>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2007120169" source="lcnaf">Steere, Joseph Beal, 1842-1940.</persname>
+    <corpname source="lcnaf">University of Michigan. Dept. of Zoology.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- Faculty.</corpname>
+    <corpname source="lcnaf">University of Michigan. University Museum.</corpname>
+    <famname source="lcnaf">Beal family.</famname>
+    <famname source="lcnaf">Buzzard family.</famname>
+    <corpname source="lcnaf">University of Michigan. Class of 1868.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- Expeditions and surveys.</corpname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n87149270" role="ctb" source="lcnaf">Agassiz, Alexander, 1835-1910.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50036582" role="ctb" source="lcnaf">Allen, J. A. (Joel Asaph), 1838-1921.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no90002065" role="ctb" source="lcnaf">Angell, James Burrill, 1829-1916.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85802228" role="ctb" source="lcnaf">Bartlett, Harley Harris, 1886-1960.</persname>
+    <persname role="ctb" source="lcnaf">Baur, George.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2008186663" role="ctb" source="lcnaf">Beal, Junius E. (Junius Emery), 1860-1942.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2005089998" role="ctb" source="lcnaf">Beal, William James, 1833-1924.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79143074" role="ctb" source="lcnaf">Beecher, Charles Emerson, 1856-1904.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2013060778" role="ctb" source="lcnaf">Blair, William McCormick, 1884-1982.</persname>
+    <persname role="ctb" source="lcnaf">Brigham, Edward Morris.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79043596" role="ctb" source="lcnaf">Brightman, Edgar Sheffield, 1884-1953.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n91006170" role="ctb" source="lcnaf">Butler, Amos W. (Amos William), 1860-1937.</persname>
+    <persname role="ctb" source="lcnaf">Case, E. C. (Ermine Cowles), 1871-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/nr2001026928" role="ctb" source="lcnaf">Cassino, Samuel Edson, 1856-1937.</persname>
+    <persname role="ctb" source="lcnaf">Chapman, Howard Rufus, 1868-1942.</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n84146878" role="ctb" source="lcnaf">Chicago Academy of Sciences.</corpname>
+    <persname role="ctb" source="lcnaf">Clark, Mary H., -1875.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n80056984" role="ctb" source="lcnaf">Cooley, Charles Horton, 1864-1929.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50032078" role="ctb" source="lcnaf">Cooley, Thomas McIntyre, 1824-1898.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50017607" role="ctb" source="lcnaf">Cope, E. D. (Edward Drinker), 1840-1897.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86107593" role="ctb" source="lcnaf">Derby, Orville A. (Orville Adelbert), 1851-1915.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79060532" role="ctb" source="lcnaf">Dewey, John, 1859-1952.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no97047441" role="ctb" source="lcnaf">Dutcher, William, 1846-1920.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79117154" role="ctb" source="lcnaf">Elliot, Daniel Giraud, 1835-1915.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85335475" role="ctb" source="lcnaf">Fairchild, David, 1869-1954.</persname>
+    <persname role="ctb" source="lcnaf">Ferguson, Alfred Lynn, 1884-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85801636" role="ctb" source="lcnaf">Frieze, Henry S. (Henry Simmons), 1817-1889.</persname>
+    <persname role="ctb" source="lcnaf">Günther, Albert C. L. G. (Albert Carl Ludwig Gotthilf), 1830-1914.</persname>
+    <persname role="ctb" source="lcnaf">Hargitt, Edward.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2004054718" role="ctb" source="lcnaf">Harrington, Mark Walrod, 1848-1926.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85811795" role="ctb" source="lcnaf">Hartt, Charles Frederick, 1840-1878.</persname>
+    <persname role="ctb" source="lcnaf">Heath, Edwin R.</persname>
+    <persname role="ctb" source="lcnaf">Heath, Ivon D.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n87108037" role="ctb" source="lcnaf">Henderson, William D., 1866-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n84012363" role="ctb" source="lcnaf">Hinsdale, W. B. (Wilbert B.), 1851-1944.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n82130691" role="ctb" source="lcnaf">Holmes, William Henry, 1846-1933.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50028512" role="ctb" source="lcnaf">Hornaday, William Temple, 1854-1937.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n83196231" role="ctb" source="lcnaf">Hubbard, Bela, 1814-1896.</persname>
+    <persname role="ctb" source="lcnaf">Hubbard, Edward K.</persname>
+    <persname role="ctb" source="lcnaf">Hubbard, E. W.</persname>
+    <persname role="ctb" source="lcnaf">Jackson, Walter Hinckley, 1840-1930.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n78050673" role="ctb" source="lcnaf">Jenney, William Le Baron, 1832-1907.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2004052855" role="ctb" source="lcnaf">Johnston, Clarence Thomas, 1872-1970.</persname>
+    <persname role="ctb" source="lcnaf">Jones, I. Winter.</persname>
+    <persname role="ctb" source="lcnaf">Kelley, Alfred.</persname>
+    <persname role="ctb" source="lcnaf">Kellogg, James Lawrence, 1866-1938.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85059686" role="ctb" source="lcnaf">Leete, Frederick Deland, 1866-1958.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n80024499" role="ctb" source="lcnaf">Merriam, C. Hart (Clinton Hart), 1855-1942.</persname>
+    <persname role="ctb" source="lcnaf">Penna, D. S. Ferreira.</persname>
+    <persname role="ctb" source="lcnaf">Phelps, William Henry, 1872-1939.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2006038285" role="ctb" source="lcnaf">Roth, Filibert, 1858-1925.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n87828171" role="ctb" source="lcnaf">Ruthven, Alexander Grant, 1882-1971.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85085981" role="ctb" source="lcnaf">Sclater, Philip Lutley, 1829-1913.</persname>
+    <persname role="ctb" source="lcnaf">Senier, Alfred, -1918.</persname>
+    <persname role="ctb" source="lcnaf">Sharpe, Richard Bowdler.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n83825138" role="ctb" source="lcnaf">Shufeldt, Robert W. (Robert Wilson), 1850-1934.</persname>
+    <persname role="ctb" source="lcnaf">Steere, Isaac.</persname>
+    <persname role="ctb" source="lcnaf">Steere, Joseph Hall, 1852-1936.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n00113369" role="ctb" source="lcnaf">Van Deman, Henry Elias, 1845-1915.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86860264" role="ctb" source="lcnaf">Ward, Henry A. (Henry Augustus), 1834-1906.</persname>
+    <persname role="ctb" source="lcnaf">Waterhouse, Frederick Herschel.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/nr00017036" role="ctb" source="lcnaf">Wenley, R. M. (Robert Mark), 1861-1929.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n91097963" role="ctb" source="lcnaf">Whitman, Charles Otis, 1842-1910.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no97020935" role="ctb" source="lcnaf">Wilder, Burt Green, 1841-1925.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no91009574" role="ctb" source="lcnaf">Wilgus, Horace L. (Horace La Fayette), 1859-1935.</persname>
+    <persname role="ctb" source="lcnaf">Wilson, Robert.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85828861" role="ctb" source="lcnaf">Winchell, Alexander, 1824-1891.</persname>
+    <persname role="ctb" source="lcnaf">Wood, W. W.</persname>
+    <persname role="ctb" source="lcnaf">Woolridge, C. W.</persname>
+  </controlaccess>
+  <dsc type="combined"><c01 id="aspace_b4e7b5d3a34eff3d5e0e9f0a1217621e" level="series"><did><unittitle>Autobiography/Biography</unittitle></did><scopecontent><p>The Autobiography/Biography series includes an autobiography of some fifty pages, covering Steere's childhood to his early college days. The autobiography is rich in detail for the early part of Steere's life, giving a vivid account of rural life in the 1840's-1850's. Steere's description of his college career is less complete, but correspondence from family and friends helps to fill in the picture of his life in the 1860's helps to fill in gaps in Steere's later life, especially during his working years. Also included is a folder of "general" material, one on "Affiliations," documenting the clubs and societies that Steere was affiliated with, and a folder of "Newspaper Clippings," which perhaps provides the best information about the chronology of Steere's life.</p></scopecontent><c02 id="aspace_a017a9daf7e9ef346d234df78ede6489" level="file"><did><unittitle>Autobiography</unittitle><container label="Box" type="box">1</container></did></c02><c02 id="aspace_39893072c5c67761cb423d4e46d38c2d" level="file"><did><unittitle>Biography</unittitle></did><c03 id="aspace_b06d8e75374b584399165459775fe2ed" level="file"><did><unittitle>General</unittitle><container label="Box" type="box">1</container></did></c03><c03 id="aspace_716ed6191f509a9d28d1a6af6aec933e" level="file"><did><unittitle>Affiliations</unittitle><unitdate normal="1885/1938" type="inclusive">1885-1938</unitdate><container label="Box" type="box">1</container></did></c03><c03 id="aspace_5b55f98678bc2fb4ea2affa0276c05c2" level="file"><did><unittitle>Newspaper Clippings</unittitle><container label="Box" type="box">1</container></did></c03></c02></c01><c01 id="aspace_bc32c984b4b442bb77191065e2e572d0" level="series"><did><unittitle>Professional And Published Correspondence</unittitle></did><scopecontent><p>The Professional and Published Correspondence series consists of the correspondence received from the transfer of Steere papers from the University of Michigan Museums Library. These letters are charming and vibrant. In fact, they are more informative than his travel diaries. The series consists of two subseries representing a 1973 accession from the U-M University Museums Library and materials received from Mary Louise Steere (1973) and Betty Steere Abercombie (1990).</p></scopecontent><c02 id="aspace_1c6ea480e8530f1dc0de3d8f4cd19529" level="subseries"><did><unittitle>Files from UM Museums Library</unittitle></did><c03 id="aspace_0b99b9a9a723580701e1b8cdc957be15" level="file"><did><unitdate normal="1866/1870" type="inclusive">1866-1870</unitdate><container label="Box" type="box">1</container></did></c03><c03 id="aspace_534d8b78fc7c40bab25b622e51bc62cb" level="file"><did><unitdate normal="1871/1880" type="inclusive">1871-1880</unitdate><container label="Box" type="box">1</container></did></c03><c03 id="aspace_27fe4e561ed320c14a1efc1ecf945ec0" level="file"><did><unitdate normal="1881/1890" type="inclusive">1881-1890</unitdate><container label="Box" type="box">1</container></did></c03><c03 id="aspace_cfc5aa3260714a06bb264b980fe0aca0" level="file"><did><unitdate normal="1891/1900" type="inclusive">1891-1900</unitdate><container label="Box" type="box">1</container></did><odd><p>(includes 1893 letter from Frances Willard)</p></odd></c03><c03 id="aspace_738e70490f8c5c29de3f63e73cbb8b3d" level="file"><did><unitdate normal="1901/1914" type="inclusive">1901-1914</unitdate><container label="Box" type="box">1</container></did></c03><c03 id="aspace_c8c8241217296d7bffc7b154272c457c" level="file"><did><unittitle>And Miscellanea</unittitle><unitdate type="inclusive">Undated</unitdate><container label="Box" type="box">1</container></did></c03></c02><c02 id="aspace_7f2921b31f2e278ee4d8ff97e953d2d1" level="subseries"><did><unittitle>Files from Mary Louise Steere and Betty Steere Abercombie</unittitle></did><c03 id="aspace_a19afaf276ec35f761cb60d3a0cc4549" level="file"><did><unittitle>Letters from Joseph Beal Steere Expedition</unittitle><unitdate normal="1870/1877" type="inclusive">1870-1877</unitdate><container label="Oversize Folder" type="folder">1</container></did><c04 id="aspace_9bf8853a1ac1fe66dd308ce3ee502cc8" level="file"><did><unittitle>Published Correspondence</unittitle><unitdate normal="1870/1875" type="inclusive">1870-1875</unitdate><container label="Oversize Volume" type="volume">1</container></did></c04><c04 id="aspace_020399f70fab034fdde26e994d315783" level="file"><did><unitdate normal="1871/1872" type="inclusive">1871-1872</unitdate><container label="Box" type="box">1</container></did></c04><c04 id="aspace_769de3c76450dd5116159737a474b718" level="file"><did><unitdate normal="1873/1877" type="inclusive">1873-1877</unitdate><container label="Box" type="box">1</container></did></c04></c03><c03 id="aspace_6808069078909fd781cedb3f2916611c" level="file"><did><unittitle>General Correspondence</unittitle></did><c04 id="aspace_3e87b9423e41761b7b68340cc0d69ef6" level="file"><did><unitdate normal="1877/1924" type="inclusive">1877-1924</unitdate><container label="Box" type="box">1</container></did></c04><c04 id="aspace_c27f7e4f8475a8117e223f72be03322c" level="file"><did><unitdate normal="1925/1929" type="inclusive">1925-1929</unitdate><container label="Box" type="box">1</container></did></c04><c04 id="aspace_3255a6e5d5fbd8719f503e304a8474a0" level="file"><did><unitdate normal="1930/1941" type="inclusive">1930-1941</unitdate><container label="Box" type="box">1</container></did></c04></c03></c02></c01><c01 id="aspace_3eb5561b0036fc6eabd1840188f4f8e2" level="series"><did><unittitle>Diaries and Travelogues</unittitle></did><scopecontent><p>The next series is Diaries and Travelogues. These are in chronological order, and they have been identified by topic where possible. The first is a journal in which Steere sets down his religious beliefs. The second is an account of his Law School experience, and the rest are accounts of his various expeditions.</p></scopecontent><c02 id="aspace_7558be2c6eec3cb7c696f2ba20814910" level="file"><did><unitdate normal="1852/1852" type="inclusive">1852</unitdate><container label="Box" type="box">1</container></did><odd><p>(no name; trip from West Coast to New York City, by way of Panama, and a short account of a trip West in 1841)</p></odd></c02><c02 id="aspace_30fb7cc18aaf8cf3bcb975229b05c8cf" level="file"><did><unittitle>Law School days</unittitle><unitdate normal="1869/1869" type="inclusive">1869</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_52fd1fe1f3c2514de7df97aa4feb11fd" level="file"><did><unittitle>Amazon</unittitle><unitdate certainty="approximate" normal="1870/1875" type="inclusive">circa 1870-1875</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_d68a49c05cd5cc051357db957534bd99" level="file"><did><unittitle>Lima and Callao</unittitle><unitdate normal="1872/1872" type="inclusive">1872</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_4428bea886f38f15ebcd16200104f465" level="file"><did><unittitle>South American observations</unittitle><unitdate normal="1872/1872" type="inclusive">1872</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_96e4d15e30c00f6b8b06fa21ef05e000" level="file"><did><unittitle>Callao and at sea, bound for China</unittitle><unitdate normal="1872/1872" type="inclusive">1872</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_4641c09c4a72f3689859a163a13e7ad6" level="file"><did><unittitle>Macao, Philippines, Formosa</unittitle><unitdate normal="1873/1873" type="inclusive">1873</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_c1c59d35a67e52bbcdb2f11a18fa39ee" level="file"><did><unittitle>Chinese song book</unittitle><unitdate normal="1874/1874" type="inclusive">1874</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_a921f992bfe77cda77b0747e06b50eff" level="file"><did><unittitle>Notes for book on the Amazon trip</unittitle><unitdate normal="1875/1875" type="inclusive">1875</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_3b5402c1d11e8674fe0e02a0e5725d69" level="file"><did><unittitle>Singapore, Formosa</unittitle><unitdate normal="1875/1875" type="inclusive">1875</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_be7ab65425f317e7bd6c3173fdcbeb09" level="file"><did><unittitle>Philippines</unittitle><unitdate normal="1887/1887" type="inclusive">1887</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_3e80e87bc82ab07423735e0b648b7713" level="file"><did><unittitle>Philippines</unittitle><unitdate normal="1888/1888" type="inclusive">1888</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_9e460b3766e1503740bf25570b799476" level="file"><did><unittitle>Amazon</unittitle><unitdate normal="1901/1901" type="inclusive">1901</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_3ea79cf22d7ada7878c8071d8ed2dd1d" level="file"><did><unittitle>Religious journal</unittitle><unitdate type="inclusive">Undated</unitdate><container label="Box" type="box">1</container></did></c02></c01><c01 id="aspace_5261ae20b0358dfb5c291ee1d62991ce" level="series"><did><unittitle>Writings</unittitle></did><scopecontent><p>A large series in the collection is Steere's Writings. These are subdivided topically into "Academic Writings," which include a draft and manuscripts on Formosa, fifteen reprints of articles by Steere, and two articles written about his work; "Children's Stories," "Lectures," "Letters to the Editor," "Poetry," "Religion/Philosophy," "Temperance," and "Others." The bulk of this series consists of academic and religious writings. These provide insight into Steere's career and its meaning for him.</p></scopecontent><c02 id="aspace_9d90abcd2f8a2074c314b564566fd33a" level="file"><did><unittitle>Academic</unittitle></did><c03 id="aspace_de4b38e9cafcbe5b076ea0d8024afc23" level="file"><did><unittitle>Ethnology and Linguistics</unittitle><physdesc><extent>3 folders</extent></physdesc><container label="Box" type="box">1</container></did></c03><c03 id="aspace_58daf33519014d7c6e59a8444c0e4346" level="file"><did><unittitle>"Formosa and Its Inhabitants"</unittitle></did><c04 id="aspace_f213212713d6ea104fc542413ab7491f" level="file"><did><unittitle>Draft</unittitle><physdesc><extent>3 folders</extent></physdesc><container label="Box" type="box">2</container></did></c04><c04 id="aspace_28262a9925702de8692b46246c699fe9" level="file"><did><unittitle>Collected materials</unittitle><container label="Box" type="box">2</container></did></c04><c04 id="aspace_987d426a506fd10d5139f9f4728f8a4e" level="file"><did><unittitle>Finished Manuscript</unittitle><container label="Box" type="box">2</container></did></c04></c03><c03 id="aspace_14b0f7f7e7dbfdd9f3dd29fa2bac81b9" level="file"><did><unittitle>Reprints</unittitle></did><c04 id="aspace_24b0593f7f2015e1017dbb19435ea9b9" level="file"><did><unittitle>"Extinct Mammals of Michigan--the Elk"</unittitle><unitdate type="inclusive">Undated</unitdate><container label="Box" type="box">2</container></did></c04><c04 id="aspace_80b2af4b6beb05618a5490ede2937e2e" level="file"><did><unittitle>"Antiquities of Peru"</unittitle><unitdate normal="1876/1876" type="inclusive">1876</unitdate><container label="Box" type="box">2</container></did></c04><c04 id="aspace_9d317e5e3f40fafa72de64488d28a46f" level="file"><did><unitdate normal="1880/1880" type="inclusive">1880</unitdate></did><c05 id="aspace_d0c412224d312f4458ef847d942a95b9" level="file"><did><unittitle>"A List of Mammals and Birds of Ann Arbor and Vicinity"</unittitle><container label="Box" type="box">2</container></did></c05><c05 id="aspace_d4ba340509a3bc6473ec74b72fba989a" level="file"><did><unittitle>"Migration of Michigan Birds"</unittitle><container label="Box" type="box">2</container></did></c05></c04><c04 id="aspace_684b3fbaa4d19febe4ab7ad19d0a341b" level="file"><did><unitdate normal="1888/1888" type="inclusive">1888</unitdate></did><c05 id="aspace_7bad9ced9c4ee6d501124eb919dd42da" level="file"><did><unittitle>"A Month in Palawan"</unittitle><unitdate normal="1888-02/1888-02" type="inclusive">February 1888</unitdate><container label="Box" type="box">2</container></did></c05><c05 id="aspace_984739e523ad22ce0b966146a5bfe091" level="file"><did><unittitle>"Six Weeks in Southern Mindanao"</unittitle><unitdate normal="1888-04/1888-04" type="inclusive">April 1888</unitdate><container label="Box" type="box">2</container></did></c05><c05 id="aspace_22da28b9f4ddd7761e5dd6d2af63e764" level="file"><did><unittitle>"Animals as Modified by Environment"</unittitle><unitdate normal="1888-06/1888-06" type="inclusive">June 1888</unitdate><container label="Box" type="box">2</container></did></c05><c05 id="aspace_71803d554bd9ad95787747f4dfbb0f40" level="file"><did><unittitle>"Observations Made in the Central Philippines"</unittitle><unitdate normal="1888-07/1888-07" type="inclusive">July 1888</unitdate><container label="Box" type="box">2</container></did></c05></c04><c04 id="aspace_1526355c9f66a781727dee8a66c00a61" level="file"><did><unittitle>"A Month in the Eastern Philippines"</unittitle><unitdate normal="1889/1889" type="inclusive">1889</unitdate><container label="Box" type="box">2</container></did></c04><c04 id="aspace_49c909d7d9c2b07932cc3f7f9c2f886e" level="file"><did><unittitle>A List of the Birds and Mammals Collected by the Steere Expedition to the Philippines"</unittitle><unitdate normal="1890/1890" type="inclusive">1890</unitdate><container label="Box" type="box">2</container></did></c04><c04 id="aspace_4e607e840fa23563f12b80133204c8c6" level="file"><did><unitdate normal="1891/1891" type="inclusive">1891</unitdate></did><c05 id="aspace_94dff5f3a3cd5110914dbe667a6cf399" level="file"><did><unittitle>"Ornithological Results of an Expedition to the Philippine Islands in 1887 and 1888"</unittitle><unitdate normal="1891-07/1891-07" type="inclusive">July 1891</unitdate><container label="Box" type="box">2</container></did></c05><c05 id="aspace_11d8dfad49f54fc25a9825e357476663" level="file"><did><unittitle>"A Visit to the Philippine Islands of Masbate and Marinduque"</unittitle><unitdate normal="1891-08/1891-08" type="inclusive">August 1891</unitdate><container label="Box" type="box">2</container></did></c05></c04><c04 id="aspace_d9efa1b97cda76a71d4e1893afdecbdd" level="file"><did><unitdate normal="1894/1894" type="inclusive">1894</unitdate></did><c05 id="aspace_f63c153468322d0adb51155f9c7c33af" level="file"><did><unittitle>"The Distribution of Genera and Species of Non-Migratory Land Birds in the Philippines"</unittitle><container label="Box" type="box">2</container></did></c05><c05 id="aspace_87fd6c37f2ab887f96b45586a5cea85d" level="file"><did><unittitle>"The Importance of Individual Facts of Environment in the Formation of Groups of Animals"</unittitle><container label="Box" type="box">2</container></did></c05></c04><c04 id="aspace_cbddcd9680144625316e50d018120a61" level="file"><did><unittitle>"Narrative of a Visit to Indian Tribes of the Purus River, Brazil"</unittitle><unitdate normal="1903/1903" type="inclusive">1903</unitdate><container label="Box" type="box">2</container></did></c04></c03><c03 id="aspace_b6eda2776a1d28156e559a0537a4b85d" level="file"><did><unittitle>Reprints by Others on Steere's Work</unittitle></did><c04 id="aspace_4ad98e7f633add72b97fdf27fb084e6d" level="file"><did><unittitle>Harrington, M.W. "The Tropical Ferns Collected by Professor Steere in the Years 1870-1875"</unittitle><container label="Box" type="box">2</container></did></c04><c04 id="aspace_a7eab6f710cc68f4f63511471d73f1db" level="file"><did><unittitle>Sclater, P.L. and Osbert Salvin. "On the Collection of Birds Made by Professor Steere in South America"</unittitle><container label="Box" type="box">2</container></did></c04></c03></c02><c02 id="aspace_ec62cde535f1a8f490e07b43a6e02a63" level="file"><did><unittitle>Children's Stories</unittitle><container label="Box" type="box">2</container></did></c02><c02 id="aspace_4e9850af074b66a7439da1786f21a485" level="file"><did><unittitle>Lectures</unittitle><container label="Box" type="box">2</container></did></c02><c02 id="aspace_d0058818245554ca96631a1a3f2bb0bb" level="file"><did><unittitle>"Letters To The Editor"</unittitle><container label="Box" type="box">2</container></did></c02><c02 id="aspace_93ce75435ec2f8171da87b67097a6bd2" level="file"><did><unittitle>Poetry</unittitle><container label="Box" type="box">2</container></did></c02><c02 id="aspace_117207cd58be738aa6f47acc22abe74c" level="file"><did><unittitle>Religion/Philosophy</unittitle><physdesc><extent>2 folders</extent></physdesc><container label="Box" type="box">2</container></did></c02><c02 id="aspace_bf007ebc5e1fdb4a5a12d3214b6e8774" level="file"><did><unittitle>Temperance</unittitle><container label="Box" type="box">2</container></did></c02><c02 id="aspace_836b8d0cfc5cb1573f805f2a2813a934" level="file"><did><unittitle>Others</unittitle><container label="Box" type="box">2</container></did></c02><c02 id="aspace_872ca7990bc08999a2703430144e36b1" level="file"><did><unittitle>Miscellaneous</unittitle><container label="Box" type="box">2</container></did></c02></c01><c01 id="aspace_a249eb372d11dcf2d122e5b702fa2c62" level="series"><did><unittitle><genreform normal="Photographs" source="aat">Photographs</genreform></unittitle></did><scopecontent><p>The Photographs series consists of images of his expeditions to South America and the Philippines, portraits, and albums relating to family and the University of Michigan Class of 1868.</p></scopecontent><c02 id="aspace_e90ba4af702232e0cb11b36807c0d472" level="file"><did><unittitle>Brazil and Peru</unittitle><unitdate certainty="approximate" normal="1879/1879" type="inclusive">circa 1879</unitdate><container label="Box" type="box">3</container></did></c02><c02 id="aspace_98447e71d7c3cdb2bbf835ebb4e6ac11" level="file"><did><unittitle>Family and Friends</unittitle><container label="Box" type="box">3</container></did><odd><p>(includes photo of Class of 1868 Reunion)</p></odd></c02><c02 id="aspace_aa99f9f9e2d24673062c43b4ac3ba2db" level="file"><did><unittitle>Philippine Islands</unittitle><container label="Box" type="box">3</container></did><odd><p>(includes photo of 1887 University of Michigan expedition members)</p></odd></c02><c02 id="aspace_991ec676f2aa6196981c40957a4cb77f" level="file"><did><unittitle>Portraits</unittitle><container label="Box" type="box">3</container></did></c02><c02 id="aspace_681bc342828f3f0908eeade673d79e83" level="file"><did><unittitle>Snapshots of Family and Friends</unittitle></did><odd><p>(Received with 1990 accession of papers; this folder includes the following photographs:)</p></odd><c03 id="aspace_8c4c5d73dba9fd0c7f0241d1d8617cfa" level="file"><did><unittitle>Snapshots sent by daughter Mary in Alaska, also</unittitle><physdesc><extent>11 photographs</extent></physdesc><unitdate normal="1922/1923" type="inclusive">1922-1923</unitdate><container label="Box" type="box">3</container></did></c03><c03 id="aspace_d47c7d0a9a842a5809fc87101e9a9c9c" level="file"><did><unittitle>Snapshots sent by daughter Mary from Tanana, Alaska</unittitle><physdesc><extent>12 photographs</extent></physdesc><unitdate normal="1922/1923" type="inclusive">1922-1923</unitdate><container label="Box" type="box">3</container></did></c03><c03 id="aspace_8dbe806bde33329868b007c69ae3beb5" level="file"><did><unittitle>"Edie's Pictures" of Alaska</unittitle><physdesc><extent>21 photographs</extent></physdesc><unitdate normal="1923/1923" type="inclusive">1923</unitdate><container label="Box" type="box">3</container></did></c03><c03 id="aspace_a493dfa03afc67d3898c6151af117b72" level="file"><did><unittitle>Snapshots from Ida Belle, grand daughter of Steere, from Italy</unittitle><physdesc><extent>2 photographs</extent></physdesc><unitdate normal="1923/1923" type="inclusive">1923</unitdate><container label="Box" type="box">3</container></did></c03><c03 id="aspace_3529f2e539f791e4e88c39f0ba8b8e14" level="file"><did><unittitle>Snapshots of J.B. Steere sent by daughter Mary to Steere's brother Joseph after her father's death in 1940</unittitle><physdesc><extent>2 photographs</extent></physdesc><unitdate normal="1941-01/1941-01" type="inclusive">January 1941</unitdate><container label="Box" type="box">3</container></did></c03></c02><c02 id="aspace_85f6e67267bf12cc1d4025933b4e6890" level="file"><did><unittitle>Albums</unittitle></did><c03 id="aspace_42d131edecc04d1d9b96ceed848e82bc" level="file"><did><unittitle>University of Michigan Class of</unittitle><unitdate normal="1868/1868" type="inclusive">1868</unitdate><container label="Box" type="box">3</container></did></c03><c03 id="aspace_33718c4a87659b4414fe534a3ac2bb3d" level="file"><did><unittitle>Beal and Buzzard Family Album</unittitle><container label="Box" type="box">3</container></did></c03></c02><c02 id="aspace_c9569ec9265419ca6ab9ed371e310577" level="file"><did><unittitle>Photograph of the women members of the University of Michigan College of Literature, Science and the Arts Class of 1910</unittitle><container label="Oversize Folder" type="folder">UAm</container></did><odd><p>(Steere's daughter Elizabeth's class; In oversize photo collection, UAm)</p></odd></c02></c01><c01 id="aspace_35607b671b504586d5609480fb91b0a9" level="series"><did><unittitle>Correspondence with Family and Friends</unittitle><unitdate normal="1861/1926" type="inclusive">1861-1926</unitdate></did><scopecontent><p>The last series - Correspondence with family and friends (1861-1926) - was received in 1990 and consists in part of letters received by Steere from his brothers and his friends during the period of the Civil War, from his Grandfather Beal, from his parents and his younger brothers and sisters on the family farm in Michigan, from Dr. Pray--with whom he lived for a while when he was a student at the University of Michigan--and from his classmate J.B. Davis. There are also numerous letters from Rice Beal, editor of the Ann Arbor Courier, who financed his first expedition.</p><p> The letters in this series reflect Steere's growing interest in research in the field of zoology, his extended journeys to hunt for specimens for the University of Michigan and for the Smithsonian collections, his defense of Darwin, his lively defense of Prohibition, and his dismissal from the University--partly as a result of his desire to enforce Prohibition in the Ann Arbor area (within five miles of the campus).</p><p> Letters from his children reflect educational procedures at the turn of the century, the children's experiences in Alaska, in Newfoundland, and in Germany during the 1920's, and an account of life as a teacher at a girls' correctional institution in Adrian, Michigan. Steere's sister Ellen's diary written while she lived in the "Old People's Home" in Chelsea, Michigan, from 1919 to 1922 describes in some detail life in an institution of this kind.</p><p> Researchers on the sciences, especially those interested in natural history, would find Steere's writings pertinent. His work on Formosa (Taiwan), the Amazon region, and the Philippines would be of value, too, both as natural history and as ethnology--the westerner making use of artifacts and observing customs of "primitive" peoples. Steere was able to interpret his findings in ways that would fit his religious and intellectual framework. In an age when travel to exotic lands was both arduous and hazardous, Steere's journeys rank as sheer adventure.</p><p> Finally, Steere's correspondence during his long life provides the reader with a window on a lively, articulate family and their friends, from Michigan farms to the campus of a major university--and to far-flung points of interest to them in Europe, in South America, and in Asia.</p></scopecontent><c02 id="aspace_7c59a6dbfa577a0b0f727197f45114e7" level="file"><did><unittitle>J.B. Steere (largely letters to)</unittitle></did><c03 id="aspace_eccd20f7621978728d5279bfe15b1aa0" level="file"><did><unitdate normal="1861/1864" type="inclusive">1861-1864</unitdate><container label="Box" type="box">4</container></did><odd><p>(3 letters as a student, and including letters from J.B. Davis)</p></odd></c03><c03 id="aspace_094f0e1ec132df6b3b6d724fa293bc45" level="file"><did><unitdate normal="1865/1866" type="inclusive">1865-1866</unitdate><container label="Box" type="box">4</container></did></c03><c03 id="aspace_52f69a4ee88f7a30b408db46ade439a4" level="file"><did><unitdate normal="1867/1869" type="inclusive">1867-1869</unitdate><container label="Box" type="box">4</container></did></c03><c03 id="aspace_bf6b93fb1987c68bf09148464e076855" level="file"><did><unitdate normal="1870/1875" type="inclusive">1870-1875</unitdate><container label="Box" type="box">4</container></did></c03><c03 id="aspace_7316544642ecd4eed4148518ddaaf933" level="file"><did><unitdate normal="1885/1901" type="inclusive">1885-1901</unitdate><container label="Box" type="box">4</container></did></c03><c03 id="aspace_be73c59c16c0ba5647760dba71866d09" level="file"><did><unitdate normal="1911/1919" type="inclusive">1911-1919</unitdate><container label="Box" type="box">4</container></did></c03><c03 id="aspace_cccb76a215c1d731e461b15f8db1b9c7" level="file"><did><unitdate normal="1920/1927" type="inclusive">1920-1927</unitdate><container label="Box" type="box">4</container></did><odd><p>(including response to his defense of "Christian Darwinism," 1922)</p></odd></c03><c03 id="aspace_60a89bdc9868ea885fa885aaae7ca759" level="file"><did><unitdate type="inclusive">Undated</unitdate><container label="Box" type="box">4</container></did></c03></c02><c02 id="aspace_3704a49bd08cb846af1505c5d6b51469" level="file"><did><unittitle>Ellen Steere (J.B. Steere's sister)</unittitle><container label="Box" type="box">4</container></did><odd><p>(one folder includes letters, 1861, 1862 and 1869; also letters to family, undated; diary, in Old People's Home in Chelsea, Michigan, 1919-1922)</p></odd></c02><c02 id="aspace_4dec90490f4612c258f285f88a224b9c" level="file"><did><unittitle>Bess (J.B. Steere's daughter)</unittitle></did><c03 id="aspace_12445b207bcf7d54ffa53889357747ff" level="file"><did><unitdate normal="1899/1907" type="inclusive">1899-1907</unitdate><container label="Box" type="box">4</container></did><odd><p>(includes teaching certificate and letters written while teaching in Cassopolis, Michigan)</p></odd></c03><c03 id="aspace_8ae489a0ef065789d1104b84d4fe6c04" level="file"><did><unitdate normal="1908/1908" type="inclusive">1908</unitdate><container label="Box" type="box">4</container></did><odd><p>(letters written while a teacher in Cassopolis, partially undated)</p></odd></c03><c03 id="aspace_d04c39e55fab48e95720ccf8df989c29" level="file"><did><unitdate normal="1919/1922" type="inclusive">1919-1922</unitdate><container label="Box" type="box">4</container></did><odd><p>(letters written from Coblenz, Germany and miscellanea)</p></odd></c03></c02><c02 id="aspace_d150004733c592e3ea0dd83849cdf4a0" level="file"><did><unittitle>Mary (J.B. Steere's daughter)</unittitle></did><c03 id="aspace_8f67fd339bdcccb71e857c298582dc40" level="file"><did><unitdate normal="1922/1923" type="inclusive">1922-1923</unitdate><container label="Box" type="box">4</container></did><odd><p>(Written from Alaska)</p></odd></c03><c03 id="aspace_bcece6f7352d66ecdf5026256ab9f700" level="file"><did><unitdate normal="1925/1926" type="inclusive">1925-1926</unitdate><container label="Box" type="box">4</container></did><odd><p>(Written about the Industrial School for Girls, Adrian, Michigan (1925) and from Newfoundland in 1926)</p></odd></c03><c03 id="aspace_a9d3e18777fcf6c1390576860c09cf0e" level="file"><did><physdesc><extent>3 letters</extent></physdesc><unitdate normal="1922/1922" type="inclusive">1922</unitdate><unitdate normal="1923/1923" type="inclusive">1923</unitdate><unitdate normal="1924/1924" type="inclusive">1924</unitdate><container label="Box" type="box">4</container></did><odd><p>(written from Ida Belle Hegemann while in Europe)</p></odd></c03></c02></c01></dsc>
+  <descgrp type="add">
+    <index id="aspace_834a69bfbcc5e66841b234b24fcbeb05">
+      <head>Selective Index to Correspondents: 1973 accession of papers</head>
+      <indexentry>
+        <persname>Agassiz, Alexander, 1835-1910.</persname>
+        <ref>
+          <list type="simple">
+            <item>Undated</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Allen, J. A. (Joel Asaph), 1838-1921.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 24, July 16, 1894</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Angell, James Burrill, 1829-1916.</persname>
+        <ref>
+          <list type="simple">
+            <item>July 17, 1877</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Baur, George</persname>
+        <ref>
+          <list type="simple">
+            <item>February 27, 1888 September 29, 1889</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Beal, William James, 1833-1924.</persname>
+        <ref>
+          <list type="simple">
+            <item>December 29, 1869; February 10, 1871; October 13, 1872; May 4, 11, 1873; February 19, 1914</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Beecher, Charles Emerson, 1856-1904.</persname>
+        <ref>
+          <list type="simple">
+            <item>February 8, 1891</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Butler, Amos W. (Amos William), 1860-1937.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 14, 1895</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Cassino, Samuel Edison, 1856-1937.</persname>
+        <ref>
+          <list type="simple">
+            <item>October 3, 1877</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Chicago Academy of Sciences</persname>
+        <ref>
+          <list type="simple">
+            <item>December 23, 1869</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Clark, Mary H., d. 1875.</persname>
+        <ref>
+          <list type="simple">
+            <item>April 26, 1873; August 5, 1874; May 7, 1875; Undated</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Cooley, Thomas McIntyre, 1824-1898.</persname>
+        <ref>
+          <list type="simple">
+            <item>August 23, 1869</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Cope, E. D. (Edward Drinker), 1840-1897.</persname>
+        <ref>
+          <list type="simple">
+            <item>January 13, 1882</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Derby, Orville A. (Orville Adelbert), 1851-1915.</persname>
+        <ref>
+          <list type="simple">
+            <item>November 8, 1871; January 4, February 18, July 11, November 3, 1872; July 27, 1873</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Dutcher, William, 1846-1920</persname>
+        <ref>
+          <list type="simple">
+            <item>June 10, 1894</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Elliot, Daniel Giraud, 1835-1915.</persname>
+        <ref>
+          <list type="simple">
+            <item>November 30, December 22, 1894</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Frieze, Henry S. (Henry Simmons), 1817-1889.</persname>
+        <ref>
+          <list type="simple">
+            <item>January 12, 1871</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Günther, Albert C. L. G. (Albert Carl Ludwig Gotthilf), 1830-1914.</persname>
+        <ref>
+          <list type="simple">
+            <item>September 22, 1876; April 4, 1889; October 24, 1891</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hargitt, Edward</persname>
+        <ref>
+          <list type="simple">
+            <item>November 19, 1891</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Harrington, Mark Walrod, 1848-1926.</persname>
+        <ref>
+          <list type="simple">
+            <item>July 30, October 31, December 3, 1871; January 14, December 15, 1874; September 2, 1876</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hartt, Charles Frederick, 1840-1878.</persname>
+        <ref>
+          <list type="simple">
+            <item>October 3, 1871; Undated</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Heath, Edwin R</persname>
+        <ref>
+          <list type="simple">
+            <item>March 23, 1873; November 17, 1878; January 23, 1890</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Heath, Ivon D.</persname>
+        <ref>
+          <list type="simple">
+            <item>October 20, 1872; March 16, 23, 1873; Undated</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Holmes, William Henry, 1846-1933.</persname>
+        <ref>
+          <list type="simple">
+            <item>March 26, 1902</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hornaday, William. Temple, 1854-1937.</persname>
+        <ref>
+          <list type="simple">
+            <item>June 9, 1887</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hubbard, Bela, 1814-1896.</persname>
+        <ref>
+          <list type="simple">
+            <item>October 20, 31, 1892</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hubbard, Edward K</persname>
+        <ref>
+          <list type="simple">
+            <item>October 8, 1872</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hubbard, E. W.</persname>
+        <ref>
+          <list type="simple">
+            <item>January 20, 1871</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Jenney, William. Le Baron, 1832-1907.</persname>
+        <ref>
+          <list type="simple">
+            <item>June 11, 1877</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Jones, I. Winter</persname>
+        <ref>
+          <list type="simple">
+            <item>October 26, 1876</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Kelley, Alfred</persname>
+        <ref>
+          <list type="simple">
+            <item>December 29, 1904</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Kellogg, James Lawrence, 1866-1938.</persname>
+        <ref>
+          <list type="simple">
+            <item>December 5, 1896</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Merriam, C. Hart (Clinton Hart), 1855-1942.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 29, 1894</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Penna, D. S. Ferreira</persname>
+        <ref>
+          <list type="simple">
+            <item>July 10, 17; August 10, 17, 17(?), 1871; April 1, 1872</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Sclater, Philip Lutley, 1829-1913.</persname>
+        <ref>
+          <list type="simple">
+            <item>April 6, 1877; March 14, 1888; August 25, October 1.December 24, 1890; May 7, 1894; March 3, 1898</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Senier, Alfred, d. 1918.</persname>
+        <ref>
+          <list type="simple">
+            <item>October 20, 1876</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Sharpe, Richard Bowdler</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 12, 1876; Sept. 16, 1889; Sept. 15, 1891; Nov. 14, Dec. 21, 1895</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Shufeldt, Robert W. (Robert Wilson), 1850-</persname>
+        <ref>
+          <list type="simple">
+            <item>May 17, June 1, 1894; Apr. 24, May 21, 1907; Mar. 22, 1908; Jan. 19, 1909</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Steere, Isaac.</persname>
+        <ref>
+          <list type="simple">
+            <item>January 19, 1897</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Van Deman, Henry Elias, 1845-1915.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 13, 1887</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wallace, Alfred Russel, 1823-1913</persname>
+        <ref>
+          <list type="simple">
+            <item>August 30, 1876</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ward, Henry A. (Henry Augustus), 1834-1906.</persname>
+        <ref>
+          <list type="simple">
+            <item>June 20, 1887</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Waterhouse, Frederick Herschel</persname>
+        <ref>
+          <list type="simple">
+            <item>February 20, August 26, 1891</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Whitman, Charles Otis, 1842-1910.</persname>
+        <ref>
+          <list type="simple">
+            <item>Undated</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wilder, Burt Green, 1841-1925.</persname>
+        <ref>
+          <list type="simple">
+            <item>June 9, 1897</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wilson, Robert.</persname>
+        <ref>
+          <list type="simple">
+            <item>December 31, 1873</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Winchell, Alexander, 1824-1891.</persname>
+        <ref>
+          <list type="simple">
+            <item>June 12, July 29, 1869; June 13, 1870; April 2, 1872</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wood, W. W.</persname>
+        <ref>
+          <list type="simple">
+            <item>October 4, 1874</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Woolridge, C. W.</persname>
+        <ref>
+          <list type="simple">
+            <item>April 14, 1884</item>
+          </list>
+        </ref>
+      </indexentry>
+    </index>
+    <index id="aspace_411d575da488dc35d2547ccf20e77bfb">
+      <head>Selective Index to Correspondents: 1984 accession of papers</head>
+      <indexentry>
+        <persname>Angell, James Burrill, 1829-1916.</persname>
+        <ref>
+          <list type="simple">
+            <item>March 20, May 8, 1873</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bartlett, Harley Harris, 1886-1960.</persname>
+        <ref>
+          <list type="simple">
+            <item>February 9, 1932 (re: Joseph B. Steere birthday)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Beal, Junius E. (Junius Emery), 1860-1942.</persname>
+        <ref>
+          <list type="simple">
+            <item>September 7, 1923</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Blair, William McCormick, 1884-</persname>
+        <ref>
+          <list type="simple">
+            <item>November 15, 1927 (re: Joseph B. Steere article on faith)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Brigham, Edward Morris</persname>
+        <ref>
+          <list type="simple">
+            <item>November 28, 1933 (re: Amazon studies, etc.)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Brightman, Edgar Sheffield, 1884-1953.</persname>
+        <ref>
+          <list type="simple">
+            <item>March 9, 1930 (re: Joseph B. Steere argument for teleology.)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Case, E. C. (Ermine Cowles), b. 1871.</persname>
+        <ref>
+          <list type="simple">
+            <item>November 30, 1927 (re: Joseph B. Steere article on faith)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Chapman, Howard Rufus, 1868-1942.</persname>
+        <ref>
+          <list type="simple">
+            <item>March 29, 1924 (re: Joseph B. Steere article on faith)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Cooley, Charles Horton, 1864-1929.</persname>
+        <ref>
+          <list type="simple">
+            <item>November 27, 1927 (re: Joseph B. Steere article on faith)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Dewey, John, 1859-1952.</persname>
+        <ref>
+          <list type="simple">
+            <item>November 7, 1929 (re: Joseph B. Steere manuscript on religion and evolution.)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Fairchild, David, 1869-1954.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 11, 1898 (asking opinion about annexing/colonizing Philippines and developing its agriculture.)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ferguson, Alfred Lynn, b. 1884</persname>
+        <ref>
+          <list type="simple">
+            <item>February 7, 1927 (re: article on faith)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Frieze, Henry S. (Henry Simmons), 1817-1889.</persname>
+        <ref>
+          <list type="simple">
+            <item>June 27, July 26, August 17, October 8, 18, 1871; January 28, March 18, 1872</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Harrington, Mark Walrod, 1848-1926.</persname>
+        <ref>
+          <list type="simple">
+            <item>March 24, 187?, June 29, August 24, 1871; September 19, 1872; March 15, 20, August 5, 7 (2), 23, September 20 (?), October 1, 1873; May 6, July 13, 1874; August 1, December 18, 1875</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Henderson, William D., b. 1866.</persname>
+        <ref>
+          <list type="simple">
+            <item>February 6, 1928 (re: Joseph B. Steere article on faith)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hinsdale, W. B. (Wilbert B.), 1851-1944.</persname>
+        <ref>
+          <list type="simple">
+            <item>November 22, 1927</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Jackson, Walter Hinckley, 1840-1930.</persname>
+        <ref>
+          <list type="simple">
+            <item>February 14, 1924 (on religion)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Johnston, Clarence Thomas, 1872-1970.</persname>
+        <ref>
+          <list type="simple">
+            <item>March 15, 1920; May 3, 1924 (re: Joseph B. Steere article on faith); November 25, 1927</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Leete, Frederick Deland, 1866-1958.</persname>
+        <ref>
+          <list type="simple">
+            <item>February 20 (re: religion), March 8, May 20, 1929; January 26, 1935 (re: Joseph B. Steere article on age)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Phelps, William Henry, 1872-1939.</persname>
+        <ref>
+          <list type="simple">
+            <item>October 23, 1928 (re: draft of Joseph B. Steere book on evolution and religion)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Roth, Filibert, 1858-1925.</persname>
+        <ref>
+          <list type="simple">
+            <item>February 21, 1924 (re: Joseph B. Steere article on faith)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ruthven, Alexander Grant, 1882-</persname>
+        <ref>
+          <list type="simple">
+            <item>November 23, 1929; April 29, 1932; January 19, 1935; February 9, 1940</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Steere, Joseph Hall, 1852-1936.</persname>
+        <ref>
+          <list type="simple">
+            <item>March 6, 1924 (re: Joseph B. Steere article on faith); January 10, 1927 (Joseph B. Steere Children's Stories.); November 10, 1927 (Joseph B. Steere article on evolution), December 8, 1927; March 18, 1932</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wenley, R. M. (Robert Mark), 1861-1929.</persname>
+        <ref>
+          <list type="simple">
+            <item>October 28, 1928 (re: Joseph B. Steere article on faith)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Wilgus, Horace L. (Horace La Fayette), 1859-1935.</persname>
+        <ref>
+          <list type="simple">
+            <item>October 31, 1927 (re: Joseph B. Steere article on faith)</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Winchell, Alexander, 1824-1891.</persname>
+        <ref>
+          <list type="simple">
+            <item>March 187?, October 8, 187?, January 8, June 27, December 10, 1871; January 10, 28, April 10, August 27, October 1872, November 12, 1872; February 6, 1877</item>
+          </list>
+        </ref>
+      </indexentry>
+    </index>
+  </descgrp>
+</archdesc>
+</ead>

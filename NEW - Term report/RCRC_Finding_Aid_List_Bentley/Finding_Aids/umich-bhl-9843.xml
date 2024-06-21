@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>umich-bhl-9843</eadid><filedesc><titlestmt><titleproper>Finding Aid for Center for South and Southeast Asian Studies, University of Michigan Records</titleproper><author>Finding aid prepared by Christopher Frey</author></titlestmt><publicationstmt><publisher>Bentley Historical Library</publisher><p><date>1998</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-10-07 12:13:50 -0400</date>.</creation><langusage>The finding aid is written in <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc><revisiondesc><change><date>2003-10-01</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change><change><date>1999-08-07</date><item>Updated to new container style GK</item></change><change><date>1998-11-04</date><item>Converted to EAD version 1.0 WORD 6 macro and some hand tagging.</item></change><change><date>1998-07-15</date><item>Encoded from original Word 6.0 file in EAD Beta</item></change><change><date>2016-11-21</date><item>Updated Conditions Governing Use Note</item></change><change><date>2018-09-25</date><item>updated admin history</item></change><change><date>2019-04-18</date><item>added folder to topical files</item></change></revisiondesc></eadheader><frontmatter><titlepage><publisher>Bentley Historical Library <lb/>University of Michigan</publisher><titleproper>Finding Aid for Center for South and Southeast Asian Studies, University of Michigan Records</titleproper><author>Finding aid prepared by Christopher Frey</author></titlepage></frontmatter><archdesc level="recordgrp">
+  <did>
+    <repository>
+      <corpname>Bentley Historical Library</corpname>
+      <extptr actuate="onload" href="bhladd" show="embed"/>
+    </repository>
+    <unittitle>Center for South and Southeast Asian Studies, University of Michigan Records</unittitle>
+    <origination label="creator">
+      <corpname authfilenumber="http://id.loc.gov/authorities/names/n79145172" source="lcnaf">University of Michigan. Center for South and Southeast Asian Studies.</corpname>
+    </origination>
+    <unitid type="call number">9843 Bimu/2</unitid>
+    <physdesc>
+      <extent>2.7 linear feet</extent>
+    </physdesc>
+    <unitdate normal="1961/1992" type="inclusive">1961-1992</unitdate>
+    <unitdate normal="1961/1986" type="bulk">1961-1986</unitdate>
+    <abstract id="aspace_dab13cfa0d1ffe36baf3b930c3b00230">A cross-disciplinary center at the University of Michigan for the study of the languages, history, culture and contemporary society of South and Southeast Asia, records document the administration of the Center and some of the programs and research activities it sponsored.</abstract>
+    <langmaterial id="aspace_bb7ec394120b977fe7b3b6a507addb0f">The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+  </did>
+  <descgrp type="admin">
+    <acqinfo><p>The records were transferred by the Center for South and Southeast Asian Studies in1997 (Donor no. <num encodinganalog="451$e" type="donor">4715</num>).</p></acqinfo>
+    <accessrestrict><p>The collection is open for research.</p></accessrestrict>
+    <userestrict><p>Copyright is held by the Regents of the University of Michigan but the collection may contain third-party materials for which copyright is not held. Patrons are responsible for determining the appropriate use or reuse of materials.</p></userestrict>
+    <prefercite><p>item, folder title, box no., Center for South and Southeast Asian Studies,University of Michigan Records, Bentley Historical Library, University of Michigan</p></prefercite>
+  </descgrp>
+  <bioghist><p>The Center for South and Southeast Asian Studies (CSSEAS) was founded in 1961 with a grant from the Ford Foundation as part of a new American effort following World War II to study Asian languages, history and cultures. In 1959 the College of Literature, Science and the Arts (LS&amp;A) had proposed the expansion of "area studies" at the University of Michigan. This proposal included the establishment of four "area centers": the Center for Chinese Studies, the Center for Russian and Eastern European Studies, the Center for Near and Middle Eastern Studies as well as CSSEAS, using the Center for Japanese Studies as a model. Special emphasis was placed on the mastery of foreign languages and field research abroad. CSSEAS soon became a distinguished "area center," an institution within the American university system supporting interdisciplinary study on a specific cultural and geographic region of the world.</p><p> Throughout the 1970s and 1980s CSSEAS sponsored and hosted many conferences and summer programs, bringing together scholars, students and South and Southeast Asians from around the world. Associates are drawn from the faculty and students of existing University of Michigan departments and programs, especially history, political science, anthropology and linguistics to work together and share ideas about South and Southeast Asian topics. Many students do dual concentrations in South and Southeast Asian studies and other subjects, especially business and linguistics. In 1993 CSSEAS became part of the International Institute, which administers the university's area centers.</p><p> In 1999, two new independent units emerged from the Center: the Center for South Asian Studies and the Center for Southeast Asian Studies.</p>  <chronlist>
+    <head>Directors of the Center for South and Southeast Asian Studies</head>
+    <chronitem>
+      <date>1960-1962</date>
+      <eventgrp>
+        <event>Richard Park</event>
+      </eventgrp>
+    </chronitem>
+    <chronitem>
+      <date>1962-1965</date>
+      <eventgrp>
+        <event>L.A. Peter Gosling</event>
+      </eventgrp>
+    </chronitem>
+    <chronitem>
+      <date>1965</date>
+      <eventgrp>
+        <event>Russell Fitfield (Acting)</event>
+      </eventgrp>
+    </chronitem>
+    <chronitem>
+      <date>1966-1968</date>
+      <eventgrp>
+        <event>Gayl D. Ness</event>
+      </eventgrp>
+    </chronitem>
+    <chronitem>
+      <date>1969-1971</date>
+      <eventgrp>
+        <event>John H. Broomfield</event>
+      </eventgrp>
+    </chronitem>
+    <chronitem>
+      <date>1971-1972</date>
+      <eventgrp>
+        <event>L.A. Peter Gosling</event>
+      </eventgrp>
+    </chronitem>
+    <chronitem>
+      <date>1972-1975</date>
+      <eventgrp>
+        <event>Alton Lewis Becker</event>
+      </eventgrp>
+    </chronitem>
+    <chronitem>
+      <date>1975-1977</date>
+      <eventgrp>
+        <event>Thomas R. Trautmann</event>
+      </eventgrp>
+    </chronitem>
+    <chronitem>
+      <date>1977-1980</date>
+      <eventgrp>
+        <event>L.A. Peter Gosling</event>
+      </eventgrp>
+    </chronitem>
+    <chronitem>
+      <date>1980-1983</date>
+      <eventgrp>
+        <event>Madhav Deshpande</event>
+      </eventgrp>
+    </chronitem>
+    <chronitem>
+      <date>1983-1987</date>
+      <eventgrp>
+        <event>Karl L. Hutterer</event>
+      </eventgrp>
+    </chronitem>
+    <chronitem>
+      <date>1987-1989</date>
+      <eventgrp>
+        <event>Rhoads Murphey</event>
+      </eventgrp>
+    </chronitem>
+    <chronitem>
+      <date>1989-1992</date>
+      <eventgrp>
+        <event>Victor B. Lieberman</event>
+      </eventgrp>
+    </chronitem>
+    <chronitem>
+      <date>1992-1995</date>
+      <eventgrp>
+        <event>Nicholas B. Dirks</event>
+      </eventgrp>
+    </chronitem>
+    <chronitem>
+      <date>1995-1998</date>
+      <eventgrp>
+        <event>Hemalata Dandekar</event>
+      </eventgrp>
+    </chronitem>
+  </chronlist>
+  <chronlist>
+    <head>Directors of the Center for Southeast Asian Studies</head>
+    <chronitem>
+      <date>1998-2005</date>
+      <eventgrp>
+        <event>Judith Omans Becker</event>
+      </eventgrp>
+    </chronitem>
+    <chronitem>
+      <date>2006-2008</date>
+      <eventgrp>
+        <event>Linda Lim</event>
+      </eventgrp>
+    </chronitem>
+    <chronitem>
+      <date>2008-2009</date>
+      <eventgrp>
+        <event>Allen Hicken (Interim)</event>
+      </eventgrp>
+    </chronitem>
+    <chronitem>
+      <date>2009</date>
+      <eventgrp>
+        <event>Linda Lim</event>
+      </eventgrp>
+    </chronitem>
+    <chronitem>
+      <date>2010-2013</date>
+      <eventgrp>
+        <event>Allen Hicken</event>
+      </eventgrp>
+    </chronitem>
+    <chronitem>
+      <date>2013-</date>
+      <eventgrp>
+        <event>Christi-Anne Castro</event>
+      </eventgrp>
+    </chronitem>
+  </chronlist>
+  <chronlist>
+    <head>Directors of the Center for South Asian Studies</head>
+    <chronitem>
+      <date>1998-2000</date>
+      <eventgrp>
+        <event>Pradeep Chhibber</event>
+      </eventgrp>
+    </chronitem>
+    <chronitem>
+      <date>2000-2003</date>
+      <eventgrp>
+        <event>Sumathi Ramaswamy (Interim)</event>
+      </eventgrp>
+    </chronitem>
+    <chronitem>
+      <date>2003-2007</date>
+      <eventgrp>
+        <event>Sumathi Ramaswamy</event>
+      </eventgrp>
+    </chronitem>
+    <chronitem>
+      <date>2007-2009</date>
+      <eventgrp>
+        <event>William Glover</event>
+      </eventgrp>
+    </chronitem>
+    <chronitem>
+      <date>2010-2011</date>
+      <eventgrp>
+        <event>Juan Cole</event>
+      </eventgrp>
+    </chronitem>
+    <chronitem>
+      <date>2012-</date>
+      <eventgrp>
+        <event>Farina Mir</event>
+      </eventgrp>
+    </chronitem>
+  </chronlist>
+</bioghist>
+  <arrangement><p>The record group is divided into three series: Administrative Records, Funding and Programs and Conferences.</p></arrangement>
+  <scopecontent><p>The Center for South and Southeast Asian Studies record group dates from the 1960s to the 1990s, but is strongest for the 1960s and 1970s. There are many gaps in the record group, and little information is available regarding the Center's establishment or a general overview of the Center's activities. Even so, there is much material on some Center activities, especially conferences and summer programs.</p></scopecontent>
+  <controlaccess>
+    <p>
+      <extptr actuate="onload" href="accnote" show="embed"/>
+    </p>
+    <subject source="lcsh">Area studies -- Michigan.</subject>
+    <geogname source="lcsh">Asia, Southeastern -- Study and teaching.</geogname>
+    <subject source="lcsh">Orientalists -- Michigan.</subject>
+    <geogname source="lcsh">South Asia -- Study and teaching.</geogname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79145172" source="lcnaf">University of Michigan. Center for South and Southeast Asian Studies.</corpname>
+  </controlaccess>
+  <dsc type="combined"><c01 id="aspace_f38ba653ec70fb4c84fed363807915e8" level="series"><did><unittitle>Administrative Records</unittitle></did><scopecontent><p>Administrative Records consists of approximately 1.5 linear feet of material and is divided into two subseries, the first of which is entitled Staff Files. The Staff Files contain the Directors' Correspondence for the late 1960s, most of the 1970s and the early 1980s, information on the Center's associates, a few Library files regarding the Center's holdings in the Graduate Library's Asia Library, and Center correspondence with other Southeast Asian studies institutes. The second subseries of Topical Files is organized alphabetically and documents Center projects, studies groups, mailings and information on specific areas of South and Southeast Asian study.</p></scopecontent><c02 id="aspace_a7de07671b6bd4c3e257b2b7fcc77314" level="subseries"><did><unittitle>Staff Files</unittitle></did><c03 id="aspace_707005011623d6ee599b3924558e3d83" level="file"><did><unittitle>Director's Correspondence</unittitle></did><c04 id="aspace_771ac754758b68d633da3858d2730267" level="file"><did><unittitle>Gayl Ness</unittitle><unitdate normal="1968/1968" type="inclusive">1968</unitdate><container label="Box" type="box">1</container></did></c04><c04 id="aspace_8a785b5102a9afa9242453e9b75094b7" level="file"><did><unittitle>John Broomfield</unittitle><unitdate normal="1969/1969" type="inclusive">1969</unitdate><container label="Box" type="box">1</container></did></c04><c04 id="aspace_c707c5bc6faf397c39a55ff311ab9060" level="file"><did><unittitle>L. A. P. Gosling</unittitle></did><c05 id="aspace_054020914afe489da09318c61d640bff" level="file"><did><unitdate normal="1971/1974" type="inclusive">1971-1974</unitdate><container label="Box" type="box">1</container></did></c05><c05 id="aspace_f9d4a339495aa498dd347dfa41fc607c" level="file"><did><unitdate normal="1977/1977" type="inclusive">1977</unitdate><container label="Box" type="box">1</container></did></c05><c05 id="aspace_514fedbaa65c7b5ea8251126fe024b9e" level="file"><did><unitdate normal="1978/1978" type="inclusive">1978</unitdate><container label="Box" type="box">1</container></did></c05><c05 id="aspace_3e2d9fb885efb098d6589b3c31fd8185" level="file"><did><unitdate normal="1979/1979" type="inclusive">1979</unitdate><container label="Box" type="box">1</container></did></c05><c05 id="aspace_11cb8d73717fc11d64505b1b1d1079d5" level="file"><did><unitdate normal="1980/1980" type="inclusive">1980</unitdate><container label="Box" type="box">1</container></did></c05></c04><c04 id="aspace_299ca655e5d36504615ed4dc7cd33271" level="file"><did><unittitle>Madhav Deshpande (South Asia)</unittitle><unitdate normal="1980/1982" type="inclusive">1980-1982</unitdate><container label="Box" type="box">1</container></did></c04><c04 id="aspace_e46daa99d344e97c03e814c9de9f5429" level="file"><did><unittitle>Aram Yengoyan (Southeast Asia)</unittitle><unitdate normal="1980/1980" type="inclusive">1980</unitdate><container label="Box" type="box">1</container></did></c04><c04 id="aspace_1f63a4c4ab62b38e7d4c66d62a905647" level="file"><did><unittitle>Area Centers Directors Meetings</unittitle><unitdate normal="1965/1974" type="inclusive">1965-1974</unitdate><container label="Box" type="box">1</container></did></c04></c03><c03 id="aspace_98b73c553ba79f21e96983977723ebd5" level="file"><did><unittitle>Center Correspondence</unittitle></did><c04 id="aspace_b780de5aa31e3e5eeabe45d38fb68cf1" level="file"><did><unittitle>East-West Center</unittitle><unitdate normal="1966/1974" type="inclusive">1966-1974</unitdate><container label="Box" type="box">1</container></did></c04><c04 id="aspace_d9c2255bd49ec893c4e46cc57b83ac45" level="file"><did><unittitle>Kyoto University, Japan, Center for Southeast Asian Studies</unittitle><unitdate normal="1964/1968" type="inclusive">1964-1968</unitdate><container label="Box" type="box">1</container></did></c04><c04 id="aspace_d1635f489dfecc4c72b5a7b5bf5ae712" level="file"><did><unittitle>Philippine-American Association</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container label="Box" type="box">1</container></did></c04><c04 id="aspace_6759ea52b5f9770c3a85cc12395adeb8" level="file"><did><unittitle>Singapore Institute of Southeast Asian Studies</unittitle><unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate><container label="Box" type="box">1</container></did></c04><c04 id="aspace_63ce67075344115793961741fafc98c8" level="file"><did><unittitle>South Asia General</unittitle><unitdate certainty="approximate" normal="1960/1969" type="inclusive">1960s</unitdate><container label="Box" type="box">1</container></did></c04><c04 id="aspace_59e2eb8c64361711554ee2329798a81a" level="file"><did><unittitle>Miscellaneous</unittitle><unitdate normal="1970/1972" type="inclusive">1970-1972</unitdate><container label="Box" type="box">1</container></did></c04><c04 id="aspace_902049f829a1d93c700a8e7ce442fbbd" level="file"><did><unittitle>Miscellaneous</unittitle><unitdate normal="1972/1975" type="inclusive">1972-1975</unitdate><container label="Box" type="box">1</container></did></c04></c03><c03 id="aspace_ffbcfac52c2a07a952d854be2c4aa922" level="file"><did><unittitle>Associates Records</unittitle></did><c04 id="aspace_c659df469704401423965862dc3cd728" level="file"><did><unittitle>Associates Biographical Data/Curriculum Vitae</unittitle><container label="Box" type="box">1</container></did></c04><c04 id="aspace_0c6fa3d35fea66c64677ae7683c1cfb2" level="file"><did><unittitle>Staff Records</unittitle><unitdate normal="1964/1970" type="inclusive">1964-1970</unitdate><container label="Box" type="box">1</container></did></c04><c04 id="aspace_c46861eb0695bf575db51f5db8947c0b" level="file"><did><unittitle>Personnel</unittitle><unitdate normal="1990/1990" type="inclusive">1990</unitdate><container label="Box" type="box">1</container></did></c04></c03><c03 id="aspace_82389f59b9e5a6dbce4a550318b1010a" level="file"><did><unittitle>Library Records</unittitle></did><c04 id="aspace_ef6200cae921ae73d0703a456342fa9d" level="file"><did><unittitle>Library Budget</unittitle><unitdate normal="1967/1967" type="inclusive">1967</unitdate><container label="Box" type="box">1</container></did></c04><c04 id="aspace_939c7af7cd27c72c1119bc7edbe56c18" level="file"><did><unittitle>Miscellaneous</unittitle><unitdate normal="1966/1969" type="inclusive">1966-1969</unitdate><container label="Box" type="box">1</container></did></c04><c04 id="aspace_947ef859622727d5b08dc787dacc0fe8" level="file"><did><unittitle>Miscellaneous</unittitle><unitdate normal="1990/1992" type="inclusive">1990-1992</unitdate><container label="Box" type="box">1</container></did></c04></c03></c02><c02 id="aspace_13845005488c2ca0b2ffe2e469031166" level="subseries"><did><unittitle>Topical Files</unittitle></did><c03 id="aspace_ad48948b4bff3e55277ab2618a95e8c3" level="file"><did><unittitle>Asian Studies Program Undergraduate</unittitle><container label="Box" type="box">1</container></did></c03><c03 id="aspace_d6f59a0a49b4320efcd04d8f02f6196e" level="file"><did><unittitle>Executive Committee Agenda and Minutes</unittitle><unitdate normal="1967/1975" type="inclusive">1967-1975</unitdate><container label="Box" type="box">1</container></did></c03><c03 id="aspace_7b0e71f09e1499d557489b4204563f3b" level="file"><did><unittitle>Gandhi Centennial Committee</unittitle><unitdate normal="1969/1969" type="inclusive">1969</unitdate><container label="Box" type="box">1</container></did></c03><c03 id="aspace_525c361d5cfcb53752b1b031cbf4e74f" level="file"><did><unittitle>Information on Philippine Martial Law</unittitle><unitdate normal="1973/1973" type="inclusive">1973</unitdate><container label="Box" type="box">1</container></did></c03><c03 id="aspace_39bf37e930fa0417efe0f2808a40bc0d" level="file"><did><unittitle>Languages</unittitle></did><c04 id="aspace_51cf67928714e8c23452b62313f7b25d" level="file"><did><unittitle>South Asia Language Teaching</unittitle><unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate><container label="Box" type="box">2</container></did></c04><c04 id="aspace_4e9ca65ad1358873d9cb376f34dc6b15" level="file"><did><unittitle>Miscellaneous</unittitle><unitdate normal="1990/1990" type="inclusive">1990</unitdate><container label="Box" type="box">2</container></did></c04></c03><c03 id="aspace_b6148f2ded5e04600252a94c0db2c027" level="file"><did><unittitle>Mailings and Newsletters</unittitle><unitdate certainty="approximate" normal="1960/1979" type="inclusive">1960s-1970s</unitdate><container label="Box" type="box">2</container></did></c03><c03 id="aspace_4e1463e1de107e4562d9c6e65a192c6a" level="file"><did><unittitle>Michigan Teachers in Asian Studies 1991</unittitle><unitdate normal="1988/1988" type="inclusive">1988</unitdate><container label="Box" type="box">2</container></did></c03><c03 id="aspace_5138eaa3d8ce3d94ae501bc57eb025ca" level="file"><did><unittitle>Microfilming papers of Manuel Quezon</unittitle><unitdate calendar="gregorian" era="ce" normal="1965/1970" type="inclusive">1965-1970</unitdate><container label="Folder" type="box">3</container></did></c03><c03 id="aspace_6a0df2a43ba3c3496644b0672026c126" level="file"><did><unittitle>Naropa Institute</unittitle><unitdate normal="1974/1974" type="inclusive">1974</unitdate><container label="Box" type="box">2</container></did></c03><c03 id="aspace_5e46d71d98642a28ca0b9d6a42041996" level="file"><did><unittitle>Program Evaluation Committee</unittitle><unitdate normal="1973/1976" type="inclusive">1973-1976</unitdate><container label="Box" type="box">2</container></did></c03><c03 id="aspace_d6c1ec515de2fb8fdaba2c5166fd09ff" level="file"><did><unittitle>Ramayana Mini-Course</unittitle><unitdate normal="1974/1974" type="inclusive">1974</unitdate><container label="Box" type="box">2</container></did></c03><c03 id="aspace_607791372a94bf721a971b3a4d2f8a1a" level="file"><did><unittitle>Research Opportunities at the National Archives of Malaysia, by Tom Willer [4 pp., n.d.]</unittitle><container label="Box" type="box">2</container></did></c03><c03 id="aspace_31082ad976b5cb9bd022f0dd776fd06b" level="file"><did><unittitle>Southeast Asia Mailings Received</unittitle><unitdate normal="1963/1969" type="inclusive">1963-1969</unitdate><container label="Box" type="box">2</container></did></c03><c03 id="aspace_854171fb5469e7b17d581ca07c72de0b" level="file"><did><unittitle>Southeast Asia Business</unittitle></did><c04 id="aspace_1c24cead926392f25249af9c39aca101" level="file"><did><unittitle>Number 1 &amp; 2, Spring/Summer</unittitle><unitdate normal="1984/1984" type="inclusive">1984</unitdate><container label="Box" type="box">2</container></did></c04><c04 id="aspace_e5f2abfdff64aa6a3e966c563e57cb7f" level="file"><did><unittitle>Number 2</unittitle><unitdate normal="1984/1984" type="inclusive">Fall 1984</unitdate><container label="Box" type="box">2</container></did></c04><c04 id="aspace_184ac669228a386b10d2e6eb9e3f452d" level="file"><did><unittitle>Number 3</unittitle><unitdate normal="1985/1985" type="inclusive">Winter 1985</unitdate><container label="Box" type="box">2</container></did></c04><c04 id="aspace_7e57e28e56bc861f340e4dcd7de1ec7e" level="file"><did><unittitle>Number 4</unittitle><unitdate normal="1985/1985" type="inclusive">Spring 1985</unitdate><container label="Box" type="box">2</container></did></c04></c03><c03 id="aspace_c689c3d25e352f7101dd8228c8d750f2" level="file"><did><unittitle>Southeast Asia Reader Project</unittitle><unitdate normal="1974/1974" type="inclusive">1974</unitdate><container label="Box" type="box">2</container></did></c03><c03 id="aspace_f753c04a378134d4372bc113df352f28" level="file"><did><unittitle>Southeast Asia Regional Council, Association for Asian Studies, Programs in Southeast Asian Studies</unittitle><unitdate normal="1972/1972" type="inclusive">1972</unitdate><container label="Box" type="box">2</container></did></c03><c03 id="aspace_d163e8ed98459334059fef209bf88b74" level="file"><did><unittitle>Southeast Asia Visiting Scholar</unittitle><unitdate normal="1975/1977" type="inclusive">1975-1977</unitdate><container label="Box" type="box">2</container></did></c03><c03 id="aspace_7b8a16706629b8ddfc0f8692f94cd509" level="file"><did><unittitle>Studies Groups</unittitle></did><c04 id="aspace_580540d78a35dddb92f858109f8d0fe4" level="file"><did><unittitle>Burma Studies Group</unittitle><unitdate normal="1973/1973" type="inclusive">1973</unitdate><container label="Box" type="box">2</container></did></c04><c04 id="aspace_ee53b56d66212917c7b973072f4c8272" level="file"><did><unittitle>Indonesia Studies Group</unittitle><unitdate normal="1973/1974" type="inclusive">1973-1974</unitdate><container label="Box" type="box">2</container></did></c04></c03><c03 id="aspace_bc88acf306fd6136b1fd3b1f297489a8" level="file"><did><unittitle>University Evaluation and Planning</unittitle><unitdate normal="1975/1976" type="inclusive">1975-1976</unitdate><container label="Box" type="box">2</container></did></c03></c02></c01><c01 id="aspace_257e7c4b52d479ecad811258a1cdf74e" level="series"><did><unittitle>Funding</unittitle></did><scopecontent><p>Funding consists of less than 0.5 linear feet of material regarding the various sources from which the center receives funding, including the Ford Foundation, the National Defense Education Act, Foreign Language and Area Studies fellowships and Department of Education grants. The material spans the 1960s through the 1990s and is organized alphabetically.</p></scopecontent><c02 id="aspace_5dd80e74ccf39ab96e861e8e86a13a7c" level="file"><did><unittitle>Fellowships</unittitle><unitdate normal="1971/1971" type="inclusive">1971</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_051a54f0f9ddd78bd96ffa99a77264d3" level="file"><did><unittitle>Ford Foundation Grant</unittitle></did><c03 id="aspace_cc16732e8a9024c824ab8f6b0300adbe" level="file"><did><unittitle>Correspondence</unittitle></did><c04 id="aspace_7c559c12a8ff166853365caf342ec865" level="file"><did><unitdate normal="1961/1965" type="inclusive">1961-1965</unitdate><container label="Box" type="box">2</container></did></c04><c04 id="aspace_2bb59b27f332d50b0c889b79c65c46e0" level="file"><did><unitdate normal="1965/1969" type="inclusive">1965-1969</unitdate><container label="Box" type="box">2</container></did></c04><c04 id="aspace_bd90ee89233bf5b9f64b313d41038a18" level="file"><did><unitdate normal="1973/1975" type="inclusive">1973-1975</unitdate><container label="Box" type="box">2</container></did></c04></c03><c03 id="aspace_47c54ee5cf68e2fb8769c31e6d69e49e" level="file"><did><unittitle>Reports</unittitle><unitdate normal="1964/1975" type="inclusive">1964-1975</unitdate><container label="Box" type="box">2</container></did></c03></c02><c02 id="aspace_d015151df516a2b0bee0a1ca05302bf1" level="file"><did><unittitle>Foreign Area Fellowship Program</unittitle><unitdate normal="1963/1969" type="inclusive">1963-1969</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_3e5c52d651d7bf3aca5068894867cbd5" level="file"><did><unittitle>Funding Sources</unittitle><unitdate normal="1978/1979" type="inclusive">1978-1979</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_db335ee50511f90a1884f7e08bed3d34" level="file"><did><unittitle>International Education Act</unittitle><unitdate normal="1966/1966" type="inclusive">1966</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_72606cb2eceb7837ce9b99df5e7a7016" level="file"><did><unittitle>Jacobson Report</unittitle><unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_1da3c18a84017f469a8e06c924bfefe7" level="file"><did><unittitle>National Defense Education Act Language and Area</unittitle><unitdate normal="1969/1970" type="inclusive">1969-1970</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_5f1977a538d4c1c12cdb1f6ab5e8b0f0" level="file"><did><unittitle>National Defense Foreign Language Fellowships</unittitle><unitdate normal="1968/1969" type="inclusive">1968-1969</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_9db599931e07c5653e8e3e1d7b36fe55" level="file"><did><unittitle>National Endowment for the Humanities Proposal, South Asian Theatrical Forms</unittitle><unitdate normal="1973/1973" type="inclusive">1973</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_3e9eb46e30c97511642e11625a78b23a" level="file"><did><unittitle>National Science Foundation Survey</unittitle><unitdate normal="1974/1976" type="inclusive">1974-1976</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_4387c934e50f182f39474c8591a42607" level="file"><did><unittitle>Proposal for Department of Education Grant</unittitle><unitdate normal="1981/1983" type="inclusive">1981-1983</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_ae5e1c576fd8639ffe1097da27612b44" level="file"><did><unittitle>Proposal for Department of Education Grant</unittitle><unitdate normal="1989/1991" type="inclusive">1989-1991</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_dd004a5a2a42e39dc995b74d9dbd14ca" level="file"><did><unittitle>Rockefeller Foundation</unittitle><unitdate normal="1966/1968" type="inclusive">1966-1968</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_8612a980a7d62a0472095fdaec5d1e46" level="file"><did><unittitle>Southeast Asia Regional Council, Association for Asian Studies, Sources of Funding for Individual Southeast Asia Specialists</unittitle><unitdate normal="1974-01/1974-01" type="inclusive">January 1974</unitdate><container label="Box" type="box">2</container></did></c02></c01><c01 id="aspace_1fe93bdb01e43679bf5fa74787287498" level="series"><did><unittitle>Programs and Conferences</unittitle></did><scopecontent><p>Programs and Conferences consists of less than 1 linear foot of material divided in half into two groups. The first is arranged alphabetically and contains material on various Center sponsored seminars, conferences and summer programs, including the Committee on Institutional Cooperation Summer Program in Southeast Asian Languages and Literature in the early 1970s. The second half consists entirely of material relating to the Southeast Asian Studies Summer Institute (SEASSI), an annual summer program concentrating on Southeast Asian languages and literature organized by a partnership of universities with Southeast Asian studies programs. Originally called the Indonesian Studies Summer Institute, SEASSI was created in 1983 to expand the summer program's area of study to include all of Southeast Asia. It is sponsored by the Southeast Asian Regional Council of the Association for Asian Studies (an organization composed of several Southeast Asian studies centers and of which CSSEAS is an active member) and was hosted by CSSEAS at the University of Michigan in 1984 and 1985.</p></scopecontent><c02 id="aspace_73dbd7d674a9f4d9405440d44c09a5e7" level="file"><did><unittitle>Austronesian Conference</unittitle><unitdate normal="1976/1976" type="inclusive">1976</unitdate><container label="Box" type="box">3</container></did></c02><c02 id="aspace_456a53384ffd3afe69d838513f6d0ba7" level="file"><did><unittitle>Borobudur Conference</unittitle><unitdate normal="1974/1974" type="inclusive">1974</unitdate><container label="Box" type="box">3</container></did></c02><c02 id="aspace_8a8280b6d613e8753e93430627e6b35f" level="file"><did><unittitle>Center Sponsored Cultural Events</unittitle><unitdate normal="1968/1970" type="inclusive">1968-1970</unitdate><container label="Box" type="box">3</container></did></c02><c02 id="aspace_017544a9187bd2aa3ea535cdd991625c" level="file"><did><unittitle>Conferences</unittitle><unitdate normal="1976-02/1976-03" type="inclusive">February-March 1976</unitdate><container label="Box" type="box">3</container></did></c02><c02 id="aspace_69c8ab0e6673fbeb13ed4306c4c14d8c" level="file"><did><unittitle>Gamelan Javanese Musical Set</unittitle><unitdate normal="1965/1969" type="inclusive">1965-1969</unitdate><unitdate normal="1978/1978" type="inclusive">1978</unitdate><container label="Box" type="box">3</container></did></c02><c02 id="aspace_a4e34b94646e79abc559844c4b5546dc" level="file"><did><unittitle>Maharashtra Conference</unittitle><unitdate normal="1973-04/1973-04" type="inclusive">April 1973</unitdate><container label="Box" type="box">3</container></did></c02><c02 id="aspace_69194299a8ce36ec6dec1d7c02e86db3" level="file"><did><unittitle>Nepal Symposium and Seminar</unittitle><unitdate normal="1971/1971" type="inclusive">1971</unitdate><container label="Box" type="box">3</container></did></c02><c02 id="aspace_8f9e29cf3f00f5649ea3da5c72923859" level="file"><did><unittitle>Elman R. Service Conference, Ecology and Cultural Evolution in the Tropics</unittitle><unitdate normal="1986/1986" type="inclusive">1986</unitdate><container label="Box" type="box">3</container></did></c02><c02 id="aspace_cfb6018f975a21148baeaf884fb8b2c7" level="file"><did><unittitle>Symbolic Forms and Systems Conference</unittitle><unitdate normal="1974/1974" type="inclusive">1974</unitdate><container label="Box" type="box">3</container></did></c02><c02 id="aspace_dee5e084f524b945b172da3064e7f126" level="file"><did><unittitle>Summer Programs</unittitle></did><c03 id="aspace_090e47fc6ef9ef857031f16736b1c067" level="file"><did><unittitle>Committee on Institutional Cooperation Summer Program in Southeast Asian Language and Literature</unittitle></did><c04 id="aspace_613b6da73127e62e6957f7587f47758f" level="file"><did><unittitle>University of Michigan</unittitle><unitdate normal="1970/1970" type="inclusive">1970</unitdate><container label="Box" type="box">3</container></did></c04><c04 id="aspace_f54ef6a730d2ccf9c6428ae8bee77394" level="file"><did><unittitle>University of Wisconsin</unittitle><unitdate normal="1971/1971" type="inclusive">1971</unitdate><container label="Box" type="box">3</container></did></c04><c04 id="aspace_96c0d44a043b4af2be84def432ab9790" level="file"><did><unittitle>University of Chicago</unittitle><unitdate normal="1972/1972" type="inclusive">1972</unitdate><container label="Box" type="box">3</container></did></c04><c04 id="aspace_1750b533c6d8c818eb805e4a9460434d" level="file"><did><unittitle>University of Michigan</unittitle><unitdate normal="1973/1973" type="inclusive">1973</unitdate><container label="Box" type="box">3</container></did></c04></c03><c03 id="aspace_89ad21da0a04b66d45edd9c05b565a51" level="file"><did><unittitle>Summer Institute and Proposal</unittitle><unitdate normal="1972/1973" type="inclusive">1972-1973</unitdate><container label="Box" type="box">3</container></did></c03><c03 id="aspace_1fcc8a6134a33fb1c5d9f305101292ab" level="file"><did><unittitle>Southeast Asian Studies Summer Institute (SEASSI)</unittitle></did><c04 id="aspace_c5b7d404a7514b4ee49627fe64c16e0a" level="file"><did><unittitle>Correspondence, Flyers and Newsletters</unittitle></did><c05 id="aspace_3f187275fe1af79e7191168ef5c518a7" level="file"><did><unitdate normal="1981/1982" type="inclusive">1981-1982</unitdate><container label="Box" type="box">3</container></did></c05><c05 id="aspace_4dea8013ed39ec2fbba1bba950e45c49" level="file"><did><unitdate normal="1983/1983" type="inclusive">1983</unitdate><container label="Box" type="box">3</container></did></c05><c05 id="aspace_d90bb2cb883fc5eed956cd63459e2db4" level="file"><did><unitdate normal="1984/1984" type="inclusive">1984</unitdate><container label="Box" type="box">3</container></did></c05><c05 id="aspace_2a26787edf7d9a6f1620fdb00300f73b" level="file"><did><unitdate normal="1985/1985" type="inclusive">1985</unitdate><container label="Box" type="box">3</container></did></c05><c05 id="aspace_b29da3ad539e29537a3395a519ab2bd4" level="file"><did><unitdate normal="1986/1986" type="inclusive">1986</unitdate><container label="Box" type="box">3</container></did></c05><c05 id="aspace_c608b9835dc21a4336e976ca5eaceafd" level="file"><did><unitdate normal="1987/1987" type="inclusive">1987</unitdate><container label="Box" type="box">3</container></did></c05></c04><c04 id="aspace_5e08765cca097e83cf8c52917408155d" level="file"><did><unittitle>External Funding</unittitle><unitdate normal="1984/1984" type="inclusive">1984</unitdate><container label="Box" type="box">3</container></did></c04><c04 id="aspace_b6c57662702905becca97eed9cac6850" level="file"><did><unittitle>Fourth Eastern Conference on Austronesian Languages (ECAL-IV)</unittitle><unitdate normal="1985/1985" type="inclusive">1985</unitdate><container label="Box" type="box">3</container></did></c04><c04 id="aspace_88c1df741094177d2f0d22e34b1dfdae" level="file"><did><unittitle>Fulbright Correspondence</unittitle><unitdate normal="1984/1985" type="inclusive">1984-1985</unitdate><container label="Box" type="box">3</container></did></c04><c04 id="aspace_5ef2ce5f3698eb67b2d8cd4987017055" level="file"><did><unittitle>Luce Fellowships</unittitle><unitdate normal="1985/1986" type="inclusive">1985-1986</unitdate><container label="Box" type="box">3</container></did></c04><c04 id="aspace_b330f4abd691bbdbfa161c446e6fa659" level="file"><did><unittitle>Studies Groups</unittitle></did><c05 id="aspace_f848645ea2850f28bc33ae59ebbeb81f" level="file"><did><unittitle>Burma</unittitle><container label="Box" type="box">3</container></did></c05><c05 id="aspace_b10a078af4b1a6cd5efe773f2aec890e" level="file"><did><unittitle>Indonesia</unittitle><container label="Box" type="box">3</container></did></c05><c05 id="aspace_d39a355288a6f6ebb6c262acad8d7019" level="file"><did><unittitle>Malaysia/Singapore/Brunei</unittitle><container label="Box" type="box">3</container></did></c05><c05 id="aspace_f5e48b59089a1037eb76368b19024758" level="file"><did><unittitle>Thai/Laos/Cambodia</unittitle><container label="Box" type="box">3</container></did></c05><c05 id="aspace_f7c9c95e36f168cf5dcd5e6494385ebc" level="file"><did><unittitle>Vietnam</unittitle><container label="Box" type="box">3</container></did></c05></c04></c03></c02></c01></dsc>
+</archdesc>
+</ead>

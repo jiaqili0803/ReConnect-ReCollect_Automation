@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>umich-bhl-85532</eadid><filedesc><titlestmt><titleproper>Finding Aid for John C. Early Papers</titleproper><author>Finding aid prepared by: Thomas E. Powers</author></titlestmt><publicationstmt><publisher>Bentley Historical Library</publisher><p><date>1976</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-10-07 12:33:40 -0400</date>.</creation><langusage>The finding aid is written in <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc><revisiondesc><change><date>2003-10-01</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change><change><date>2000-02-08</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change><change><date>2016-11-21</date><item>Updated Conditions Governing Use Note</item></change></revisiondesc></eadheader><frontmatter><titlepage><publisher>Bentley Historical Library <lb/>University of Michigan</publisher><titleproper>Finding Aid for John C. Early Papers</titleproper><author>Finding aid prepared by: Thomas E. Powers</author></titlepage></frontmatter><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Bentley Historical Library</corpname>
+      <extptr actuate="onload" href="bhladd" show="embed"/>
+    </repository>
+    <unittitle>John C. Early Papers</unittitle>
+    <origination label="creator">
+      <persname source="lcnaf">Early, John C. (John Chrysostom), 1878-1932</persname>
+    </origination>
+    <unitid type="call number">85532 Aa 2</unitid>
+    <physdesc>
+      <extent>0.4 linear feet</extent>
+    </physdesc>
+    <physdesc>
+      <extent>1 oversize folder</extent>
+    </physdesc>
+    <unitdate normal="1911/1942" type="inclusive">1911-1942</unitdate>
+    <unitdate normal="1911/1932" type="bulk">1911-1932</unitdate>
+    <abstract id="aspace_af748f85b1942a62415a16e1a16ba4d4">Teacher and administrator in the Philippines, governor of the Mountain Province, 1923-1930, later advisor to the Governor General on non-Christian affairs; correspondence, reminiscences, speeches, articles, and photographs.</abstract>
+    <langmaterial id="aspace_ac65ff2c0eab4888525452f35eb840e1">The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+  </did>
+  <descgrp type="admin">
+    <acqinfo><p>The collection was the gift of Frederic S. Marquardt (donor no. <num encodinganalog="541$e" type="donor">5131</num>) who donated Early's reminiscence in 1972 and Frank L. Jenista (donor no. <num>5804</num>) who donated the remainder of the collection in 1976.</p></acqinfo>
+    <accessrestrict><p>The collection is open for research.</p></accessrestrict>
+    <userestrict><p>Donor(s) have transferred any applicable copyright to the Regents of the University of Michigan but the collection may contain third-party materials for which copyright was not transferred. Patrons are responsible for determining the appropriate use or reuse of materials.</p></userestrict>
+    <prefercite><p>item, folder title, box no., John C. Early Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+  </descgrp>
+  <bioghist><p>John C. Early was a teacher and administrator in the Philippine Islands. He was governor of the Mountain Province, 1923-1930, then later advisor to the governor general on non-Christian affairs.</p></bioghist>
+  <scopecontent><p>The John C. Early collection consists of two series: Papers and Photographs. The Papers series includes correspondence, reminiscences, speeches, and articles written by Early, primarily relating to his experiences in the Philippines and papers of Willa R. Early. Correspondents represented in the collection include Charles H. Brent, James Fugate, Gouverneur Frank Mosher, Henry L. Stimson, and Leonard Wood. The Photograph series includes photos of Early, his family, and other American officials in the Philippines. There are also photos of the Philippine countryside, cities, and people, especially views of the Mountain Province.</p></scopecontent>
+  <controlaccess>
+    <p>
+      <extptr actuate="onload" href="accnote" show="embed"/>
+    </p>
+    <geogname source="lcsh">Philippines -- History -- 1898-1946.</geogname>
+    <subject source="lcsh">Teachers -- Philippines.</subject>
+    <subject source="lctgm">Governors -- Philippines.</subject>
+    <geogname source="lcsh">Philippines -- History -- 1898-1946.</geogname>
+    <genreform source="aat">Photographs.</genreform>
+    <persname source="lcnaf">Early, John C. (John Chrysostom), 1878-1932.</persname>
+    <persname source="lcnaf">Early, John C. (John Chrysostom), 1878-1932.</persname>
+    <famname source="lcnaf">Early family.</famname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n96029853" role="ctb" source="lcnaf">Brent, Charles Henry, 1862-1929.</persname>
+    <persname role="ctb" source="lcnaf">Early, Willa R. (Willa Rhodes), 1883-</persname>
+    <persname role="ctb" source="lcnaf">Fugate, James, 1877-1938.</persname>
+    <persname role="ctb" source="lcnaf">Mosher, Gouverneur Frank, 1871-1941.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50011364" role="ctb" source="lcnaf">Stimson, Henry L. (Henry Lewis), 1867-1950.</persname>
+    <persname role="ctb" source="lcnaf">Wood, Leonard, 1860-1927.</persname>
+  </controlaccess>
+  <dsc type="combined"><c01 id="aspace_bf656b342016dd6d77f0b9cc796af0d2" level="series"><did><unittitle>Papers</unittitle></did><c02 id="aspace_084b9ce1c15dd550e1608a0b3da71f2f" level="file"><did><unittitle>Correspondence</unittitle></did><c03 id="aspace_4fd1140762812e21949a59777e5b07cc" level="file"><did><unitdate type="inclusive">Undated</unitdate><unitdate normal="1911/1920" type="inclusive">1911-1920</unitdate><container label="Box" type="box">1</container></did></c03><c03 id="aspace_2ffd6402e59dac58cc6b9682c5434739" level="file"><did><unitdate normal="1921/1928" type="inclusive">1921-1928</unitdate><container label="Box" type="box">1</container></did></c03><c03 id="aspace_cfd0cfed2bb399d40473899048df4116" level="file"><did><unitdate normal="1929/1932" type="inclusive">1929-1932</unitdate><container label="Box" type="box">1</container></did></c03></c02><c02 id="aspace_6acf932530744b017f2caa7a3fb32287" level="file"><did><unittitle>Speeches and writings</unittitle><container label="Box" type="box">1</container></did></c02><c02 id="aspace_ffcde8c1448762cb396f76ec8fe37341" level="file"><did><unittitle>Article, "Home of the Luzon Highlander"</unittitle><container label="Box" type="box">1</container></did></c02><c02 id="aspace_19427833cce4ab4f73883f3b1c20681d" level="file"><did><unittitle>Miscellanea</unittitle><container label="Box" type="box">1</container></did></c02><c02 id="aspace_6d1cf4c02763d179b675df935dbc7479" level="file"><did><unittitle><persname normal="Early, Willa R. (Willa Rhodes), 1883-" source="lcnaf">Willa Rhodes Early</persname></unittitle></did><c03 id="aspace_cc9d3ae04d11929898e9b47fdfcb730c" level="file"><did><unittitle>Correspondence</unittitle><unitdate normal="1923/1942" type="inclusive">1923-1942</unitdate><container label="Box" type="box">1</container></did></c03><c03 id="aspace_9ddab5feb813fff48cb829a09f812108" level="file"><did><unittitle>Miscellanea</unittitle><container label="Box" type="box">1</container></did></c03></c02><c02 id="aspace_e9faa65a7bc05f828256a8c5868fcf10" level="file"><did><unittitle>Reminiscence of John C. Early (1906-1923)</unittitle><physdesc><extent>1 volume</extent></physdesc><unitdate normal="1931/1931" type="inclusive">1931</unitdate><container label="Box" type="box">1</container></did></c02></c01><c01 id="aspace_6b2d57e8c49e92716ef75ec6490aa785" level="series"><did><unittitle><genreform normal="Photographs" source="aat">Photographs</genreform></unittitle></did><c02 id="aspace_c1e1c254eb9467c756936a76c6da7631" level="file"><did><unittitle>Philippine buildings, cities, towns</unittitle><container label="Box" type="box">1</container></did></c02><c02 id="aspace_ae241a30aa28cfd2cb8bb990aa9e72ae" level="file"><did><unittitle>Philippine countryside (especially views of Mountain Province)</unittitle><container label="Box" type="box">1</container></did></c02><c02 id="aspace_40aae41eef7393a5a3bcb16a8294d6dc" level="file"><did><unittitle>Family, friends, unidentified people (American)</unittitle><container label="Box" type="box">1</container></did></c02><c02 id="aspace_c4831a4a379c01015204b440a19b19e9" level="file"><did><unittitle>Official groups and functions</unittitle><container label="Box" type="box">1</container></did></c02><c02 id="aspace_6aa8ff6150ad8376d6caa7576ba1ba4e" level="file"><did><unittitle>Residences</unittitle><container label="Box" type="box">1</container></did></c02><c02 id="aspace_0b7865af7657e5b86cc14b77a09c534e" level="file"><did><unittitle>Unidentified people</unittitle><container label="Box" type="box">1</container></did></c02></c01></dsc>
+</archdesc>
+</ead>

@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "ead.dtd">
+<ead><eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>umich-bhl-85406</eadid><filedesc><titlestmt><titleproper>Finding Aid for Thomas Harrison Reed Papers</titleproper><author>Finding aid prepared by: Michigan Historical Collections staff</author></titlestmt><publicationstmt><publisher>Bentley Historical Library</publisher><p><date>2002</date></p></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2022-10-07 12:46:53 -0400</date>.</creation><langusage>The finding aid is written in <language encodinganalog="language" langcode="eng">English.</language></langusage></profiledesc><revisiondesc><change><date>2003-10-10</date><item>Converted to EAD2002 using Word macro and Xmetal</item></change><change><date>2002-10-25</date><item>Original encoding in EAD ver. 1.0 from Word 6.0 file using word macros and manual tagging in A/E.</item></change><change><date>2016-11-21</date><item>Updated Conditions Governing Use Note</item></change></revisiondesc></eadheader><frontmatter><titlepage><publisher>Bentley Historical Library <lb/>University of Michigan</publisher><titleproper>Finding Aid for Thomas Harrison Reed Papers</titleproper><author>Finding aid prepared by: Michigan Historical Collections staff</author></titlepage></frontmatter><archdesc level="collection">
+  <did>
+    <repository>
+      <corpname>Bentley Historical Library</corpname>
+      <extptr actuate="onload" href="bhladd" show="embed"/>
+    </repository>
+    <unittitle>Thomas Harrison Reed Papers</unittitle>
+    <origination label="creator">
+      <persname source="lcnaf">Reed, Thomas Harrison, 1881-</persname>
+    </origination>
+    <unitid type="call number">85406 Aa 2</unitid>
+    <physdesc>
+      <extent>8 linear feet</extent>
+    </physdesc>
+    <unitdate normal="1902/1971" type="inclusive">1902-1971</unitdate>
+    <abstract id="aspace_8acb012b4921ef2172038696ff92828e">Consultant in municipal government, professor of political science at the University of California and the University of Michigan. Correspondence and other papers concerning his work with the National Municipal League, as municipal consultant, and as director of studies of the Republican Program Committee.</abstract>
+    <langmaterial id="aspace_dfdc8a4ce77267f81fc9361253bfc982">The materials are in <language encodinganalog="041" langcode="eng">English.</language></langmaterial>
+  </did>
+  <descgrp type="admin">
+    <acqinfo><p>The collection was donated by Mrs. Doris D. Reed (donor no. <num encodinganalog="541$e" type="donor">5326</num>) in 1974.</p></acqinfo>
+    <accessrestrict><p>The collection is open for research.</p></accessrestrict>
+    <userestrict><p>Donor(s) have transferred any applicable copyright to the Regents of the University of Michigan but the collection may contain third-party materials for which copyright was not transferred. Patrons are responsible for determining the appropriate use or reuse of materials.</p></userestrict>
+    <prefercite><p>item, folder title, box no., Thomas Harrison Reed Papers, Bentley Historical Library, University of Michigan</p></prefercite>
+  </descgrp>
+  <bioghist><p>Reed's career in municipal government began in 1909 and extended well into the 1960s. During this period Dr. Reed held many positions, including Professor of Municipal Government at the University of California, Berkeley, Executive Secretary to the Governor of California, City Manager of San Jose, California, Consultant for the National Municipal League, Director of the National Municipal League's Consultant Services, and privately employed municipal consultant. In his role as municipal consultant, Reed studied the administration and organization of many American cities, including Atlanta, Augusta, Charleston, S.C., Pittsburgh, Cincinnati, Cleveland, Baton Rouge, Shreveport, Norfolk, Richmond, and Hartford, Connecticut.</p><p> Dr. Reed was an active member of the American Political Science Association and he maintained a strong interest in Belgium during much of his life. He published a study of Belgian government in 1924, assisted in the translation of Leopold of the Belgians (1929), participated in the activities of the Commission for Relief in Belgium, and was an officer in the Order of Leopold.</p><p> Thomas Harrison Reed was born in Boston in 1881. He was educated at Harvard University where he received his AB in 1901 and his LL.B. in 1904. He did post-graduate work at Columbia University in 1908 and 1909 and received an LL. D. from the University of Brussels in 1930. Dr. Reed was a Professor of Political Science at The University of Michigan from 1922 until 1936 when he resigned to devote his full attention to his duties as Director of Consultant Services for the National Municipal League, a position which he held since 1933. Dr. Reed served as Director of Studies for the Republican Program Committee during 1938 and 1939 and thereafter he was a privately employed municipal consultant. Throughout his career, Reed maintained a close association with the National Municipal League and was active in the League's affairs. Reed also held positions on many councils and commissions involved with the study of government in many communities. During his lifetime, Reed was often in contact with such luminaries of the American intellectual establishment as Charles A. Beard, A. Lawrence Lowell, and Charles E. Merriam. Dr. Reed was an accomplished public speaker and a prolific author of books and articles on a variety of topics relating to government. He died in Wethersfield, Connecticut in 1971.</p></bioghist>
+  <scopecontent><p>The Thomas Harrison Reed Collection is the papers of a man who was an active and important figure in the field of municipal government during much of the first half of this century. The Reed papers consist of eight feet of manuscript material, including correspondence, memos, newspaper clippings, and printed material. Over half of the collection deals primarily with Reed's work as a municipal consultant. The collection also contains a substantial amount of material which pertains to Reed's activities in connection with the American Political Science Association as well as material which relates to his academic career and correspondence with Michigan citizens and legislators and Michigan's Congressional representatives. In addition, the collection includes material on Belgium, Reed's work as city manager of San Jose, and his work with the Republican Program Committee.</p><p> The Thomas Harrison Reed Collection provides useful material for research on the history of the activities of the National Municipal League and on trends and issues in municipal government during the first half of the twentieth century in the United States. The collection is also useful to anyone interested in the issues which were involved in the revision of city charters in many American cities during the 1920s, 1930s, and 1940s. The collection contains, in particular, substantial material on reform in Atlanta during the 1930s.</p><p> Although this collection contains material on Reed's association with The University of Michigan and some material which deals with government in Michigan, it would be of little use for research on any aspect of Michigan history. During his twelve-year residence in Michigan, Reed did little work which related specifically to municipal government in this state. He did publish Oakland County: a survey of county and township administration and finance in 1932, but the collection contains nothing of substance relating to this work. With this exception, and aside from some correspondence and a few speeches to such groups as the League of Women Voters, there is no material in this collection which would be of more than passing interest to one engaged in historical research relating to Michigan.</p></scopecontent>
+  <controlaccess>
+    <p>
+      <extptr actuate="onload" href="accnote" show="embed"/>
+    </p>
+    <geogname source="lcsh">China -- History -- Republic, 1912-1949.</geogname>
+    <subject source="lcsh">Japanese Americans.</subject>
+    <subject source="lcsh">Municipal government.</subject>
+    <geogname source="lcsh">Philippines -- History -- 1898-1946.</geogname>
+    <geogname source="lcsh">United States -- Politics and government -- 1933-1945.</geogname>
+    <geogname source="lcsh">United States -- Politics and government -- 1929-1933.</geogname>
+    <subject source="lctgm">Bands.</subject>
+    <genreform source="aat">Photographs.</genreform>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85252398" source="lcnaf">Hayden, Joseph Ralston, 1887-1945.</persname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79076441" source="lcnaf">National Municipal League.</corpname>
+    <persname source="lcnaf">Reed, Thomas Harrison, 1881-</persname>
+    <corpname source="lcnaf">Republican Party (U.S. : 1854-)</corpname>
+    <corpname source="lcnaf">University of Michigan. Dept. of Political Science.</corpname>
+    <corpname authfilenumber="http://id.loc.gov/authorities/names/n79021846" source="lcnaf">University of Michigan -- Faculty.</corpname>
+    <persname source="lcnaf">Reed, Thomas Harrison, 1881-</persname>
+    <persname role="ctb" source="lcnaf">Allin, Cephas Daniel, 1875-1927.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n95110782" role="ctb" source="lcnaf">Atwood, Albert William, 1879-1975.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2012010411" role="ctb" source="lcnaf">Barrows, David P., 1873-1954.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n80126170" role="ctb" source="lcnaf">Beard, Charles Austin, 1874-1948.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/nr2003027797" role="ctb" source="lcnaf">Bromage, Arthur W. (Arthur Watson), 1904-1979.</persname>
+    <persname role="ctb" source="lcnaf">Brownlow, Louis, 1879-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85273526" role="ctb" source="lcnaf">Crane, Robert Treat, 1880-</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n85239197" role="ctb" source="lcnaf">Fairlie, John A. (John Archibald), 1872-1947.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no97059334" role="ctb" source="lcnaf">Foster, William Trufant, 1879-1950.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n79021421" role="ctb" source="lcnaf">Hoover, Herbert, 1874-1964.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50040391" role="ctb" source="lcnaf">Lowell, A. Lawrence (Abbott Lawrence), 1856-1943.</persname>
+    <persname role="ctb" source="lcnaf">Malone, Dudley Field, 1882-1950.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50035979" role="ctb" source="lcnaf">Merriam, Charles Edward, 1874-1953.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n82090890" role="ctb" source="lcnaf">Munro, William Bennett, 1875-1957.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50028724" role="ctb" source="lcnaf">Ogg, Frederic Austin, 1878-1951.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n86868196" role="ctb" source="lcnaf">Putnam, George Haven, 1844-1930.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2001028340" role="ctb" source="lcnaf">Reeves, Jesse Siddall, 1872-1942.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n96049616" role="ctb" source="lcnaf">Shattuck, Henry Lee, 1879-1971.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/nr95046322" role="ctb" source="lcnaf">Shurtleff, Flavel, 1879-1978.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no2005001673" role="ctb" source="lcnaf">Smith, Harold Dewey, 1898-1947.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n82211004" role="ctb" source="lcnaf">Teggart, Frederick John, 1870-1946.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/no00082472" role="ctb" source="lcnaf">Upson, Lent Dayton, 1886-1949.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50045033" role="ctb" source="lcnaf">Vandenberg, Arthur H. (Arthur Hendrick), 1884-1951.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n80082552" role="ctb" source="lcnaf">Vanderbilt, Arthur T., 1888-1957.</persname>
+    <persname authfilenumber="http://id.loc.gov/authorities/names/n50020231" role="ctb" source="lcnaf">White, Leonard Dupee, 1891-1958.</persname>
+  </controlaccess>
+  <dsc type="combined"><c01 id="aspace_a5b91cf1973b363cfbf6c18dcd3456f7" level="series"><did><unittitle>Biographical and Personal</unittitle></did><c02 id="aspace_a31e08ca19c0eb38d955e980c33adb9a" level="file"><did><unittitle>Miscellaneous</unittitle><container label="Box" type="box">1</container></did></c02></c01><c01 id="aspace_04f8569dd03c35759bcc99e1b5e7e7d9" level="series"><did><unittitle>Correspondence</unittitle></did><c02 id="aspace_3dad9aba27396af85b6fb3a9763b7186" level="file"><did><unitdate type="inclusive">Undated</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_7318c627caa68e803d639fd2ea06f014" level="file"><did><unitdate normal="1902/1902" type="inclusive">1902</unitdate><unitdate normal="1907/1909" type="inclusive">1907-1909</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_0b212ee30b016d713e71f9ebb5582223" level="file"><did><physdesc><extent>48 folders</extent></physdesc><unitdate normal="1913/1947" type="inclusive">1913-1947</unitdate><container label="Box" type="box">1</container></did></c02><c02 id="aspace_e34fb188ec668b935d2f49626f2cb660" level="file"><did><physdesc><extent>28 folders</extent></physdesc><unitdate normal="1948/1971" type="inclusive">1948-1971</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_dc41b86ce1fd6e4f703a04dac0f7438b" level="file"><did><unittitle>Re translation of Leopold II</unittitle><unitdate normal="1927/1929" type="inclusive">1927-1929</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_7d0e9e5bd3cce07db6efd02c40acd5df" level="file"><did><unittitle>Re translation of Leopold I</unittitle><unitdate normal="1929/1931" type="inclusive">1929-1931</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_ff094cb4dd090e69b2a2d27dd2f35665" level="file"><did><unittitle>With World Book Company</unittitle></did><c03 id="aspace_162fc98c2be06126f75e675125115ae3" level="file"><did><unitdate normal="1913/1913" type="inclusive">1913</unitdate><unitdate normal="1919/1920" type="inclusive">1919-1920</unitdate><container label="Box" type="box">2</container></did></c03><c03 id="aspace_31a49dc5cef492555b942d30555c6740" level="file"><did><unitdate normal="1923/1924" type="inclusive">1923-1924</unitdate><container label="Box" type="box">2</container></did></c03><c03 id="aspace_1143b84b505048aa691625677499e2cd" level="file"><did><unitdate normal="1925/1925" type="inclusive">1925</unitdate><container label="Box" type="box">2</container></did></c03><c03 id="aspace_4007bf68669d9d8f029e67d27b966cdb" level="file"><did><unitdate normal="1926/1928" type="inclusive">1926-1928</unitdate><container label="Box" type="box">2</container></did></c03><c03 id="aspace_706e69af28cb8bb3796fb911e912a12f" level="file"><did><unitdate normal="1929/1929" type="inclusive">1929</unitdate><container label="Box" type="box">2</container></did></c03><c03 id="aspace_9352aeae350a24cd6d5c1c1a22e63b24" level="file"><did><unitdate normal="1930/1932" type="inclusive">1930-1932</unitdate><container label="Box" type="box">2</container></did></c03></c02></c01><c01 id="aspace_db34ec39ee6075c89916be6ba8a4a4b0" level="series"><did><unittitle>Consultation files</unittitle></did><c02 id="aspace_2041328c5ce6d9b8c2a93d0388f58506" level="file"><did><unittitle>Michigan County Home Rule Amendment</unittitle><unitdate normal="1929/1929" type="inclusive">1929</unitdate><unitdate normal="1933/1934" type="inclusive">1933-1934</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_54b837e25513a7879f0ede73678a9d3a" level="file"><did><unittitle>Oakland County 1932 Bloomfield Hills, 1932 Michigan, 1933</unittitle><unitdate normal="1932/1933" type="inclusive">1932-1933</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_6045450ccb74b10cf11c998f3cb9b375" level="file"><did><unittitle>Yonkers, N.Y.</unittitle><unitdate normal="1933/1934" type="inclusive">1933-1934</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_cfc1b762db9ae9613b253a738083dc0a" level="file"><did><unittitle>Cortlandt, Greenburgh, Harrison, Mt. Pleasant, Mt. Vernon (N.Y. State)</unittitle><unitdate normal="1934/1934" type="inclusive">1934</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_2e31715539894374c147b8b59b8f40b9" level="file"><did><unittitle>Lehigh Co., Pa.</unittitle><unitdate normal="1934/1934" type="inclusive">1934</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_9782b989e46b1c9bc8610bafd36d1cda" level="file"><did><unittitle>Kearny, N.J.</unittitle><unitdate normal="1934/1934" type="inclusive">1934</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_8cd28bcaa587cd8c464d051b067c17cd" level="file"><did><unittitle>North Bergen, N.J.</unittitle><unitdate normal="1934/1934" type="inclusive">1934</unitdate><container label="Box" type="box">2</container></did></c02><c02 id="aspace_371a3a148c1f8f45a17cd47d8a17392c" level="file"><did><unittitle>Nassau County, N.Y.</unittitle><container label="Box" type="box">3</container></did><c03 id="aspace_52b7d4f04078c164cfe3b8c943422af2" level="file"><did><unittitle>Papers</unittitle><unitdate normal="1934/1935" type="inclusive">1934-1935</unitdate><unitdate normal="1941/1941" type="inclusive">1941</unitdate><container label="Box" type="box">3</container></did></c03><c03 id="aspace_1a88754c7d709c89a96f549162ff5d2e" level="file"><did><unittitle>The Government of Nassau County Special Reports</unittitle><unitdate normal="1934/1934" type="inclusive">1934</unitdate><container label="Box" type="box">3</container></did><odd><p>(3 volumes in one)</p></odd></c03></c02><c02 id="aspace_5882caadd8eedfe24ca8a3541239e847" level="file"><did><unittitle>Coral Gables, Fla.</unittitle><unitdate normal="1934/1934" type="inclusive">1934</unitdate><unitdate normal="1941/1941" type="inclusive">1941</unitdate><unitdate normal="1945/1945" type="inclusive">1945</unitdate><container label="Box" type="box">3</container></did></c02><c02 id="aspace_37b33574abc23b4b78ac7dd521d20be7" level="file"><did><unittitle>Asbury Park, N.J.</unittitle><unitdate normal="1935/1935" type="inclusive">1935</unitdate><container label="Box" type="box">3</container></did></c02><c02 id="aspace_ecfae8334ebd30a2b8bb62b3d5ed341a" level="file"><did><unittitle>Teaneck, N.J.</unittitle><unitdate normal="1935/1935" type="inclusive">1935</unitdate><container label="Box" type="box">3</container></did></c02><c02 id="aspace_56fdc47bc3de6b9453761472e4a5a337" level="file"><did><unittitle>Jersey City, N.J.</unittitle><unitdate normal="1935/1935" type="inclusive">1935</unitdate><container label="Box" type="box">3</container></did></c02><c02 id="aspace_09e7821e134e6d8852a0d854c35817fe" level="file"><did><unittitle>Borough of Dumont, N.J.</unittitle><unitdate normal="1935/1935" type="inclusive">1935</unitdate><container label="Box" type="box">3</container></did></c02><c02 id="aspace_136b126c1f40349e790103c3e4e028fd" level="file"><did><unittitle>Woodbridge Twp., N.J.</unittitle><unitdate normal="1936/1936" type="inclusive">1936</unitdate><container label="Box" type="box">3</container></did></c02><c02 id="aspace_bfb8a61b2c0bf5edfee4262cc195b617" level="file"><did><unittitle>St. Petersburg, Fla.</unittitle></did><c03 id="aspace_6c96cfd3152029ad0c3071ba9dd7a1d6" level="file"><did><unittitle>Report: <title render="italic">Financial and Administrative Survey of the City of St. Petersburg, Fla.</title></unittitle><physdesc><extent>1 volume</extent></physdesc><unitdate normal="1936/1936" type="inclusive">1936</unitdate><container label="Box" type="box">3</container></did></c03><c03 id="aspace_c7c24846d4515ace8279bacb0f29320a" level="file"><did><unittitle>Report: <title render="italic">Financial and Administrative Survey of the City of St. Petersburg, Fla.: Special Report on Municipal Utilities</title> 1936</unittitle><container label="Box" type="box">3</container></did></c03></c02><c02 id="aspace_8a8a8dd78f8753a0238db66a20366540" level="file"><did><unittitle>Inverness, Fla.</unittitle><unitdate normal="1936/1936" type="inclusive">1936</unitdate><container label="Box" type="box">3</container></did></c02><c02 id="aspace_885e7f35ae58c369589b95d27dcb44fa" level="file"><did><unittitle>Brookline, Mass.</unittitle><unitdate normal="1937/1937" type="inclusive">1937</unitdate><container label="Box" type="box">3</container></did></c02><c02 id="aspace_eab58d11c34545de1fc9459acf7d1512" level="file"><did><unittitle>Atlanta, Ga.</unittitle></did><c03 id="aspace_a0f84e43190e971acabfec019cacc9f6" level="file"><did><unittitle>Papers</unittitle><unitdate normal="1937/1938" type="inclusive">1937-1938</unitdate><unitdate normal="1940/1940" type="inclusive">1940</unitdate><container label="Box" type="box">3</container></did></c03><c03 id="aspace_5c59dd09fa17601fd250d704797088dd" level="file"><did><unittitle>Report: The Governments of Atlanta and Fulton County Georgia</unittitle><physdesc><extent>1 volume</extent></physdesc><unitdate normal="1938/1938" type="inclusive">1938</unitdate><container label="Box" type="box">3</container></did></c03><c03 id="aspace_578dfb45eaefeae6e5b981e9bf3ebf0e" level="file"><did><unittitle>Papers</unittitle><unitdate normal="1952/1953" type="inclusive">1952-1953</unitdate><container label="Box" type="box">3</container></did></c03></c02><c02 id="aspace_bc919eedc8fa9e4ee6c27daa1b9b8f33" level="file"><did><unittitle>Savannah, Ga.</unittitle><unitdate normal="1937/1937" type="inclusive">1937</unitdate><unitdate normal="1947/1947" type="inclusive">1947</unitdate><container label="Box" type="box">3</container></did></c02><c02 id="aspace_02e935e4e41de6013bbc96bf5c5b85f0" level="file"><did><unittitle>Bergenfield, N.J.</unittitle><unitdate normal="1938/1938" type="inclusive">1938</unitdate><container label="Box" type="box">3</container></did></c02><c02 id="aspace_d2e33f4f741dc3a612e54cee3bb3ba12" level="file"><did><unittitle>Richmond, Va.</unittitle></did><c03 id="aspace_b4750b1d8847acf531f008b549867f48" level="file"><did><unittitle>Papers</unittitle><physdesc><extent>3 folders</extent></physdesc><unitdate normal="1939/1953" type="inclusive">1939-1953</unitdate><container label="Box" type="box">3</container></did></c03><c03 id="aspace_73b3ea58f26275e300eb4c77bd85b14d" level="file"><did><unittitle>Papers</unittitle><unitdate normal="1960/1964" type="inclusive">1960-1964</unitdate><container label="Box" type="box">3</container></did></c03><c03 id="aspace_355a6b9590048867c2d66f5d1458c473" level="file"><did><unittitle>Published material</unittitle><physdesc><extent>4 volumes</extent></physdesc><unitdate normal="1947/1947" type="inclusive">1947</unitdate><unitdate normal="1950/1950" type="inclusive">1950</unitdate><unitdate normal="1961/1961" type="inclusive">1961</unitdate><container label="Box" type="box">4</container></did></c03><c03 id="aspace_4f12f785154216f22d81ed2fda676ced" level="file"><did><unittitle>Annexation trial proceedings</unittitle><unitdate normal="1963/1963" type="inclusive">1963</unitdate><container label="Box" type="box">4</container></did></c03><c03 id="aspace_b4f9311e1126ca54706f17fbef2733dd" level="file"><did><unittitle>Clippings</unittitle><unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate><container label="Box" type="box">4</container></did></c03><c03 id="aspace_32df12643a6b85bb4185d68fbd36b87f" level="file"><did><unittitle>Clippings</unittitle><unitdate normal="1947/1963" type="inclusive">1947-1963</unitdate><container label="Box" type="box">4</container></did></c03></c02><c02 id="aspace_068748972c5e4316feb58f20c3882321" level="file"><did><unittitle>Rome, N.Y.</unittitle><unitdate normal="1942/1942" type="inclusive">1942</unitdate><container label="Box" type="box">4</container></did></c02><c02 id="aspace_60431941496890e16f76289cca7e26e6" level="file"><did><unittitle>Roanoke, Va.</unittitle></did><c03 id="aspace_6d5e38752fd6c8feebd9f07e93617134" level="file"><did><unittitle>Papers</unittitle><unitdate normal="1942/1942" type="inclusive">1942</unitdate><unitdate normal="1946/1948" type="inclusive">1946-1948</unitdate><container label="Box" type="box">4</container></did></c03><c03 id="aspace_ef36c02f04990292e75f947b4ad17384" level="file"><did><unittitle>Annexation trial proceedings</unittitle><physdesc><extent>3 volumes</extent></physdesc><unitdate normal="1948/1948" type="inclusive">1948</unitdate><container label="Box" type="box">4</container></did></c03><c03 id="aspace_9d7f2f3e5dddc21887e076b7020f1589" level="file"><did><unittitle>Clippings</unittitle><unitdate normal="1948/1948" type="inclusive">1948</unitdate><container label="Box" type="box">4</container></did></c03></c02><c02 id="aspace_8abe125636b5d7f5ced751f48731409f" level="file"><did><unittitle>Wallingford, Conn.</unittitle><unitdate normal="1943/1943" type="inclusive">1943</unitdate><container label="Box" type="box">4</container></did></c02><c02 id="aspace_f62731f6e3f3a350fcf04f9bb0d98666" level="file"><did><unittitle>Petersburg, Va.</unittitle><unitdate normal="1943/1944" type="inclusive">1943-1944</unitdate><unitdate normal="1946/1948" type="inclusive">1946-1948</unitdate><container label="Box" type="box">4</container></did></c02><c02 id="aspace_7b3ca415dde1fe51836615f53a1bf1b1" level="file"><did><unittitle>Cincinnati, Ohio</unittitle></did><c03 id="aspace_f4ecc648c65354c08009b15c908d1a83" level="file"><did><unittitle>Papers</unittitle><unitdate normal="1943/1944" type="inclusive">1943-1944</unitdate><container label="Box" type="box">4</container></did></c03><c03 id="aspace_fdc3f5af8665c6299deffcdddbc06f18" level="file"><did><unittitle>Papers</unittitle><unitdate normal="1953/1953" type="inclusive">1953</unitdate><container label="Box" type="box">4</container></did></c03><c03 id="aspace_a4d3cd0a960505a90b8577256a9da3ea" level="file"><did><unittitle>Papers</unittitle><unitdate normal="1956/1957" type="inclusive">1956-1957</unitdate><container label="Box" type="box">4</container></did></c03></c02><c02 id="aspace_bf5bf7e4e61b9a37957fec6e03f24f3d" level="file"><did><unittitle>Litchfield, Conn.</unittitle><unitdate normal="1944/1944" type="inclusive">1944</unitdate><container label="Box" type="box">4</container></did></c02><c02 id="aspace_93203d3463087db0e15b58c1098683a2" level="file"><did><unittitle>Simsbury, Conn.</unittitle><unitdate normal="1945/1946" type="inclusive">1945-1946</unitdate><container label="Box" type="box">4</container></did></c02><c02 id="aspace_68891b38ade747d20d52ef83ae0e020e" level="file"><did><unittitle>Cleveland, Ohio</unittitle><unitdate normal="1945/1946" type="inclusive">1945-1946</unitdate><container label="Box" type="box">4</container></did></c02><c02 id="aspace_a8e33e5003fdd8249830358cf4693b78" level="file"><did><unittitle>Cleveland, Ohio Hospital</unittitle><unitdate normal="1948/1949" type="inclusive">1948-1949</unitdate><container label="Box" type="box">4</container></did></c02><c02 id="aspace_82938312ee87416ca9e909001f57de09" level="file"><did><unittitle>Augusta, Ga.</unittitle></did><c03 id="aspace_8e3b41e47facfc44f0e85deb481a8885" level="file"><did><unittitle>Papers</unittitle><physdesc><extent>3 folders</extent></physdesc><unitdate normal="1944/1948" type="inclusive">1944-1948</unitdate><container label="Box" type="box">4</container></did></c03><c03 id="aspace_bc85d27148ac844291c0d62943167e8d" level="file"><did><unittitle>Clippings</unittitle><unitdate normal="1943/1947" type="inclusive">1943-1947</unitdate><container label="Box" type="box">4</container></did></c03></c02><c02 id="aspace_d6e48a560b85a1d2b7673bb4fc110903" level="file"><did><unittitle>Bloomfield, Conn.</unittitle><unitdate normal="1945/1945" type="inclusive">1945</unitdate><container label="Box" type="box">5</container></did></c02><c02 id="aspace_fedfe69dc81380a467cdad0ae1e00ff7" level="file"><did><unittitle>Farmington, Conn.</unittitle><unitdate normal="1945/1945" type="inclusive">1945</unitdate><container label="Box" type="box">5</container></did></c02><c02 id="aspace_0e1c422932037c0f2987210f4cd36b29" level="file"><did><unittitle>Hartford, Conn.</unittitle><unitdate normal="1946/1946" type="inclusive">1946</unitdate><container label="Box" type="box">5</container></did></c02><c02 id="aspace_504c84bb862818045157c04f52d83092" level="file"><did><unittitle>Norwich, Conn.</unittitle><unitdate normal="1946/1946" type="inclusive">1946</unitdate><container label="Box" type="box">5</container></did></c02><c02 id="aspace_d8785bd9d7734ec14ccbc30c7cce3c1f" level="file"><did><unittitle>Southington, Conn.</unittitle><unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate><container label="Box" type="box">5</container></did></c02><c02 id="aspace_7083e17d374d73519877c1a77409e105" level="file"><did><unittitle>Tarrytown, N.Y.</unittitle></did><c03 id="aspace_0ca97877e8412494d69d7486f09a9da5" level="file"><did><unittitle>Papers</unittitle><unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate><container label="Box" type="box">5</container></did></c03><c03 id="aspace_1c057ab9cc0a79babe83c99a9ebb71d6" level="file"><did><unittitle>Clippings</unittitle><unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate><container label="Box" type="box">5</container></did></c03></c02><c02 id="aspace_d7e90dc7a3bec6f76a20f8d2c265ae1f" level="file"><did><unittitle>Baton Rouge, La.</unittitle></did><c03 id="aspace_a6198a419b044f2a40461da9de243f69" level="file"><did><unittitle>Papers</unittitle><physdesc><extent>2 folders</extent></physdesc><unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate><unitdate normal="1949/1950" type="inclusive">1949-1950</unitdate><unitdate normal="1956/1956" type="inclusive">1956</unitdate><container label="Box" type="box">5</container></did></c03><c03 id="aspace_91c0d44ee54e7f90317fbc864564b4f0" level="file"><did><unittitle>Clippings</unittitle><unitdate normal="1946/1947" type="inclusive">1946-1947</unitdate><container label="Box" type="box">5</container></did></c03></c02><c02 id="aspace_0c1eba0b4956c68763d28576ed836ef0" level="file"><did><unittitle>Wethersfield, Conn.</unittitle><unitdate normal="1947/1947" type="inclusive">1947</unitdate><container label="Box" type="box">5</container></did></c02><c02 id="aspace_0fa083225d37a745487cc2ea5647cb62" level="file"><did><unittitle>Ossining, Westchester Co., N.Y.</unittitle><unitdate normal="1947/1947" type="inclusive">1947</unitdate><container label="Box" type="box">5</container></did></c02><c02 id="aspace_ee1d3d2264f3a7b79211b8687ae8fa00" level="file"><did><unittitle>Minneapolis, Minn.</unittitle><physdesc><extent>2 folders</extent></physdesc><unitdate normal="1947/1947" type="inclusive">1947</unitdate><container label="Box" type="box">5</container></did></c02><c02 id="aspace_102801be9b871353e03fc1a859a3ac63" level="file"><did><unittitle>Hoboken, N.J.</unittitle><physdesc><extent>2 folders</extent></physdesc><unitdate normal="1947/1948" type="inclusive">1947-1948</unitdate><container label="Box" type="box">5</container></did></c02><c02 id="aspace_ae6ada80f14f8377b05f90a594c58c73" level="file"><did><unittitle>Front Royal, Va.</unittitle><unitdate normal="1948/1948" type="inclusive">1948</unitdate><container label="Box" type="box">5</container></did></c02><c02 id="aspace_90322a42fb1e3ec61dab2b6297010dcb" level="file"><did><unittitle>Hopewell, Va.</unittitle><unitdate normal="1948/1948" type="inclusive">1948</unitdate><container label="Box" type="box">5</container></did></c02><c02 id="aspace_b591179dfd7e9724a88ff927440dd717" level="file"><did><unittitle>Danville, Va.</unittitle></did><c03 id="aspace_1d4b3fbb8fb7932f8f01224e8350cc07" level="file"><did><unittitle>Papers</unittitle><unitdate normal="1948/1950" type="inclusive">1948-1950</unitdate><container label="Box" type="box">5</container></did></c03><c03 id="aspace_5ef3ac4781f79b0e72af79f96d45d978" level="file"><did><unittitle>Clippings</unittitle><unitdate normal="1948/1951" type="inclusive">1948-1951</unitdate><container label="Box" type="box">5</container></did></c03></c02><c02 id="aspace_7107a6bedf5f373dd9ab4159bf7683ec" level="file"><did><unittitle>Norfolk, Va.</unittitle></did><c03 id="aspace_fdc51996abc167ca0f1cf6f22d718e53" level="file"><did><unitdate normal="1947/1948" type="inclusive">1947-1948</unitdate><container label="Box" type="box">5</container></did></c03><c03 id="aspace_b4434740f20f5b4330aaa850df3da52c" level="file"><did><unitdate normal="1949/1950" type="inclusive">1949-1950</unitdate><container label="Box" type="box">5</container></did></c03><c03 id="aspace_d621b730ab0919872fea898a4edaa251" level="file"><did><unitdate normal="1951/1953" type="inclusive">1951-1953</unitdate><container label="Box" type="box">5</container></did></c03><c03 id="aspace_bae4a94aeced5aeaa26415d210e47797" level="file"><did><unittitle>Clippings</unittitle><unitdate normal="1948/1949" type="inclusive">1948-1949</unitdate><container label="Box" type="box">5</container></did></c03></c02><c02 id="aspace_c0419fb479f088cdaa414459474628b7" level="file"><did><unittitle>Shreveport, La.</unittitle><unitdate normal="1949/1950" type="inclusive">1949-1950</unitdate><container label="Box" type="box">5</container></did></c02><c02 id="aspace_e44ecd0a9d42d157b696756c5bf689b6" level="file"><did><unittitle>Durham, N.C.</unittitle><unitdate normal="1949/1950" type="inclusive">1949-1950</unitdate><container label="Box" type="box">6</container></did></c02><c02 id="aspace_911784d0edd8e119cfd576d4d0040348" level="file"><did><unittitle>Falls Church, Va.</unittitle><physdesc><extent>2 folders</extent></physdesc><unitdate normal="1949/1950" type="inclusive">1949-1950</unitdate><container label="Box" type="box">6</container></did></c02><c02 id="aspace_dd49cbfcd46bb91d5f0899b94be68bb6" level="file"><did><unittitle>New Britain, Conn.</unittitle><unitdate normal="1949/1950" type="inclusive">1949-1950</unitdate><container label="Box" type="box">6</container></did></c02><c02 id="aspace_5549f82495cbd4d202904bb5be589d01" level="file"><did><unittitle>Nashville, Tenn.</unittitle><unitdate normal="1951/1951" type="inclusive">1951</unitdate><container label="Box" type="box">6</container></did></c02><c02 id="aspace_5b962b95ae52e077618c31005a5e2b0a" level="file"><did><unittitle>Niagara Falls, N.Y.</unittitle><physdesc><extent>2 folders</extent></physdesc><unitdate normal="1953/1954" type="inclusive">1953-1954</unitdate><unitdate normal="1958/1958" type="inclusive">1958</unitdate><container label="Box" type="box">6</container></did></c02><c02 id="aspace_e78aa755ceb4d1800080d4a76915937b" level="file"><did><unittitle>Bayonne, N.J.</unittitle></did><c03 id="aspace_3699a452f8ac49d4873126097d236f10" level="file"><did><unittitle>Papers</unittitle><unitdate normal="1954/1954" type="inclusive">1954</unitdate><container label="Box" type="box">6</container></did></c03><c03 id="aspace_37af7d3f31316b86686eedc4f4a3e657" level="file"><did><unittitle>Report <title render="italic">The High Cost of Government in Bayonne</title></unittitle><physdesc><extent>1 volume</extent></physdesc><unitdate normal="1954/1954" type="inclusive">1954</unitdate><container label="Box" type="box">6</container></did></c03></c02><c02 id="aspace_9dc60a2dbfb10a34c05da845edae5861" level="file"><did><unittitle>Manchester, Conn</unittitle><unitdate normal="1955/1955" type="inclusive">1955</unitdate><container label="Box" type="box">6</container></did></c02><c02 id="aspace_9db672d04e0c5093121de90f1a415a80" level="file"><did><unittitle>Oregon (Legislative Interim Committee on Local Government)</unittitle><unitdate normal="1956/1956" type="inclusive">1956</unitdate><container label="Box" type="box">6</container></did></c02><c02 id="aspace_5c10e24c1c0406f7fd54b91cbba47f96" level="file"><did><unittitle>Charleston, S.C.</unittitle><unitdate normal="1956/1957" type="inclusive">1956-1957</unitdate><container label="Box" type="box">6</container></did></c02><c02 id="aspace_1772076f8b73b5ded27edabafca47f8c" level="file"><did><unittitle>Warwick, R.I.</unittitle><unitdate normal="1957/1957" type="inclusive">1957</unitdate><container label="Box" type="box">6</container></did></c02><c02 id="aspace_72063237e747b5fba1ceb072e455a540" level="file"><did><unittitle>Barrington, R.I.</unittitle><unitdate normal="1958/1958" type="inclusive">1958</unitdate><container label="Box" type="box">6</container></did></c02><c02 id="aspace_78e687608aa85fe3577894fcfbd5eaa9" level="file"><did><unittitle>Columbus, Ohio</unittitle></did><c03 id="aspace_b569019656b8ab7abbb1177ca23f50da" level="file"><did><unittitle>Papers</unittitle><physdesc><extent>2 folders</extent></physdesc><unitdate normal="1958/1959" type="inclusive">1958-1959</unitdate><container label="Box" type="box">6</container></did></c03><c03 id="aspace_252cd4bd0642d2f5838424582be23721" level="file"><did><unittitle>Clippings</unittitle><unitdate normal="1958/1959" type="inclusive">1958-1959</unitdate><container label="Box" type="box">6</container></did></c03></c02><c02 id="aspace_208fc835a6b86227e21fbc8b8851ad24" level="file"><did><unittitle>Norwalk, Conn.</unittitle><physdesc><extent>2 folders</extent></physdesc><unitdate normal="1959/1959" type="inclusive">1959</unitdate><container label="Box" type="box">6</container></did></c02><c02 id="aspace_b7e829e24f5c964dc6c0dd5e4681b2a4" level="file"><did><unittitle>Cedar Rapids, Iowa</unittitle><unitdate normal="1959/1959" type="inclusive">1959</unitdate><unitdate normal="1961/1961" type="inclusive">1961</unitdate><container label="Box" type="box">6</container></did></c02><c02 id="aspace_deb205d1866574677e1ec89cd2acd782" level="file"><did><unittitle>Cranston, R.I.</unittitle></did><c03 id="aspace_0416ae9c75703508a2c4e35aecc04c91" level="file"><did><unittitle>Papers</unittitle><unitdate normal="1960/1961" type="inclusive">1960-1961</unitdate><container label="Box" type="box">6</container></did></c03><c03 id="aspace_e247fd51f000c41457f0ac98b5574a7b" level="file"><did><unittitle>Clippings</unittitle><unitdate normal="1960/1962" type="inclusive">1960-1962</unitdate><container label="Box" type="box">6</container></did></c03></c02></c01><c01 id="aspace_85a23d6cbddee7179429298e72a54a80" level="series"><did><unittitle>Organizational files</unittitle></did><c02 id="aspace_8f4f615ce95d7c5414d77b04fca7dac6" level="file"><did><unittitle>Commission to Study Municipal Consolidation, Pa.</unittitle><unitdate normal="1928/1928" type="inclusive">1928</unitdate><container label="Box" type="box">6</container></did></c02><c02 id="aspace_02cc82d5dba2a36d5096ff5ac42d68df" level="file"><did><unittitle>Citizen's Metropolitan Committee of 1000 St. Louis, Mo.</unittitle></did><c03 id="aspace_5e0e9cdef7235459b60c886afc6057f0" level="file"><did><unittitle>Papers</unittitle><physdesc><extent>2 folders</extent></physdesc><unitdate normal="1929/1931" type="inclusive">1929-1931</unitdate><container label="Box" type="box">6</container></did></c03><c03 id="aspace_a68d97e632d06b10716970a6fe4e515a" level="file"><did><unittitle>Clippings</unittitle><unitdate normal="1929/1931" type="inclusive">1929-1931</unitdate><container label="Box" type="box">6</container></did></c03></c02><c02 id="aspace_db8d38bce73902856320ef88c08bd481" level="file"><did><unittitle>Michigan Tax Survey Committee</unittitle><physdesc><extent>2 folders</extent></physdesc><unitdate normal="1933/1933" type="inclusive">1933</unitdate><container label="Box" type="box">6</container></did></c02><c02 id="aspace_01af2f433b8b51878ea701cfb90026f1" level="file"><did><unittitle>Republican Party Program Committee</unittitle></did><c03 id="aspace_fce222d9d6b15b87ebff4f40c985411e" level="file"><did><unittitle>Reports</unittitle><physdesc><extent>4 folders</extent></physdesc><unitdate normal="1939/1939" type="inclusive">1939</unitdate><container label="Box" type="box">6</container></did></c03><c03 id="aspace_282f88ea5c42560ac126f5c0c4a92bed" level="file"><did><unittitle>Papers</unittitle><physdesc><extent>3 folders</extent></physdesc><unitdate normal="1938/1940" type="inclusive">1938-1940</unitdate><container label="Box" type="box">7</container></did></c03><c03 id="aspace_2043ce2730011c0dc3cc8d89de1ae24a" level="file"><did><unittitle>Reports and work plans</unittitle><physdesc><extent>5 volumes</extent></physdesc><unitdate normal="1938/1939" type="inclusive">1938-1939</unitdate><container label="Box" type="box">7</container></did></c03></c02><c02 id="aspace_ed88dd20853fc602635843014c8ec03a" level="file"><did><unittitle>No Third Term Association</unittitle><unitdate normal="1940/1940" type="inclusive">1940</unitdate><container label="Box" type="box">7</container></did></c02><c02 id="aspace_efa98256a101ea02cd9e2ed2380350e1" level="file"><did><unittitle>Citizenship Clearing House</unittitle></did><c03 id="aspace_d6a44fc0e80e00bc6b870d109f18f143" level="file"><did><unittitle>Papers</unittitle><physdesc><extent>4 folders</extent></physdesc><unitdate normal="1947/1954" type="inclusive">1947-1954</unitdate><container label="Box" type="box">7</container></did></c03><c03 id="aspace_6aca2b437b2dc3f16247791fb5575f75" level="file"><did><unittitle>Workshop on College Preparation for Politics</unittitle><unitdate normal="1952/1952" type="inclusive">1952</unitdate><container label="Box" type="box">7</container></did></c03></c02><c02 id="aspace_f8485928ea3df7bcdce96a1790f83cf9" level="file"><did><unittitle>Dartmouth College Conference on Industrial Parks, Hanover, New Hampshire</unittitle><unitdate normal="1958/1958" type="inclusive">1958</unitdate><container label="Box" type="box">7</container></did></c02><c02 id="aspace_f49d8f38586127d48038d47dfd33edfc" level="file"><did><unittitle>Murray Seasongood Good Government Fund Lectures</unittitle><physdesc><extent>2 folders</extent></physdesc><unitdate normal="1959/1965" type="inclusive">1959-1965</unitdate><container label="Box" type="box">7</container></did></c02></c01><c01 id="aspace_612c3740b9760e02cc08c93c7b010175" level="series"><did><unittitle>Miscellaneous</unittitle></did><c02 id="aspace_a2860dfea1841e3cad4eabfffcad681a" level="file"><did><unittitle>Reed Festschrift material</unittitle><physdesc><extent>2 folders</extent></physdesc><unitdate normal="1962/1964" type="inclusive">1962-1964</unitdate><container label="Box" type="box">8</container></did></c02><c02 id="aspace_8525f6b1bebce4860640b435e8ff8990" level="file"><did><unittitle>Book Reviews</unittitle><unitdate normal="1924/1938" type="inclusive">1924-1938</unitdate><container label="Box" type="box">8</container></did></c02><c02 id="aspace_6c482f3723d3678c4623026863836908" level="file"><did><unittitle>Articles for Banking, with correspondence</unittitle><unitdate normal="1936/1936" type="inclusive">1936</unitdate><unitdate normal="1940/1942" type="inclusive">1940-1942</unitdate><container label="Box" type="box">8</container></did></c02><c02 id="aspace_32196b71a6354455774e0996b31b24d0" level="file"><did><unittitle>Encyclopedia articles with correspondence</unittitle><unitdate normal="1945/1967" type="inclusive">1945-1967</unitdate><container label="Box" type="box">8</container></did></c02><c02 id="aspace_2924e057d800e0bb17095e3229863c13" level="file"><did><unittitle>Speeches and Lectures</unittitle><physdesc><extent>4 folders</extent></physdesc><unitdate normal="1928/1959" type="inclusive">1928-1959</unitdate><container label="Box" type="box">8</container></did></c02><c02 id="aspace_46ad0b939dff708432a9bdcb579fcec7" level="file"><did><unittitle>Writings and reports</unittitle><physdesc><extent>5 folders</extent></physdesc><container label="Box" type="box">8</container></did></c02><c02 id="aspace_7732d5ec5d836f53620479026375de63" level="file"><did><unittitle>Manuscript of book</unittitle><physdesc><extent>3 folders</extent></physdesc><container label="Box" type="box">8</container></did></c02><c02 id="aspace_fa34563e96a3c034b614cf7f92fbaf2d" level="file"><did><unittitle>Miscellanea</unittitle></did><c03 id="aspace_1ba0edfd4597e54d45a7ac26993b9371" level="file"><did><unittitle>Belgium related materials</unittitle><container label="Box" type="box">8</container></did></c03><c03 id="aspace_75bfd7f6c789ed121ab16d1cab64350a" level="file"><did><unittitle>Programs, invitations, agendas</unittitle><unitdate normal="1900/1961" type="inclusive">1900-1961</unitdate><container label="Box" type="box">8</container></did></c03><c03 id="aspace_9ddd582a1ce7b70525ac1fc2c6f2c26c" level="file"><did><unittitle>General</unittitle><physdesc><extent>2 folders</extent></physdesc><container label="Box" type="box">8</container></did></c03></c02><c02 id="aspace_89adbd4b5856b2f5b2310b0820dea3f2" level="file"><did><unittitle>Clippings</unittitle></did><c03 id="aspace_6e8bbc1dee8293d6eced0ec4313f301c" level="file"><did><unitdate normal="1918/1918" type="inclusive">1918</unitdate><unitdate certainty="approximate" normal="1920/1929" type="inclusive">1920s</unitdate><container label="Box" type="box">8</container></did></c03><c03 id="aspace_54b77d61963b92de7cbdd9f04aba2d1c" level="file"><did><unitdate certainty="approximate" normal="1930/1939" type="inclusive">1930s</unitdate><container label="Box" type="box">8</container></did></c03><c03 id="aspace_9d8631639881d800ef782307a7fd8eec" level="file"><did><unitdate certainty="approximate" normal="1940/1949" type="inclusive">1940s</unitdate><container label="Box" type="box">8</container></did></c03><c03 id="aspace_5374d40e0b073c6cdf4c837b4e703658" level="file"><did><unitdate normal="1942/1943" type="inclusive">1942-1943</unitdate><container label="Box" type="box">8</container></did><odd><p>(Wabash, Ind. and Houston, Texas)</p></odd></c03><c03 id="aspace_2cff149c2d9426b4fe39893b70231785" level="file"><did><unitdate normal="1948/1948" type="inclusive">1948</unitdate><container label="Box" type="box">8</container></did><odd><p>(Tampa, Fla.)</p></odd></c03><c03 id="aspace_ed970ba27e3a2e8633dee1b4535a9577" level="file"><did><unitdate certainty="approximate" normal="1950/1959" type="inclusive">1950s</unitdate><unitdate certainty="approximate" normal="1960/1969" type="inclusive">1960s</unitdate><container label="Box" type="box">8</container></did></c03></c02><c02 id="aspace_7fe8dbe4c28530a8a0d0ebb6e4a03567" level="file"><did><unittitle>Printed material</unittitle><physdesc><extent>3 folders</extent></physdesc><container label="Box" type="box">8</container></did></c02></c01><c01 id="aspace_da1f238b61bd513835dc4a5f66ee37bd" level="series"><did><unittitle><genreform normal="Photographs" source="aat">Photographs</genreform></unittitle></did><c02 id="aspace_7ab4a08ea66cc88ad1d15baf5b95198f" level="file"><did><unittitle>Photo of Reed speaking before unidentified group (with band in foreground)</unittitle><container label="Box" type="box">8</container></did></c02></c01></dsc>
+  <descgrp type="add">
+    <index id="aspace_451564adbfda36ac1ce5bf2cddfc3572">
+      <head>Selective Index to Correspondents</head>
+      <indexentry>
+        <persname>Allin, Cephas Daniel, 1875-1927.</persname>
+        <ref>
+          <list type="simple">
+            <item>Mar. 27, 1924; Oct. 13, 1924; Oct. 11, 1924; June 30, 1926; Aug. 2, 1926; July 12, 1926; Jan. 28, 1927; Jan. 27, 1927; Jan. 24, 1927; Apr. 30, 1927; May 2, 1927</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Atwood, Albert William, 1879-1975.</persname>
+        <ref>
+          <list type="simple">
+            <item>Undated; Aug. 20, 1928; Aug. 5, 1928; Dec. 6, 1930; Aug. 13, 1930; Jan. 2, 1931</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Barrows, David Prescott, 1873-</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 19, 1913; Nov. 29, 1916; July 10, 1916; July 15, 1916; Aug. 25, 1917; Oct. 10, 1917; July 6, 1921; Nov. 28, 1924; Nov. 29, 1924; 1925 throughout; June 21, 1927; July 29, 1927; Aug. 26, 1931; Jan. 27, 1932</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Beard, Charles Austin, 1874-1948.</persname>
+        <ref>
+          <list type="simple">
+            <item>Undated; Jan. 13, 1925; Oct. 6, 1926; Oct. 12, 1926; Dec. 18, 1926; Mar. 27, 1929; 1930?; Jan. 9, 1931; Feb. 1, 1931; Feb. 4, 1931; Feb. 6, 1931; Feb. 12, 1931; Nov. 14, 1931; Feb. 10, 1932; May 2, 1932; May 11, 1932; Jan. 8, 1932; Aug. 30, 1932; Sept. 2, 1932; Sept. 6, 1932; Sept. 29, 1932; Oct. 8, 1932; Oct. 25, 1932; July 30, 1932</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Bromage, Arthur W. (Arthur Watson), 1904-1979.</persname>
+        <ref>
+          <list type="simple">
+            <item>1929, throughout; July 27, 1930; Nov. 10, 1959</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Brownlow, Louis, b. 1879.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 31, 1924; Oct. 28, 1924; Oct. 2, 1924; Mar. 6, 1931; Mar. 4, 1931; Mar. 3, 1931; May 19, 1931; May 20, 1931; Sept. 24, 1931; Oct. 12, 1932; July 7, 1933; July 26, 1933; July 5, 1933</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>China</persname>
+        <ref>
+          <list type="simple">
+            <item>See letters, Apr. 7 and Sept. 24, 1933.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Crane, Robert Treat, b. 1880.</persname>
+        <ref>
+          <list type="simple">
+            <item>July 5, 1922; July 26, 1922; July 3, 1923; June 28, 1923; Aug. 2, 1924; June 6, 1925; Apr. 22, 1927</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Fairlie, John A. (John Archibald), 1872-1947.</persname>
+        <ref>
+          <list type="simple">
+            <item>Mar. 9, 1925; Mar. 7, 1925; Feb. 2, 1925; Dec. 15, 1928; Oct. 31, 1928; Oct. 9, 1928; Oct. 10, 1928; July 19, 1931</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Foster, William Trufant, 1879-1950.</persname>
+        <ref>
+          <list type="simple">
+            <item>Mar. 10, 1924; Mar. 11, 1925; Mar. 3, 1925; Oct. 7, 1925; May 25, 1926; Oct. 6, 1931; Dec. 21, 1931</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hayden, Joseph Ralston, 1887-1945.</persname>
+        <ref>
+          <list type="simple">
+            <item>See letter July 1, 1923, of Maximo M. Kolar to Jesse S. Reeves concerning Joseph Ralston Hayden and the Philippine Islands.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Hoover, Herbert, 1874-1964.</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 23, 1921; Aug. 28, 1926</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Japanese--California</persname>
+        <ref>
+          <list type="simple">
+            <item>See letter Oct. 10, 1922, to Laura Mae Faville concerning the condition of Japanese citizens in California.</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Lowell, A. Lawrence (Abbott Lawrence), 1856-1943.</persname>
+        <ref>
+          <list type="simple">
+            <item>Dec. 17, 1902; May 10, 1907; May 6, 1908; Nov. 20, 1908; Nov. 27, 1908; Jan. 15, 1909; July 1, 1924; Nov. 20, 1924; Jan. 12, 1926; Jan. 18, 1926; Jan. 7, 1927; Oct. 3, 1931; Oct. 5, 1931</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Malone, Dudley Field, 1882-1950.</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 18, 1928; Jan. 17, 1928</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Merriam, Charles Edward, 1874-1953</persname>
+        <ref>
+          <list type="simple">
+            <item>Jan. 10, 1924; Dec. 3, 1924; 1925 throughout; Feb. 28, 1927; Nov. 30, 1927; Dec. 2, 1927; Dec. 5, 1927; Dec. 13, 1927; Dec. 3, 1927; Nov. 30, 1927; Dec. 21, 1927; Nov. 22, 1927; Jan. 12, 1928; Jan. 9, 1928; Jan. 7, 1928; Dec. 18, 1928; Dec. 5, 1928; Nov. 23, 1928; Nov. 21, 1928; Mar. 3, 1931; Apr. 29, 1931; Apr. 11, 1931; May 19, 1932; Mar. 5, 1932; Jan. 4, 1932; June 28, 1933</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Munro, William Bennett, 1875-1957.</persname>
+        <ref>
+          <list type="simple">
+            <item>Undated; June 2, 1924; Oct. 2, 1925; Aug. 24, 1926; Sept. 28, 1926; Sept. 30, 1926; Oct. 26, 1926; 1927 throughout; Jan. 7, 1928; Jan. 12, 1928; Oct. 31, 1928; Nov. 28, 1928; Dec. 8, 1928; Dec. 10, 1928; Dec. 17, 1928; Jan. 9, 1929; Jan. 16, 1929; Mar. 18, 1929; Mar. 28, 1929; Oct. 23, 1951</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Ogg, Frederic Austin, 1878-1951.</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 11, 1921; Aug. 6, 1921; Nov. 7, 1921; Nov. 26, 1921; Apr. 6, 1925; Feb. 25, 1927; June 4, 1927; May 5, 1927; Jan. 11, 1928; Jan. 5, 1928; Apr. 9, 1931; Apr. 23, 1931; June 19, 1933; Oct. 17, 1940</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Putnam, George Haven, 1844-1930.</persname>
+        <ref>
+          <list type="simple">
+            <item>Feb. 7, 1914</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Reeves, Jesse Siddall, 1872-</persname>
+        <ref>
+          <list type="simple">
+            <item>July 22, 1921; July 11, 1922; Aug. 19, 1922; Feb. 13, 1922; July 1, 1923; Feb. 16, 1924; Mar. 3, 1924; Aug. 22, 1925; May 13, 1926; Nov. 21, 1933; Jan. 29, 1936</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Shattuck, Henry Lee, 1879-1971.</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 23, 1924; Oct. 3, 1924; Dec. 17, 1924; Nov. 19, 1924; Nov. 14, 1924; Nov. 2, 1924; Dec. 19, 1924; June 28, 1926; Aug. 9, 1926; July 6, 1926; Feb. 21, 1927; Mar. 4, 1927; Feb. 25, 1927</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Shurtleff, Flavel, 1879-</persname>
+        <ref>
+          <list type="simple">
+            <item>Sept. 15, 1924; Sept. 9, 1924; Dec. 23, 1924; Dec. 18, 1924; 1925 throughout; Apr. 28, 1933</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Smith, Harold Dewey, 1898-1947.</persname>
+        <ref>
+          <list type="simple">
+            <item>Oct. 12, 1924; Oct. 11, 1927; Oct. 17, 1927; Oct. 25, 1927; Oct. 29, 1927</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Teggart, Frederick John, 1870-1946.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 8, 1924; May 16, 1924</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Upson, Lent Dayton, 1886-1949.</persname>
+        <ref>
+          <list type="simple">
+            <item>Aug. 2, 1922; Oct. 12, 1924; Oct. 28, 1926; Oct. 23, 1926; Mar. 10, 1927; July 8, 1927</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Vandenberg, Arthur H. (Arthur Hendrick), 1884-1951.</persname>
+        <ref>
+          <list type="simple">
+            <item>May 4, 1929; Oct. 31, 1932</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>Vanderbilt, Arthur T., 1888-1957.</persname>
+        <ref>
+          <list type="simple">
+            <item>Nov. 8, 1938; Jan. 23, 1939; Nov. 6, 1939; Dec. 13, 1939; Dec. 20, 1940; 1941 throughout; Oct. 13, 1942; 1943 throughout; 1944 throughout; 1945 throughout; 1947 throughout; 1948 throughout; 1949 throughout; 1950 throughout; Nov. 21, 1951; 1952 throughout; Feb. 20, 1953</item>
+          </list>
+        </ref>
+      </indexentry>
+      <indexentry>
+        <persname>White, Leonard Dupee, 1891-1958.</persname>
+        <ref>
+          <list type="simple">
+            <item>1925 throughout; 1926 throughout; Mar. 1929</item>
+          </list>
+        </ref>
+      </indexentry>
+    </index>
+  </descgrp>
+</archdesc>
+</ead>
